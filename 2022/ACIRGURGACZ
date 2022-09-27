@@ -1,4 +1,5 @@
-[{"ano":"2022", "mes":"1", "senador":"ACIR GURGACZ", "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", 
+{
+    "gastosSenador": [{"ano":"2022", "mes":"1", "senador":"ACIR GURGACZ", "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", 
                     "cnpjCpf":"004.948.028-63", "fornecedor":"GILBERTO PISELO DO NASCIMENTO", "documento":"001/22", 
                     "data":"03/01/2022", "detalhamento":"Despesa com pagamento de aluguel de imóvel para uso do escritório político do Senador Acir Gurgacz em Ji-Paraná/RO.", "valorReembolsado":"6000", 
                     "codDocumento":"2173614"}, {"ano":"2022", "mes":"1", "senador":"ACIR GURGACZ", "tipoDespesa":"Divulgação da atividade parlamentar", 
@@ -268,4 +269,6 @@
                     "codDocumento":"2186196"}, {"ano":"2022", "mes":"9", "senador":"ACIR GURGACZ", "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", 
                     "cnpjCpf":"004.948.028-63", "fornecedor":"GILBERTO PISELO DO NASCIMENTO", "documento":"009/22", 
                     "data":"01/09/2022", "detalhamento":"Despesa com aluguel de imóvel para uso do escritório político do Senador Acir Gurgacz", "valorReembolsado":"6000", 
-                    "codDocumento":"2186200"}]
+                    "codDocumento":"2186200"}
+                    ]
+                    }
