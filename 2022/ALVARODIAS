@@ -1,4 +1,5 @@
-[{"ano":"2022", "mes":"3", "senador":"ALVARO DIAS", "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", 
+{
+    "gastosSenador": [{"ano":"2022", "mes":"3", "senador":"ALVARO DIAS", "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", 
                     "cnpjCpf":"81.071.623/0008-23", "fornecedor":"Deville Hoteis e Turismo LTDA", "documento":"235309", 
                     "data":"07/03/2022", "detalhamento":"", "valorReembolsado":"661,05", 
                     "codDocumento":"2175758"}, {"ano":"2022", "mes":"3", "senador":"ALVARO DIAS", "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", 
@@ -79,4 +80,4 @@
                     "codDocumento":"2185477"}, {"ano":"2022", "mes":"8", "senador":"ALVARO DIAS", "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", 
                     "cnpjCpf":"16.978.175/0001-08", "fornecedor":"Ádria Viagens e Turismo", "documento":"MPQPWG", 
                     "data":"04/08/2022", "detalhamento":"Companhia Aérea: LATAM, Localizador: MPQPWG. Passageiros: ALVARO FERNANDES DIAS (Matrícula 148055, PARLAMENTAR), Voo: 3725 - CURITIBA - BRASÍLIA - 07/08/2022;", "valorReembolsado":"2493,11", 
-                    "codDocumento":"2185066"}]
+                    "codDocumento":"2185066"}]}
