@@ -1,4 +1,5 @@
-[{"ano":"2022", "mes":"1", "senador":"ANTONIO ANASTASIA", "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", 
+{
+    "gastosSenador": [{"ano":"2022", "mes":"1", "senador":"ANTONIO ANASTASIA", "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", 
                     "cnpjCpf":"06.981.180/0001-16", "fornecedor":"Cemig Distribuição S.A", "documento":"356838909", 
                     "data":"03/01/2022", "detalhamento":"", "valorReembolsado":"319,44", 
                     "codDocumento":"2173072"}, {"ano":"2022", "mes":"1", "senador":"ANTONIO ANASTASIA", "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", 
@@ -52,4 +53,4 @@
                     "codDocumento":"2173490"}, {"ano":"2022", "mes":"2", "senador":"ANTONIO ANASTASIA", "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", 
                     "cnpjCpf":"06.981.180/0001-16", "fornecedor":"Cemig Distribuição S.A", "documento":"364475243", 
                     "data":"01/02/2022", "detalhamento":"", "valorReembolsado":"410,87", 
-                    "codDocumento":"2174837"}]
+                    "codDocumento":"2174837"}]}
