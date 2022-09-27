@@ -1,4 +1,5 @@
-[{"ano":"2022", "mes":"1", "senador":"ALESSANDRO VIEIRA", "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", 
+{
+    "gastosSenador": [{"ano":"2022", "mes":"1", "senador":"ALESSANDRO VIEIRA", "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", 
                     "cnpjCpf":"28.839.939/0001-63", "fornecedor":"CASA DESIGN SERVICOS DE APOIO ADMINISTRATIVO LTDA", "documento":"1253", 
                     "data":"04/01/2022", "detalhamento":"", "valorReembolsado":"500", 
                     "codDocumento":"2175348"}, {"ano":"2022", "mes":"1", "senador":"ALESSANDRO VIEIRA", "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", 
@@ -433,4 +434,4 @@
                     "codDocumento":"2186080"}, {"ano":"2022", "mes":"8", "senador":"ALESSANDRO VIEIRA", "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", 
                     "cnpjCpf":"39.827.859/0001-04", "fornecedor":"MM TOUR", "documento":"JBAPBM", 
                     "data":"13/08/2022", "detalhamento":"Companhia Aérea: TAM, Localizador: JBAPBM. Passageiros: ALESSANDRO VIEIRA (Matrícula 341487, PARLAMENTAR), Voo: 3700 - BSB - AJU - 16/08/2022; ALESSANDRO VIEIRA (Matrícula 341487, PARLAMENTAR), Voo: 3701 - AJU - BSB - 16/08/2022;", "valorReembolsado":"8350,51", 
-                    "codDocumento":"2186076"}]
+                    "codDocumento":"2186076"}]}
