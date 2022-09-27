@@ -1,4 +1,5 @@
-[{"ano":"2022", "mes":"2", "senador":"ALEXANDRE SILVEIRA", "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", 
+{
+    "gastosSenador": [{"ano":"2022", "mes":"2", "senador":"ALEXANDRE SILVEIRA", "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", 
                     "cnpjCpf":"40.432.544/0112-62", "fornecedor":"CLARO S.A", "documento":"2203901731016", 
                     "data":"03/03/2022", "detalhamento":"", "valorReembolsado":"376,5", 
                     "codDocumento":"2175963"}, {"ano":"2022", "mes":"2", "senador":"ALEXANDRE SILVEIRA", "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", 
@@ -478,4 +479,4 @@
                     "codDocumento":"2185273"}, {"ano":"2022", "mes":"7", "senador":"ALEXANDRE SILVEIRA", "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", 
                     "cnpjCpf":"41.214.699/0001-70", "fornecedor":"SAO LUIS COMBUSTIVEIS LTDA", "documento":"119852", 
                     "data":"04/07/2022", "detalhamento":"", "valorReembolsado":"250", 
-                    "codDocumento":"2185271"}]
+                    "codDocumento":"2185271"}]}
