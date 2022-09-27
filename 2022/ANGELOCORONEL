@@ -1,4 +1,5 @@
-[{"ano":"2022", "mes":"1", "senador":"ANGELO CORONEL", "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", 
+{
+    "gastosSenador": [{"ano":"2022", "mes":"1", "senador":"ANGELO CORONEL", "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", 
                     "cnpjCpf":"66.970.229/0263-95", "fornecedor":"Claro S.A + Net", "documento":"0000913008", 
                     "data":"22/01/2022", "detalhamento":"Internet - Claro/NET", "valorReembolsado":"197,59", 
                     "codDocumento":"2174625"}, {"ano":"2022", "mes":"1", "senador":"ANGELO CORONEL", "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", 
@@ -265,4 +266,4 @@
                     "codDocumento":"2185604"}, {"ano":"2022", "mes":"8", "senador":"ANGELO CORONEL", "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", 
                     "cnpjCpf":"12.120.914/0001-75", "fornecedor":"OPEN AIR TRAVEL", "documento":"XTBIKI", 
                     "data":"26/08/2022", "detalhamento":"Companhia Aérea: LATAM, Localizador: XTBIKI. Passageiros: ANGELO MÁRIO CORONEL DE AZEVEDO MARTINS (Matrícula 341177, PARLAMENTAR), Voo: 3008 - CGH-BSB - 30/08/2022;", "valorReembolsado":"2867,64", 
-                    "codDocumento":"2186260"}]
+                    "codDocumento":"2186260"}]}
