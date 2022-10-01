@@ -1,0 +1,13 @@
+{"gastosSenador": [{"ano":"2022", "mes":"2", "senador":"EDUARDO GIRÃO", "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", 
+                    "cnpjCpf":"16.978.175/0001-08", "fornecedor":"Adria Viagens e Turismo LTDA", "documento":"CKIPEU", 
+                    "data":"18/02/2022", "detalhamento":"Companhia Aérea: LATAM, Localizador: CKIPEU. Passageiros: LUIS EDUARDO GRANGEIRO GIRÃO (Matrícula 341335, PARLAMENTAR), Voo: 4717 - BSB-FOR - 24/02/2022;", "valorReembolsado":"1373,79", 
+                    "codDocumento":"2179181"}, {"ano":"2022", "mes":"3", "senador":"EDUARDO GIRÃO", "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", 
+                    "cnpjCpf":"16.978.175/0001-08", "fornecedor":"Adria Viagens e Turismo LTDA", "documento":"UTOCUQ", 
+                    "data":"24/03/2022", "detalhamento":"Companhia Aérea: LATAM, Localizador: UTOCUQ. Passageiros: LUIS EDUARDO GRANGEIRO GIRÃO (Matrícula 341335, PARLAMENTAR), Voo: 3412 - BSB-FOR - 25/03/2022;", "valorReembolsado":"3306,77", 
+                    "codDocumento":"2179182"}, {"ano":"2022", "mes":"3", "senador":"EDUARDO GIRÃO", "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", 
+                    "cnpjCpf":"16.978.175/0001-08", "fornecedor":"Adria Viagens e Turismo LTDA", "documento":"ZHXVTB", 
+                    "data":"26/03/2022", "detalhamento":"Companhia Aérea: LATAM, Localizador: ZHXVTB. Passageiros: LUIS EDUARDO GRANGEIRO GIRÃO (Matrícula 341335, PARLAMENTAR), Voo: 3729 - FOR-BSB - 27/03/2022;", "valorReembolsado":"2918,08", 
+                    "codDocumento":"2179183"}, {"ano":"2022", "mes":"4", "senador":"EDUARDO GIRÃO", "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", 
+                    "cnpjCpf":"16.978.175/0001-08", "fornecedor":"Adria Viagens e Turismo LTDA", "documento":"DBDKCQ", 
+                    "data":"08/04/2022", "detalhamento":"Companhia Aérea: LATAM, Localizador: DBDKCQ. Passageiros: LUIS EDUARDO GRANGEIRO GIRÃO (Matrícula 341335, PARLAMENTAR), Voo: 3729 - FOR-BSB - 12/04/2022;", "valorReembolsado":"2451,67", 
+                    "codDocumento":"2179184"}]
