@@ -1,0 +1,7 @@
+{"gastosSenador": [{"ano":"2019", "mes":"1", "senador":"EDISON LOBÃO", "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", 
+                    "cnpjCpf":"146.681.063-72", "fornecedor":"THERESA DE MARIA VILAS BOAS SANTOS", "documento":"Não foi informado", 
+                    "data":"30/01/2019", "detalhamento":"Referente ao aluguel do Escritório de Apoio.", "valorReembolsado":"12396,6", 
+                    "codDocumento":"2114068"}, {"ano":"2019", "mes":"1", "senador":"EDISON LOBÃO", "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", 
+                    "cnpjCpf":"10.892.795/0001-43", "fornecedor":"ESCUTEC - PESQUISA DE MERCADO E OPINIÃO PÚBLICA LTDA", "documento":"00000400", 
+                    "data":"15/01/2019", "detalhamento":"Pesquisa.", "valorReembolsado":"25000", 
+                    "codDocumento":"2113537"}]
