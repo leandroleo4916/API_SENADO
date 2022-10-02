@@ -1,0 +1,10 @@
+{"gastosSenador": [{"ano":"2019", "mes":"1", "senador":"HÉLIO JOSÉ", "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", 
+                    "cnpjCpf":"22.969.490/0001-71", "fornecedor":"HEITOR DE SOUZA SOARES 01468649132", "documento":"72", 
+                    "data":"02/01/2019", "detalhamento":"Não foi informado", "valorReembolsado":"10200", 
+                    "codDocumento":"2112935"}, {"ano":"2019", "mes":"1", "senador":"HÉLIO JOSÉ", "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", 
+                    "cnpjCpf":"31.017.930/0001-81", "fornecedor":"JAQUELINE HUSNI DOS SANTOS", "documento":"001157212", 
+                    "data":"02/01/2019", "detalhamento":"Não foi informado", "valorReembolsado":"6050", 
+                    "codDocumento":"2112936"}, {"ano":"2019", "mes":"1", "senador":"HÉLIO JOSÉ", "tipoDespesa":"Divulgação da atividade parlamentar", 
+                    "cnpjCpf":"30.787.342/0001-64", "fornecedor":"N. L. De Aguiar", "documento":"155", 
+                    "data":"30/01/2019", "detalhamento":"Não foi informado", "valorReembolsado":"4600", 
+                    "codDocumento":"2114144"}]}
