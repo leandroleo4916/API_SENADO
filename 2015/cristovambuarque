@@ -1,0 +1,10 @@
+{"gastosSenador": [{"ano":"2015", "mes":"9", "senador":"CRISTOVAM BUARQUE", "tipoDespesa":"Divulgação da atividade parlamentar", 
+                    "cnpjCpf":"15.821.560/0001-84", "fornecedor":"COIMBRA NUNES - JOÃO ARTHUR NUNES FERNANDES GOMES ASSESSORIA EMPRESARIAL", "documento":"0079", 
+                    "data":"23/09/2015", "detalhamento":"DESENVOLVIMENTO DE SERVIÇO DE ASSESSORIA EM COMUNICAÇÃO SOCIAL PARA DIVULGAÇÃO DAS ATIVIDADES PARLAMENTARES.", "valorReembolsado":"3800", 
+                    "codDocumento":"2019131"}, {"ano":"2015", "mes":"10", "senador":"CRISTOVAM BUARQUE", "tipoDespesa":"Divulgação da atividade parlamentar", 
+                    "cnpjCpf":"15.821.560/0001-84", "fornecedor":"COIMBRA NUNES - JOÃO ARTHUR NUNES FERNANDES GOMES ASSESSORIA EMPRESARIAL", "documento":"0084", 
+                    "data":"19/10/2015", "detalhamento":"Assessoria de Comunicação Social para divulgação das atividades parlamentares.", "valorReembolsado":"3800", 
+                    "codDocumento":"2021228"}, {"ano":"2015", "mes":"12", "senador":"CRISTOVAM BUARQUE", "tipoDespesa":"Divulgação da atividade parlamentar", 
+                    "cnpjCpf":"15.821.560/0001-84", "fornecedor":"COIMBRA NUNES - JOÃO ARTHUR NUNES FERNANDES GOMES ASSESSORIA EMPRESARIAL", "documento":"0092", 
+                    "data":"02/12/2015", "detalhamento":"ASSESSORIA DE COMUNICAÇÃO SOCIAL PARA DIVULGAÇÃO DAS ATIVIDADES PARLAMENTARES", "valorReembolsado":"3800", 
+                    "codDocumento":"2025618"}]}

@@ -1,0 +1,13 @@
+{"gastosSenador": [{"ano":"2015", "mes":"1", "senador":"CÍCERO LUCENA", "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", 
+                    "cnpjCpf":"12.675.054/0003-06", "fornecedor":"Locadora de Veículos Beto Rent a Car", "documento":"Não foi informado", 
+                    "data":"03/02/2015", "detalhamento":"Aluguel do veículo tipo KIA/SORENTO EX 2.3, ano 2012/2012, placa OEZ 1146-PB", "valorReembolsado":"8500", 
+                    "codDocumento":"2001578"}, {"ano":"2015", "mes":"1", "senador":"CÍCERO LUCENA", "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", 
+                    "cnpjCpf":"02.575.829/0001-48", "fornecedor":"OCEANAIR LINHAS AÉREAS S/A", "documento":"YR2VAC", 
+                    "data":"30/01/2015", "detalhamento":"BRASILIA/JPA 30/01/2015", "valorReembolsado":"729,03", 
+                    "codDocumento":"2000095"}, {"ano":"2015", "mes":"1", "senador":"CÍCERO LUCENA", "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", 
+                    "cnpjCpf":"02.012.862/0001-60", "fornecedor":"TAM LINHAS AÉREAS", "documento":"8P8T6D", 
+                    "data":"05/01/2015", "detalhamento":"JPA/SP/JPA 05/01 E 10/01/2015", "valorReembolsado":"1918,98", 
+                    "codDocumento":"2000089"}, {"ano":"2015", "mes":"1", "senador":"CÍCERO LUCENA", "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", 
+                    "cnpjCpf":"02.012.862/0001-60", "fornecedor":"TAM LINHAS AÉREAS", "documento":"7YXFUF.", 
+                    "data":"12/01/2015", "detalhamento":"JPA/BRASILIA 12/01/2015 E BRASILIA/JPA 16/01/2015", "valorReembolsado":"620", 
+                    "codDocumento":"2000094"}]}
