@@ -1,0 +1,13 @@
+{"gastosSenador": [{"ano":"2022", "mes":"8", "senador":"GUARACY SILVEIRA", "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", 
+                    "cnpjCpf":"26.327.178/0001-35", "fornecedor":"BRITO & QUADROS AGENCIA DE VIAGENS E TURISMO LTDA - ME", "documento":"TWJKLE", 
+                    "data":"21/08/2022", "detalhamento":"Companhia Aérea: GOL, Localizador: TWJKLE. Passageiros: GUARACY BATISTA DA SILVEIRA (Matrícula 301544, PARLAMENTAR), Voo: 1669 - BELÉM / BRASÍLIA - 22/08/2022;", "valorReembolsado":"2310,35", 
+                    "codDocumento":"2187094"}, {"ano":"2022", "mes":"8", "senador":"GUARACY SILVEIRA", "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", 
+                    "cnpjCpf":"26.327.178/0001-35", "fornecedor":"BRITO & QUADROS AGENCIA DE VIAGENS E TURISMO LTDA - ME", "documento":"CUUETB", 
+                    "data":"25/08/2022", "detalhamento":"Companhia Aérea: GOL, Localizador: CUUETB. Passageiros: GUARACY BATISTA DA SILVEIRA (Matrícula 301544, PARLAMENTAR), Voo: 1706 - BRASÍLIA / CAMPINAS - 26/08/2022;", "valorReembolsado":"2469,07", 
+                    "codDocumento":"2187090"}, {"ano":"2022", "mes":"8", "senador":"GUARACY SILVEIRA", "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", 
+                    "cnpjCpf":"26.327.178/0001-35", "fornecedor":"BRITO & QUADROS AGENCIA DE VIAGENS E TURISMO LTDA - ME", "documento":"MEADKL", 
+                    "data":"28/08/2022", "detalhamento":"Companhia Aérea: LATAM, Localizador: MEADKL. Passageiros: GUARACY BATISTA DA SILVEIRA (Matrícula 301544, PARLAMENTAR), Voo: 3264 - SÃO PAULO / BRASÍLIA - 28/08/2022;", "valorReembolsado":"1484,21", 
+                    "codDocumento":"2187087"}, {"ano":"2022", "mes":"9", "senador":"GUARACY SILVEIRA", "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", 
+                    "cnpjCpf":"26.327.178/0001-35", "fornecedor":"BRITO & QUADROS AGENCIA DE VIAGENS E TURISMO LTDA - ME", "documento":"TSHTWM", 
+                    "data":"03/09/2022", "detalhamento":"Companhia Aérea: LATAM, Localizador: TSHTWM. Passageiros: GUARACY BATISTA DA SILVEIRA (Matrícula 301544, PARLAMENTAR), Voo: 3405 - BELÉM / BRASÍLIA - 08/09/2022;", "valorReembolsado":"776,8", 
+                    "codDocumento":"2187086"}]}
