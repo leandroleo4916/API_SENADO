@@ -1,0 +1,13 @@
+{"gastosSenador": [{"ano":"2015", "mes":"1", "senador":"MARCO ANTÔNIO COSTA", "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", 
+                    "cnpjCpf":"04.020.028/0016-28", "fornecedor":"GOL VRG LINHAS AÉREAS S/A", "documento":"QLL4WH", 
+                    "data":"05/01/2015", "detalhamento":"Não foi informado", "valorReembolsado":"549,85", 
+                    "codDocumento":"2000067"}, {"ano":"2015", "mes":"1", "senador":"MARCO ANTÔNIO COSTA", "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", 
+                    "cnpjCpf":"04.020.028/0016-28", "fornecedor":"GOL VRG LINHAS AÉREAS S/A", "documento":"GIKQWA", 
+                    "data":"11/01/2015", "detalhamento":"Não foi informado", "valorReembolsado":"610,93", 
+                    "codDocumento":"2000068"}, {"ano":"2015", "mes":"1", "senador":"MARCO ANTÔNIO COSTA", "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", 
+                    "cnpjCpf":"04.020.028/0016-28", "fornecedor":"GOL VRG LINHAS AÉREAS S/A", "documento":"DBUMJS", 
+                    "data":"21/01/2015", "detalhamento":"Não foi informado", "valorReembolsado":"730,12", 
+                    "codDocumento":"2000069"}, {"ano":"2015", "mes":"1", "senador":"MARCO ANTÔNIO COSTA", "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", 
+                    "cnpjCpf":"02.012.862/0026-18", "fornecedor":"TAM LINHAS AÉREAS S/A", "documento":"X6IKSH E X90RWK", 
+                    "data":"20/01/2015", "detalhamento":"Não foi informado", "valorReembolsado":"855,65", 
+                    "codDocumento":"2000065"}]
