@@ -1,0 +1,10 @@
+{"gastosSenador": [{"ano":"2016", "mes":"9", "senador":"GILBERTO PISELO", "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", 
+                    "cnpjCpf":"63.764.211/0001-10", "fornecedor":"TRANSCONTINENTAL AGÊNCIA DE VIAGENS", "documento":"VH428H", 
+                    "data":"08/09/2016", "detalhamento":"Companhia Aérea: AZUL, Localizador: VH428H. Passageiros: GILBERTO PISELO DO NASCIMENTO (Matrícula 318258, PARLAMENTAR), Voo: 2680 - CGBOAL - 09/09/2016;", "valorReembolsado":"71,45", 
+                    "codDocumento":"2048273"}, {"ano":"2016", "mes":"9", "senador":"GILBERTO PISELO", "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", 
+                    "cnpjCpf":"63.764.211/0001-10", "fornecedor":"TRANSCONTINENTAL AGÊNCIA DE VIAGENS", "documento":"BJB3WD", 
+                    "data":"08/09/2016", "detalhamento":"Companhia Aérea: GOL, Localizador: BJB3WD. Passageiros: GILBERTO PISELO DO NASCIMENTO (Matrícula 318258, PARLAMENTAR), Voo: 1714 - BSBCGB - 09/09/2016;", "valorReembolsado":"995,68", 
+                    "codDocumento":"2048271"}, {"ano":"2016", "mes":"9", "senador":"GILBERTO PISELO", "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", 
+                    "cnpjCpf":"63.764.211/0001-10", "fornecedor":"TRANSCONTINENTAL AGÊNCIA DE VIAGENS", "documento":"U4VIFB", 
+                    "data":"09/09/2016", "detalhamento":"Companhia Aérea: AZUL, Localizador: U4VIFB. Passageiros: GILBERTO PISELO DO NASCIMENTO (Matrícula 318258, PARLAMENTAR), Voo: 43912883 - JPRCGBBSB - 12/09/2016;", "valorReembolsado":"2855,91", 
+                    "codDocumento":"2048274"}]}
