@@ -1,0 +1,10 @@
+{"gastosSenador": [{"ano":"2022", "mes":"1", "senador":"MARIA ELIZA DE AGUIAR E SILVA", "tipoDespesa":"Divulgação da atividade parlamentar", 
+                    "cnpjCpf":"18.558.127/0001-96", "fornecedor":"ANDERSON CARVALHO DA SILVA", "documento":"00000081", 
+                    "data":"09/01/2022", "detalhamento":"Despesa com divulgação da atividade parlamentar.", "valorReembolsado":"6677,42", 
+                    "codDocumento":"2173258"}, {"ano":"2022", "mes":"1", "senador":"MARIA ELIZA DE AGUIAR E SILVA", "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", 
+                    "cnpjCpf":"09.364.810/0001-00", "fornecedor":"ME LEVA VIAGENS E TURISMO LTDA", "documento":"BJMZSR", 
+                    "data":"14/01/2022", "detalhamento":"Companhia Aérea: GOL, Localizador: BJMZSR. Passageiros: MARIA ELIZA DE AGUIAR E SILVA (Matrícula 380950, PARLAMENTAR), Voo: 1405 - BSB/GRU - 19/01/2022;", "valorReembolsado":"1694", 
+                    "codDocumento":"2173256"}, {"ano":"2022", "mes":"1", "senador":"MARIA ELIZA DE AGUIAR E SILVA", "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", 
+                    "cnpjCpf":"09.364.810/0001-00", "fornecedor":"ME LEVA VIAGENS E TURISMO LTDA", "documento":"IAQPYH", 
+                    "data":"14/01/2022", "detalhamento":"Companhia Aérea: LATAM, Localizador: IAQPYH. Passageiros: MARIA ELIZA DE AGUIAR E SILVA (Matrícula 380950, PARLAMENTAR), Voo: 3309 - GRU/BSB - 17/01/2022;", "valorReembolsado":"1765", 
+                    "codDocumento":"2173248"}]
