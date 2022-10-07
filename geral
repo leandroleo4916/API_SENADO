@@ -1,11 +1,12 @@
-{"gastoGeral": 
-             [{"totalGeral":190995234, 
+{"gastoGeral": [
+            {"totalGeral":190995234, 
              "totalNotas":168665, 
              "aluguel":34725713, 
              "divuldacao":24993695, 
              "passagens":46382448, 
              "contratacao":36979039, 
-             "locomocao":39078917, "aquisicao":7108310,
+             "locomocao":39078917, 
+             "aquisicao":7108310,
              "outros":0, {
                           "listSenador": [
                                         {"nomeSenador": Acir Gurgacz, "gastoSenador":2826597}, 
