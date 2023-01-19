@@ -1,1 +1,6 @@
-
+{"gasto": {"totalGeral":"81389377", "totalNotas":"156495", 
+             "manutencao":"8290289", "combustivel":"6194474", "passagens":"23533289", 
+             "assinatura":"66937", "divulgacao":"16517439", "telefonia":"5042582", 
+             "postais":"1673328", "hospedagem":"814637", "taxi":"344044", "locacao":"8693933",
+             "consultoria":"7741813", "seguranca":"431208", "curso":"7500", 
+             "alimentacao":"779914", "outros":"1257990"}}
