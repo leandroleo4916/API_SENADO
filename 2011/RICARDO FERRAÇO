@@ -1,0 +1,981 @@
+{"RICARDO FERRAÇO": [{"ano":"2011", "mes":"7", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02428624000130", "fornecedor":"TRIP", 
+                            "documento":"1010331300", "data":"2011-07-14", "detalhamento":"CNPJ: 02.428.624/0001-30
+FORNECEDOR: TRIP
+DOCUMENTO: 1010331300
+DATA: 14/07/2011
+PASSAGEIRO/TRECHO: FERRACO/RICARDO-(BSBS x VIX)- 14/07/2011
+VALOR REEMBOLSADO: 250,56", 
+                            "valorReembolsado":"250.56", "codDocumento":"388112"}, {"ano":"2011", "mes":"7", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02428624000130", "fornecedor":"TRIP", 
+                            "documento":"1010312330", "data":"2011-07-13", "detalhamento":"CNPJ: 02.428.624/0001-30
+FORNECEDOR:TRIP
+DOCUMENTO: 1010312330
+DATA: 13/07/2011
+PASSAGEIRO/TRECHO: FERRACO/RICARDO MR-(BSB x VIX)- 13/07/2011
+VALOR REEMBOLSADO: 350,56", 
+                            "valorReembolsado":"350.56", "codDocumento":"388111"}, {"ano":"2011", "mes":"7", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02428624000130", "fornecedor":"TRIP", 
+                            "documento":"1010247208", "data":"2011-07-07", "detalhamento":"CNPJ: 02.428.624/0001-30
+FORNECEDOR: TRIP
+DOCUMENTO: 1010247208
+DATA: 07/07/2011
+PASSAGEIRO/TRECHO: FERRACO/RICARDO-(BSB x VIX)-07/07/2011
+VALOR REEMBOLSADO: 370,56", 
+                            "valorReembolsado":"370.56", "codDocumento":"388109"}, {"ano":"2011", "mes":"7", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"2430965145", "data":"2011-07-18", "detalhamento":"CNPJ: 02.012.862/0001-60
+FORNECEDOR: TAM
+DOCUMENTO: 2430965145
+DATA: 18/07/2011
+PASSAGEIRO/TRECHO: FERRACO/RICARDO-(CGH x BSB)- 18/07/2011
+VALOR REEMBOLSADO: 332,66
+", 
+                            "valorReembolsado":"332.66", "codDocumento":"388118"}, {"ano":"2011", "mes":"7", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"2431202212", "data":"2011-07-18", "detalhamento":"CNPJ: 02.012.862/0001-60
+FORNECEDOR: TAM
+DOCUMENTO: 2431202212
+DATA: 18/07/2011
+PASSAGEIRO/TRECHO: FERRACO/RICARDO MR-(CGH x VIX)- 198/07/2011
+VALOR REEMBOLSADO: 242,00", 
+                            "valorReembolsado":"242.0", "codDocumento":"388119"}, {"ano":"2011", "mes":"7", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"95727022470763", "data":"2011-07-18", "detalhamento":"CNPJ: 02.012.862/0001-60
+FORNECEDOR: TAM
+DOCUMENTO: 957-2702470763
+DATA: 18/07/2011
+PASSAGEIRO/TRECHO: FERRACO/RICARDO-(CGH x BSB)- 18/07/2011
+VALOR REEMBOLSADO: 80,00", 
+                            "valorReembolsado":"80.0", "codDocumento":"388115"}, {"ano":"2011", "mes":"7", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"2430965142", "data":"2011-07-15", "detalhamento":"CNPJ: 02.012.862/0001-60
+FORNECEDOR: TAM
+DOCUMENTO: 2430965142
+DATA: 15/07/2011
+PASSAGEIRO/TRECHO: FERRACO/RICARDO MR-(VIX x CGH)-15/07/2011
+VALOR REEMBOLSADO: 705,23", 
+                            "valorReembolsado":"705.23", "codDocumento":"388113"}, {"ano":"2011", "mes":"7", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572702470757", "data":"2011-07-15", "detalhamento":"CNPJ: 02.012.862/0001-60
+FORNCEDOR: TAM
+DOCUMENTO: 957-2702470757
+DATA: 15/07/2011
+PASSAGEIRO/TRECHO: FERRACO/RICARDO-(VIX x CGH)-15/07/2011
+VALOR REEMBOLSADO: 80,00", 
+                            "valorReembolsado":"80.0", "codDocumento":"388114"}, {"ano":"2011", "mes":"7", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"2430257095", "data":"2011-07-12", "detalhamento":"CNPJ: 02.012.862/0001-60
+FORNECEDOR: TAM
+DOCUMENTO: 2430257095
+DATA: 12/07/2011
+PASSAGEIRO/TRECHO: FERRACO/RICARDO MR-(VIX x BSB)- 12/07/2011
+VALOR REEMBOLSADO: 399,23", 
+                            "valorReembolsado":"399.23", "codDocumento":"388110"}, {"ano":"2011", "mes":"7", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"2430257004", "data":"2011-07-05", "detalhamento":"CNPJ: 02.012.862/0001-60
+FORNECEDOR: TAM
+DOCUMENTO: 2430257004
+DATA: 05/07/2011
+PASSAGEIRO/TRECHO: FERRACO/RICARDO MR-(VIX x BSB)- 05/07/2011
+VALOR REEMBOLSADO: 511,23", 
+                            "valorReembolsado":"511.23", "codDocumento":"388107"}, {"ano":"2011", "mes":"7", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL", 
+                            "documento":"4604783984", "data":"2011-07-07", "detalhamento":"CNPJ: 07.575.651/0001-59
+FORNECEDOR: GOL
+DOCUMENTO: 4604783984
+DATA: 07/07/2011
+PASSAGEIRO/TRECHO: FERRACO/RICARDO MR-(BSB x VIX)- 07/07/2011
+VALOR REEMBOLSADO: 550,56", 
+                            "valorReembolsado":"550.56", "codDocumento":"388108"}, {"ano":"2011", "mes":"7", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"10528947000123", "fornecedor":"RPR - Locação e Serviços LTDA ", 
+                            "documento":"00140", "data":"2011-07-25", "detalhamento":"null", 
+                            "valorReembolsado":"3500.0", "codDocumento":"383945"}, {"ano":"2011", "mes":"7", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"32459547000146", "fornecedor":"Ilha dos Móveis LTDA.ME", 
+                            "documento":"0092", "data":"2011-07-13", "detalhamento":"null", 
+                            "valorReembolsado":"3200.0", "codDocumento":"383946"}, {"ano":"2011", "mes":"7", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"34028316793260", "fornecedor":"ECT- EMP. BRAS. DE CORREIOS E TELEGRAFOS", 
+                            "documento":"00043", "data":"2001-07-25", "detalhamento":"null", 
+                            "valorReembolsado":"33.0", "codDocumento":"401095"}, {"ano":"2011", "mes":"7", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"27053735000130", "fornecedor":"Ebalmaq Comercio e Informatica LTDA EPP", 
+                            "documento":"00261", "data":"2011-07-04", "detalhamento":"null", 
+                            "valorReembolsado":"2045.0", "codDocumento":"383948"}, {"ano":"2011", "mes":"7", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"01519145756", "fornecedor":"Dorisana Hand Vargas Mencer", 
+                            "documento":"null", "data":"2011-07-25", "detalhamento":"null", 
+                            "valorReembolsado":"2000.0", "codDocumento":"383944"}, {"ano":"2011", "mes":"7", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"07231315000199", "fornecedor":"Alarmelink Tecnologia e Segurança LTDA.ME", 
+                            "documento":"00318", "data":"2011-07-12", "detalhamento":"null", 
+                            "valorReembolsado":"100.0", "codDocumento":"383947"}, {"ano":"2011", "mes":"6", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02428624000130", "fornecedor":"TRIP", 
+                            "documento":"36GHLTDZ", "data":"2011-06-30", "detalhamento":"CNPJ: 02.428.624/0001-30
+FORNECEDOR: TRIP
+DOCUMENTO: 36GHLTDZ
+DATA: 30/06/2011
+PASSAGEIRO/TRECHO: FERRACO/RICARDO MR-(BSB x VIX)- 30/06/2011
+VALOR REEMBOLSADO: 370,56", 
+                            "valorReembolsado":"370.56", "codDocumento":"388088"}, {"ano":"2011", "mes":"6", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02428624000130", "fornecedor":"TRIP", 
+                            "documento":"1009943631", "data":"2011-06-09", "detalhamento":"CNPJ:02.428.624/0001/30
+FORNECEDOR: TRIP
+DOCUMENTO: 1009943631
+DATA: 09/06/2011
+PASSAGEIRO/TRECHO: FERRACO/RICARDO MR-(BSB x VIX)- 09/06/2011
+VALOR REEMBOLSADO: 220,56", 
+                            "valorReembolsado":"220.56", "codDocumento":"388083"}, {"ano":"2011", "mes":"6", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"2429908848", "data":"2011-06-29", "detalhamento":"CNPJ: 02.012.862/0001-60
+FORNECEDOR: TAM
+DOCUMENTO: 2429908848
+DATA: 29/06/2011
+PASSAGEIRO/TRECHO: LIMA/JOSE MR-(BSB x VIX)- 29/06/2011
+MATRÍCULA:238834/1
+VALOR REEMBOLSADO: 603,66", 
+                            "valorReembolsado":"603.66", "codDocumento":"388087"}, {"ano":"2011", "mes":"6", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"2429419271", "data":"2011-06-16", "detalhamento":"CNPJ: 02.012.862/0001-60
+FORNECEDOR: TAM
+DOCUMENTO: 2429419271
+DATA: 16/06/2011
+PASSAGEIRO/TRECHO: FERRACO/RICARDO-(VIX x BSB)- 16/06/2011
+VALOR REEMBOLSADO: 508,23", 
+                            "valorReembolsado":"508.23", "codDocumento":"388086"}, {"ano":"2011", "mes":"6", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"2429160204", "data":"2011-06-13", "detalhamento":"CNPJ: 02.012.862/0001-60
+FORNECEDOR: TAM
+DOCUMENTO: 2429160204
+DATA: 13/06/2011
+PASSAGEIRO/TRECHO:FERRACO/RICARDO MR-(SDU x VIX)- 13/06/2011
+VALOR REEMBOLSADO: 480.66", 
+                            "valorReembolsado":"480.66", "codDocumento":"388085"}, {"ano":"2011", "mes":"6", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"2429160203", "data":"2011-06-11", "detalhamento":"CNPJ: 02.012.862/0001-60
+FORNECEDOR: TAM
+DOCUMENTO: 2429160203
+DATA: 11/06/2011
+PASSAGEIRO/TRECHO: FERRACO/RICARDO MR-(VIX x SDU)- 11/06/2011
+VALOR REEMBOLSADO: 469,23", 
+                            "valorReembolsado":"469.23", "codDocumento":"388084"}, {"ano":"2011", "mes":"6", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL", 
+                            "documento":"4659371616", "data":"2011-06-27", "detalhamento":"CNPJ: 07.575.651/0001-59
+FORNECEDOR: GOL
+DOCUMENTO: 4659371616
+DATA: 27/06/2011
+PASSAGEIRO/TRECHO: LIMA/JOSE MR-(VIX x BSB)- 27/06/2011
+MATRICULA: 238834/1
+VALOR REEMBOLSADO: 546,13", 
+                            "valorReembolsado":"546.13", "codDocumento":"388089"}, {"ano":"2011", "mes":"6", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"10528947000123", "fornecedor":"RPR- Locação e Serviços Ltda", 
+                            "documento":"0127", "data":"2011-06-20", "detalhamento":"null", 
+                            "valorReembolsado":"3500.0", "codDocumento":"371285"}, {"ano":"2011", "mes":"6", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"06175892000148", "fornecedor":"Comprocard Administradora de Cartões Ltda", 
+                            "documento":"1104", "data":"2011-07-01", "detalhamento":"null", 
+                            "valorReembolsado":"345.3", "codDocumento":"383943"}, {"ano":"2011", "mes":"6", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"06175892000148", "fornecedor":"Comprocard Administradora de Cartões Ltda", 
+                            "documento":"174739", "data":"2011-06-20", "detalhamento":"null", 
+                            "valorReembolsado":"552.31", "codDocumento":"371288"}, {"ano":"2011", "mes":"6", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"32459547000146", "fornecedor":"Ilha dos Móveis Ltda. ME", 
+                            "documento":"0080", "data":"2011-06-20", "detalhamento":"null", 
+                            "valorReembolsado":"3200.0", "codDocumento":"371284"}, {"ano":"2011", "mes":"6", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"32398877000179", "fornecedor":"ECT - EMP. BRAS. Correios e Telagrafos", 
+                            "documento":"null", "data":"2011-06-22", "detalhamento":"null", 
+                            "valorReembolsado":"33.0", "codDocumento":"383941"}, {"ano":"2011", "mes":"6", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"27053735000130", "fornecedor":"Ebalmaq Comercio e Informatica Ltda", 
+                            "documento":"00196", "data":"2011-06-01", "detalhamento":"null", 
+                            "valorReembolsado":"2045.0", "codDocumento":"371283"}, {"ano":"2011", "mes":"6", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"02449992008149", "fornecedor":"Vivo S.A", 
+                            "documento":"2075351569", "data":"2011-06-21", "detalhamento":"null", 
+                            "valorReembolsado":"366.24", "codDocumento":"383942"}, {"ano":"2011", "mes":"6", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"00108786000165", "fornecedor":"NET", 
+                            "documento":"null", "data":"2011-06-30", "detalhamento":"null", 
+                            "valorReembolsado":"523.1", "codDocumento":"383939"}, {"ano":"2011", "mes":"6", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"01519145756", "fornecedor":"Dorisana Hand Vargas Mencer", 
+                            "documento":"null", "data":"2011-06-30", "detalhamento":"null", 
+                            "valorReembolsado":"2000.0", "codDocumento":"383940"}, {"ano":"2011", "mes":"6", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"07231315000199", "fornecedor":"Alarmelink Tecnologia e Segurança Ltda-ME", 
+                            "documento":"00300", "data":"2011-06-07", "detalhamento":"null", 
+                            "valorReembolsado":"100.0", "codDocumento":"371287"}, {"ano":"2011", "mes":"5", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"10528947000123", "fornecedor":"RPR - Locação e Serviços LTDA", 
+                            "documento":"00116", "data":"2011-05-18", "detalhamento":"null", 
+                            "valorReembolsado":"3500.0", "codDocumento":"361633"}, {"ano":"2011", "mes":"5", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"07231315000199", "fornecedor":"Alarmelink Tecnologia e Segurança LTDA-ME ", 
+                            "documento":"00287", "data":"2011-05-19", "detalhamento":"null", 
+                            "valorReembolsado":"100.0", "codDocumento":"361631"}, {"ano":"2011", "mes":"5", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"03714562000195", "fornecedor":"V.T.C Computadores LTDA ME", 
+                            "documento":"0527", "data":"2011-05-18", "detalhamento":"null", 
+                            "valorReembolsado":"665.0", "codDocumento":"361634"}, {"ano":"2011", "mes":"5", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"34028316793260", "fornecedor":"ECT- EMP. BRAS. de Correios e Telegrafos", 
+                            "documento":"82781176", "data":"2011-05-27", "detalhamento":"null", 
+                            "valorReembolsado":"36.2", "codDocumento":"371290"}, {"ano":"2011", "mes":"5", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"34028316793260", "fornecedor":"ECT- EMP. BRAS. de Correios e Telegrafos", 
+                            "documento":"82791163", "data":"2011-05-20", "detalhamento":"null", 
+                            "valorReembolsado":"33.0", "codDocumento":"371289"}, {"ano":"2011", "mes":"5", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"34028316793260", "fornecedor":"ECT - Emp. Bras. de Correios e Telegrafos ", 
+                            "documento":"null", "data":"2011-05-04", "detalhamento":"null", 
+                            "valorReembolsado":"37.7", "codDocumento":"361636"}, {"ano":"2011", "mes":"5", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"27053735000130", "fornecedor":"Ebalmaq Comercio e Informatica Ltda", 
+                            "documento":"00115", "data":"2011-05-06", "detalhamento":"null", 
+                            "valorReembolsado":"2045.0", "codDocumento":"371292"}, {"ano":"2011", "mes":"5", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"01519145756", "fornecedor":"01519145756", 
+                            "documento":"null", "data":"2011-05-19", "detalhamento":"null", 
+                            "valorReembolsado":"2000.0", "codDocumento":"361632"}, {"ano":"2011", "mes":"5", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"02449992008149", "fornecedor":"Vivo S.A", 
+                            "documento":"2075351569", "data":"2011-06-07", "detalhamento":"null", 
+                            "valorReembolsado":"361.78", "codDocumento":"371293"}, {"ano":"2011", "mes":"5", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"77488040791", "fornecedor":"Net", 
+                            "documento":"1105963641358", "data":"2011-06-10", "detalhamento":"null", 
+                            "valorReembolsado":"572.29", "codDocumento":"371291"}, {"ano":"2011", "mes":"5", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"32459547000146", "fornecedor":"Ilha dos Móveis LTDA.ME", 
+                            "documento":"0068", "data":"2011-05-19", "detalhamento":"null", 
+                            "valorReembolsado":"3200.0", "codDocumento":"361635"}, {"ano":"2011", "mes":"4", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"06175892000148", "fornecedor":"Comprocard Administradora de Cartões LTDA", 
+                            "documento":"170834", "data":"2011-04-01", "detalhamento":"null", 
+                            "valorReembolsado":"375.74", "codDocumento":"361629"}, {"ano":"2011", "mes":"4", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"07231315000199", "fornecedor":"Alarmelink Tecnologia e Segurança LTDA - ME", 
+                            "documento":"00269", "data":"2011-04-12", "detalhamento":"null", 
+                            "valorReembolsado":"100.0", "codDocumento":"353263"}, {"ano":"2011", "mes":"4", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"10528947000123", "fornecedor":"RPR - Locação e Serviços LTDA", 
+                            "documento":"00106", "data":"2011-04-19", "detalhamento":"null", 
+                            "valorReembolsado":"3500.0", "codDocumento":"353261"}, {"ano":"2011", "mes":"4", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"32459547000146", "fornecedor":"Ilha dos Móveis LTDA - ME", 
+                            "documento":"0064", "data":"2011-04-19", "detalhamento":"null", 
+                            "valorReembolsado":"3200.0", "codDocumento":"353262"}, {"ano":"2011", "mes":"4", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"34028316793260", "fornecedor":"ECT - Emp. Bras. de Correios e Telegrafos ", 
+                            "documento":"null", "data":"2011-04-20", "detalhamento":"null", 
+                            "valorReembolsado":"32.9", "codDocumento":"361628"}, {"ano":"2011", "mes":"4", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"01519145756", "fornecedor":"01519145756", 
+                            "documento":"null", "data":"2011-04-20", "detalhamento":"null", 
+                            "valorReembolsado":"2000.0", "codDocumento":"353260"}, {"ano":"2011", "mes":"4", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"02449992008149", "fornecedor":"Vivo S.A.", 
+                            "documento":"2075351569", "data":"2011-04-21", "detalhamento":"null", 
+                            "valorReembolsado":"526.12", "codDocumento":"361627"}, {"ano":"2011", "mes":"4", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"77488040791", "fornecedor":"NET Serviços de comunicãção S/A", 
+                            "documento":"null", "data":"2011-04-17", "detalhamento":"null", 
+                            "valorReembolsado":"505.27", "codDocumento":"361630"}, {"ano":"2011", "mes":"3", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"10528947000123", "fornecedor":"RPR - Locação e Serviços LTDA ", 
+                            "documento":"00104", "data":"2011-04-01", "detalhamento":"null", 
+                            "valorReembolsado":"3500.0", "codDocumento":"352829"}, {"ano":"2011", "mes":"3", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"06175892000148", "fornecedor":"Comprocard Administradora de Cartões LTDA", 
+                            "documento":"163399", "data":"2011-03-01", "detalhamento":"null", 
+                            "valorReembolsado":"827.88", "codDocumento":"352826"}, {"ano":"2011", "mes":"3", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"07231315000199", "fornecedor":"Alarmelink Tecnologia e Segurança LTDA - ME", 
+                            "documento":"00242", "data":"2011-03-18", "detalhamento":"null", 
+                            "valorReembolsado":"200.0", "codDocumento":"345939"}, {"ano":"2011", "mes":"3", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"32459547000146", "fornecedor":"Ilha dos Moveis LTDA.ME ", 
+                            "documento":"0059", "data":"2011-03-10", "detalhamento":"null", 
+                            "valorReembolsado":"1000.0", "codDocumento":"345943"}, {"ano":"2011", "mes":"3", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"32459547000146", "fornecedor":"Ilha dos Móveis LTDA.ME", 
+                            "documento":"0058", "data":"2011-03-10", "detalhamento":"null", 
+                            "valorReembolsado":"1200.0", "codDocumento":"345942"}, {"ano":"2011", "mes":"3", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"32459547000146", "fornecedor":"Ilha dos Móveis LTDA.ME", 
+                            "documento":"0057", "data":"2011-03-10", "detalhamento":"null", 
+                            "valorReembolsado":"1000.0", "codDocumento":"345941"}, {"ano":"2011", "mes":"3", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"34028316793260", "fornecedor":"EMP. BRAS. de Correios e Telegrafos", 
+                            "documento":"null", "data":"2011-03-31", "detalhamento":"null", 
+                            "valorReembolsado":"34.9", "codDocumento":"352825"}, {"ano":"2011", "mes":"3", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"27053735000130", "fornecedor":"Ebalmaq Comercio e Informatica LTDA EPP", 
+                            "documento":"00011", "data":"2011-03-30", "detalhamento":"null", 
+                            "valorReembolsado":"2045.0", "codDocumento":"361626"}, {"ano":"2011", "mes":"3", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"27053735000130", "fornecedor":"EBALMAQ - Comércio e Informática LTDA  ", 
+                            "documento":"058950", "data":"2011-03-14", "detalhamento":"null", 
+                            "valorReembolsado":"2045.0", "codDocumento":"345940"}, {"ano":"2011", "mes":"3", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"02449992008149", "fornecedor":"VIVO S.A", 
+                            "documento":"2075351569", "data":"2011-03-23", "detalhamento":"null", 
+                            "valorReembolsado":"543.93", "codDocumento":"352828"}, {"ano":"2011", "mes":"3", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"77488040791", "fornecedor":"NET Serviços de Comunicação S/A", 
+                            "documento":"0000038863", "data":"2011-03-23", "detalhamento":"null", 
+                            "valorReembolsado":"117.51", "codDocumento":"352827"}, {"ano":"2011", "mes":"2", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"06175892000148", "fornecedor":"Comprocard Administradora de Cartões Ltda", 
+                            "documento":"156311", "data":"2011-02-25", "detalhamento":"null", 
+                            "valorReembolsado":"140.81", "codDocumento":"352819"}, {"ano":"2011", "mes":"12", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02428624000130", "fornecedor":"TRIP", 
+                            "documento":"6612101186160", "data":"2011-12-22", "detalhamento":"CNPJ: 02.428.624/0001-30
+FORNECEDOR: TRIP
+DOCUMENTO: 6612101186160
+DATA: 22/12/2011
+PASSAGEIRO/TRECHO: FERRACO/RICARDO MR - (VIX x SDU) - 22/12/2011
+VALOR REEMBOLSADO: 306,13", 
+                            "valorReembolsado":"306.13", "codDocumento":"483086"}, {"ano":"2011", "mes":"12", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02428624000130", "fornecedor":"TRIP", 
+                            "documento":"6612101186160", "data":"2011-12-22", "detalhamento":"CNPJ: 02.428.624/0001-30
+FORNECEDOR: TRIP
+DOCUMENTO: 661-210-1186160
+DATA: 22/12/2011
+PASSAGEIRO/TRECHO: FERRACO/RICARDO - (VIX x SDU) - 22/12/2011
+VALOR REEMBOLSADO: 306,13", 
+                            "valorReembolsado":"306.13", "codDocumento":"500697"}, {"ano":"2011", "mes":"12", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02428624000130", "fornecedor":"TRIP", 
+                            "documento":"6612101188916", "data":"2011-12-21", "detalhamento":"CNPJ: 02.428.624/0001-30
+FORNECEDOR: TRIP
+DOCUMENTO: 6612101188916
+DATA: 21/12/2011
+PASSAGEIRO/TRECHO: FERRACO/RICARDO MR - (BSB xVIX) - 21/12/2011", 
+                            "valorReembolsado":"770.56", "codDocumento":"483085"}, {"ano":"2011", "mes":"12", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02428624000130", "fornecedor":"TRIP", 
+                            "documento":"6612101188916", "data":"2011-12-21", "detalhamento":"CNPJ: 02.428.624/0001-30
+FORNECEDOR: TRIP
+DOCUMENTO: 661-210-1188916
+DATA: 21/12/2011
+PASSAGEIRO/TRECHO: FERRACO/RICARDO - (BSB x VIX) - 21/12/2011
+VALOR REEMBOLSADO: 770,56", 
+                            "valorReembolsado":"770.56", "codDocumento":"500696"}, {"ano":"2011", "mes":"12", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02428624000130", "fornecedor":"TRIP", 
+                            "documento":"6612101149806", "data":"2011-12-14", "detalhamento":"CNPJ: 02.428.624/0001-30
+FORNECEDOR: TRIP
+DOCUMENTO: 6612101149806
+DATA: 14/12/2011
+PASSAGEIRO/TRECHO: FERRACO/RICARDO MR - (BSB x VIX) - 14/12/2011
+VALOR REEMBOLSADO: 879,90", 
+                            "valorReembolsado":"879.9", "codDocumento":"483083"}, {"ano":"2011", "mes":"12", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02428624000130", "fornecedor":"TRIP", 
+                            "documento":"6612101108890", "data":"2011-12-12", "detalhamento":"CNPJ: 02.428.624/0001-30
+FORNECEDOR: TRIP
+DOCUMENTO: 6612101108890
+DATA: 12/12/2011
+PASSAGEIRO/TRECHO: FERRACO/RICARDO MR- (VIX x BSB)- 12/12/2011
+VALOR REEMBOLSADO: 659,90", 
+                            "valorReembolsado":"659.9", "codDocumento":"483081"}, {"ano":"2011", "mes":"12", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02428624000130", "fornecedor":"TRIP", 
+                            "documento":"6612101041831", "data":"2011-12-03", "detalhamento":"CNPJ: 02.428.624/0001-30
+FORNECEDOR: TRIP
+DOCUMENTO: 661-210-1041831
+DATA: 03/12/2011
+PASSAGEIRO/TRECHO: FERRACO/RICARDO - (VIX x SDU)- 03/12/2011
+VALOR REEMBOLSADO: 296,13", 
+                            "valorReembolsado":"296.13", "codDocumento":"472305"}, {"ano":"2011", "mes":"12", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02428624000130", "fornecedor":"TRIP", 
+                            "documento":"6612101040965", "data":"2011-12-01", "detalhamento":"CNPJ: 02.428.624/0001-30
+FORNECEDOR: TRIP
+DOCUMENTO: 661-210-10400965
+DATA: 01/12/2011
+PASSAGEIRO/TRECHO: FERRACO/RICARDO- (BSB x VIX) 01/12/2011
+VALOR REEMBOLSADO: 550,56", 
+                            "valorReembolsado":"550.56", "codDocumento":"472304"}, {"ano":"2011", "mes":"12", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02428624000130", "fornecedor":"TRIP", 
+                            "documento":"6612100653910", "data":"2011-10-20", "detalhamento":"CNPJ: 02.428.624/0001-30
+FORNECEDOR: TRIP
+DOCUMENTO: 6612100653910
+DATA: 20/10/2011
+PASSAGEIRO/TRECHO: FERRACO/RICARDO MR- (BSB x VIX)- 20/10/2011
+VALOR REEMBOLSADO: 430,56", 
+                            "valorReembolsado":"430.56", "codDocumento":"483082"}, {"ano":"2011", "mes":"12", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"957 2439947237", "data":"2011-12-20", "detalhamento":"CNPJ: 02.012.862/0001-60
+FORNECEDOR: TAM
+DOCUMENTO: 957 2439947237
+DATA: 20/12/2011
+PASSAGEIRO/TRECHO: FERRACO/RICARDO MR - (VIX x BSB) -20/12/2011
+VALOR REEMBOLSADO: 658,23", 
+                            "valorReembolsado":"658.23", "codDocumento":"483084"}, {"ano":"2011", "mes":"12", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"957 2439576567", "data":"2011-12-08", "detalhamento":"CNPJ: 02.012.862/0001-60
+FORNCEDOR: TAM
+DOCUMENTO:957 2439576567
+DATA: 08/12/2011
+PASSAGEIRO/TRECHO: FERRACO/RICARDO - (BSB x VIX) - 08/12/2011
+VALOR REEMBOLSADO: 30,00", 
+                            "valorReembolsado":"30.0", "codDocumento":"472310"}, {"ano":"2011", "mes":"12", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"957 2439576567", "data":"2011-12-08", "detalhamento":"CNPJ: 02.012.862/0001-60
+FORNECEDOR: TAM
+DOCUMENTO: 957 2439576567
+DATA: 08/12/2011
+PASSAGEIRO/TRECHO: FERRACO/RICARDO - (BSB x VIX) - 08/12/2011
+VALOR REEMBOLSADO: 1019,42", 
+                            "valorReembolsado":"1019.42", "codDocumento":"472309"}, {"ano":"2011", "mes":"12", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572439087271", "data":"2011-12-05", "detalhamento":"CNPJ: 02.012.862/0001-60
+FORNECEDOR: TAM
+DOCUMENTO: 957 2439087271
+DATA: 05/12/2011
+PASSAGEIRO/TRECHO: FERRACO/RICARDO - (SDU x VIX)- 05/12/2011
+VALOR REEMBOLSADO: 723,66", 
+                            "valorReembolsado":"723.66", "codDocumento":"472306"}, {"ano":"2011", "mes":"12", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"957 2704126542", "data":"2011-12-05", "detalhamento":"CNPJ: 02.012.862/0001-60
+FORNECEDOR: TAM
+DOCUMENTO: 957 2704126542
+DATA: 05/12/2011
+PASSAGEIRO/TRECHO: FERRACO/RICARDO - (SDU x BSB) - 05/12/2011
+VALOR REEMBOLSADO: 80,00", 
+                            "valorReembolsado":"80.0", "codDocumento":"472307"}, {"ano":"2011", "mes":"12", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"957 2437909606", "data":"2011-11-16", "detalhamento":"CNPJ: 02.012.862/0001-60
+FORNECEDOR: TAM
+DOCUMENTO: 957 2437909606
+DATA: 16/11/2011
+PASSAGEIRO/TRECHO: FERRACO/RICARDO - (VIX x BSB)- 16/11/2011
+VALOR REEMBOLSADO: 767,23
+OBS: ESTE BILHETE FOI REMARCADO PARA VOAR DIA 08/12/2011", 
+                            "valorReembolsado":"767.23", "codDocumento":"472311"}, {"ano":"2011", "mes":"12", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"957 2437909606", "data":"2011-11-16", "detalhamento":"CNPJ: 02.012.862/0001-60
+FORNECEDOR: TAM
+DOCUMENTO: 957 2437909606
+DATA: 16/11/2011
+PASSAGEIRO/TRECHO: FERRACO/RICARDO - (VIX x BSB) -16/11/2011
+VALOR REEMBOLSADO: 75,10
+OBS: ESTE BILHETE FOI REMARCADO PARA VOAR DIA 08/12/2011", 
+                            "valorReembolsado":"75.1", "codDocumento":"472312"}, {"ano":"2011", "mes":"12", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL", 
+                            "documento":"GF7DHK", "data":"2011-12-22", "detalhamento":"CNPJ: 07.575.651/0001-59
+FORNECEDOR: GOL
+DOCUMENTO: GF7DHK
+DATA: 22/12/2011
+PASSAGEIRO/TRECHO: FERRACO/RICARDO MR - ( SDU x VIX) - 22/12/2011
+VALOR REEMBOLSADO: 351,56", 
+                            "valorReembolsado":"351.56", "codDocumento":"483087"}, {"ano":"2011", "mes":"12", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL", 
+                            "documento":"GF7DHK", "data":"2011-12-22", "detalhamento":"CNPJ: 07.575.651/0001-59
+FORNECEDOR: GOL
+DOCUMENTO: GF7DHK
+DATA: 22/12/2011
+PASSAGEIRO/TRECHO: FERRACO/RICARDO - (SDU x VIX) - 22/12/2011
+VALOR REEMBOLSADO: 351,56", 
+                            "valorReembolsado":"351.56", "codDocumento":"500698"}, {"ano":"2011", "mes":"12", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL", 
+                            "documento":"X8R6UF", "data":"2011-12-10", "detalhamento":"CNPJ: 07.575.651/0001-59
+FORNECEDOR: GOL
+DOCUMENTO: X8R6UF
+DATA: 10/12/2011
+PASSAGEIRO/TRECHO: FERRACO/RICARDO -(VIX x BSB)- 10/12/2011
+VALOR REEMBOLSADO: 843,32", 
+                            "valorReembolsado":"843.32", "codDocumento":"472308"}, {"ano":"2011", "mes":"12", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"06175892000148", "fornecedor":"Comprocard Administradora de Cartões Ltda", 
+                            "documento":"43098", "data":"2011-12-04", "detalhamento":"null", 
+                            "valorReembolsado":"433.29", "codDocumento":"490166"}, {"ano":"2011", "mes":"12", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Divulgação da atividade parlamentar", "cnpjCpf":"06205525000140", "fornecedor":"M2 Soluções de Informatica", 
+                            "documento":"00135", "data":"2011-12-13", "detalhamento":"null", 
+                            "valorReembolsado":"1400.0", "codDocumento":"475930"}, {"ano":"2011", "mes":"12", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"10528947000123", "fornecedor":"RPR- Locação e Serviços LTDA", 
+                            "documento":"00194", "data":"2011-12-12", "detalhamento":"null", 
+                            "valorReembolsado":"3500.0", "codDocumento":"475929"}, {"ano":"2011", "mes":"12", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"32398877000179", "fornecedor":"ECT- Empresa Brasileira Correios e Telegrafos", 
+                            "documento":"62", "data":"2011-12-13", "detalhamento":"null", 
+                            "valorReembolsado":"45.6", "codDocumento":"490165"}, {"ano":"2011", "mes":"12", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"02449992008149", "fornecedor":"VIVO", 
+                            "documento":"000399390112011", "data":"2011-12-10", "detalhamento":"null", 
+                            "valorReembolsado":"124.66", "codDocumento":"475928"}, {"ano":"2011", "mes":"12", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"02449992008149", "fornecedor":"VIVO", 
+                            "documento":"000248486112011", "data":"2011-12-07", "detalhamento":"null", 
+                            "valorReembolsado":"316.93", "codDocumento":"475925"}, {"ano":"2011", "mes":"12", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"77488040791", "fornecedor":"NET", 
+                            "documento":"5080021422214", "data":"2011-12-10", "detalhamento":"null", 
+                            "valorReembolsado":"506.77", "codDocumento":"475927"}, {"ano":"2011", "mes":"12", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"06788256000191", "fornecedor":"Bousquet 2005 Particip. E Invest.", 
+                            "documento":"***", "data":"2011-12-15", "detalhamento":"null", 
+                            "valorReembolsado":"4000.0", "codDocumento":"475931"}, {"ano":"2011", "mes":"11", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02428624000130", "fornecedor":"TRIP", 
+                            "documento":"6612100964378", "data":"2011-11-28", "detalhamento":"CNPJ: 02.428.624/0001-30
+FORNECEDOR: TRIP
+DOCUMENTO: 661-2100964378
+DATA: 28/11/2011
+PASSAGEIRO/TRECHO: FERRACO/RICARDO - (VIX x BSB)- 28/11/2011
+VALOR REEMBOLSADO: 346,13", 
+                            "valorReembolsado":"346.13", "codDocumento":"472196"}, {"ano":"2011", "mes":"11", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02428624000130", "fornecedor":"TRIP", 
+                            "documento":"6612100938936", "data":"2011-11-21", "detalhamento":"CNPJ: 02,428.624/0001-30
+FORNECEDOR: TRIP
+DOCUMENTO: 661-2100938936
+DATA: 21/11/2011
+PASSAGEIRO/TRECHO: FERRACO/RICARDO- (VIX x BSB)- 21/11/2011
+VALOR REEMBOLSADO: 599,12", 
+                            "valorReembolsado":"599.12", "codDocumento":"453416"}, {"ano":"2011", "mes":"11", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02428624000130", "fornecedor":"TRIP", 
+                            "documento":"6612100907900", "data":"2011-11-21", "detalhamento":"CNPJ: 02.428.624/0001-30
+FORNECEDOR: TRIP
+DOCUMENTO: 6612100907900
+DATA: 21/11/2011
+PASSAGEIRO/TRECHO: LIMA/JOSÉ- (VIX x BSB)- 21/11/2011
+MATRÍCULA: 238834
+VALOR REEMBOLSADO: 395,57", 
+                            "valorReembolsado":"395.57", "codDocumento":"453418"}, {"ano":"2011", "mes":"11", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02428624000130", "fornecedor":"TRIP", 
+                            "documento":"6612100905926", "data":"2011-11-17", "detalhamento":"CNPJ: 02.428.624/0001-30
+FORNECEDOR: TRIP
+DOCUMENTO: 661-2100905926
+DATA:17/11/2011
+PASSAGEIRO/TRECHO: FERRACO/RICARDO- (BSB x VIX)- 17/11/2011
+VALOR REEMBOLSADO: 471,55", 
+                            "valorReembolsado":"471.55", "codDocumento":"453415"}, {"ano":"2011", "mes":"11", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572437909628", "data":"2011-11-23", "detalhamento":"CNPJ: 02.012.862/0001-60
+FORNECEDOR: TAM
+DOCUMENTO: 957 2437909628
+DATA: 23/11/2011
+PASSAGEIRO/TRECHO: LIMA/JOSE - (BSB xVIX)- 23/11/2011
+VALOR REEMBOLSADO: 493,66
+MATRICULA: 238834", 
+                            "valorReembolsado":"493.66", "codDocumento":"472194"}, {"ano":"2011", "mes":"11", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572437909628", "data":"2011-11-23", "detalhamento":"CNPJ: 02.012.862/0001-60
+FORNECEDOR: TAM
+DOCUMENTO: 9572437909628
+DATA: 23/11/2011
+PASSAGEIRO/TRECHO: LIMA/JOSE - (BSB x VIX)- 23/11/2011
+VALOR remuneraçao do agenteO: 47,30
+MATRÍCULA: 238834", 
+                            "valorReembolsado":"47.3", "codDocumento":"472195"}, {"ano":"2011", "mes":"11", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL", 
+                            "documento":"A76TFS", "data":"2011-11-15", "detalhamento":"CNPJ: 07.575.651/0001-59
+FORNECEDOR: GOL
+DOCUMENTO: A76TFS
+DATA: 15/11/2011
+PASSAGEIRO/TRECHO: FERRACO/RICARDO- (VIX x BSB)- 15/11/2011
+VALOR REEMBOLSADO: 767,42", 
+                            "valorReembolsado":"767.42", "codDocumento":"453414"}, {"ano":"2011", "mes":"11", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"10528947000123", "fornecedor":"RPR- Locação e Serviços Ltda", 
+                            "documento":"183", "data":"2011-11-18", "detalhamento":"null", 
+                            "valorReembolsado":"3500.0", "codDocumento":"461568"}, {"ano":"2011", "mes":"11", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"32398877000179", "fornecedor":"ECT- EMP. BRAS. CORREIOS E TELEGRAFOS", 
+                            "documento":"0026", "data":"2011-11-25", "detalhamento":"null", 
+                            "valorReembolsado":"34.9", "codDocumento":"475933"}, {"ano":"2011", "mes":"11", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"32398877000179", "fornecedor":"ECT- EMP. BRAS. CORREIOS E TELEGRAFOS", 
+                            "documento":"0034", "data":"2011-11-04", "detalhamento":"null", 
+                            "valorReembolsado":"29.5", "codDocumento":"475932"}, {"ano":"2011", "mes":"11", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"06788256000191", "fornecedor":"Zanetti & Rigotti Adm. Cond.", 
+                            "documento":"1603/319", "data":"2011-11-17", "detalhamento":"null", 
+                            "valorReembolsado":"831.12", "codDocumento":"461566"}, {"ano":"2011", "mes":"11", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"06788256000191", "fornecedor":"Zanetti & Rigotti Adm. Cond", 
+                            "documento":"1604/319", "data":"2011-11-17", "detalhamento":"null", 
+                            "valorReembolsado":"850.33", "codDocumento":"461567"}, {"ano":"2011", "mes":"11", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"02449992008149", "fornecedor":"Vivo S.A", 
+                            "documento":"2086951210", "data":"2011-11-10", "detalhamento":"null", 
+                            "valorReembolsado":"119.9", "codDocumento":"461564"}, {"ano":"2011", "mes":"11", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"02449992008149", "fornecedor":"Vivo S.A", 
+                            "documento":"2075351569", "data":"2011-11-07", "detalhamento":"null", 
+                            "valorReembolsado":"296.96", "codDocumento":"461563"}, {"ano":"2011", "mes":"11", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"77488040791", "fornecedor":"NET", 
+                            "documento":"111096266273", "data":"2011-11-10", "detalhamento":"null", 
+                            "valorReembolsado":"465.28", "codDocumento":"461565"}, {"ano":"2011", "mes":"11", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"07661480000180", "fornecedor":"Bousquet 2005 Participações e Investimentos Ltda", 
+                            "documento":"null", "data":"2011-11-30", "detalhamento":"null", 
+                            "valorReembolsado":"4000.0", "codDocumento":"465363"}, {"ano":"2011", "mes":"10", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02428624000130", "fornecedor":"TRIP", 
+                            "documento":"661 2100599323", "data":"2011-10-17", "detalhamento":"CNPJ: 02.428.624/0001-30
+FORNECEDOR: TRIP
+DATA: 17/10/2011
+DOCUMENTO: 661 2100599323
+DATA: 17/10/2011
+PASSAGEIRO/TRECHO: BONELI/JARDEL- (VIX x BSB)- 17/10/2011
+MATRÍCULA: 238780-1
+VALOR REEMBOLSADO: 445,12", 
+                            "valorReembolsado":"445.12", "codDocumento":"433113"}, {"ano":"2011", "mes":"10", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02428624000130", "fornecedor":"TRIP", 
+                            "documento":"6612100546766", "data":"2011-10-06", "detalhamento":"CNPJ: 02.428.624/0001-30
+FORNECEDOR: AVIANCA
+DATA: 06/10/2011
+PASSAGEIRO/TRECHO: FERRACO/RICARDO- BSB x VIX- 06/10/2011
+VALOR REEMBOLSADO: 603,05", 
+                            "valorReembolsado":"603.05", "codDocumento":"433110"}, {"ano":"2011", "mes":"10", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572436673126", "data":"2011-10-28", "detalhamento":"CNPJ: 02.012.862/0001-60
+FORNECEDOR: TAM
+DOCUMENTO: 957 2436673126
+DATA: 28/10/2011
+PASSAGEIRO/TRECHO: FERRACO/RICARDO- (SDU x VIX)- 28/10/2011
+VALOR REEMBOLSADO: 350,56", 
+                            "valorReembolsado":"350.56", "codDocumento":"448149"}, {"ano":"2011", "mes":"10", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572436673126", "data":"2011-10-28", "detalhamento":"CNPJ: 02.012.862/0001-60
+FORNECEDOR: TAM
+DOCUMENTO: 957 2436673126
+DATA: 28/10/2011
+PASSAGEIRO/TRECHO: FERRACO/RICARDO- (SDU x VIX)- 28/10/2011
+VALOR REEMBOLSADO: 32,99", 
+                            "valorReembolsado":"32.99", "codDocumento":"448150"}, {"ano":"2011", "mes":"10", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572436673125", "data":"2011-10-26", "detalhamento":"CNPJ: 02.012.862/0001-60
+FORNECEDOR: TAM
+DOCUMENTO: 957 2436673125
+DATA: 26/10/2011
+PASSAGEIRO/TRECHO: FERRACO/RICARDO- (BSB x SDU)- 26/10/2011
+VALOR REEMBOLSADO: 57,50", 
+                            "valorReembolsado":"57.5", "codDocumento":"448148"}, {"ano":"2011", "mes":"10", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"957 2436673125", "data":"2011-10-26", "detalhamento":"CNPJ: 02.012.862/0001-60
+FORNECEDOR: TAM
+DOCUMENTO: 957 2436673125
+DATA: 26/10/2011
+PASSAGEIRO/TRECHO: FERRACO/RICARDO- (BSB x SDU)- 26/10/2011
+VALOR REEMBOLSADO: 595,66", 
+                            "valorReembolsado":"595.66", "codDocumento":"448147"}, {"ano":"2011", "mes":"10", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572436177173", "data":"2011-10-24", "detalhamento":"CNPJ: 02.012.862/0001-60
+FORNECEDOR: TAM
+DOCUMENTO: 957 2436177173
+DATA: 24/10/2011
+PASSAGEIRO/TRECHO: FERRACO/RICARDO- (VIX x BSB)- 24/10/2011
+VALOR REEMBOLSADO: 169,00", 
+                            "valorReembolsado":"169.0", "codDocumento":"448144"}, {"ano":"2011", "mes":"10", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"Y4SX3N", "data":"2011-10-24", "detalhamento":"CNPJ: 02.012.862/0001-60
+FORNECEDOR: TAM
+DOCUMENTO: Y4SX3N
+DATA: 24/10/2011
+PASSAGEIRO/TRECHO: FERRACO/RICARDO- (VIX x BSB) - 24/10/2011
+VALOR REEMBOLSADO: 80,00", 
+                            "valorReembolsado":"80.0", "codDocumento":"448146"}, {"ano":"2011", "mes":"10", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572436177173", "data":"2011-10-24", "detalhamento":"CNPJ: 02.012.862/0001-60
+FORNECEDOR: TAM
+DOCUMENTO: 957 2436177173
+DATA: 24/10/2011
+PASSAGEIRO/TRECHO: FERRACO/RICARDO- (VIX x BSB)- 24/10/2011
+VALOR REEMBOLSADO: 30,00", 
+                            "valorReembolsado":"30.0", "codDocumento":"448145"}, {"ano":"2011", "mes":"10", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572435725445", "data":"2011-10-18", "detalhamento":"CNPJ: 02.012.862/0001-60
+FORNECEDOR: TAM
+DOCUMENTO: 957 2435725445
+DATA: 18/10/2011
+PASSAGEIRO/TRECHO:FERRACO/RICARDO- (VIX x BSB)- 18/10/2011
+VALOR REEMBOLSADO: 47,30", 
+                            "valorReembolsado":"47.3", "codDocumento":"448143"}, {"ano":"2011", "mes":"10", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"957 2435725483", "data":"2011-10-18", "detalhamento":"CNPJ: 02.012.862/0001-60
+FORNECEDOR: TAM
+DOCUMENTO: 957 2435725483
+DATA: 18/10/2011
+PASSAGEIRO/TRECHO: BONELI/JARDEL- (BSB x VIX)- 18/10/2011
+MATRICULA: 238780/1
+VALOR REEMBOLSADO: 662,66", 
+                            "valorReembolsado":"662.66", "codDocumento":"433115"}, {"ano":"2011", "mes":"10", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"957 2435725445", "data":"2011-10-18", "detalhamento":"CNPJ: 02.012.862/0001-60
+FORNECEDOR: TAM
+DOCUMENTO: 957 2435725445
+DATA: 18/10/2011
+PASSAGEIRO/TRECHO: FERRACO/RICARDO- (VIX x BSB)- 18/10/2011
+VALOR REEMBOLSADO: 489,23", 
+                            "valorReembolsado":"489.23", "codDocumento":"448142"}, {"ano":"2011", "mes":"10", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"957 2435725402", "data":"2011-10-10", "detalhamento":"CNPJ: 02.012.862/0001-60
+FORNECEDOR: TAM
+DOCUMENTO: 957 2435725402
+DATA: 10/10/2011
+PASSAGEIRO/TRECHO:FERRACO/RICARDO- (VIX x BSB)- 10/10/2011
+VALOR REEMBOLSADO: 658,23", 
+                            "valorReembolsado":"658.23", "codDocumento":"433111"}, {"ano":"2011", "mes":"10", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL", 
+                            "documento":"YDYVHT", "data":"2011-10-19", "detalhamento":"CNJP: 07.575.651/0001-59
+FORNECEDOR: GOL
+DOCUMENTO: YDYVHT
+DATA: 19/10/2011
+PASSAGEIRO/TRECHO: FERRACO/RICARDO- (BSB xVIX)- 19/10/2011
+VALOR REEMBOLSADO: 771,85", 
+                            "valorReembolsado":"771.85", "codDocumento":"448141"}, {"ano":"2011", "mes":"10", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL", 
+                            "documento":"4620768160", "data":"2011-10-17", "detalhamento":"CNPJ: 07.575.651/0001-59
+FORNECEDOR: GOL
+DOCUMENTO: 4620768160
+DATA: 17/10/2011
+PASSAGEIRO/TRECHO: FERRACO/RICARDO- (VIX x BSB)- 17/10/2011
+VALOR REEMBOLSADO: 658,52", 
+                            "valorReembolsado":"658.52", "codDocumento":"433114"}, {"ano":"2011", "mes":"10", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL", 
+                            "documento":"4557902496", "data":"2011-10-11", "detalhamento":"CNPJ: 07.575.651/0001-59
+FORNECEDOR: GOL
+DOCUMENTO: 4557902496
+DATA: 11/10/2011
+PASSAGEIRO/TRECHO: FERRACO/RICARDO- (BSB x VIX)- 11/10/2011
+VALOR REEMBOLSADO: 698,15", 
+                            "valorReembolsado":"698.15", "codDocumento":"433112"}, {"ano":"2011", "mes":"10", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"06175892000148", "fornecedor":"Comprocard Administradora de Cartões Ltda", 
+                            "documento":"200253", "data":"2011-10-19", "detalhamento":"null", 
+                            "valorReembolsado":"304.03", "codDocumento":"436655"}, {"ano":"2011", "mes":"10", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"32459547000146", "fornecedor":"ILHA DOS MÓVEIS LTDA. ME", 
+                            "documento":"0109", "data":"2011-10-13", "detalhamento":"null", 
+                            "valorReembolsado":"3200.0", "codDocumento":"436653"}, {"ano":"2011", "mes":"10", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"34028316839197", "fornecedor":"ECT- EMP. BRAS. DE CORREIOS E TELEGRAFOS", 
+                            "documento":"00060", "data":"2011-10-21", "detalhamento":"null", 
+                            "valorReembolsado":"34.9", "codDocumento":"461561"}, {"ano":"2011", "mes":"10", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"02449992008149", "fornecedor":"Vivo S.A", 
+                            "documento":"2086951210", "data":"2011-10-10", "detalhamento":"null", 
+                            "valorReembolsado":"119.9", "codDocumento":"461560"}, {"ano":"2011", "mes":"10", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"02449992008149", "fornecedor":"VIVO S.A", 
+                            "documento":"2075351569", "data":"2011-10-07", "detalhamento":"null", 
+                            "valorReembolsado":"304.38", "codDocumento":"436651"}, {"ano":"2011", "mes":"10", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"10528947000123", "fornecedor":"RPR- Locação e Serviços Ltda", 
+                            "documento":"00173", "data":"2011-10-19", "detalhamento":"null", 
+                            "valorReembolsado":"3500.0", "codDocumento":"436656"}, {"ano":"2011", "mes":"10", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"27142058000126", "fornecedor":"PREFEITURA MUNICIPAL DE VITORIA", 
+                            "documento":"043109", "data":"2011-10-14", "detalhamento":"null", 
+                            "valorReembolsado":"216.41", "codDocumento":"436654"}, {"ano":"2011", "mes":"10", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"77488040791", "fornecedor":"NET", 
+                            "documento":"508002142221", "data":"2011-10-10", "detalhamento":"null", 
+                            "valorReembolsado":"514.66", "codDocumento":"436652"}, {"ano":"2011", "mes":"10", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"01472127749", "fornecedor":"Nadelson Ferreira", 
+                            "documento":"null", "data":"2011-10-31", "detalhamento":"null", 
+                            "valorReembolsado":"4000.0", "codDocumento":"436658"}, {"ano":"2011", "mes":"10", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"28152650000171", "fornecedor":"ESCELSA", 
+                            "documento":"001027559", "data":"2011-10-19", "detalhamento":"null", 
+                            "valorReembolsado":"94.84", "codDocumento":"436657"}, {"ano":"2011", "mes":"10", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"28151363000147", "fornecedor":"CESAN", 
+                            "documento":"null", "data":"2011-10-06", "detalhamento":"null", 
+                            "valorReembolsado":"169.06", "codDocumento":"436650"}, {"ano":"2011", "mes":"9", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"05730375000120", "fornecedor":"WEBJET", 
+                            "documento":"1016637146", "data":"2011-10-01", "detalhamento":"CNPJ:05.730.375/0001-20
+FORNECEDOR: WEBJET
+DOCUMENTO:1016637146
+DATA: 01/10/2011
+PASSAGEIRO/TRECHO: FERRACO/RICARDO- (GRU x SDU)- 01/10/2011
+VALOR REEMBOLSADO: 259,65", 
+                            "valorReembolsado":"259.65", "codDocumento":"426484"}, {"ano":"2011", "mes":"9", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02428624000130", "fornecedor":"TRIP", 
+                            "documento":"661-2100297418", "data":"2011-09-12", "detalhamento":"CNPJ: 02.428.624/0001-30
+FORNECEDOR: TRIP
+DOCUMENTO: 661-2100297418
+DATA: 12/09/2011
+PASSAGEIRO/TRECHO:FERRACO/RICARDO- (VIX x BSB)- 12/09/2011
+VALOR REEMBOLSADO: 246,13", 
+                            "valorReembolsado":"246.13", "codDocumento":"410230"}, {"ano":"2011", "mes":"9", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02428624000130", "fornecedor":"TRIP", 
+                            "documento":"661-2100295864", "data":"2011-09-06", "detalhamento":"CNPJ: 02.428.624/0001-30
+FORNECEDOR: TRIP
+DOCUMENTO: 661-2100295864
+DATA: 06/09/2011
+PASSAGEIRO/TRECHO: FERRACO/RICARDO- (BSB x VIX)- 06/09/2011
+VALOR REEMBOLSADO: 405,55", 
+                            "valorReembolsado":"405.55", "codDocumento":"410229"}, {"ano":"2011", "mes":"9", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02428624000130", "fornecedor":"TRIP", 
+                            "documento":"661 2100234715", "data":"2011-09-01", "detalhamento":"CNPJ: 02.428.624/0001-30
+FORNECEDOR: TRIP
+DOCUMENTO: 661-2100234715
+DATA: 01/09/2011
+PASSAGEIRO/TRECHO: FERRACO/RICARDO (BSB x VIX)- 01/09/2011
+VALOR REEMBOLSADO: 280,56", 
+                            "valorReembolsado":"280.56", "codDocumento":"406829"}, {"ano":"2011", "mes":"9", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"957 2434975389", "data":"2011-10-04", "detalhamento":"CNPJ: 02.012.862/0001-60
+FORNECEDOR: TAM
+DOCUMENTO: 957 2434975389
+DATA: 04/10/2011
+PASSAGEIRO/TRECHO:FERRACO/RICARDO- (VIX x BSB)- 04/10/2011
+VALOR REEMBOLSADO: 658,23", 
+                            "valorReembolsado":"658.23", "codDocumento":"426486"}, {"ano":"2011", "mes":"9", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"957 2434975387", "data":"2011-10-02", "detalhamento":"CNPJ: 02.012.862/0001-60
+FORNECEDOR:TAM
+DOCUMENTO: 957 2434975387
+DATA: 02/10/2011
+PASSAGEIRO/TRECHO: FERRACO/RICARDO- (SDU x VIX)- 02/10/2011
+VALOR REEMBOLSADO: 719,16", 
+                            "valorReembolsado":"719.16", "codDocumento":"426485"}, {"ano":"2011", "mes":"9", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572434547708", "data":"2011-09-20", "detalhamento":"CNPJ: 02.012.862/0001-60
+FORNECEDOR: TAM
+DOCUMENTO: 957 2434547708
+DATA: 20/09/2011
+PASSAGEIRO/TRECHO: FERRACO/RICARDO- (VIX x BSB)- 20/09/2011
+VALOR REEMBOLSADO: 680,23", 
+                            "valorReembolsado":"680.23", "codDocumento":"415959"}, {"ano":"2011", "mes":"9", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"YJU3QN", "data":"2011-09-20", "detalhamento":"CNPJ: 02.012.862/0001-60
+FORNECEDOR:TAM
+DOCUMENTO: YJU3QN
+DATA: 20/09/2011
+PASSAGEIRO/TRECHO: FERRACO/RICARDO (VIX x BSB)- 20/09/2011
+VALOR REEMBOLSADO: 80,00", 
+                            "valorReembolsado":"80.0", "codDocumento":"415961"}, {"ano":"2011", "mes":"9", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"957 2434547708", "data":"2011-09-20", "detalhamento":"CNPJ: 02.012.862/0001-60
+FORNECEDOR: TAM
+DOCUMENTO: 957 2434547708
+DATA: 20/09/2011
+PASSAGEIRO/TRECHO: FERRACO/RICARDO (VIX x BSB)- 20/09/2011
+VALOR REEMBOLSADO: 30,00
+", 
+                            "valorReembolsado":"30.0", "codDocumento":"415960"}, {"ano":"2011", "mes":"9", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"YI47RS", "data":"2011-09-17", "detalhamento":"CNPJ: 02.012.862/0001-60
+FORNECEDOR: TAM
+DOCUMENTO: YI47RS
+DATA: 17/09/2011
+PASSAGEIRO/TRECHO: FERRACO/RICARDO- (VIX x GIG)- 17/09/2011
+VALOR REEMBOLSADO: 80,00", 
+                            "valorReembolsado":"80.0", "codDocumento":"415958"}, {"ano":"2011", "mes":"9", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"957 2434108035", "data":"2011-09-17", "detalhamento":"CNPJ: 02.012.862/0001-60
+FORNECEDOR: TAM
+DOCUMENTO: 957 2434108035
+DATA: 17/09/2011
+PASSAGEIRO/TRECHO: FERRACO/RICARDO- (VIX x GIG)- 17/09/2011
+VALOR REEMBOLSADO: 30,00", 
+                            "valorReembolsado":"30.0", "codDocumento":"415957"}, {"ano":"2011", "mes":"9", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"957 2434108035", "data":"2011-09-17", "detalhamento":"CNPJ: 02.012.862/0001-60
+FORNECEDOR: TAM
+DOCUMENTO: 957 2434108035
+DATA: 17/09/2011
+PASSAGEIRO/TRECHO: FERRACO/RICARDO- (VIX x GIG)- 17/09/2011
+VALOR REEMBOLSADO: 414,23", 
+                            "valorReembolsado":"414.23", "codDocumento":"415956"}, {"ano":"2011", "mes":"9", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"957 2433751556", "data":"2011-09-05", "detalhamento":"CNPJ: 02.012.862/0001-60
+FORNECEDOR: TAM
+DOCUMENTO: 9572433751556
+DATA: 05/09/2011
+PASSAGEIRO/TRECHO: FERRACO/RICARDO (VIX x BSB)- 05/09/2011
+VALOR REEMBOLSADO: 690,23", 
+                            "valorReembolsado":"690.23", "codDocumento":"406830"}, {"ano":"2011", "mes":"9", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"10528947000123", "fornecedor":"RPR-Locaçao e Serviços LTDA", 
+                            "documento":"00163", "data":"2011-09-15", "detalhamento":"null", 
+                            "valorReembolsado":"3500.0", "codDocumento":"421664"}, {"ano":"2011", "mes":"9", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"06175892000148", "fornecedor":"Comprocard Administradora de Cartoes Ltda", 
+                            "documento":"193633", "data":"2011-09-06", "detalhamento":"null", 
+                            "valorReembolsado":"556.85", "codDocumento":"421659"}, {"ano":"2011", "mes":"9", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"32459547000146", "fornecedor":"Ilha dos Móveis LTDA. ME", 
+                            "documento":"0101", "data":"2011-09-12", "detalhamento":"null", 
+                            "valorReembolsado":"3200.0", "codDocumento":"421662"}, {"ano":"2011", "mes":"9", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"06283146000178", "fornecedor":"Four Colors Comercio Serviços de Informatica Ltda-ME", 
+                            "documento":"850", "data":"2011-09-21", "detalhamento":"null", 
+                            "valorReembolsado":"452.0", "codDocumento":"421666"}, {"ano":"2011", "mes":"9", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"34028316839197", "fornecedor":"ECT- EMP.BRAS.DE CORREIOS E TELEGRAFOS", 
+                            "documento":"00036", "data":"2011-09-21", "detalhamento":"null", 
+                            "valorReembolsado":"33.0", "codDocumento":"436648"}, {"ano":"2011", "mes":"9", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"27053735000130", "fornecedor":"EBALMAQ COMERCIO E INFORMATICA LTDA EPP", 
+                            "documento":"00473", "data":"2011-09-21", "detalhamento":"null", 
+                            "valorReembolsado":"2045.0", "codDocumento":"421665"}, {"ano":"2011", "mes":"9", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"02449992008149", "fornecedor":"Vivo S.A", 
+                            "documento":"2086951210", "data":"2011-09-10", "detalhamento":"null", 
+                            "valorReembolsado":"42.54", "codDocumento":"461559"}, {"ano":"2011", "mes":"9", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"02449992008149", "fornecedor":"Vivo S.A", 
+                            "documento":"2075351569", "data":"2011-09-07", "detalhamento":"null", 
+                            "valorReembolsado":"431.96", "codDocumento":"421660"}, {"ano":"2011", "mes":"9", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"27142058000126", "fornecedor":"Prefeitura Municipal de Vitória", 
+                            "documento":"043109", "data":"2011-09-14", "detalhamento":"null", 
+                            "valorReembolsado":"216.41", "codDocumento":"436647"}, {"ano":"2011", "mes":"9", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"77488040791", "fornecedor":"NET", 
+                            "documento":"508002142221", "data":"2011-09-10", "detalhamento":"null", 
+                            "valorReembolsado":"747.74", "codDocumento":"421661"}, {"ano":"2011", "mes":"9", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"28152650000171", "fornecedor":"Espirito Santo Centrais Eletricas S.A", 
+                            "documento":"001023489", "data":"2011-09-14", "detalhamento":"null", 
+                            "valorReembolsado":"48.3", "codDocumento":"421663"}, {"ano":"2011", "mes":"9", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"28151363000147", "fornecedor":"CESAN", 
+                            "documento":"373", "data":"2011-09-06", "detalhamento":"null", 
+                            "valorReembolsado":"82.03", "codDocumento":"436646"}, {"ano":"2011", "mes":"9", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"01472127749", "fornecedor":"Aluguel Imovel", 
+                            "documento":"02", "data":"2011-09-30", "detalhamento":"null", 
+                            "valorReembolsado":"4000.0", "codDocumento":"421667"}, {"ano":"2011", "mes":"8", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02428624000130", "fornecedor":"TRIP", 
+                            "documento":"6612100111075", "data":"2011-08-16", "detalhamento":"CNPJ: 02.428.624/0001-30
+FORNECEDOR: TRIP
+DOCUMENTO: 6612100111075
+DATA: 16/08/2011
+PASSAGEIRO/TRECHO: ROCHA/HAROLDO- (VIX x BSB)- 16/08/2011
+MATRÍCULA: 244998/1
+VALOR REEMBOLSADO: 401,12", 
+                            "valorReembolsado":"401.12", "codDocumento":"398240"}, {"ano":"2011", "mes":"8", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02428624000130", "fornecedor":"TRIP", 
+                            "documento":"6612100073083", "data":"2011-08-11", "detalhamento":"CNPJ: 02.428.624/0001-30
+FORNECEDOR: TRIP
+DOCUMENTO: 6612100073083
+DATA: 11/08/2011
+PASSAGEIRO/TRECHO: FERRACO/RICARDO MR/ (BSB x VIX)- 11/08/2011
+VALOR REEMBOLSADO: 320,56", 
+                            "valorReembolsado":"320.56", "codDocumento":"398238"}, {"ano":"2011", "mes":"8", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"957 2433424614", "data":"2011-08-30", "detalhamento":"CNPJ: 02.012.862/0001-60
+FORNECEDOR: TAM
+DOCUMENTO: 957 2433424614
+DATA: 30/08/2011
+PASSAGEIRO/TRECHO: FERRACO/RICARDO MR- (VIX x BSB)- 30/08/2011
+VALOR REEMBOLSADO: 202,00", 
+                            "valorReembolsado":"202.0", "codDocumento":"404022"}, {"ano":"2011", "mes":"8", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"26J4K3", "data":"2011-08-30", "detalhamento":"CNPJ: 02.012.862/0001-60
+FORNECEDOR: TAM
+DOCUMENTO: 26J4K3
+DATA: 30/08/2011
+PASSAGEIRO-TRECHO: FERRACO/RICARDO MR( VIX x BSB)- 30/08/2011
+VALOR REEMBOLSADO:80,00", 
+                            "valorReembolsado":"80.0", "codDocumento":"404023"}, {"ano":"2011", "mes":"8", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572432659584", "data":"2011-08-17", "detalhamento":"CNPJ: 02.012.862/0001-60
+FORNECEDOR: TAM
+DOCUMENTO: 957 2432659584
+DATA: 17/08/2011
+PASSAGEIRO/TRECHO: FERRACO/RICARDO MR- (BSB x VIX)- 17/08/2011
+VALOR REEMBOLSADO: 630,66", 
+                            "valorReembolsado":"630.66", "codDocumento":"404019"}, {"ano":"2011", "mes":"8", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572432659541", "data":"2011-08-16", "detalhamento":"CNPJ: 02.012.862/0001-60
+FORNECEDOR: TAM
+DOCUMENTO: 957 2432659541
+DATA: 16/08/2011
+PASSAGEIRO/TRECHO: ROCHA/HAROLDO MR- (BSB x VIX)- 16/08/2011
+MATRÍCULA: 244998/1
+VALOR REEMBOLSADO: 630,66", 
+                            "valorReembolsado":"630.66", "codDocumento":"398241"}, {"ano":"2011", "mes":"8", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"2432279056", "data":"2011-08-15", "detalhamento":"CNPJ: 02.012.862/0001-60
+FORNECEDOR: TAM
+DOCUMENTO: 2432279056
+DATA: 15/08/2011
+PASSAGEIRO/TRECHO: FERRACO/RICARDO MR/ (VIX x BSB)- 15/08/2011
+VALOR REEMBOLSADO: 114,23", 
+                            "valorReembolsado":"114.23", "codDocumento":"398239"}, {"ano":"2011", "mes":"8", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"2431983389", "data":"2011-08-08", "detalhamento":"CNPJ: 02012862000160
+FORNECEDOR: TAM
+DOCUMENTO: 957 2431983389
+DATA: 08/08/2011
+PASSAGEIRO/TRECHO: FERRACO/RICARDO MR- (SDU x VIX)- 08/08/2011
+VALOR REEMBOLSO: 462,86", 
+                            "valorReembolsado":"462.86", "codDocumento":"404021"}, {"ano":"2011", "mes":"8", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"2431552953", "data":"2011-08-01", "detalhamento":"CNPJ: 02.012.862/0001-60
+FORNECEDOR: TAM
+DOCUMENTO: 2431552953
+DATA: 01/08/2011
+PASSAGEIRO/TRECHO: FERRACO/RICARDO-(VIX x CGH)-(cghxbsb) -  01/08/2011
+VALOR REEMBOLSADO: 854,89", 
+                            "valorReembolsado":"854.89", "codDocumento":"388120"}, {"ano":"2011", "mes":"8", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL", 
+                            "documento":"L6NGKV", "data":"2011-08-22", "detalhamento":"CNPJ: 07.575.651/0001-59
+FORNECEDOR: GOL
+DOCUMENTO: L6NGKV
+DATA: 22/08/2011
+PASSAGEIRO/TRECHO: FERRACO/RICARDO MR.- (VIX xBSB)- 22/08/2011
+VALOR REEMBOLSADO: 610,12", 
+                            "valorReembolsado":"610.12", "codDocumento":"404020"}, {"ano":"2011", "mes":"8", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"10528947000123", "fornecedor":"RPR-Locação e Serviços LTDA", 
+                            "documento":"00151", "data":"2011-08-16", "detalhamento":"null", 
+                            "valorReembolsado":"3500.0", "codDocumento":"401100"}, {"ano":"2011", "mes":"8", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"06175892000148", "fornecedor":"Comprocard Administradora de Cartões Ltda", 
+                            "documento":"8645", "data":"2011-08-01", "detalhamento":"null", 
+                            "valorReembolsado":"621.49", "codDocumento":"401096"}, {"ano":"2011", "mes":"8", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"34028316793260", "fornecedor":"ECT- EMP. BRAS. DE CORREIOS E TELEGRAFOS", 
+                            "documento":"00007", "data":"2011-08-22", "detalhamento":"null", 
+                            "valorReembolsado":"38.1", "codDocumento":"436645"}, {"ano":"2011", "mes":"8", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"27053735000130", "fornecedor":"Ebalmaq Comercio e Informática LTDA", 
+                            "documento":"00381", "data":"2011-08-09", "detalhamento":"null", 
+                            "valorReembolsado":"2045.0", "codDocumento":"401098"}, {"ano":"2011", "mes":"8", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"02449992008149", "fornecedor":"Vivo S.A", 
+                            "documento":"000212064/07/2011", "data":"2011-08-07", "detalhamento":"null", 
+                            "valorReembolsado":"325.56", "codDocumento":"401097"}, {"ano":"2011", "mes":"8", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"01472127749", "fornecedor":"Nadelson Ferreira", 
+                            "documento":"01", "data":"2011-08-31", "detalhamento":"null", 
+                            "valorReembolsado":"4000.0", "codDocumento":"401103"}, {"ano":"2011", "mes":"8", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"32459547000146", "fornecedor":"Ilha dos Móveis LTDA. ME", 
+                            "documento":"0097", "data":"2011-08-16", "detalhamento":"null", 
+                            "valorReembolsado":"3200.0", "codDocumento":"401102"}, {"ano":"2011", "mes":"8", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"02558157000324", "fornecedor":"Embratel", 
+                            "documento":"630", "data":"2011-08-10", "detalhamento":"null", 
+                            "valorReembolsado":"644.57", "codDocumento":"401099"}, {"ano":"2011", "mes":"7", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02428624000130", "fornecedor":"TRIP", 
+                            "documento":"1010415300", "data":"2011-07-26", "detalhamento":"CNPJ: 02.428.624/0001-30
+FORNECEDOR: TRIP
+DOCUMENTO: 1010415300
+DATA: 26/07/2011
+PASSAGEIRO/TRECHO: FERRACO/RICARDO MR-(VIX x SDU)- 26/07/2011
+VALOR REEMBOLSADO: 296,13", 
+                            "valorReembolsado":"296.13", "codDocumento":"388117"}, {"ano":"2011", "mes":"7", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02428624000130", "fornecedor":"TRIP", 
+                            "documento":"1010434690", "data":"2011-07-26", "detalhamento":"CNPJ: 02.428.624/0001-30
+FORNECEDOR: TRIP
+DOCUMENTO: 1010434690
+DATA: 26/07/2011
+PASSAGEIRO/TRECHO: FERRACO/RICARDO MR-(SDU x VIX)- 26/07/2011
+VALOR REEMBOLSADO: 270,56", 
+                            "valorReembolsado":"270.56", "codDocumento":"388116"}]}
