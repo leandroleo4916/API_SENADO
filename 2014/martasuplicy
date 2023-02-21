@@ -1,0 +1,42 @@
+{"gastosSenador": [{"ano":"2014", "mes":"12", "senador":"MARTA SUPLICY", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"957 2101447544", "data":"2014-12-16", "detalhamento":"PASSAGEIRO: SENADORA MARTA SUPLICY
+TRECHO: SAO PAULO / BRASILIA
+DATA: 16/12/2014", 
+                            "valorReembolsado":"1043.77", "codDocumento":"985559"}, {"ano":"2014", "mes":"12", "senador":"MARTA SUPLICY", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"957 2100783048", "data":"2014-12-11", "detalhamento":"PASSAGEIRO: SENADORA MARTA SUPLICY
+TRECHO: BRASILIA / SAO PAULO
+DATA: 11/12/2014", 
+                            "valorReembolsado":"652.13", "codDocumento":"985558"}, {"ano":"2014", "mes":"12", "senador":"MARTA SUPLICY", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"957 2100783036", "data":"2014-12-09", "detalhamento":"PASSAGEIRO: SENADORA MARTA SUPLICY
+TRECHO: SAO PAULO / BRASILIA
+DATA: 09/12/2014", 
+                            "valorReembolsado":"689.67", "codDocumento":"979545"}, {"ano":"2014", "mes":"12", "senador":"MARTA SUPLICY", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL LINHAS AEREAS", 
+                            "documento":"GY5HFI", "data":"2014-12-04", "detalhamento":"PASSAGEIRO: SENADORA MARTA SUPLICY
+TRECHO: BRASILIA / SAO PAULO
+DATA: 04/12/2014", 
+                            "valorReembolsado":"393.93", "codDocumento":"979546"}, {"ano":"2014", "mes":"11", "senador":"MARTA SUPLICY", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"957 2100005785", "data":"2014-11-25", "detalhamento":"PASSAGEIRO: SENADORA MARTA SUPLICY
+TRECHO: SAO PAULO / BRASILIA
+DATA: 25/11/2014", 
+                            "valorReembolsado":"1143.97", "codDocumento":"979540"}, {"ano":"2014", "mes":"11", "senador":"MARTA SUPLICY", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"957 2499248315", "data":"2014-11-20", "detalhamento":"PASSAGEIRO: SENADORA MARTA SUPLICY
+TRECHO: SAO PAULO / SALVADOR / SAO PAULO
+DATA: 20/11/2014", 
+                            "valorReembolsado":"2212.6", "codDocumento":"979536"}, {"ano":"2014", "mes":"11", "senador":"MARTA SUPLICY", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"957 2100005761", "data":"2014-11-19", "detalhamento":"PASSAGEIRO: SENADORA MARTA SUPLICY
+TRECHO: BRASILIA / SAO PAULO
+DATA: 19/11/2014
+", 
+                            "valorReembolsado":"1097.63", "codDocumento":"979539"}, {"ano":"2014", "mes":"11", "senador":"MARTA SUPLICY", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"95702100005739", "data":"2014-11-18", "detalhamento":"PASSAGEIRO: SENADORA MARTA SUPLICY
+TRECHO: SAO PAULO / BRASILIA
+DATA: 18/11/2014", 
+                            "valorReembolsado":"1044.86", "codDocumento":"979538"}]}

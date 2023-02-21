@@ -1,0 +1,2054 @@
+{"gastosSenador": [{"ano":"2014", "mes":"12", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957210222495101", "data":"2014-12-19", "detalhamento":"Passageiro: Magno Pereira Malta
+Cargo: Senador da República
+Trecho: São Paulo x Vitória
+Voo: JJ 3362
+Data: 19/12/2014
+Localizador: 7X3V3N", 
+                            "valorReembolsado":"1210.93", "codDocumento":"986212"}, {"ano":"2014", "mes":"12", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957210222441001", "data":"2014-12-18", "detalhamento":"Passageiro: Magno Malta
+Cargo: Senador da República
+Trecho: Brasília x São Paulo
+Voo: JJ 3717
+Data: 18/12/2014
+Localizador: 7XMBWI", 
+                            "valorReembolsado":"924.2", "codDocumento":"986211"}, {"ano":"2014", "mes":"12", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957210144595101", "data":"2014-12-09", "detalhamento":"Nome: Magno Pereira Malta
+Cargo: Senador da República
+Trecho: Vitória x Brasília
+Vôo: JJ3518
+Data: 09/12/2014
+Localizador: 7FT4LU", 
+                            "valorReembolsado":"1891.35", "codDocumento":"979741"}, {"ano":"2014", "mes":"12", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"9572101373280", "data":"2014-12-04", "detalhamento":"Passageiro: Magno Pereira Malta
+Cargo: Senador da República
+Trecho: Brasília x Vitória
+Voo: JJ 3519
+Data: 04/12/2014
+Localizador: 7DG4HW", 
+                            "valorReembolsado":"2483.63", "codDocumento":"979736"}, {"ano":"2014", "mes":"12", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"9572100930683", "data":"2014-12-04", "detalhamento":"Passageiro: Renato Paoliello
+Matrícula: 229950
+Cargo: Assistente Parlamentar
+Trecho: Vitória x Brasília
+Voo: JJ 3518
+Data: 04/12/2014
+Localizador: 7A38X6", 
+                            "valorReembolsado":"1830.95", "codDocumento":"979737"}, {"ano":"2014", "mes":"12", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"9572101342238", "data":"2014-12-03", "detalhamento":"Passageiro: Hazenclever Lopes Cançado
+Matrícula: 163263
+Cargo: Assessor Parlamentar
+Trecho: Brasília x Vitória
+Voo: JJ 3519
+Data: 03/12/2014
+Localizador: 7BJKNA", 
+                            "valorReembolsado":"2019.43", "codDocumento":"977103"}, {"ano":"2014", "mes":"12", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"9572101167918", "data":"2014-12-02", "detalhamento":"Passageiro: Magno Pereira Malta
+Cargo: Senador da República
+Trecho: Rio de Janeiro x Brasília
+Voo: JJ 3444
+Data: 02/12/2014
+Localizador: 68IX6I", 
+                            "valorReembolsado":"538.17", "codDocumento":"976335"}, {"ano":"2014", "mes":"12", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL LINHAS AÉREAS", 
+                            "documento":"null", "data":"2014-12-04", "detalhamento":"Passageiro: Hazenclever Lopes Cançado
+Matrícula: 163263
+Cargo: Assessor Parlamentar
+Trechos: Vitória x São Paulo x Brasília
+Voos: G3 1774 x G3 2092
+Data: 04/12/2014
+Localizador: OLZMHH", 
+                            "valorReembolsado":"1110.24", "codDocumento":"979735"}, {"ano":"2014", "mes":"12", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL LINHAS AÉREAS", 
+                            "documento":"12700265288471", "data":"2014-12-04", "detalhamento":"Passageiro: Renato Paoliello
+Matrícula: 229950
+Cargo: Assistente Parlamentar
+Trecho: Brasília x Rio de Janeiro x Vitória
+Voo: G3 1491 x G3 1644
+Data: 04/12/2014
+Localizador: MICHJA", 
+                            "valorReembolsado":"940.93", "codDocumento":"979738"}, {"ano":"2014", "mes":"12", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL LINHAS AÉREAS", 
+                            "documento":"12700264942107", "data":"2014-12-03", "detalhamento":"Passageiro: Diego Veloso
+Matrícula: 181575
+Cargo: Assistente Parlamentar
+Trechos: Vitória x Belo Horizonte x Brasília
+Voos: G3 1155 x G3 1084
+Data: 03/12/2014
+Localizador: PGYYPW", 
+                            "valorReembolsado":"1023.85", "codDocumento":"979739"}, {"ano":"2014", "mes":"12", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"01166046000148", "fornecedor":"POSTO TIBÉRIO LTDA.", 
+                            "documento":"4099", "data":"2014-12-16", "detalhamento":"Despesa com combustível: Aquisição de combustível para veículos utilizados na atividade parlamentar.", 
+                            "valorReembolsado":"2854.02", "codDocumento":"983283"}, {"ano":"2014", "mes":"12", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"01166046000148", "fornecedor":"POSTO TIBÉRIO LTDA", 
+                            "documento":"4160", "data":"2015-01-12", "detalhamento":"Despesa com combustível: Aquisição de combustível para veículos utilizados na atividade parlamentar referente ao mês de dezembro de 2015.", 
+                            "valorReembolsado":"3106.68", "codDocumento":"988478"}, {"ano":"2014", "mes":"12", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"01166046000148", "fornecedor":"POSTO TIBÉRIO LTDA", 
+                            "documento":"4076", "data":"2014-12-05", "detalhamento":"Despesa com combustível: Aquisição de combustível para veículos utilizados na atividade parlamentar.", 
+                            "valorReembolsado":"2213.85", "codDocumento":"979740"}, {"ano":"2014", "mes":"12", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"16097819000159", "fornecedor":"PARADIGMA DIGITAL", 
+                            "documento":"0034", "data":"2014-12-23", "detalhamento":"Despesa com serviço de mídia virtual.", 
+                            "valorReembolsado":"2815.0", "codDocumento":"986209"}, {"ano":"2014", "mes":"12", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"02592200000106", "fornecedor":"PREDILAR ASSES IMOB E FIN LTDA", 
+                            "documento":"017122014", "data":"2014-12-20", "detalhamento":"Despesa com imóvel político: Despesa com aluguel.", 
+                            "valorReembolsado":"2203.2", "codDocumento":"986210"}, {"ano":"2014", "mes":"12", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"03420926009342", "fornecedor":"GVT - Global Village Telecom S.A.", 
+                            "documento":"02198577260", "data":"2014-12-28", "detalhamento":"Despesa com imóvel político: Despesa com pagamento de conta telefônica.", 
+                            "valorReembolsado":"440.93", "codDocumento":"988475"}, {"ano":"2014", "mes":"12", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"28152650000171", "fornecedor":"ESCELSA - Espírito Santo Centrais Elétricas S.A.", 
+                            "documento":"null", "data":"2014-12-22", "detalhamento":"Despesa com imóvel político: Despesa com pagamento de conta de energia elétrica.", 
+                            "valorReembolsado":"248.23", "codDocumento":"988476"}, {"ano":"2014", "mes":"12", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"28151363000147", "fornecedor":"CESAN - Companhia Espírito Santense de Saneamento", 
+                            "documento":"null", "data":"2014-12-24", "detalhamento":"Despesa com imóvel político: Despesa com pagamento de conta de água.", 
+                            "valorReembolsado":"37.95", "codDocumento":"988477"}, {"ano":"2014", "mes":"11", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957210108459601", "data":"2014-11-30", "detalhamento":"Passageiro: Magno Pereira Malta
+Cargo: Senador da República
+Trecho: Vitória x Rio de Janeiro
+Voo: JJ 3167
+Data: 30/11/2014
+Localizador: 65YMW8", 
+                            "valorReembolsado":"604.24", "codDocumento":"976316"}, {"ano":"2014", "mes":"11", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"9572100929323", "data":"2014-11-27", "detalhamento":"Passageiro: Magno Pereira Malta
+Cargo: Senador da República
+Trecho: Brasília x Vitória
+Voo: JJ 3519
+Data: 27/11/2014
+Localizador: 6234A8", 
+                            "valorReembolsado":"2099.43", "codDocumento":"976315"}, {"ano":"2014", "mes":"11", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"9572100635777", "data":"2014-11-25", "detalhamento":"Passageiro: Magno Pereira Malta
+Cargo: Senador da República
+Trecho: Vitória x Brasília
+Voo: JJ 3230
+Data: 25/11/2014
+Localizador: 6VDX9E", 
+                            "valorReembolsado":"2012.35", "codDocumento":"972940"}, {"ano":"2014", "mes":"11", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957210050878301", "data":"2014-11-20", "detalhamento":"Passageiro: Magno Pereira Malta
+Cargo: Senador da República
+Trecho: Brasília x Vitória
+Voo: JJ 3519
+Data: 20/11/2014
+Localizador: 6QTB9R", 
+                            "valorReembolsado":"1740.07", "codDocumento":"972939"}, {"ano":"2014", "mes":"11", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"9572100166069", "data":"2014-11-18", "detalhamento":"Passageiro: Magno Pereira Malta
+Cargo: Senador da República
+Trecho: Maceió x Brasília
+Voo: JJ 3577
+Data: 18/11/2014
+Localizador: 6J2G6F", 
+                            "valorReembolsado":"797.07", "codDocumento":"970832"}, {"ano":"2014", "mes":"11", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"9572486756968", "data":"2014-11-13", "detalhamento":"Passageiro: Hazenclever Lopes Cançado
+Matrícula: 163263
+Cargo: Assessor Parlamentar
+Ida
+Trecho: Brasília x Vitória
+Voo: JJ 3519
+Data: 13/11/2014
+Volta
+Trecho: Vitória x Brasília
+Voo: JJ 3518
+Data: 16/11/2014
+Localizador: 27VXGL", 
+                            "valorReembolsado":"290.5", "codDocumento":"970831"}, {"ano":"2014", "mes":"11", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"9572499967474", "data":"2014-11-12", "detalhamento":"Passageiro: Magno Pereira Malta
+Cargo: Senador da República
+Trecho: Brasília x Vitória
+Voo: JJ 3519
+Data: 12/11/2014
+Localizador: 6DLKY9", 
+                            "valorReembolsado":"1836.83", "codDocumento":"970829"}, {"ano":"2014", "mes":"11", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"9572499826641", "data":"2014-11-11", "detalhamento":"Passageiro: Magno Pereira Malta
+Cargo: Senador da República
+Trecho: Vitória x Brasília
+Voo: JJ 3230
+Data: 11/11/2014
+Localizador: 59NEQR", 
+                            "valorReembolsado":"1424.4", "codDocumento":"969645"}, {"ano":"2014", "mes":"11", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"9572499615090", "data":"2014-11-08", "detalhamento":"Passageiro: Magno Pereira Malta
+Cargo: Senador da República
+Trecho: Rio de Janeiro x Recife
+Voo: JJ 3258
+Data: 08/11/2014
+Localizador: 536JCM", 
+                            "valorReembolsado":"820.07", "codDocumento":"969643"}, {"ano":"2014", "mes":"11", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"9572499334130", "data":"2014-11-05", "detalhamento":"Passageiro: Hazenclever Lopes Cançado
+Matrícula: 163263
+Cargo: Assessor Parlamentar
+Trecho: Brasília x Vitória
+Voo: JJ 3229
+Data: 05/11/2014
+Localizador: 5R2D3C", 
+                            "valorReembolsado":"1243.6", "codDocumento":"969640"}, {"ano":"2014", "mes":"11", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AEREAS", 
+                            "documento":"9572499434082", "data":"2014-11-04", "detalhamento":"Passageiro: Magno Pereira Malta
+Cargo: Senador da República
+Trecho: Rio de Janeiro x Brasília
+Voo: JJ 3820
+Data: 04/11/2014
+Localizador: 5W7PLK", 
+                            "valorReembolsado":"460.27", "codDocumento":"967687"}, {"ano":"2014", "mes":"11", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL LINHAS AÉREAS", 
+                            "documento":"12700262987139", "data":"2014-11-12", "detalhamento":"Passageiro: Diego Veloso
+Matrícula: 181575
+Cargo: Assistente Parlamentar
+Trecho: Vitória x Rio de Janeiro x Brasília
+Voos: G3 1637 x G3 1488
+Data: 12/11/2014
+Localizador: RJ66YA", 
+                            "valorReembolsado":"448.85", "codDocumento":"970830"}, {"ano":"2014", "mes":"11", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL LINHAS AÉREAS", 
+                            "documento":"1270001915256", "data":"2014-11-07", "detalhamento":"Passageiro: Magno Pereira Malta
+Cargo: Senador da República
+Trecho: Fortaleza x Rio de Janeiro
+Voo: G3 1541
+Data: 07/11/2014
+Localizador: LBYQNV", 
+                            "valorReembolsado":"1603.26", "codDocumento":"969644"}, {"ano":"2014", "mes":"11", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL LINHAS AÉREAS", 
+                            "documento":"1270001912270", "data":"2014-11-06", "detalhamento":"Passageiro: Hazenclever Lopes Cançado
+Matrícula: 163263
+Cargo: Assessor Parlamentar
+Trecho: Vitória x São Paulo x Brasília
+Voo: G3 1774 x G3 2092
+Data: 06/11/2014
+Localizador: NGZTUW", 
+                            "valorReembolsado":"529.85", "codDocumento":"969642"}, {"ano":"2014", "mes":"11", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL LINHAS AÉREAS", 
+                            "documento":"9690001867196", "data":"2014-11-05", "detalhamento":"Passageiro: Magno Pereira Malta
+Cargo: Senador da República
+Trecho: Brasília x Fortaleza
+Voo: G3 1674
+Data: 05/11/2014
+Localizador: UCHUJS", 
+                            "valorReembolsado":"1975.81", "codDocumento":"969641"}, {"ano":"2014", "mes":"11", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL LINHAS AEREAS", 
+                            "documento":"1270001910601", "data":"2014-11-04", "detalhamento":"Passageiro: Magno Pereira Malta
+Cargo: Senador da República
+Trecho: Vitória x Rio de Janeiro
+Voo: G3 1695
+Data: 04/11/2014
+Localizador: RCNL4P", 
+                            "valorReembolsado":"742.54", "codDocumento":"967686"}, {"ano":"2014", "mes":"11", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"38000782000131", "fornecedor":"SERTÃO E MAR RESTAURANTE", 
+                            "documento":"120515", "data":"2014-11-26", "detalhamento":"Despesa com refeição: despesa com refeição e bebidas não alcoólicas para o parlamentar.", 
+                            "valorReembolsado":"227.0", "codDocumento":"976320"}, {"ano":"2014", "mes":"11", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"01166046000148", "fornecedor":"POSTO TIBÉRIO LTDA", 
+                            "documento":"4027", "data":"2014-11-19", "detalhamento":"Despesa com combustível: Aquisição de combustível para veículos utilizados na atividade parlamentar.", 
+                            "valorReembolsado":"2098.38", "codDocumento":"976321"}, {"ano":"2014", "mes":"11", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"01166046000148", "fornecedor":"POSTO TIBÉRIA LTDA", 
+                            "documento":"4008", "data":"2014-11-13", "detalhamento":"Despesa com combustível: Aquisição de combustível para veículos utilizados na atividade parlamentar.", 
+                            "valorReembolsado":"2415.77", "codDocumento":"970828"}, {"ano":"2014", "mes":"11", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Divulgação da atividade parlamentar", "cnpjCpf":"27252147000125", "fornecedor":"GRÁFICA E EDITORA JEP LTDA", 
+                            "documento":"6165", "data":"2014-12-04", "detalhamento":"Despesa com divulgação da atividade parlamentar: Divulgação da atividade parlamentar no jornal.", 
+                            "valorReembolsado":"13200.36", "codDocumento":"979734"}, {"ano":"2014", "mes":"11", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"16097819000159", "fornecedor":"PARADIGMA DIGITAL", 
+                            "documento":"0033", "data":"2014-11-25", "detalhamento":"Despesa com serviço de mídia virtual.", 
+                            "valorReembolsado":"2815.0", "codDocumento":"972938"}, {"ano":"2014", "mes":"11", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"02592200000106", "fornecedor":"Predilar Assessoria Imobiliária e Financeira Ltda", 
+                            "documento":"null", "data":"2014-11-20", "detalhamento":"Despesa com aluguel", 
+                            "valorReembolsado":"2013.2", "codDocumento":"965602"}, {"ano":"2014", "mes":"11", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"03420926009342", "fornecedor":"GVT", 
+                            "documento":"02135330870", "data":"2014-11-28", "detalhamento":"Despesa com imóvel político: Despesa com pagamento de conta telefônica.", 
+                            "valorReembolsado":"443.93", "codDocumento":"976319"}, {"ano":"2014", "mes":"11", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"28152650000171", "fornecedor":"ESCELSA", 
+                            "documento":"null", "data":"2014-11-21", "detalhamento":"Despesa com imóvel político: Despesa com pagamento de conta de energia elétrica.", 
+                            "valorReembolsado":"219.31", "codDocumento":"976318"}, {"ano":"2014", "mes":"11", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"28151363000147", "fornecedor":"CESAN", 
+                            "documento":"null", "data":"2014-12-03", "detalhamento":"Despesa com imóvel político: Despesa com pagamento de conta de água.", 
+                            "valorReembolsado":"24.3", "codDocumento":"976317"}, {"ano":"2014", "mes":"10", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"9572495824808", "data":"2014-10-18", "detalhamento":"Passageiro: Magno Pereira Malta
+Cargo: Senador da República
+Trecho1: Vitória x São Paulo
+Voo: JJ 3375
+Data: 18/10/2014
+Trecho2: São Paulo x Vitória
+Voo: JJ 3362
+Data: 26/10/2014
+Localizador: 2VJJAA", 
+                            "valorReembolsado":"364.98", "codDocumento":"964604"}, {"ano":"2014", "mes":"10", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"9572498326315", "data":"2014-10-15", "detalhamento":"Passageiro: Magno Malta
+Cargo: Senador da República
+Trecho: Brasília x Rio de Janeiro
+Voo: JJ 3821
+Data: 15/10/2014
+Localizador: 4W733S
+", 
+                            "valorReembolsado":"650.28", "codDocumento":"964599"}, {"ano":"2014", "mes":"10", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AEREAS", 
+                            "documento":"9572499334110", "data":"2014-10-31", "detalhamento":"Passageiro: Magno Pereira Malta
+Cargo: Senador da República
+Trecho: São Paulo x Vitória
+Voo: JJ 3132
+Data: 31/10/2014
+Localizador: 5RA78X", 
+                            "valorReembolsado":"1857.99", "codDocumento":"966799"}, {"ano":"2014", "mes":"10", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AEREAS", 
+                            "documento":"957 2498916266", "data":"2014-10-24", "detalhamento":"Passageiro: Magno Pereira Malta
+Cargo: Senador da República
+Trecho: Vitória x Brasília
+Vôo: JJ 3230
+Data: 28/10/2014
+Localizador: 5G5BGR", 
+                            "valorReembolsado":"1252.25", "codDocumento":"964608"}, {"ano":"2014", "mes":"10", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AEREAS", 
+                            "documento":"957 2497890952", "data":"2014-10-07", "detalhamento":"Passageiro: Elza Helena Suhett Silva
+Matrícula:174881
+Trecho: Brasília x Vitória
+Vôo: JJ 3519
+Data: 29/10/2014
+Localizador: 4MAYB8
+", 
+                            "valorReembolsado":"499.03", "codDocumento":"964610"}, {"ano":"2014", "mes":"10", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"957249743515601", "data":"2014-10-06", "detalhamento":"Passageiro: Hazenclever Lopes Cançado
+Matrícula: 163263
+Cargo: SF02
+Trecho: Brasília x Vitória
+Vôo: JJ3519
+Data: 06/10/201
+Localizador: 38VHFT", 
+                            "valorReembolsado":"1258.03", "codDocumento":"958866"}, {"ano":"2014", "mes":"10", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL LINHAS AÉREAS", 
+                            "documento":"9690001852713", "data":"2014-10-15", "detalhamento":"Passageiro: Magno Malta
+Cargo: Senador da República
+Trecho: Rio de Janeiro x Vitória
+Voo: G3 1698
+Data: 15/10/2014
+Localizador: W7T44B", 
+                            "valorReembolsado":"569.96", "codDocumento":"964600"}, {"ano":"2014", "mes":"10", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL LINHAS AÉREAS", 
+                            "documento":"9690001848427", "data":"2014-10-08", "detalhamento":"Passageiro: Hazenclever Lopes Cançado
+Matrícula: 163263
+Cargo: Assessor Parlamentar
+Trecho: Vitória x Rio de Janeiro x Brasília
+Voo: G3 1643 x G3 1494
+Data: 08/10/2014
+Localizador: SBE1HV", 
+                            "valorReembolsado":"1499.64", "codDocumento":"959845"}, {"ano":"2014", "mes":"10", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL LINHAS AEREAS", 
+                            "documento":"1270001910656", "data":"2014-10-30", "detalhamento":"Passageiro: Magno Pereira Malta
+Cargo: Senador da República
+Trecho: Brasília x São Paulo
+Voo: G3 1411
+Data: 30/10/2014
+Localizador: W7VE4B", 
+                            "valorReembolsado":"418.93", "codDocumento":"966798"}, {"ano":"2014", "mes":"10", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL", 
+                            "documento":"969 0001845684", "data":"2014-10-03", "detalhamento":"Passageiro: Magno Malta
+Cargo: Senador da República
+Trecho: Rio de Janeiro x Vitória
+Vôo: G3 1698
+Data: 03/10/2014
+Localizador: NH2GGD", 
+                            "valorReembolsado":"1183.76", "codDocumento":"958865"}, {"ano":"2014", "mes":"10", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"09296295000160", "fornecedor":"AZUL LINHAS AÉREAS", 
+                            "documento":"null", "data":"2014-10-16", "detalhamento":"Passageiro: Hazenclever Lopes Cançado
+Matrícula: 163263
+Cargo: Assessor Parlamentar
+Trecho: Vitória x Belo Horizonte x Brasília
+Voo: AD 2523 x AD 2428
+Data: 16/10/2014
+Localizador: SC3K5Q", 
+                            "valorReembolsado":"475.68", "codDocumento":"964601"}, {"ano":"2014", "mes":"10", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"09296295000160", "fornecedor":"AZUL LINHAS AÉREAS", 
+                            "documento":"2220005537691", "data":"2014-10-14", "detalhamento":"Passageiro: Diego Ferreira
+Matrícula: 181575
+Cargo: Assistente Parlamentar
+Trecho: Brasília x Belo Horizonte x Vitória
+Voo: AD 4431 x AD 5047
+Data: 14/10/2014
+Localizador: F4MW8V", 
+                            "valorReembolsado":"571.71", "codDocumento":"959847"}, {"ano":"2014", "mes":"10", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"09296295000160", "fornecedor":"AZUL LINHAS AÉREAS", 
+                            "documento":"A7CJ7M", "data":"2014-10-14", "detalhamento":"Passageiro: Hazenclever Lopes Cançado
+Matrícula: 163263
+Cargo: Assessor Parlamentar
+Trecho: Brasília x Belo Horizonte x Vitória
+Voo: AD 9176 X AD 5078
+Data: 14/10/2014
+Localizador: A7CJ7M", 
+                            "valorReembolsado":"516.2", "codDocumento":"959846"}, {"ano":"2014", "mes":"10", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"09296295000160", "fornecedor":"AZUL LINHAS AÉREAS", 
+                            "documento":"2220005499352", "data":"2014-10-02", "detalhamento":"Passageiro: Magno Pereira Malta
+Cargo: Senador da República
+Trecho: Vitória x Belo Horizonte x Brasília
+Voo: AD 2525 x AD 4950
+Data: 02/10/2014
+Localizador: XDGJXQ", 
+                            "valorReembolsado":"886.43", "codDocumento":"957591"}, {"ano":"2014", "mes":"10", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"09296295000160", "fornecedor":"AZUL LINHAS AEREAS", 
+                            "documento":"null", "data":"2014-10-29", "detalhamento":"Passageiro: Elza Helena Suhett Silva
+Matrícula:174881
+Trecho: Vitória x Belo Horizonte x Brasília
+Vôo: AD 2525 / AD 4950
+Data: 29/10/2014
+Localizador: UGDQ7E
+", 
+                            "valorReembolsado":"289.85", "codDocumento":"964609"}, {"ano":"2014", "mes":"10", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"09296295000160", "fornecedor":"AZUL LINHAS AEREAS", 
+                            "documento":"2220005535921", "data":"2014-10-02", "detalhamento":"Passageiro: Valdenilson Santos
+Matrícula: 199683
+Cargo: Assistente Parlamentar
+Trecho: Vitória x Belo Horizonte x Brasília
+Voo: AD 2525 x AD 4950
+Data: 02/10/2014
+Localizador: FEP47U", 
+                            "valorReembolsado":"826.43", "codDocumento":"957590"}, {"ano":"2014", "mes":"10", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"09296295000160", "fornecedor":"AZUL", 
+                            "documento":"222-0005536368", "data":"2014-10-02", "detalhamento":"Passageiro: Valdenilson Santos
+Matrícula: 199683
+Cargo: SF02
+Trecho: Brasília x Belo Horizonte x Vitória
+Vôo: AD9176 / AD2522
+Data: 03/10/2014
+Localizador: Z8QDMP", 
+                            "valorReembolsado":"833.51", "codDocumento":"958863"}, {"ano":"2014", "mes":"10", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"09296295000160", "fornecedor":"AZUL", 
+                            "documento":"null", "data":"2014-10-02", "detalhamento":"Passageiro: Hazenclever Lopes Cançado
+Matrícula: 163263
+Cargo: SF02
+Trecho: Vitória x Belo Horizonte x Brasília
+Vôo: AD 2523 / AD 2428
+Data: 02/10/2014
+Localizador: ZE62VA", 
+                            "valorReembolsado":"561.48", "codDocumento":"958867"}, {"ano":"2014", "mes":"10", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02575829000148", "fornecedor":"AVIANCA", 
+                            "documento":"247 2412715001", "data":"2014-10-02", "detalhamento":"Passageiro: Magno Malta
+Cargo: Senador da República
+Trecho: Brasília x Rio de Janeiro
+Vôo: O6 6217
+Data: 03/10/2014
+Localizador: 4E65QN", 
+                            "valorReembolsado":"313.03", "codDocumento":"958864"}, {"ano":"2014", "mes":"10", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"01166046000148", "fornecedor":"POSTO TIBÉRIO LTDA", 
+                            "documento":"3951", "data":"2014-10-21", "detalhamento":"Despesa com combustível: Aquisição de combustível para veículos utilizados na atividade parlamentar.", 
+                            "valorReembolsado":"2284.76", "codDocumento":"964602"}, {"ano":"2014", "mes":"10", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"01166046000148", "fornecedor":"Posto Tibério", 
+                            "documento":"000003921", "data":"2014-10-07", "detalhamento":"Aquisição de combustível para veículos utilizados na atividade parlamentar", 
+                            "valorReembolsado":"2277.03", "codDocumento":"958862"}, {"ano":"2014", "mes":"10", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Divulgação da atividade parlamentar", "cnpjCpf":"27252147000125", "fornecedor":"GRÁFICA E EDITORA JEP", 
+                            "documento":"6101", "data":"2014-11-03", "detalhamento":"Divulgação da atividade parlamentar em jornais.", 
+                            "valorReembolsado":"2004.9", "codDocumento":"966797"}, {"ano":"2014", "mes":"10", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"16097819000159", "fornecedor":"PARADIGMA DIGITAL", 
+                            "documento":"0032", "data":"2014-10-25", "detalhamento":"Despesa com serviço de mídia virtual.", 
+                            "valorReembolsado":"2815.0", "codDocumento":"964603"}, {"ano":"2014", "mes":"10", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"02592200000106", "fornecedor":"PREDILAR ASSES IMOB E FIN LTDA", 
+                            "documento":"017102014", "data":"2014-10-25", "detalhamento":"Despesa com imóvel político: Despesa com pagamento de aluguel.", 
+                            "valorReembolsado":"2013.2", "codDocumento":"956020"}, {"ano":"2014", "mes":"10", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"03420926009342", "fornecedor":"GVT", 
+                            "documento":"null", "data":"2014-10-28", "detalhamento":"Despesa com imóvel político: pagamento de telefone", 
+                            "valorReembolsado":"454.72", "codDocumento":"964607"}, {"ano":"2014", "mes":"10", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"28152650000171", "fornecedor":"ESCELSA", 
+                            "documento":"null", "data":"2014-10-22", "detalhamento":"Despesa com imóvel político: pagamento de energia elétrica", 
+                            "valorReembolsado":"259.41", "codDocumento":"964606"}, {"ano":"2014", "mes":"10", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"28151363000147", "fornecedor":"CESAN", 
+                            "documento":"null", "data":"2014-11-03", "detalhamento":"Despesa com imóvel político: pagamento de água", 
+                            "valorReembolsado":"29.84", "codDocumento":"964605"}, {"ano":"2014", "mes":"9", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"9572495525168", "data":"2014-09-15", "detalhamento":"Passageiro: Hazenclever Lopes Cançado
+Matrícula: 163263
+Cargo: Assessor Parlamentar
+Trecho: Brasília x Vitória
+Voo: JJ 3519
+Data: 15/09/2014
+Localizador: 2L6KV9", 
+                            "valorReembolsado":"446.03", "codDocumento":"953665"}, {"ano":"2014", "mes":"9", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AEREAS", 
+                            "documento":"9572495322153", "data":"2014-11-09", "detalhamento":"Passageiro: Everton Ramos
+Matrícula: 269879
+Cargo: Assistente Parlamentar
+Trecho: Brasília x Vitória
+Voo: JJ 3519
+Data: 09/09/2014
+Localizador: 2FCJUL", 
+                            "valorReembolsado":"446.03", "codDocumento":"952232"}, {"ano":"2014", "mes":"9", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AEREAS", 
+                            "documento":"9572496216639", "data":"2014-09-29", "detalhamento":"Passageiro: Hazenclever Lopes Cançado
+Matrícula: 163263
+Cargo: Assessor Parlamentar
+Trecho: Brasília x Vitória
+Voo: JJ 3519
+Data: 29/09/2014
+Localizador: 28C63U", 
+                            "valorReembolsado":"446.03", "codDocumento":"957586"}, {"ano":"2014", "mes":"9", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AEREAS", 
+                            "documento":"9572496216528", "data":"2014-09-22", "detalhamento":"Passageiro: Hazenclever Lopes Cançado
+Matrícula: 163263
+Cargo: Assessor Parlamentar
+Trecho: Brasília x Vitória
+Voo: JJ 3519
+Data: 22/09/2014
+Localizador: 28PIKU", 
+                            "valorReembolsado":"1118.03", "codDocumento":"954948"}, {"ano":"2014", "mes":"9", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AEREAS", 
+                            "documento":"9572496152286", "data":"2014-09-11", "detalhamento":"Passageiro: Hazenclever Lopes Cançado
+Matrícula: 163263
+Cargo: Assessor Parlamentar
+Trecho: Vitória x Brasília
+Voo: JJ 3230
+Data: 11/09/2014
+Localizador: 25ZPJY", 
+                            "valorReembolsado":"1693.95", "codDocumento":"952233"}, {"ano":"2014", "mes":"9", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AEREAS", 
+                            "documento":"9572495322152", "data":"2014-09-09", "detalhamento":"Passageiro: Paulo Borchardt
+Matrícula: 269880
+Cargo: Assistente Parlamentar
+Trecho: Brasília x Vitória
+Voo: JJ 3519
+Data: 09/09/2014
+Localizador: 2FCJUL", 
+                            "valorReembolsado":"446.03", "codDocumento":"952231"}, {"ano":"2014", "mes":"9", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AEREAS", 
+                            "documento":"9572495525289", "data":"2014-09-08", "detalhamento":"Passageiro: Hazenclever Lopes Cançado
+Matrícula: 163263
+Cargo: Assessor Parlamentar
+Trecho: Brasília x Vitória
+Voo: JJ 3519
+Data: 08/09/2014
+Localizador: 2LRI8D", 
+                            "valorReembolsado":"1878.03", "codDocumento":"952229"}, {"ano":"2014", "mes":"9", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AEREAS", 
+                            "documento":"9572495721477", "data":"2014-09-03", "detalhamento":"Passageiro: Magno Pereira Malta
+Cargo: Senador da República
+Trecho: Brasília x Vitória
+Voo: JJ 3519
+Data: 03/09/2014
+Localizador: 2UL8UC", 
+                            "valorReembolsado":"1780.73", "codDocumento":"952228"}, {"ano":"2014", "mes":"9", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AEREAS", 
+                            "documento":"9572495525060", "data":"2014-09-01", "detalhamento":"Passageiro: Hazenclever Lopes Cançado
+Matrícula: 163263
+Cargo: Assessor Parlamentar
+Trecho: Brasília x Vitória
+Voo: JJ 3519
+Data: 01/09/2014
+Localizador: 2LYTNH", 
+                            "valorReembolsado":"1431.03", "codDocumento":"950036"}, {"ano":"2014", "mes":"9", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL LINHAS AÉREAS", 
+                            "documento":"null", "data":"2014-09-24", "detalhamento":"Passageiro: Hazenclever Lopes Cançado
+Cargo: Assessor Parlamentar
+Matrícula: 163263
+Trecho: Vitória x Rio de Janeiro x Brasília
+Voos: G3 1643 x G3 1494
+Data: 24/09/2014
+Localizador: FEK6KW", 
+                            "valorReembolsado":"1276.85", "codDocumento":"957585"}, {"ano":"2014", "mes":"9", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL LINHAS AÉREAS", 
+                            "documento":"523432291", "data":"2014-09-17", "detalhamento":"Passageiro: Magno Pereira Malta
+Cargo: Senador da República
+Trecho: Rio de Janeiro x Brasília
+Voo: G3 1626
+Data: 17/09/2014
+Localizador: HF2P6G", 
+                            "valorReembolsado":"240.27", "codDocumento":"953667"}, {"ano":"2014", "mes":"9", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL LINHAS AÉREAS", 
+                            "documento":"9690001834219", "data":"2014-09-16", "detalhamento":"Passageiro: Magno Pereira Malta
+Cargo: Senador da República
+Trecho: Vitória x Rio de Janeiro
+Voo: G3 1637
+Data: 16/09/2014
+Localizador: O9CN4Y", 
+                            "valorReembolsado":"529.44", "codDocumento":"953666"}, {"ano":"2014", "mes":"9", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL LINHAS AEREAS", 
+                            "documento":"9690001836424", "data":"2014-09-19", "detalhamento":"Passageiro: Magno Pereira Malta
+Cargo: Senador da República
+Trecho: Navegantes x Rio de Janeiro x Vitória
+Voo: G3 1919 x G3 1698
+Data: 19/09/2014
+Localizador: KI66WA", 
+                            "valorReembolsado":"1275.24", "codDocumento":"954946"}, {"ano":"2014", "mes":"9", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"09296295000160", "fornecedor":"AZUL LINHAS AÉREAS", 
+                            "documento":"2220001886172", "data":"2014-09-19", "detalhamento":"Passageiro: Diego Ferreira
+Matrícula: 181575
+Cargo: Assistente Parlamentar
+Trecho: Vitória x Belo Horizonte x Brasília
+Voo: AD 2523 x AD 4950
+Data: 19/09/2014
+Localizador: DDHC5X", 
+                            "valorReembolsado":"603.13", "codDocumento":"954945"}, {"ano":"2014", "mes":"9", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"09296295000160", "fornecedor":"AZUL LINHAS AÉREAS", 
+                            "documento":"2220005525536", "data":"2014-09-18", "detalhamento":"Passageiro: Hazenclever Lopes Cançado
+Matrícula: 163263
+Cargo: Assessor Parlamentar
+Trecho: Vitória x Belo Horizonte x Brasília
+Voo: AD 2523 x AD 2428
+Data: 18/09/2014
+Localizador: MBZNSG", 
+                            "valorReembolsado":"442.69", "codDocumento":"953668"}, {"ano":"2014", "mes":"9", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"09296295000160", "fornecedor":"AZUL LINHAS AEREAS", 
+                            "documento":"2220005493723", "data":"2014-09-19", "detalhamento":"Passageiro: Magno Pereira Malta
+Cargo: Senador da República
+Trecho: Brasília x São Paulo x Navegantes
+Voo: AD 4151 x AD 4001
+Data: 19/09/2014
+Localizador: RY1NVJ", 
+                            "valorReembolsado":"1490.2", "codDocumento":"954947"}, {"ano":"2014", "mes":"9", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"38000782000131", "fornecedor":"SERTÃO E MAR RESTAURANTE", 
+                            "documento":"10943", "data":"2014-09-03", "detalhamento":"Despesa com refeição e bebidas não alcoólicas para o parlamentar.", 
+                            "valorReembolsado":"160.0", "codDocumento":"952230"}, {"ano":"2014", "mes":"9", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"01166046000148", "fornecedor":"POSTO TIBÉRIO LTDA", 
+                            "documento":"3867", "data":"2014-09-22", "detalhamento":"Despesa com combustível: Aquisição de combustível para veículos utilizados na atividade parlamentar.", 
+                            "valorReembolsado":"2385.04", "codDocumento":"954949"}, {"ano":"2014", "mes":"9", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"01166046000148", "fornecedor":"POSTO TIBÉRIO LTDA", 
+                            "documento":"3825", "data":"2014-09-02", "detalhamento":"Despesa com combustível: Aquisição de combustível para veículos utilizados na atividade parlamentar.", 
+                            "valorReembolsado":"1960.72", "codDocumento":"950037"}, {"ano":"2014", "mes":"9", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Divulgação da atividade parlamentar", "cnpjCpf":"27252147000125", "fornecedor":"GRÁFICA E EDITORA JEP LTDA", 
+                            "documento":"6017", "data":"2014-10-02", "detalhamento":"Despesa com divulgação da atividade parlamentar: Divulgação da atividade parlamentar em jornal, referente ao mês de setembro/14.", 
+                            "valorReembolsado":"3300.0", "codDocumento":"957587"}, {"ano":"2014", "mes":"9", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"16097819000159", "fornecedor":"PARADIGMA DIGITAL", 
+                            "documento":"0031", "data":"2014-09-25", "detalhamento":"Despesa com serviço de mídia virtual.", 
+                            "valorReembolsado":"2815.0", "codDocumento":"957588"}, {"ano":"2014", "mes":"9", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"02592200000106", "fornecedor":"PREDILAR ASSES IMOB E FIN LTDA", 
+                            "documento":"null", "data":"2014-09-25", "detalhamento":"Despesa com imóvel político: Despesa com aluguel.", 
+                            "valorReembolsado":"2013.2", "codDocumento":"948137"}, {"ano":"2014", "mes":"9", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"03420926009342", "fornecedor":"GVT - GLOBAL VILLAGE TELECOM S.A", 
+                            "documento":"02006537200", "data":"2014-09-28", "detalhamento":"Despesa com imóvel político: Despesa com pagamento de conta telefônica.", 
+                            "valorReembolsado":"519.2", "codDocumento":"954950"}, {"ano":"2014", "mes":"9", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"28152650000171", "fornecedor":"ESPÍRITO SANTO CENTRAIS ELÉTRICAS S.A", 
+                            "documento":"168465", "data":"2014-09-22", "detalhamento":"Despesa com imóvel político: Despesa com pagamento de conta de energia elétrica.", 
+                            "valorReembolsado":"207.28", "codDocumento":"954952"}, {"ano":"2014", "mes":"9", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"28151363000147", "fornecedor":"CESAN - Companhia Espírito Santense de Saneamento", 
+                            "documento":"null", "data":"2014-10-03", "detalhamento":"Despesa com imóvel político: Despesa com pagamento de conta de água", 
+                            "valorReembolsado":"48.22", "codDocumento":"954951"}, {"ano":"2014", "mes":"8", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AEREAS", 
+                            "documento":"9572495408492", "data":"2014-08-28", "detalhamento":"Passageiro: Hazenclever Lopes Cançado
+Matrícula: 163263
+Cargo: Assessor Parlamentar
+Trecho: Vitória x Brasília
+Voo: JJ 3230
+Data: 28/08/2014
+Localizador: 2HYGBE", 
+                            "valorReembolsado":"1613.95", "codDocumento":"950035"}, {"ano":"2014", "mes":"8", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AEREAS", 
+                            "documento":"9572495180159", "data":"2014-08-25", "detalhamento":"Passageiro: Hazenclever Lopes Cançado
+Matrícula: 163263
+Cargo: Assessor Parlamentar
+Trecho: Brasília x Vitória
+Voo: JJ 3519
+Data: 25/08/2014
+Localizador: 2BV3PL", 
+                            "valorReembolsado":"1621.03", "codDocumento":"950034"}, {"ano":"2014", "mes":"8", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AEREAS", 
+                            "documento":"9572495023037", "data":"2014-08-21", "detalhamento":"Passageiro: Magno Pereira Malta
+Cargo: Senador da República
+Trecho: Brasília x Vitória
+Voo: JJ 3229
+Data: 21/08/2014
+Localizador: Z8T9PZ", 
+                            "valorReembolsado":"1619.55", "codDocumento":"948125"}, {"ano":"2014", "mes":"8", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AEREAS", 
+                            "documento":"9572495074895", "data":"2014-08-21", "detalhamento":"Passageiro: Valdenilson Lima
+Matrícula: 199683
+Cargo: Assistente Parlamentar
+Trecho: Brasília x Vitória
+Voo: JJ 3229
+Data: 21/08/2014
+Localizador: Z74VR9", 
+                            "valorReembolsado":"1619.55", "codDocumento":"948124"}, {"ano":"2014", "mes":"8", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AEREAS", 
+                            "documento":"9572494961087", "data":"2014-08-20", "detalhamento":"Passageiro: Magno Pereira Malta
+Cargo: Senador da República
+Trecho: Vitória x Brasília
+Voo: JJ 3518
+Data: 20/08/2014
+Localizador: Z59MWY", 
+                            "valorReembolsado":"1863.85", "codDocumento":"948122"}, {"ano":"2014", "mes":"8", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AEREAS", 
+                            "documento":"9572494926871", "data":"2014-08-20", "detalhamento":"Passageiro: Valdenilson Lima
+Matrícula:199683
+Cargo: Assistente Parlamentar
+Trecho: Vitória x Brasília
+Voo: JJ 3518
+Data: 20/08/2014
+Localizador: Z6CTIZ", 
+                            "valorReembolsado":"1751.29", "codDocumento":"948121"}, {"ano":"2014", "mes":"8", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AEREAS", 
+                            "documento":"9572494712451", "data":"2014-08-18", "detalhamento":"Passageiro: Hazenclever Lopes Cançado
+Matrícula: 163263
+Cargo: Assessor Parlamentar
+Trecho: Brasília x Vitória
+Voo: JJ 3519
+Data: 18/08/2014
+Localizador: ZUKTH6", 
+                            "valorReembolsado":"1313.55", "codDocumento":"948120"}, {"ano":"2014", "mes":"8", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AEREAS", 
+                            "documento":"9572494508006", "data":"2014-08-12", "detalhamento":"Passageiro: Magno Pereira Malta
+Cargo: Senador da República
+Trecho: Vitória x São Paulo
+Voo: JJ 3131
+Data: 12/08/2014
+Localizador: ZRBSWA", 
+                            "valorReembolsado":"1273.95", "codDocumento":"947258"}, {"ano":"2014", "mes":"8", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AEREAS", 
+                            "documento":"9572494560139", "data":"2014-08-11", "detalhamento":"Passageiro: Hazenclever Lopes Cançado
+Matrícula: 163263
+Cargo: Assessor Parlamentar
+Trecho: Brasília x Vitória
+Voo: JJ 3519
+Data: 11/08/2014
+Localizador: ZRLGH5", 
+                            "valorReembolsado":"1488.55", "codDocumento":"947257"}, {"ano":"2014", "mes":"8", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AEREAS", 
+                            "documento":"9572494307536", "data":"2014-08-07", "detalhamento":"Passageiro: Magno Pereira Malta
+Cargo: Senador da República
+Trecho: Vitória x São Paulo x Cuiabá
+Voo: JJ 3375 x JJ 3630
+Data: 07/08/2014
+Localizador: ZLAAP4", 
+                            "valorReembolsado":"2036.45", "codDocumento":"945406"}, {"ano":"2014", "mes":"8", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AEREAS", 
+                            "documento":"null", "data":"2014-08-04", "detalhamento":"Passageiro: Hazenclever Lopes Cançado
+Cargo: Assessor Parlamentar
+Matrícula: 163263
+Trecho: Brasília x Vitória
+Voo:  JJ 3519
+Data: 04/08/2014
+Localizador: ZCMMM9", 
+                            "valorReembolsado":"1313.55", "codDocumento":"944459"}, {"ano":"2014", "mes":"8", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL LINHAS AEREAS", 
+                            "documento":"IHF2YQ", "data":"2014-08-21", "detalhamento":"Passageiro: Hazenclever Lopes Cançado
+Matrícula: 163263
+Cargo: Assessor Parlamentar
+Trecho: Vitória x São Paulo x Brasília
+Voos: G3 1774 x G3 2092
+Data: 21/08/2014
+Localizador: IHF2YQ", 
+                            "valorReembolsado":"1049.85", "codDocumento":"948123"}, {"ano":"2014", "mes":"8", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL LINHAS AEREAS", 
+                            "documento":"1270001870228", "data":"2014-08-18", "detalhamento":"Passageiro: Magno Pereira Malta
+Cargo: Senador da República
+Trecho: Rio de Janeiro x Vitória
+Voo: G3 1644
+Data: 18/08/2014
+Localizador: PGGK3D", 
+                            "valorReembolsado":"669.36", "codDocumento":"947260"}, {"ano":"2014", "mes":"8", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL LINHAS AEREAS", 
+                            "documento":"1270001864803", "data":"2014-08-09", "detalhamento":"Passageiro: Magno Pereira Malta
+Cargo: Senador da República
+Trecho: Brasília x Rio de Janeiro x Vitória
+Voo: G3 1491 x G3 1644
+Data: 09/08/2014
+Localizador: E98IYL", 
+                            "valorReembolsado":"631.84", "codDocumento":"945410"}, {"ano":"2014", "mes":"8", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL LINHAS AEREAS", 
+                            "documento":"1270001864809", "data":"2014-08-09", "detalhamento":"Passageiro: Valdenilson Santos
+Matrícula: 199683
+Cargo: Assistente Parlamentar
+Trecho: Brasília x Rio de Janeiro x Vitória
+Voo: G3 1491 x G3 1644
+Data: 09/08/2014
+Localizador: MLTGJR", 
+                            "valorReembolsado":"631.84", "codDocumento":"945409"}, {"ano":"2014", "mes":"8", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL LINHAS AEREAS", 
+                            "documento":"null", "data":"2014-08-02", "detalhamento":"Passageiro: Magno Pereira Malta
+Cargo: Senador da República
+Trecho: Rio de Janeiro x Vitória
+Voo: G3 1634
+Data: 02/08/2014
+Localizador: V9NNJL", 
+                            "valorReembolsado":"616.47", "codDocumento":"944458"}, {"ano":"2014", "mes":"7", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"02558157000162", "fornecedor":"VIVO - TELEFÔNICA BRASIL S.A.", 
+                            "documento":"null", "data":"2014-07-28", "detalhamento":"Despesa com imóvel político: Despesa com pagamento de conta telefônica.", 
+                            "valorReembolsado":"180.67", "codDocumento":"944439"}, {"ano":"2014", "mes":"7", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"02592200000106", "fornecedor":"PREDILAR ASSES IMOB E FIN LTDA", 
+                            "documento":"017072014", "data":"2014-07-20", "detalhamento":"Despesa com imóvel político: Despesa com aluguel, julho/14.", 
+                            "valorReembolsado":"2013.2", "codDocumento":"930085"}, {"ano":"2014", "mes":"7", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"03420926009342", "fornecedor":"GVT - GLOBAL VILLAGE TELECOM S.A.", 
+                            "documento":"01921458180", "data":"2014-07-28", "detalhamento":"Despesa com imóvel político: Despesa com pagamento de conta telefônica.", 
+                            "valorReembolsado":"506.07", "codDocumento":"944437"}, {"ano":"2014", "mes":"7", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"28152650000171", "fornecedor":"ESPÍRITO SANTO CENTRAIS ELÉTRICAS S.A", 
+                            "documento":"167711", "data":"2014-07-22", "detalhamento":"Despesa com imóvel político: Despesa com pagamento de energia elétrica.", 
+                            "valorReembolsado":"244.73", "codDocumento":"940294"}, {"ano":"2014", "mes":"7", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"28151363000147", "fornecedor":"CESAN", 
+                            "documento":"null", "data":"2014-08-03", "detalhamento":"Despesa com imóvel político: Despesa com pagamento de conta de água referente ao mês de julho de 2014.", 
+                            "valorReembolsado":"24.24", "codDocumento":"944438"}, {"ano":"2014", "mes":"6", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AEREAS", 
+                            "documento":"9572491652974", "data":"2014-06-29", "detalhamento":"Passageiro: Hazenclever Lopes Cançado
+Matrícula: 163263
+Cargo: Assessor Técnico
+Trecho: Brasília x São Paulo x Vitória
+Voo: JJ 3719 x JJ 3130
+Data: 29/06/2014
+Localizador: 8FCE69", 
+                            "valorReembolsado":"1048.01", "codDocumento":"932448"}, {"ano":"2014", "mes":"6", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AEREAS", 
+                            "documento":"9572380950924", "data":"2014-06-26", "detalhamento":"Passageiro: Magno Pereira Malta
+Cargo: Senador da República
+Trecho: Vitória x Rio de Janeiro
+Voo: JJ 3673
+Data: 27/06/2014
+Localizador: GDOGYD ", 
+                            "valorReembolsado":"777.53", "codDocumento":"932445"}, {"ano":"2014", "mes":"6", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AEREAS", 
+                            "documento":"9572491652955", "data":"2014-06-23", "detalhamento":"Passageiro: Hazenclever Lopes Cançado
+Matrícula: 163263
+Cargo: Assessor Técnico
+Trecho: Brasília x Vitória
+Voo: JJ 3796
+Data: 23/06/2014
+Localizador: 8AZNP3", 
+                            "valorReembolsado":"1010.57", "codDocumento":"935242"}, {"ano":"2014", "mes":"6", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AEREAS", 
+                            "documento":"9572491064348", "data":"2014-06-21", "detalhamento":"Passageiro: Renato Paoliello
+Matrícula: 229950
+Cargo: Assistente Parlamentar
+Trecho: Vitória x Brasília
+Voo: JJ 3797
+Data: 21/06/2014
+Localizador: 7MK5KW", 
+                            "valorReembolsado":"1004.97", "codDocumento":"930073"}, {"ano":"2014", "mes":"6", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AEREAS", 
+                            "documento":"9572491551637", "data":"2014-06-21", "detalhamento":"Passageiro: Magno Pereira Malta
+Cargo: Senador da República
+Trecho: Vitória x Brasília
+Voo: JJ 3797
+Data: 21/06/2014
+Localizador: 75ZWTX", 
+                            "valorReembolsado":"256.75", "codDocumento":"930074"}, {"ano":"2014", "mes":"6", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AEREAS", 
+                            "documento":"9572491551657", "data":"2014-06-19", "detalhamento":"Passageiro: Hazenclever Lopes Cançado
+Matrícula: 163263
+Cargo: Assessor Técnico
+Trecho: Brasília x Vitória
+Voo: JJ 3796
+Data: 19/06/2014
+Localizador: 75PM2O", 
+                            "valorReembolsado":"1010.57", "codDocumento":"930071"}, {"ano":"2014", "mes":"6", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AEREAS", 
+                            "documento":"9572491353300", "data":"2014-06-17", "detalhamento":"Passageiro: Hazenclever Lopes Cançado
+Matrícula: 163263
+Cargo: Assessor Técnico
+Trecho: Brasília x Vitória
+Voo: JJ 3796
+Data: 17/06/2014
+Localizador: 7ZQ2PA", 
+                            "valorReembolsado":"1010.57", "codDocumento":"930069"}, {"ano":"2014", "mes":"6", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AEREAS", 
+                            "documento":"9572491119527", "data":"2014-06-11", "detalhamento":"Passageiro: Pedro Antônio Muniz
+Matrícula: 267100
+Cargo: Assistente Parlamentar
+Trecho: Brasília x Vitória
+Voo: JJ 3796
+Data: 11/06/2014
+Localizador: 7JYGIG", 
+                            "valorReembolsado":"171.81", "codDocumento":"927527"}, {"ano":"2014", "mes":"6", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AEREAS", 
+                            "documento":"9572490892883", "data":"2014-06-08", "detalhamento":"Passageiro: Magno Pereira Malta
+Cargo: Senador da República
+Trecho: São Paulo x Florianópolis
+Voo: JJ 3996
+Data: 08/06/2014
+Localizador: 7G7LUE", 
+                            "valorReembolsado":"530.78", "codDocumento":"927522"}, {"ano":"2014", "mes":"6", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AEREAS", 
+                            "documento":"9572490877296", "data":"2014-06-05", "detalhamento":"Passageiro: Euzimar Laurentino
+Matrícula: 209895
+Cargo: Assistente Parlamentar
+Trecho: Vitória x Brasília
+Voo: JJ 3230
+Data: 05/06/2014
+Localizador: 7GWUUS", 
+                            "valorReembolsado":"166.21", "codDocumento":"927520"}, {"ano":"2014", "mes":"6", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AEREAS", 
+                            "documento":"9572490718379", "data":"2014-06-02", "detalhamento":"Passageiro: Magno Pereira Malta
+Cargo: Senador da República
+Trecho: Vitória x Brasília
+Voo: JJ 3230
+Data: 02/06/2014
+Localizador: 645R24", 
+                            "valorReembolsado":"1401.85", "codDocumento":"922962"}, {"ano":"2014", "mes":"6", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL LINHAS AEREAS", 
+                            "documento":"1270001842298", "data":"2014-06-28", "detalhamento":"Passageiro: Magno Pereira Malta
+Cargo: Senador da República
+Trecho: Rio de Janeiro x Vitória
+Voo: G3 1634
+Data: 28/06/2014
+Localizador: N9B3SL", 
+                            "valorReembolsado":"514.26", "codDocumento":"932446"}, {"ano":"2014", "mes":"6", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL LINHAS AEREAS", 
+                            "documento":"9690001778728", "data":"2014-06-27", "detalhamento":"Passageiro: Hazenclever Lopes Cançado
+Matrícula: 163263
+Cargo: Assessor Técnico
+Trecho: Vitória x Belo Horizonte x Brasília
+Voo: G3 1157 X G3 1090
+Data: 27/06/2014
+Localizador: VHPMYD", 
+                            "valorReembolsado":"1382.9", "codDocumento":"932447"}, {"ano":"2014", "mes":"6", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL LINHAS AEREAS", 
+                            "documento":"1270001838281", "data":"2014-06-22", "detalhamento":"Passageiro: Magno Pereira Malta
+Cargo: Senador da República
+Trecho: Brasília x Vitória
+Voo: G3 1722
+Data: 22/06/2014
+Localizador: UF4NJJ", 
+                            "valorReembolsado":"1076.24", "codDocumento":"935241"}, {"ano":"2014", "mes":"6", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL LINHAS AEREAS", 
+                            "documento":"1270001831379", "data":"2014-06-22", "detalhamento":"Passageiro: Renato Paoliello
+Matrícula: 229950
+Cargo: Assistente Parlamentar
+Trecho: Brasília x Vitória
+Voo: G3 1722
+Data: 22/06/2014
+Localizador: TKMS8U", 
+                            "valorReembolsado":"254.45", "codDocumento":"935240"}, {"ano":"2014", "mes":"6", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL LINHAS AEREAS", 
+                            "documento":"9690001783033", "data":"2014-06-20", "detalhamento":"Passageiro: Hazenclever Lopes Cançado
+Matrícula: 163263
+Cargo: Assessor Técnico
+Trecho: Vitória x Belo Horizonte x Brasília
+Voo: G3 1157 x G3 1090
+Data: 20/06/2014
+Localizador: LGV39A", 
+                            "valorReembolsado":"1428.11", "codDocumento":"935243"}, {"ano":"2014", "mes":"6", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL LINHAS AEREAS", 
+                            "documento":"1270001832084", "data":"2014-06-06", "detalhamento":"Passageiro: Euzimar Laurentino
+Matrícula: 209895
+Cargo: Assistente Parlamentar
+Trecho: Brasília x Rio de Janeiro x Vitória
+Voo: G3 1418 x G3 1634
+Data: 06/06/2014
+Localizador: BHG92K", 
+                            "valorReembolsado":"608.74", "codDocumento":"927521"}, {"ano":"2014", "mes":"6", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL LINHAS AEREAS", 
+                            "documento":"9690001774957", "data":"2014-06-05", "detalhamento":"Passageiro: Magno Pereira Malta
+Cargo: Senador da República
+Trecho: Brasília x São Paulo
+Voo: G3 1403
+Data: 05/06/2014
+Localizador: II9EYN", 
+                            "valorReembolsado":"703.29", "codDocumento":"927519"}, {"ano":"2014", "mes":"6", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"09296295000160", "fornecedor":"AZUL LINHAS AEREAS", 
+                            "documento":"2220005490955", "data":"2014-06-22", "detalhamento":"Passageiro: Magno Pereira Malta
+Cargo: Senador da República
+Trecho: Vitória x Belo Horizonte x Vitória da Conquista
+Voo: AD 5106 x AD 2562
+Data: 22/06/2014
+Localizador: AE9TYX", 
+                            "valorReembolsado":"1115.85", "codDocumento":"935239"}, {"ano":"2014", "mes":"6", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"09296295000160", "fornecedor":"AZUL LINHAS AEREAS", 
+                            "documento":"2220005453077", "data":"2014-06-19", "detalhamento":"Passageiro: Hazenclever Lopes Cançado
+Matrícula: 163263
+Cargo: Assessor Técnico
+Trecho: Vitória x Belo Horizonte x Brasília
+Voo: AD 2521 x AD 4430
+Data: 19/06/2014
+Localizador: LDBIQN", 
+                            "valorReembolsado":"1115.85", "codDocumento":"930072"}, {"ano":"2014", "mes":"6", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"09296295000160", "fornecedor":"AZUL LINHAS AEREAS", 
+                            "documento":"2220005451817", "data":"2014-06-17", "detalhamento":"Passageiro: Magno Pereira Malta
+Cargo: Senador da República
+Trecho: Navegantes x Belo Horizonte x Vitória
+Voo: AD 4048 x AD 5078
+Data: 17/06/2014
+Localizador: REKPMK", 
+                            "valorReembolsado":"855.04", "codDocumento":"930070"}, {"ano":"2014", "mes":"6", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"01166046000148", "fornecedor":"POSTO TIBÉRIO LTDA.", 
+                            "documento":"3626", "data":"2014-06-25", "detalhamento":"Despesa com combustível: Aquisição de combustível para veículos utilizados na atividade parlamentar.", 
+                            "valorReembolsado":"2095.23", "codDocumento":"935244"}, {"ano":"2014", "mes":"6", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"01166046000148", "fornecedor":"POSTO TIBERIO LTDA", 
+                            "documento":"3597", "data":"2014-06-13", "detalhamento":"Despesa com combustível: Aquisição de combustível para veículos utilizados na atividade parlamentar.", 
+                            "valorReembolsado":"2229.97", "codDocumento":"927525"}, {"ano":"2014", "mes":"6", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"31772304000109", "fornecedor":"Posto Costa Azul", 
+                            "documento":"000002079", "data":"2014-06-12", "detalhamento":"Aquisição de combustível para veículos utilizados na atividade parlamentar.", 
+                            "valorReembolsado":"2975.12", "codDocumento":"927524"}, {"ano":"2014", "mes":"6", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"16097819000159", "fornecedor":"Marcelo Rodrigues Soares de Sousa", 
+                            "documento":"0023", "data":"2014-06-21", "detalhamento":"Despesa com serviço de mídia virtual.", 
+                            "valorReembolsado":"2815.0", "codDocumento":"937147"}, {"ano":"2014", "mes":"6", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"35991793000132", "fornecedor":"PAPELARIA PRAIA DA COSTA LTDA.", 
+                            "documento":"3375", "data":"2014-06-16", "detalhamento":"Despesa com material de consumo: Despesa com material de expediente para escritório político do Senador.", 
+                            "valorReembolsado":"524.0", "codDocumento":"927526"}, {"ano":"2014", "mes":"6", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"02558157000162", "fornecedor":"VIVO", 
+                            "documento":"null", "data":"2014-06-26", "detalhamento":"Despesa com imóvel político: Despesa com pagamento de conta de telefonia móvel", 
+                            "valorReembolsado":"962.24", "codDocumento":"939975"}, {"ano":"2014", "mes":"6", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"02592200000106", "fornecedor":"PREDILAR ASSES IMOB E FIN LTDA", 
+                            "documento":"017062014", "data":"2014-06-20", "detalhamento":"Despesa com imóvel político: Despesa com aluguel.", 
+                            "valorReembolsado":"2013.2", "codDocumento":"927523"}, {"ano":"2014", "mes":"6", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"03420926009342", "fornecedor":"GVT - GLOBAL VILLAGE TELECOM S.A", 
+                            "documento":"01880380940", "data":"2014-06-28", "detalhamento":"Despesa com imóvel político: Despesa com pagamento de conta telefônica.", 
+                            "valorReembolsado":"515.89", "codDocumento":"927529"}, {"ano":"2014", "mes":"6", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"28152650000171", "fornecedor":"ESCELSA - ESPIRITO SANTO CENTRAIS ELÉTRICAS S.A", 
+                            "documento":"166800", "data":"2014-06-20", "detalhamento":"Despesa com imóvel político: Despesa com pagamento de conta de energia elétrica.", 
+                            "valorReembolsado":"201.33", "codDocumento":"927528"}, {"ano":"2014", "mes":"6", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"28151363000147", "fornecedor":"CESAN", 
+                            "documento":"null", "data":"2014-07-03", "detalhamento":"Despesa com imóvel político: Despesa com pagamento de conta de água.", 
+                            "valorReembolsado":"29.2", "codDocumento":"927530"}, {"ano":"2014", "mes":"5", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AEREAS", 
+                            "documento":"9572490178813", "data":"2014-05-31", "detalhamento":"Passageiro: Hazenclever Lopes Cançado
+Matrícula: 163263
+Cargo: Assessor Técnico
+Trecho: Vitória x Brasília
+Voo: JJ 3230
+Data: 31/05/2014
+Localizador: 6MY289", 
+                            "valorReembolsado":"385.95", "codDocumento":"924789"}, {"ano":"2014", "mes":"5", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AEREAS", 
+                            "documento":"9572490530398", "data":"2014-05-30", "detalhamento":"Passageiro: Hazenclever Lopes Cançado
+Matrícula: 163263
+Cargo: Assessor Técnico
+Trecho: Brasília x Vitória
+Voo: JJ 3519
+Data: 30/05/2014
+Localizador: 6YE84H", 
+                            "valorReembolsado":"1683.55", "codDocumento":"924788"}, {"ano":"2014", "mes":"5", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AEREAS", 
+                            "documento":"9572490622551", "data":"2014-05-29", "detalhamento":"Passageiro: Magno Pereira Malta
+Cargo: Senador da República
+Trecho: São Paulo x Vitória
+Voo: JJ3128
+Data: 29/05/2014
+Localizador: 638396", 
+                            "valorReembolsado":"1046.77", "codDocumento":"924787"}, {"ano":"2014", "mes":"5", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AEREAS", 
+                            "documento":"9572490564452", "data":"2014-05-28", "detalhamento":"Passageiro: Hazenclever Lopes Cançado
+Matrícula: 163263
+Cargo: Assessor Técnico
+Trecho: Brasília x Vitória
+Voo: JJ 3229
+Data: 28/05/2014
+Localizador: 6XNII6", 
+                            "valorReembolsado":"1542.65", "codDocumento":"920792"}, {"ano":"2014", "mes":"5", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AEREAS", 
+                            "documento":"9572490530359", "data":"2014-05-28", "detalhamento":"Passageiro: Renato Paoliello
+Matrícula: 229950
+Cargo: Assistente Parlamentar
+Trecho: Vitória x Brasília
+Voo: JJ 3518
+Data: 28/05/2014
+Localizador: 6X2SRG", 
+                            "valorReembolsado":"1467.85", "codDocumento":"920789"}, {"ano":"2014", "mes":"5", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AEREAS", 
+                            "documento":"9572489725618", "data":"2014-05-27", "detalhamento":"Passageiro: Magno Pereira Malta
+Cargo: Senador da República
+Trecho: Vitória x Brasília
+Voo: JJ 3230
+Data: 27/05/2014
+Localizador: 6U9VDF", 
+                            "valorReembolsado":"1486.47", "codDocumento":"918325"}, {"ano":"2014", "mes":"5", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AEREAS", 
+                            "documento":"9572489736514", "data":"2014-05-24", "detalhamento":"Passageiro: Hazenclever Lopes Cançado
+Matrícula: 163263
+Cargo: Assessor Técnico
+Trecho: Vitória x Brasília
+Voo: JJ 3230
+Data: 24/05/2014
+Localizador: 57EHX6", 
+                            "valorReembolsado":"345.95", "codDocumento":"918322"}, {"ano":"2014", "mes":"5", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AEREAS", 
+                            "documento":"9572490164977", "data":"2014-05-23", "detalhamento":"Passageiro: Hazenclever Lopes Cançado
+Matrícula: 163263
+Cargo: Assessor Técnico
+Trecho: Brasília x Vitória
+Voo: JJ 3519
+Data: 23/05/2014
+Localizador: 6M7AVS", 
+                            "valorReembolsado":"1473.45", "codDocumento":"918321"}, {"ano":"2014", "mes":"5", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AEREAS", 
+                            "documento":"9572490063634", "data":"2014-05-20", "detalhamento":"Passageiro: Magno Pereira Malta
+Cargo: Senador da República
+Trecho: Vitória x Brasília
+Voo: JJ 3230
+Data: 20/05/2014
+Localizador: 6HEPRP", 
+                            "valorReembolsado":"1533.85", "codDocumento":"916541"}, {"ano":"2014", "mes":"5", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AEREAS", 
+                            "documento":"9572489720680", "data":"2014-05-14", "detalhamento":"Passageiro: Magno Pereira Malta
+Cargo: Senador da República
+Trecho: Brasília x Florianópolis
+Voo: JJ 3875
+Data: 14/05/2014
+Localizador: 56YC84", 
+                            "valorReembolsado":"1281.55", "codDocumento":"916537"}, {"ano":"2014", "mes":"5", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AEREAS", 
+                            "documento":"9572489499176", "data":"2014-05-13", "detalhamento":"Passageiro: Magno Pereira Malta
+Cargo: Senador da República
+Trecho: Vitória x Brasília
+Voo: JJ 3230
+Data: 13/05/2014
+Localizador: 528GI9", 
+                            "valorReembolsado":"1533.85", "codDocumento":"914142"}, {"ano":"2014", "mes":"5", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AEREAS", 
+                            "documento":"9572489678511", "data":"2014-05-13", "detalhamento":"Passageiro: Valdenilson Santos
+Matrícula: 199683
+Cargo: Assistente Parlamentar
+Trecho: Vitória x Brasília
+Voo: JJ 3230
+Data: 13/05/2014
+Localizador: 55YJRW", 
+                            "valorReembolsado":"1401.85", "codDocumento":"914141"}, {"ano":"2014", "mes":"5", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AEREAS", 
+                            "documento":"9572489289939", "data":"2014-05-08", "detalhamento":"Passageiro: Euzimar Laurentino
+Matrícula: 209895
+Cargo: Assistente Parlamentar
+Trecho: Vitória x Brasília
+Voo: JJ 3518
+Data: 08/05/2014
+Localizador: 5O6J4D", 
+                            "valorReembolsado":"1275.95", "codDocumento":"914135"}, {"ano":"2014", "mes":"5", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL LINHAS AEREAS", 
+                            "documento":"9690001771943", "data":"2014-05-29", "detalhamento":"Passageiro: Magno Pereira Malta
+Cargo: Senador da República
+Trecho: Brasília x São Paulo
+Voo: G3 1411
+Data: 29/05/2014
+Localizador: PLCN6R", 
+                            "valorReembolsado":"488.44", "codDocumento":"920788"}, {"ano":"2014", "mes":"5", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL LINHAS AEREAS", 
+                            "documento":"9690001767330", "data":"2014-05-28", "detalhamento":"Passageiro: Hazenclever Lopes Cançado
+Matrícula: 163263
+Cargo: Assessor Técnico
+Trecho: Vitória x Rio de Janeiro x Brasília
+Voo: G3 1643 x G3 1494
+Data: 28/05/2014
+Localizador:CG8ZXD", 
+                            "valorReembolsado":"1304.91", "codDocumento":"920790"}, {"ano":"2014", "mes":"5", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL LINHAS AEREAS", 
+                            "documento":"null", "data":"2014-05-25", "detalhamento":"Passageiro: Magno Pereira Malta
+Cargo: Senador da República
+Trecho: Campo Grande x São Paulo x Vitória
+Voo: G3 1893 x G3 1982
+Data: 25/05/2014
+Localizador: MFGTJG", 
+                            "valorReembolsado":"772.54", "codDocumento":"918323"}, {"ano":"2014", "mes":"5", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL LINHAS AEREAS", 
+                            "documento":"9690001767193", "data":"2014-05-22", "detalhamento":"Passageiro: Magno Pereira Malta
+Cargo: Senador da República
+Trecho: Brasília x São Paulo x Campo Grande
+Voo: G3 1685 x G3 1892
+Data: 22/05/2014
+Localizador: LHTNFN", 
+                            "valorReembolsado":"855.71", "codDocumento":"918320"}, {"ano":"2014", "mes":"5", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL LINHAS AEREAS", 
+                            "documento":"9690001759188", "data":"2014-05-13", "detalhamento":"Passageiro: Renato Paoliello
+Matrícula: 229950
+Cargo: Assistente Parlamentar
+Trecho1: Vitória x Belo Horizonte x Brasília
+Voos: G3 1155 x G3 1084
+Data: 13/05/2014
+Trecho 2: Brasília x Rio de Janeiro x Vitória
+Voo: G3 1493 x G3 1644
+Data: 14/05/2014
+Localizador: VJIH8X", 
+                            "valorReembolsado":"1701.73", "codDocumento":"916536"}, {"ano":"2014", "mes":"5", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL LINHAS AEREAS", 
+                            "documento":"1270001785956", "data":"2014-05-10", "detalhamento":"Passageiro: Magno Pereira Malta
+Cargo: Senador da República
+Trecho: João Pessoa x São Paulo x Vitória
+Voo: G3 1181 x G3 1341
+Data: 10/05/2014
+Localizador: CBC2VC", 
+                            "valorReembolsado":"1738.54", "codDocumento":"914137"}, {"ano":"2014", "mes":"5", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL LINHAS AEREAS", 
+                            "documento":"12700244482184", "data":"2014-05-08", "detalhamento":"Passageiro: Euzimar Laurentino
+Matrícula: 209895
+Cargo: Assistente Parlamentar
+Trecho: Brasília x Vitória
+Voo: G3 1493
+Data: 08/05/2014
+Localizador: MI9H2K", 
+                            "valorReembolsado":"920.45", "codDocumento":"914136"}, {"ano":"2014", "mes":"5", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL LINHAS AEREAS", 
+                            "documento":"1270001813873", "data":"2014-05-07", "detalhamento":"Passageiro: Magno Pereira Malta
+Cargo: Senador da República
+Trecho: Brasília x João Pessoa
+Voo: G3 1422
+Data: 07/05/2014
+Localizador: FBGWFC", 
+                            "valorReembolsado":"1406.24", "codDocumento":"914134"}, {"ano":"2014", "mes":"5", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL LINHAS AEREAS", 
+                            "documento":"1270001805985", "data":"2014-05-06", "detalhamento":"Passageiro: Magno Pereira Malta
+Cargo: Senador da República
+Trecho: São Paulo x Brasília
+Voo: G3 1412
+Data: 06/05/2014
+Localizador: ZKDK5H", 
+                            "valorReembolsado":"923.15", "codDocumento":"910871"}, {"ano":"2014", "mes":"5", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL LINHAS AEREAS", 
+                            "documento":"1270001812528", "data":"2014-05-05", "detalhamento":"Passageiro: Magno Pereira Malta
+Cargo: Senador da República
+Trecho: Vitória x São Paulo
+Voo: G3 1983
+Data: 05/05/2014
+Localizador: XJ2G2K", 
+                            "valorReembolsado":"950.74", "codDocumento":"910870"}, {"ano":"2014", "mes":"5", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"09296295000160", "fornecedor":"AZUL LINHAS AEREAS", 
+                            "documento":"2220005444397", "data":"2014-05-29", "detalhamento":"Passageiro: Renato Paoliello
+Matrícula: 229950
+Cargo: Assistente Parlamentar
+Trecho: Brasília x Belo Horizonte x Vitória
+Voo: AD 2429 x AD 5047
+Data: 29/05/2014
+Localizador: E4WD2F", 
+                            "valorReembolsado":"252.45", "codDocumento":"920791"}, {"ano":"2014", "mes":"5", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"09296295000160", "fornecedor":"AZUL LINHAS AEREAS", 
+                            "documento":"2220005438172", "data":"2014-05-16", "detalhamento":"Passageiro: Liliana de Almeida Braga
+Matrícula: 266799
+Cargo: Assistente Parlamentar
+Trecho: Brasília x Belo Horizonte x Vitória
+Voo: AD 4431 x AD 5078
+Data: 16/05/2014
+Localizador: VYRVTW", 
+                            "valorReembolsado":"911.24", "codDocumento":"918324"}, {"ano":"2014", "mes":"5", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"09296295000160", "fornecedor":"AZUL LINHAS AEREAS", 
+                            "documento":"2220005439158", "data":"2014-05-16", "detalhamento":"Passageiro: Magno Pereira Malta
+Cargo: Senador da República
+Trecho: Florianópolis x São Paulo x Vitória
+Voo: AD 4173 x AD 4084
+Data: 16/05/2014
+Localizador: H98E5G", 
+                            "valorReembolsado":"1027.96", "codDocumento":"916539"}, {"ano":"2014", "mes":"5", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"38000782000131", "fornecedor":"SERTÃO E MAR RESTAURANTE", 
+                            "documento":"108902", "data":"2014-05-15", "detalhamento":"Despesa com refeição e bebidas não alcoólicas para o parlamentar.", 
+                            "valorReembolsado":"65.0", "codDocumento":"916540"}, {"ano":"2014", "mes":"5", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"01166046000148", "fornecedor":"POSTO TIBÉRIO LTDA", 
+                            "documento":"3505", "data":"2014-05-12", "detalhamento":"Despesa com combustível: Aquisição de combustível para veículos utilizados na atividade parlamentar.", 
+                            "valorReembolsado":"2346.23", "codDocumento":"914139"}, {"ano":"2014", "mes":"5", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"01166046000148", "fornecedor":"POSTO TIBÉRIO LTDA", 
+                            "documento":"3504", "data":"2014-05-12", "detalhamento":"Despesa com combustível: Aquisição de combustível para veículos utilizados na atividade parlamentar.", 
+                            "valorReembolsado":"1929.18", "codDocumento":"914140"}, {"ano":"2014", "mes":"5", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"72614977000290", "fornecedor":"BRENT EMPREENDIMENTOS E ALIMENTAÇÃO LTDA.", 
+                            "documento":"46219", "data":"2014-05-13", "detalhamento":"Despesa com refeição e bebidas não alcoólicas para o parlamentar.", 
+                            "valorReembolsado":"83.89", "codDocumento":"916538"}, {"ano":"2014", "mes":"5", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"27252147000125", "fornecedor":"GRÁFICA E EDITORA JEP", 
+                            "documento":"5709", "data":"2014-05-12", "detalhamento":"Despesa com divulgação da atividade parlamentar: jornais", 
+                            "valorReembolsado":"11070.0", "codDocumento":"914138"}, {"ano":"2014", "mes":"5", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"02558157000162", "fornecedor":"VIVO - TELEFÔNICA BRASIL S.A", 
+                            "documento":"null", "data":"2014-05-26", "detalhamento":"Despesa com imóvel político: Pagamento de conta telefônica", 
+                            "valorReembolsado":"510.49", "codDocumento":"924792"}, {"ano":"2014", "mes":"5", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"02592200000106", "fornecedor":"PREDILAR ASSES IMOB E FIN LTDA", 
+                            "documento":"017052014", "data":"2014-05-20", "detalhamento":"Despesa com imóvel político: Despesa com aluguel.", 
+                            "valorReembolsado":"2013.2", "codDocumento":"927114"}, {"ano":"2014", "mes":"5", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"03420926009342", "fornecedor":"GVT - GLOBAL VILLAGE TELECOM S.A.", 
+                            "documento":"01842675070", "data":"2014-05-28", "detalhamento":"Despesa com imóvel político: Pagamento de conta telefônica", 
+                            "valorReembolsado":"452.27", "codDocumento":"924793"}, {"ano":"2014", "mes":"5", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"28152650000171", "fornecedor":"ESCELSA - ESPÍRITO SANTO CENTRAIS ELÉTRICAS S.A.", 
+                            "documento":"000165697", "data":"2014-05-22", "detalhamento":"Despesa com imóvel político: Pagamento de conta de energia elétrica.", 
+                            "valorReembolsado":"259.18", "codDocumento":"924791"}, {"ano":"2014", "mes":"5", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"28151363000147", "fornecedor":"CESAN - COMPANHIA ESPÍRITO SANTENSE DE SANEAMENTO", 
+                            "documento":"null", "data":"2014-06-03", "detalhamento":"Despesa com imóvel político: Despesa com pagamento de saneamento.", 
+                            "valorReembolsado":"23.0", "codDocumento":"920787"}, {"ano":"2014", "mes":"4", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AEREAS", 
+                            "documento":"9572488399362", "data":"2014-04-24", "detalhamento":"Passageiro: Magno Pereira Malta
+Cargo: Senador da República
+Trecho: Brasília x Vitória
+Voo: JJ 3229
+Data: 24/04/2014
+Localizador: 4ZHPNG", 
+                            "valorReembolsado":"1407.45", "codDocumento":"910868"}, {"ano":"2014", "mes":"4", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AEREAS", 
+                            "documento":"9572488171591", "data":"2014-04-23", "detalhamento":"Passageiro: Magno Pereira Malta
+Cargo: Senador da República
+Trecho: Vitória x Brasília
+Voo: JJ 3518
+Data: 23/04/2014
+Localizador: 4T648T", 
+                            "valorReembolsado":"1569.05", "codDocumento":"909644"}, {"ano":"2014", "mes":"4", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AEREAS", 
+                            "documento":"9572487734455", "data":"2014-04-10", "detalhamento":"Passageiro: Renato Paoliello
+Matrícula: 229950
+Cargo: Assistente Parlamentar
+Trecho: Brasília x Vitória
+Voo: JJ 3519
+Data: 10/04/2014
+Localizador: 37NIEX", 
+                            "valorReembolsado":"1281.55", "codDocumento":"909639"}, {"ano":"2014", "mes":"4", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AEREAS", 
+                            "documento":"9572487676239", "data":"2014-04-10", "detalhamento":"Passageiro: Renato Paoliello
+Matrícula: 229950
+Cargo: Assistente Parlamentar
+Trecho: Vitória x Brasília
+Voo: JJ 3518
+Data: 10/04/2014
+Localizador: 35HRZG", 
+                            "valorReembolsado":"1275.95", "codDocumento":"909640"}, {"ano":"2014", "mes":"4", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AEREAS", 
+                            "documento":"9572486958026", "data":"2014-04-08", "detalhamento":"Passageiro: Magno Pereira Malta
+Cargo: Senador da República
+Trecho: Vitória x Brasília
+Voo: JJ 3518
+Data: 08/04/2014
+Localizador: 3WPFCF", 
+                            "valorReembolsado":"1561.85", "codDocumento":"902539"}, {"ano":"2014", "mes":"4", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AEREAS", 
+                            "documento":"9572487081675", "data":"2014-04-03", "detalhamento":"Passageiro: Magno Pereira Malta
+Cargo: Senador da República
+Trecho: Brasília x Vitória
+Voo: JJ 3519
+Data: 03/04/2014
+Localizador: 3PHGEQ", 
+                            "valorReembolsado":"1407.45", "codDocumento":"902538"}, {"ano":"2014", "mes":"4", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AEREAS", 
+                            "documento":"957248695804301", "data":"2014-04-01", "detalhamento":"Passageiro: Magno Pereira Malta
+Cargo: Senador da República
+Trecho: Vitória x Brasília
+Voo: JJ 3230
+Data: 01/04/2014
+Localizador: 3GIE7M", 
+                            "valorReembolsado":"1401.85", "codDocumento":"896918"}, {"ano":"2014", "mes":"4", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"09296295000160", "fornecedor":"AZUL LINHAS AEREAS", 
+                            "documento":"2220005462895", "data":"2014-04-20", "detalhamento":"Passageiro: Magno Pereira Malta
+Cargo: Senador da República
+Trecho: Belo Horizonte x Porto Seguro
+Voo: AD 4210
+Data: 20/04/2014
+Localizador: VGLJNE", 
+                            "valorReembolsado":"484.55", "codDocumento":"909643"}, {"ano":"2014", "mes":"4", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"01166046000148", "fornecedor":"POSTO TIBERIO LTDA", 
+                            "documento":"3420", "data":"2014-04-14", "detalhamento":"Despesa com aquisição de combustível para veículos utilizados na atividade parlamentar.", 
+                            "valorReembolsado":"1900.8", "codDocumento":"909642"}, {"ano":"2014", "mes":"4", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"01166046000148", "fornecedor":"POSTO TIBERIO LTDA", 
+                            "documento":"3421", "data":"2014-04-14", "detalhamento":"Despesa com aquisição de combustível para veículos utilizados na atividade parlamentar", 
+                            "valorReembolsado":"2386.88", "codDocumento":"909641"}, {"ano":"2014", "mes":"4", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"16097819000159", "fornecedor":"PARADIGMA DIGITAL", 
+                            "documento":"0018", "data":"2014-04-09", "detalhamento":"Despesa com serviço de mídia virtual", 
+                            "valorReembolsado":"2815.0", "codDocumento":"909637"}, {"ano":"2014", "mes":"4", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"02558157000162", "fornecedor":"VIVO - TELEFONICA BRASIL SA", 
+                            "documento":"null", "data":"2014-04-26", "detalhamento":"Despesa com imóvel político: Despesa com pagamento de conta telefônica.", 
+                            "valorReembolsado":"247.36", "codDocumento":"913657"}, {"ano":"2014", "mes":"4", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"02592200000106", "fornecedor":"PREDILAR ASSES IMOB E FIN LTDA", 
+                            "documento":"null", "data":"2014-04-20", "detalhamento":"Despesa com imóvel político: Despesa com aluguel", 
+                            "valorReembolsado":"2123.2", "codDocumento":"909638"}, {"ano":"2014", "mes":"4", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"03420926009342", "fornecedor":"GVT - GLOBAL VILLAGE TELECOM S.A.", 
+                            "documento":"01805274750", "data":"2014-04-28", "detalhamento":"Despesa com imóvel político: Despesa com pagamento de conta telefônica.", 
+                            "valorReembolsado":"576.67", "codDocumento":"913658"}, {"ano":"2014", "mes":"4", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"28152650000171", "fornecedor":"ESCELSA - ESPIRITO SANTENSE CENTRAIS ELÉTRICAS", 
+                            "documento":"000166987", "data":"2014-04-22", "detalhamento":"Despesa com imóvel político: Despesa com pagamento de energia elétrica.", 
+                            "valorReembolsado":"186.83", "codDocumento":"910869"}, {"ano":"2014", "mes":"4", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"28151363000147", "fornecedor":"CESAN - COMPANHIA ESPÍRITO SANTENSE DE SANEAMENTO", 
+                            "documento":"null", "data":"2014-05-03", "detalhamento":"Despesa com imóvel político: Despesa com pagamento de conta de água/saneamento", 
+                            "valorReembolsado":"29.57", "codDocumento":"922923"}, {"ano":"2014", "mes":"3", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AEREAS", 
+                            "documento":"9572486593866", "data":"2014-03-26", "detalhamento":"Passageiro: Magno Pereira Malta
+Cargo: Senador da República
+Trecho: Cuiabá x São Paulo x Porto Alegre
+Voo: JJ 3639 x JJ 3849
+Data: 26/03/2014
+Localizador: 2Z4326", 
+                            "valorReembolsado":"1631.75", "codDocumento":"896913"}, {"ano":"2014", "mes":"3", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AEREAS", 
+                            "documento":"9572486431838", "data":"2014-03-24", "detalhamento":"Passageiro: Magno Pereira Malta
+Cargo: Senador da República
+Trecho: São Paulo x Rio de Janeiro
+Voo: JJ 3910
+Data: 24/03/2014
+Localizador: 2TMXZ7", 
+                            "valorReembolsado":"1531.57", "codDocumento":"896912"}, {"ano":"2014", "mes":"3", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AEREAS", 
+                            "documento":"9572486026141", "data":"2014-03-19", "detalhamento":"Passageiro: Hazenclever Lopes Cançado
+Matrícula: 163263
+Cargo: Assessor Técnico
+Trecho: Brasília x Vitória
+Voo: JJ 3229
+Data: 19/03/2014
+Localizador: 2HQ8WK", 
+                            "valorReembolsado":"1273.62", "codDocumento":"896908"}, {"ano":"2014", "mes":"3", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AEREAS", 
+                            "documento":"9572486129227", "data":"2014-03-18", "detalhamento":"Passageiro: Magno Pereira Malta
+Cargo: Senador da República
+Trecho: Vitória x Brasília
+Voo: JJ 3518
+Data: 18/03/2014
+Localizador: Z5CPHD", 
+                            "valorReembolsado":"1390.45", "codDocumento":"892130"}, {"ano":"2014", "mes":"3", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AEREAS", 
+                            "documento":"9572485771575", "data":"2014-03-13", "detalhamento":"Passageiro: Magno Pereira Malta
+Cargo: Senador da República
+Trecho: Brasília x Rio de Janeiro
+Voo: JJ 3821
+Data: 13/03/2014
+Localizador: 7HBHOB", 
+                            "valorReembolsado":"572.55", "codDocumento":"892128"}, {"ano":"2014", "mes":"3", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AEREAS", 
+                            "documento":"9572485625606", "data":"2014-03-10", "detalhamento":"Passageiro: Renato Paoliello
+Cargo: Assistente Parlamentar
+Matrícula: 229950
+Trecho: Porto Velho x Brasília x Vitória
+Voo: JJ 3595 x JJ 3229
+Data: 10/03/2014
+Localizador: 4VIWRX", 
+                            "valorReembolsado":"1485.45", "codDocumento":"887545"}, {"ano":"2014", "mes":"3", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL LINHAS AEREAS", 
+                            "documento":"9690001730302", "data":"2014-03-20", "detalhamento":"Passageiro: Magno Pereira Malta
+Cargo: Senador da República
+Trecho: Brasília x São Paulo
+Voo: G3 1413
+Data: 20/03/2014
+Localizador: YYJYJI", 
+                            "valorReembolsado":"683.54", "codDocumento":"896910"}, {"ano":"2014", "mes":"3", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL LINHAS AEREAS", 
+                            "documento":"9690001727823", "data":"2014-03-15", "detalhamento":"Passageiro: Magno Pereira Malta
+Cargo: Senador da República
+Trecho: Rio de Janeiro x Vitória
+Voo: G3 1638
+Data: 15/03/2014
+Localizador: KEGIHW", 
+                            "valorReembolsado":"712.26", "codDocumento":"892129"}, {"ano":"2014", "mes":"3", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL LINHAS AEREAS", 
+                            "documento":"9690001723956", "data":"2014-03-11", "detalhamento":"Passageiro: Magno Pereira Malta
+Cargo: Senador da República
+Trecho: Belo Horizonte x Brasília
+Voo: G3 1086
+Data: 11/03/2014
+Localizador: SY3MKI", 
+                            "valorReembolsado":"693.47", "codDocumento":"887546"}, {"ano":"2014", "mes":"3", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"09296295000160", "fornecedor":"AZUL LINHAS AEREAS", 
+                            "documento":"2220005417754", "data":"2014-03-28", "detalhamento":"Passageiro: Magno Pereira Malta
+Cargo: Senador Magno Malta
+Trecho: Porto Alegre x São Paulo x Vitória
+Voo: AD 4134 x AD 4076
+Data: 28/03/2014
+Localizador: XCF6WD", 
+                            "valorReembolsado":"716.66", "codDocumento":"896914"}, {"ano":"2014", "mes":"3", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"09296295000160", "fornecedor":"AZUL LINHAS AEREAS", 
+                            "documento":"2220005414335", "data":"2014-03-24", "detalhamento":"Passageiro: Magno Pereira Malta
+Cargo: Senador da República
+Trecho: Rio de Janeiro x Cuiabá
+Voo: AD 5052
+Data: 24/03/2014
+Localizador: QEZG4X", 
+                            "valorReembolsado":"923.46", "codDocumento":"896911"}, {"ano":"2014", "mes":"3", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"09296295000160", "fornecedor":"AZUL LINHAS AEREAS", 
+                            "documento":"2220005413553", "data":"2014-03-19", "detalhamento":"Passageiro: Hazenclever Lopes Cançado
+Matrícula: 163263
+Cargo: Assessor Técnico
+Trecho: Vitória x São Paulo x Brasília
+Voo: AD 4085 x AD 4054
+Data: 19/03/2014
+Localizador: O2TWYB", 
+                            "valorReembolsado":"937.53", "codDocumento":"896909"}, {"ano":"2014", "mes":"3", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"09296295000160", "fornecedor":"AZUL LINHAS AEREAS", 
+                            "documento":"2220005407697", "data":"2014-03-06", "detalhamento":"Passageiro: Magno Pereira Malta
+Cargo: Senador da República
+Trecho: Vitória x São Paulo x Manaus
+Voo: AD 4085 x AD 4170
+Data: 06/03/2014
+Localizador: X7BNUS", 
+                            "valorReembolsado":"784.92", "codDocumento":"887544"}, {"ano":"2014", "mes":"3", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"38000782000131", "fornecedor":"SERTÃO E MAR RESTAURANTE", 
+                            "documento":"104352", "data":"2014-03-12", "detalhamento":"Despesa com refeição e bebidas não alcoólicas para o parlamentar.", 
+                            "valorReembolsado":"50.0", "codDocumento":"916463"}, {"ano":"2014", "mes":"3", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"38000782000131", "fornecedor":"SERTÃO E MAR RESTAURANTE", 
+                            "documento":"104350", "data":"2014-03-12", "detalhamento":"Despesa com refeição e bebida não alcoólica para o parlamentar.", 
+                            "valorReembolsado":"50.0", "codDocumento":"892127"}, {"ano":"2014", "mes":"3", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"05233063000101", "fornecedor":"COMIDAS REGIONAIS DO BRASIL LTDA", 
+                            "documento":"50155", "data":"2014-03-12", "detalhamento":"Despesa com refeição e bebidas não alcoólicas para o parlamentar.", 
+                            "valorReembolsado":"125.0", "codDocumento":"892132"}, {"ano":"2014", "mes":"3", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Divulgação da atividade parlamentar", "cnpjCpf":"27252147000125", "fornecedor":"GRÁFICA E EDITORA JEP LTDA", 
+                            "documento":"5552", "data":"2014-03-31", "detalhamento":"Despesa com divulgação da atividade parlamentar: Jornais", 
+                            "valorReembolsado":"5500.0", "codDocumento":"896917"}, {"ano":"2014", "mes":"3", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Divulgação da atividade parlamentar", "cnpjCpf":"27252147000125", "fornecedor":"GRAFICA E EDITORA JEP LTDA.", 
+                            "documento":"5556", "data":"2014-04-02", "detalhamento":"Despesa com divulgação da atividade parlamentar: Jornais", 
+                            "valorReembolsado":"3000.0", "codDocumento":"897998"}, {"ano":"2014", "mes":"3", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"16097819000159", "fornecedor":"PARADIGMA DIGITAL", 
+                            "documento":"0015", "data":"2014-03-18", "detalhamento":"Despesa com serviço de mídia virtual", 
+                            "valorReembolsado":"2815.0", "codDocumento":"892131"}, {"ano":"2014", "mes":"3", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"02558157000162", "fornecedor":"VIVO - TELEFONICA BRASIL SA", 
+                            "documento":"null", "data":"2014-03-26", "detalhamento":"Despesa com imóvel político: Despesa com pagamento de conta telefônica", 
+                            "valorReembolsado":"167.74", "codDocumento":"905566"}, {"ano":"2014", "mes":"3", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"02592200000106", "fornecedor":"PREDILAR ASSES IMOB E FIN LTDA", 
+                            "documento":"null", "data":"2014-03-25", "detalhamento":"Despesa com imóvel político: Despesa com aluguel.", 
+                            "valorReembolsado":"1903.2", "codDocumento":"887547"}, {"ano":"2014", "mes":"3", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"03420926009342", "fornecedor":"GVT - GLOBAL VILLAGE TELECOM", 
+                            "documento":"01768208410", "data":"2014-03-28", "detalhamento":"Despesa com imóvel político: Despesa com pagamento de conta telefônica", 
+                            "valorReembolsado":"791.2", "codDocumento":"905567"}, {"ano":"2014", "mes":"3", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"28152650000171", "fornecedor":"ESCELSA - ESPÍRITO SANTO CENTRAIS ELÉTRICAS S.A.", 
+                            "documento":"000173465", "data":"2014-03-21", "detalhamento":"Despesa com imóvel político: Pagamento de conta de energia elétrica referente ao mês de março de 2014.", 
+                            "valorReembolsado":"173.78", "codDocumento":"896916"}, {"ano":"2014", "mes":"3", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"28151363000147", "fornecedor":"CESAN - COMPANHIA ESPIRITO SANTENSE DE SANEAMENTO", 
+                            "documento":"null", "data":"2014-04-03", "detalhamento":"Despesa com imóvel político: Pagamento de conta de água referente ao mês de março de 2014.", 
+                            "valorReembolsado":"59.36", "codDocumento":"896915"}, {"ano":"2014", "mes":"2", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AEREAS", 
+                            "documento":"9572485203032", "data":"2014-02-27", "detalhamento":"Passageiro: Magno Pereira Malta
+Cargo: Senador da República
+Trecho: São Paulo x Vitória
+Voo: JJ 3128
+Data: 27/02/2014
+Localizador: 6278JH", 
+                            "valorReembolsado":"1334.37", "codDocumento":"889801"}, {"ano":"2014", "mes":"2", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AEREAS", 
+                            "documento":"9572484530500", "data":"2014-02-20", "detalhamento":"Passageiro: Valdenilson Lima
+Matrícula: 199683
+Cargo: Assistente Parlamentar
+Trecho: Brasília x Vitória
+Voo: JJ 3229
+Data: 20/02/2014
+Localizador: ZG8DU7", 
+                            "valorReembolsado":"1670.35", "codDocumento":"885535"}, {"ano":"2014", "mes":"2", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AEREAS", 
+                            "documento":"9572484770444", "data":"2014-02-19", "detalhamento":"Passageiro: Renato Paoliello
+Cargo: Assistente Parlamentar
+Matrícula:229950
+Trecho: Brasília x Vitória
+Voo: JJ 9378
+Data: 19/02/2014
+Localizador: YIKE2R", 
+                            "valorReembolsado":"1520.55", "codDocumento":"882998"}, {"ano":"2014", "mes":"2", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AEREAS", 
+                            "documento":"9572484415626", "data":"2014-02-18", "detalhamento":"Passageiro: Renato Paoliello
+Cargo: Assistente Parlamentar
+Matrícula: 229950
+Trecho: Vitória x Brasília
+Voo: JJ 3518
+Data: 18/02/2014
+Localizador: 49RB6I", 
+                            "valorReembolsado":"1355.65", "codDocumento":"882999"}, {"ano":"2014", "mes":"2", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AEREAS", 
+                            "documento":"9572484544030", "data":"2014-02-17", "detalhamento":"Passageiro: Magno Pereira Malta
+Cargo: Senador da República
+Trecho: Florianópolis x São Paulo x Brasília
+Voo: JJ 3100 x JJ 3704
+Data: 17/02/2014
+Localizador: 6V3O85", 
+                            "valorReembolsado":"1597.87", "codDocumento":"883000"}, {"ano":"2014", "mes":"2", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AEREAS", 
+                            "documento":"9572484477874", "data":"2014-02-12", "detalhamento":"Passageiro: Adanildo Augusto da Rocha
+Cargo: Assistente Parlamentar
+Matrícula: 264687
+Trecho: Brasília x Vitória
+Voo: JJ 3519
+Data: 12/02/2014
+Localizador: 5HNPZM", 
+                            "valorReembolsado":"1520.55", "codDocumento":"882994"}, {"ano":"2014", "mes":"2", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AEREAS", 
+                            "documento":"9572484317531", "data":"2014-02-11", "detalhamento":"Passageiro: Magno Pereira Malta
+Cargo: Senador da República
+Trecho: Vitória x Brasília
+Voo: JJ 3518
+Data: 11/02/2014
+Localizador: 3LO7V4", 
+                            "valorReembolsado":"1691.15", "codDocumento":"875686"}, {"ano":"2014", "mes":"2", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AEREAS", 
+                            "documento":"9572481659401", "data":"2014-02-05", "detalhamento":"Passageiro: Hazenclever Lopes Cançado
+Matrícula: 163263
+Cargo: Assessor Técnico
+Trecho: Brasília x Vitória
+Voo: JJ 3519
+Data: 05/02/2014
+Localizador: 6I5MNJ", 
+                            "valorReembolsado":"1377.45", "codDocumento":"875682"}, {"ano":"2014", "mes":"2", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AEREAS", 
+                            "documento":"9572483817122", "data":"2014-02-03", "detalhamento":"Passageiro: Senador da República
+Cargo: Senador da República
+Trecho: Salvador x Brasília
+Voo: JJ 3283
+Data: 03/02/2014
+Localizador: 7LMHM9", 
+                            "valorReembolsado":"1275.57", "codDocumento":"869210"}, {"ano":"2014", "mes":"2", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"null", "data":"2014-02-26", "detalhamento":"Nome: Magno Pereira Malta
+Cargo: Senador da República
+Data: 26/02/2014
+Trecho: Belo Horizonte x Brasília", 
+                            "valorReembolsado":"445.37", "codDocumento":"885546"}, {"ano":"2014", "mes":"2", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572484530498", "data":"2014-02-21", "detalhamento":"Nome: Hazenclever Lopes Cançado
+Matrícula: 163263
+Cargo: Assessor Técnico
+Trecho: Brasília x Vitória
+Voo: JJ 9378
+Data: 21/02/2014
+Localizador: ZFUOYF", 
+                            "valorReembolsado":"1950.35", "codDocumento":"885541"}, {"ano":"2014", "mes":"2", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572484938801", "data":"2014-02-21", "detalhamento":"Passageiro: Magno Pereira Malta
+Cargo: Senador da República
+Trecho: Rio de Janeiro x Vitória
+Voo: JJ 3148
+Data: 21/02/2014
+Localizador: 2TDMCL", 
+                            "valorReembolsado":"671.67", "codDocumento":"885543"}, {"ano":"2014", "mes":"2", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL LINHAS AEREAS", 
+                            "documento":"null", "data":"2014-02-20", "detalhamento":"Passageiro: Magno Pereira Malta
+Cargo: Senador da República
+Trecho: Brasília x Rio de Janeiro
+Voo: G3 1485
+Data: 20/02/2014
+Localizador: E831NL", 
+                            "valorReembolsado":"1383.14", "codDocumento":"885534"}, {"ano":"2014", "mes":"2", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL LINHAS AEREAS", 
+                            "documento":"9690001712542", "data":"2014-02-15", "detalhamento":"Passageiro: Magno Pereira Malta
+Cargo: Senador da República
+Trecho: São Paulo x Navegantes
+Voo: G3 1526
+Data: 15/02/2014
+Localizador: NC69GP", 
+                            "valorReembolsado":"1063.25", "codDocumento":"882997"}, {"ano":"2014", "mes":"2", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL LINHAS AEREAS", 
+                            "documento":"9690001712033", "data":"2014-02-14", "detalhamento":"Passageiro: Magno Pereira Malta
+Cargo: Senador da República
+Trecho: Brasília x São Paulo
+Voo: G3 1401
+Data: 14/02/2014
+Localizador: JKR42B", 
+                            "valorReembolsado":"1567.03", "codDocumento":"882996"}, {"ano":"2014", "mes":"2", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL", 
+                            "documento":"9690001717573", "data":"2014-02-24", "detalhamento":"Nome: Magno Pereira Malta
+Cargo: Senador da República
+Trecho: Vitória x Belo Horizonte
+Voos: G3 1774 x G3 2092
+Data: 24/02/2014
+Localizador: TFI1TW", 
+                            "valorReembolsado":"379.85", "codDocumento":"885544"}, {"ano":"2014", "mes":"2", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL", 
+                            "documento":"9690001715219", "data":"2014-02-21", "detalhamento":"Nome: Hazenclever Lopes Cançado
+Matrícula: 163263
+Cargo: Assessor Técnico
+Trecho: Vitória x Guarulhos x Brasília
+Voos: G3 1774 x G3 2092
+Data: 21/02/2014
+Localizador: R9MW4V", 
+                            "valorReembolsado":"1053.04", "codDocumento":"885542"}, {"ano":"2014", "mes":"2", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"09296295000160", "fornecedor":"AZUL LINHAS AEREAS", 
+                            "documento":"2220005395139", "data":"2014-02-06", "detalhamento":"Passageiro: Magno Pereira Malta
+Cargo: Senador da República
+Trecho: Brasília x Belo Horizonte x Vitória
+Voo: AD 4951 x AD 4218
+Data: 06/02/2014
+Localizador: DBH74N", 
+                            "valorReembolsado":"1242.57", "codDocumento":"875684"}, {"ano":"2014", "mes":"2", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"38000782000131", "fornecedor":"Sertão e Mar Restaurante", 
+                            "documento":"10685", "data":"2014-02-26", "detalhamento":"Alimentação", 
+                            "valorReembolsado":"150.0", "codDocumento":"885545"}, {"ano":"2014", "mes":"2", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"38000782000131", "fornecedor":"SERTÃO E MAR RESTAURANTE", 
+                            "documento":"10674", "data":"2014-02-20", "detalhamento":"Despesa com refeição e bebidas não alcoólicas para o parlamentar.", 
+                            "valorReembolsado":"100.0", "codDocumento":"885537"}, {"ano":"2014", "mes":"2", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"09483860000106", "fornecedor":"SEGREDO KARIOKA RESTAURANTE E LANCHONETE", 
+                            "documento":"011435", "data":"2014-02-21", "detalhamento":"Despesa com refeição e bebidas não alcoólicas com o parlamentar.", 
+                            "valorReembolsado":"595.0", "codDocumento":"885539"}, {"ano":"2014", "mes":"2", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"19604627000180", "fornecedor":"RESTAURANTE TCHE GAROTO", 
+                            "documento":"0375", "data":"2014-02-20", "detalhamento":"Despesa com refeição e bebidas não alcoólicas para o parlamentar.", 
+                            "valorReembolsado":"57.0", "codDocumento":"885538"}, {"ano":"2014", "mes":"2", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"01166046000148", "fornecedor":"POSTO TIBERIO LTDA", 
+                            "documento":"3262", "data":"2014-02-06", "detalhamento":"Despesa com aquisição de combustível para veículos utilizados na atividade parlamentar.", 
+                            "valorReembolsado":"2100.0", "codDocumento":"875683"}, {"ano":"2014", "mes":"2", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"00660993000128", "fornecedor":"CHURRASCARIA ESPETO DE OURO LTDA.", 
+                            "documento":"13867", "data":"2014-02-11", "detalhamento":"Despesa com refeição e bebidas não alcoólicas para o parlamentar.", 
+                            "valorReembolsado":"232.1", "codDocumento":"875687"}, {"ano":"2014", "mes":"2", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"00537308000170", "fornecedor":"BAR E RESTAURANTE XIQUE XIQUE", 
+                            "documento":"25790", "data":"2014-02-12", "detalhamento":"Despesa com refeição e bebidas não alcoólicas para o parlamentar.", 
+                            "valorReembolsado":"296.0", "codDocumento":"882992"}, {"ano":"2014", "mes":"2", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"06164277000136", "fornecedor":"ARMAZEM DO GERALDO", 
+                            "documento":"181716", "data":"2014-02-18", "detalhamento":"Despesa com refeição e bebidas não alcoólicas para o parlamentar.", 
+                            "valorReembolsado":"193.09", "codDocumento":"885536"}, {"ano":"2014", "mes":"2", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Divulgação da atividade parlamentar", "cnpjCpf":"16097819000159", "fornecedor":"PARADIGMA DIGITAL", 
+                            "documento":"0013", "data":"2014-02-23", "detalhamento":"Despesa com serviço de mídia virtual.", 
+                            "valorReembolsado":"5515.0", "codDocumento":"869211"}, {"ano":"2014", "mes":"2", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"16097819000159", "fornecedor":"PARADIGMA DIGITAL", 
+                            "documento":"0014", "data":"2014-02-12", "detalhamento":"Despesa com serviço de mídia virtual.", 
+                            "valorReembolsado":"1000.0", "codDocumento":"882993"}, {"ano":"2014", "mes":"2", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"35991793000132", "fornecedor":"PAPELARIA PRAIA DA COSTA LTDA.", 
+                            "documento":"2960", "data":"2014-02-05", "detalhamento":"Despesa com material de expediente para o escritório político do Senador.", 
+                            "valorReembolsado":"268.0", "codDocumento":"875685"}, {"ano":"2014", "mes":"2", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"12820633000125", "fornecedor":"MAGAZIN ITAPOA LTDA ME", 
+                            "documento":"040683", "data":"2014-02-05", "detalhamento":"Despesa com material de expediente para o escritório político do Senador.", 
+                            "valorReembolsado":"254.4", "codDocumento":"882991"}, {"ano":"2014", "mes":"2", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"02592200000106", "fornecedor":"Predilar ", 
+                            "documento":"null", "data":"2014-02-25", "detalhamento":"Despesa com imóvel político, compreendendo despesas concernentes a eles: Despesa com aluguel.", 
+                            "valorReembolsado":"1903.2", "codDocumento":"885540"}, {"ano":"2014", "mes":"1", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AEREAS", 
+                            "documento":"9572483670840", "data":"2014-01-29", "detalhamento":"Passageiro: Hazenclever Lopes Cançado
+Matrícula: 163263
+Cargo: Assessor Técnico
+Trecho: Vitória x Rio de Janeiro x Brasília
+Voo: JJ 3531 x JJ 3030
+Data: 29/01/2014
+Localizador: 4YTABE", 
+                            "valorReembolsado":"1596.45", "codDocumento":"869205"}, {"ano":"2014", "mes":"1", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AEREAS", 
+                            "documento":"9572483423384", "data":"2014-01-29", "detalhamento":"Passageiro: Hazenclever Lopes Cançado
+Matrícula: 163263
+Cargo: Assessor Técnico
+Trecho: Brasília x Vitória
+Voo: JJ 9378
+Data: 29/01/2014
+Localizador: 35OO2W", 
+                            "valorReembolsado":"1591.15", "codDocumento":"869206"}, {"ano":"2014", "mes":"1", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AEREAS", 
+                            "documento":"9572483338087", "data":"2014-01-24", "detalhamento":"Passageiro: Renato Paoliello
+Matrícula: 229950
+Cargo: Assistente Parlamentar
+Trecho: Vitória x Brasília
+Voo: JJ 3518
+Data: 24/01/2014
+Localizador: YNTJAE", 
+                            "valorReembolsado":"1442.95", "codDocumento":"869196"}, {"ano":"2014", "mes":"1", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AEREAS", 
+                            "documento":"9572482811530", "data":"2014-01-15", "detalhamento":"Passageiro: Hazenclever Lopes Cançado
+Matrícula: 163263
+Cargo: Assessor Técnico
+Trecho: Brasília x Vitória
+Voo: JJ 3519
+Data: 15/01/2014
+Localizador: 336XAR", 
+                            "valorReembolsado":"1584.55", "codDocumento":"869193"}, {"ano":"2014", "mes":"1", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AEREAS", 
+                            "documento":"9572482493093", "data":"2014-01-13", "detalhamento":"Passageiro: Magno Pereira Malta
+Cargo: Senador da República
+Trecho: Vitória x Brasília
+Voo: JJ 3518
+Data: 13/01/2014
+Localizador: 2MZ232", 
+                            "valorReembolsado":"1735.15", "codDocumento":"869208"}, {"ano":"2014", "mes":"1", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AEREAS", 
+                            "documento":"9572482493008", "data":"2014-01-09", "detalhamento":"Passageiro: Magno Pereira Malta
+Cargo: Senador da República
+Trecho: Brasília x Vitória
+Voo: JJ 3519
+Data: 09/01/2014
+Localizador: YWQSEV", 
+                            "valorReembolsado":"2074.05", "codDocumento":"869190"}, {"ano":"2014", "mes":"1", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AEREAS", 
+                            "documento":"9572482493007", "data":"2014-01-09", "detalhamento":"Passageiro: Valdenilson Santos
+Matrícula: 199683
+Cargo: Assistente Parlamentar
+Trecho: Brasília x Vitória
+Voo: JJ 3519
+Data: 09/01/2014
+Localizador: YI9IJH", 
+                            "valorReembolsado":"2074.05", "codDocumento":"869191"}, {"ano":"2014", "mes":"1", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AEREAS", 
+                            "documento":"9572482001263", "data":"2014-01-09", "detalhamento":"Passageiro: Valdenilson Lima
+Matrícula: 199683
+Cargo: Assistente Parlamentar
+Trecho: Vitória x São Paulo x Brasília
+Voo: JJ 3129 x JJ 3720
+Data: 09/01/2014
+Localizador: YKMHGZ", 
+                            "valorReembolsado":"1845.06", "codDocumento":"869207"}, {"ano":"2014", "mes":"1", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AEREAS", 
+                            "documento":"9572482001262", "data":"2014-01-09", "detalhamento":"Passageiro: Magno Pereira Malta
+Cargo: Senador da República
+Trecho: Vitória x São Paulo x Brasília
+Voo: JJ 3129 x JJ 3720
+Data: 09/01/2014
+Localizador: YKMHGZ", 
+                            "valorReembolsado":"1845.06", "codDocumento":"869199"}, {"ano":"2014", "mes":"1", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AEREAS", 
+                            "documento":"9572482235435", "data":"2014-01-07", "detalhamento":"Passageiro: Magno Pereira Malta
+Cargo: Senador da República
+Trecho: Maceió x São Paulo x Vitória
+Voo: JJ 3475 x JJ 3376
+Data: 07/01/2014
+Localizador: 7SI5DK", 
+                            "valorReembolsado":"2301.07", "codDocumento":"869200"}, {"ano":"2014", "mes":"1", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL LINHAS AEREAS", 
+                            "documento":"null", "data":"2014-01-26", "detalhamento":"Passageiro: Renato Paoliello
+Matrícula: 229950
+Cargo: Assistente Parlamentar
+Trecho: Brasília x Vitória
+Voo: G3 1722
+Data: 26/01/2014
+Localizador: R933ML", 
+                            "valorReembolsado":"908.45", "codDocumento":"869197"}, {"ano":"2014", "mes":"1", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"09296295000160", "fornecedor":"AZUL LINHAS AEREAS", 
+                            "documento":"null", "data":"2014-01-16", "detalhamento":"Passageiro: Hazenclever Lopes Cançado
+Matrícula: 163263
+Cargo: Assessor Técnico
+Trecho: Vitória x São Paulo x Brasília
+Voo: 4089 / 4138
+Data: 16/01/2014
+Localizador: Y5VLKV", 
+                            "valorReembolsado":"1264.25", "codDocumento":"869194"}, {"ano":"2014", "mes":"1", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"09296295000160", "fornecedor":"AZUL LINHAS AEREAS", 
+                            "documento":"null", "data":"2014-01-14", "detalhamento":"Passageiro: Magno Pereira Malta
+Cargo: Senador da República
+Trecho: Brasília x Belo Horizonte
+Voo: 4431
+Data: 14/01/2014
+Localizador: RDTR4X", 
+                            "valorReembolsado":"388.45", "codDocumento":"869192"}, {"ano":"2014", "mes":"1", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"09296295000160", "fornecedor":"AZUL LINHAS AEREAS", 
+                            "documento":"null", "data":"2014-01-14", "detalhamento":"Passageiro: Magno Pereira Malta
+Cargo: Senador da República
+Trecho: Belo Horizonte x Vitória
+Voo: AD 4218
+Data: 14/01/2014
+Localizador: RBZN8D", 
+                            "valorReembolsado":"277.47", "codDocumento":"869198"}, {"ano":"2014", "mes":"8", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL LINHAS AEREAS", 
+                            "documento":"null", "data":"2014-08-01", "detalhamento":"Passageiro: Magno Pereira Malta
+Cargo: Senador da República
+Trecho: Vitória x Rio de Janeiro
+Voo: G3 1635
+Data: 01/08/2014
+Localizador: JIEMWN", 
+                            "valorReembolsado":"671.34", "codDocumento":"944457"}, {"ano":"2014", "mes":"8", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"09296295000160", "fornecedor":"AZUL LINHAS AEREAS", 
+                            "documento":"null", "data":"2014-08-15", "detalhamento":"Passageiro: Diego Ferreira
+Matrícula: 181575
+Cargo: Assistente Parlamentar
+Trecho: Vitória x Campinas x Brasília
+Voo: AD 4085 x AD 4054
+Data: 15/08/2014
+Localizador: QYU8XW", 
+                            "valorReembolsado":"1135.53", "codDocumento":"947259"}, {"ano":"2014", "mes":"8", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"09296295000160", "fornecedor":"AZUL LINHAS AEREAS", 
+                            "documento":"2220005510872", "data":"2014-08-08", "detalhamento":"Passageiro: Magno Pereira Malta
+Cargo: Senador da República
+Trecho: Cuiabá x Campinas x Brasília
+Voo: AD 5155 x AD 4426
+Data: 08/08/2014
+Localizador: M959JZ", 
+                            "valorReembolsado":"1468.83", "codDocumento":"945407"}, {"ano":"2014", "mes":"8", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"09296295000160", "fornecedor":"AZUL LINHAS AEREAS", 
+                            "documento":"null", "data":"2014-08-08", "detalhamento":"Passageiro: Valdenilson Santos
+Matrícula: 199683
+Cargo: Assistente Parlamentar
+Trecho: Cuiabá x Campinas x Brasília
+Voo: AD 5155 x AD 4426
+Data: 08/08/2014
+Localizador: KEMQNX", 
+                            "valorReembolsado":"1413.83", "codDocumento":"945408"}, {"ano":"2014", "mes":"8", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"38000782000131", "fornecedor":"SERTÃO E MAR RESTAURANTE", 
+                            "documento":"10921", "data":"2014-08-20", "detalhamento":"Despesa com refeição: Despesa com refeição e bebidas não alcoólicas para o parlamentar e/ou servidores lotados no gabinete parlamentar.", 
+                            "valorReembolsado":"174.0", "codDocumento":"948119"}, {"ano":"2014", "mes":"8", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"01166046000148", "fornecedor":"POSTO TIBÉRIO LTDA", 
+                            "documento":"3778", "data":"2014-08-19", "detalhamento":"Despesa com combustível: Aquisição de combustível para veículos utilizados na atividade parlamentar.", 
+                            "valorReembolsado":"1638.47", "codDocumento":"947261"}, {"ano":"2014", "mes":"8", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"01166046000148", "fornecedor":"Posto Tibério", 
+                            "documento":"000003749", "data":"2014-08-08", "detalhamento":"Aquisição de combustível para veículos utilizados na atividade parlamentar", 
+                            "valorReembolsado":"2402.04", "codDocumento":"945404"}, {"ano":"2014", "mes":"8", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Divulgação da atividade parlamentar", "cnpjCpf":"27252147000125", "fornecedor":"GRÁFICA E EDITORA JEP LTDA", 
+                            "documento":"5945", "data":"2014-09-03", "detalhamento":"Despesa com divulgação da atividade parlamentar: Divulgação da atividade parlamentar em jornais impressos.", 
+                            "valorReembolsado":"4981.5", "codDocumento":"950987"}, {"ano":"2014", "mes":"8", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"16097819000159", "fornecedor":"PARADIGMA DIGITAL", 
+                            "documento":"0037", "data":"2014-08-21", "detalhamento":"Despesa com serviço de mídia virtual.", 
+                            "valorReembolsado":"2815.0", "codDocumento":"964598"}, {"ano":"2014", "mes":"8", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"02558157000162", "fornecedor":"VIVO - Telefônica Brasil S.A", 
+                            "documento":"null", "data":"2014-08-26", "detalhamento":"Despesa com imóvel político: Despesa com pagamento de conta telefônica.", 
+                            "valorReembolsado":"30.56", "codDocumento":"950032"}, {"ano":"2014", "mes":"8", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"02592200000106", "fornecedor":"PREDILAR ASSES IMOB E FIN LTDA", 
+                            "documento":"017082014", "data":"2014-08-20", "detalhamento":"Despesa com imóvel político: despesa com aluguel.", 
+                            "valorReembolsado":"2013.2", "codDocumento":"940302"}, {"ano":"2014", "mes":"8", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"03420926009342", "fornecedor":"GVT - GLOBAL VILLAGE TELECOM S.A.", 
+                            "documento":"01962766690", "data":"2014-08-28", "detalhamento":"Despesa com imóvel político: Despesa com pagamento conta telefônica.", 
+                            "valorReembolsado":"518.21", "codDocumento":"950031"}, {"ano":"2014", "mes":"8", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"28152650000171", "fornecedor":"ESCELSA - ESPÍRITO SANTO CENTRAIS ELÉTRICAS", 
+                            "documento":"null", "data":"2014-08-20", "detalhamento":"Despesa com imóvel político: Despesa com pagamento de energia elétrica.", 
+                            "valorReembolsado":"188.43", "codDocumento":"945405"}, {"ano":"2014", "mes":"1", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"09296295000160", "fornecedor":"AZUL LINHAS AEREAS", 
+                            "documento":"2220005376737", "data":"2014-01-02", "detalhamento":"Passageiro: Magno Pereira Malta
+Cargo: Senador da República
+Trecho: Vitória x São Paulo x Maceió
+Voo: AD 4085 x AD 4100
+Data: 02/01/2014
+Localizador: R7PU3M", 
+                            "valorReembolsado":"1071.53", "codDocumento":"869209"}, {"ano":"2014", "mes":"1", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"38000782000131", "fornecedor":"SERTÃO E MAR RESTAURANTE", 
+                            "documento":"10612", "data":"2014-01-13", "detalhamento":"Despesa com refeição e bebidas não alcoólicas para o parlamentar.", 
+                            "valorReembolsado":"60.0", "codDocumento":"869188"}, {"ano":"2014", "mes":"1", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"01166046000148", "fornecedor":"POSTO TIBÉRIO LTDA", 
+                            "documento":"3189", "data":"2014-01-09", "detalhamento":"Despesa com aquisição de combustível para veículos utilizados na atividade parlamentar.", 
+                            "valorReembolsado":"1812.89", "codDocumento":"869189"}, {"ano":"2014", "mes":"1", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"03247760000277", "fornecedor":"MAIA & TAVARES LTDA ME", 
+                            "documento":"296390", "data":"2014-01-09", "detalhamento":"Despesa com refeição e bebidas não alcoólicas para o parlamentar.", 
+                            "valorReembolsado":"91.77", "codDocumento":"869187"}, {"ano":"2014", "mes":"1", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Divulgação da atividade parlamentar", "cnpjCpf":"16097819000159", "fornecedor":"PARADIGMA DIGITAL", 
+                            "documento":"0012", "data":"2014-01-24", "detalhamento":"Despesa com serviço de mídia virtual.", 
+                            "valorReembolsado":"2815.0", "codDocumento":"869204"}, {"ano":"2014", "mes":"1", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"35991793000132", "fornecedor":"PAPELARIA PRAIA DA COSTA LTDA", 
+                            "documento":"2901", "data":"2014-01-14", "detalhamento":"Despesa com material de expediente para o escritório político do Senador.", 
+                            "valorReembolsado":"546.0", "codDocumento":"869195"}, {"ano":"2014", "mes":"1", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"02558157000162", "fornecedor":"VIVO - TELEFÔNICA BRASIL S.A.", 
+                            "documento":"null", "data":"2014-01-26", "detalhamento":"Despesa com pagamento de conta telefônica", 
+                            "valorReembolsado":"156.61", "codDocumento":"873248"}, {"ano":"2014", "mes":"1", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"02592200000106", "fornecedor":"PREDILAR ASSES IMOB E FIN LTDA", 
+                            "documento":"null", "data":"2014-01-20", "detalhamento":"Despesa com aluguel de imóvel político referente ao mês de janeiro de 2014.", 
+                            "valorReembolsado":"1900.0", "codDocumento":"880037"}, {"ano":"2014", "mes":"1", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"03420926009342", "fornecedor":"GVT - GLOBAL VILLAGE TELECOM S.A.", 
+                            "documento":"01700266510", "data":"2014-01-28", "detalhamento":"Despesa com imóvel político: Despesa com pagamento de conta telefônica", 
+                            "valorReembolsado":"970.25", "codDocumento":"869202"}, {"ano":"2014", "mes":"1", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"28152650000171", "fornecedor":"ESPÍRITO SANTO CENTRAIS ELÉTRICAS S.A. - ESCELSA", 
+                            "documento":"000175567", "data":"2014-01-22", "detalhamento":"Despesa com imóvel político: despesa com pagamento de energia elétrica", 
+                            "valorReembolsado":"198.43", "codDocumento":"869201"}, {"ano":"2014", "mes":"1", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"28151363000147", "fornecedor":"CESAN - COMPANHIA ESPÍRITO SANTENSE  DE SANEAMENTO", 
+                            "documento":"null", "data":"2014-02-03", "detalhamento":"Despesa com imóvel político: Despesa com pagamento de conta de água ref. ao mês de janeiro/14.", 
+                            "valorReembolsado":"38.99", "codDocumento":"869203"}, {"ano":"2014", "mes":"8", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"28151363000147", "fornecedor":"CESAN - COMPANHIA ESPIRITO SANTENSE DE SANEAMENTO", 
+                            "documento":"null", "data":"2014-09-03", "detalhamento":"Despesa com imóvel político: Despesa com conta de água.", 
+                            "valorReembolsado":"50.51", "codDocumento":"950033"}, {"ano":"2014", "mes":"7", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AEREAS", 
+                            "documento":"9572493900908", "data":"2014-07-31", "detalhamento":"Passageiro: Hazenclever Lopes Cançado
+Matrícula: 163263
+Cargo: Assessor Parlamentar
+Trecho: Vitória x Brasília
+Voo: JJ 3518
+Localizador: Y8RKRG data 31/07/2014", 
+                            "valorReembolsado":"1472.95", "codDocumento":"944435"}, {"ano":"2014", "mes":"7", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AEREAS", 
+                            "documento":"9572493372888", "data":"2014-07-22", "detalhamento":"Passageiro: Hazenclever Lopes Cançado
+Matrícula: 163263
+Cargo: Assessor Técnico
+Trecho: Brasília x Vitória
+Voo: JJ 3229
+Data: 22/07/2014
+Localizador: YUE969", 
+                            "valorReembolsado":"1478.55", "codDocumento":"943480"}, {"ano":"2014", "mes":"7", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AEREAS", 
+                            "documento":"9572492499163", "data":"2014-07-21", "detalhamento":"Passageiro: Jairo Oliveira
+Matrícula: 267949
+Cargo: Assistente Parlamentar
+Trecho: Brasília x Vitória
+Voo: JJ 3519
+Data: 21/07/2014
+Localizador: X8GSFP", 
+                            "valorReembolsado":"232.55", "codDocumento":"943478"}, {"ano":"2014", "mes":"7", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AEREAS", 
+                            "documento":"9572492833663", "data":"2014-07-15", "detalhamento":"Passageiro: Magno Pereira Malta
+Cargo: Senador da República
+Trecho: Vitória x Brasília
+Voo: JJ 3230
+Data: 15/07/2014
+Localizador: YJW86Z", 
+                            "valorReembolsado":"1445.85", "codDocumento":"942953"}, {"ano":"2014", "mes":"7", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AEREAS", 
+                            "documento":"9572492639109", "data":"2014-07-14", "detalhamento":"Passageiro: Hazenclever Lopes Cançado
+Matrícula: 163263
+Cargo: Assessor Técnico
+Trecho: Brasília x Vitória
+Voo: JJ 3229
+Data: 14/07/2014
+Localizador: YD576L", 
+                            "valorReembolsado":"1451.45", "codDocumento":"942954"}, {"ano":"2014", "mes":"7", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AEREAS", 
+                            "documento":"9572492619652", "data":"2014-07-10", "detalhamento":"Passageiro: Magno Pereira Malta
+Cargo: Senador da República
+Trecho: Rio de Janeiro x Vitória
+Voo: JJ 3672
+Data: 10/07/2014
+Localizador: YEHYAJ", 
+                            "valorReembolsado":"382.47", "codDocumento":"939134"}, {"ano":"2014", "mes":"7", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AEREAS", 
+                            "documento":"9572492507039", "data":"2014-07-08", "detalhamento":"Passageiro: Hazenclever Lopes Cançado
+Matrícula: 163263
+Cargo: Assessor Técnico
+Trecho: Brasília x Vitória
+Voo: JJ 3796
+Data: 08/07/2014
+Localizador: X7ZNSA", 
+                            "valorReembolsado":"1451.45", "codDocumento":"934578"}, {"ano":"2014", "mes":"7", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AEREAS", 
+                            "documento":"9572492308339", "data":"2014-07-05", "detalhamento":"Passageiro: Hazenclever Lopes Cançado
+Matrícula: 163263
+Cargo: Assessor Técnico
+Trecho: Vitória x Brasília
+Voo: JJ 3797
+Data: 05/07/2014
+Localizador: X3MMSK", 
+                            "valorReembolsado":"1445.85", "codDocumento":"937148"}, {"ano":"2014", "mes":"7", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL LINHAS AÉREAS", 
+                            "documento":"null", "data":"2014-07-18", "detalhamento":"NOME: HANZECLEVER LOPES CANÇADO
+MATRICULA: 163263
+TRECHO: BELO HORIZONTE X BRASÍLIA
+DATA: 18/07/2014", 
+                            "valorReembolsado":"462.56", "codDocumento":"940301"}, {"ano":"2014", "mes":"7", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL LINHAS AEREAS", 
+                            "documento":"1270001856575", "data":"2014-07-25", "detalhamento":"Passageiro: Magno Pereira Malta
+Cargo: Senador da República
+Trecho: Navegantes x São Paulo x Vitória
+Voo: G3 1525 x G3 1940
+Data: 25/07/2014
+Localizador: GCFKMP", 
+                            "valorReembolsado":"1251.04", "codDocumento":"943479"}, {"ano":"2014", "mes":"7", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL LINHAS AEREAS", 
+                            "documento":"1270001852716", "data":"2014-07-17", "detalhamento":"Passageiro: Edimilson Passos de Andrade
+Matrícula: 163100
+Cargo: Assistente Parlamentar
+Trecho: Vitória x Belo Horizonte x Brasília
+Voo: G3 1157 x G3 1090
+Data: 17/07/2014
+Localizador: BHTNSN", 
+                            "valorReembolsado":"829.74", "codDocumento":"940297"}, {"ano":"2014", "mes":"7", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL LINHAS AEREAS", 
+                            "documento":"1270001851830", "data":"2014-07-17", "detalhamento":"Passageiro: Magno Pereira Malta
+Cargo: Senador da República
+Trecho: Brasília x São Paulo x Navegantes
+Voo: G3 1403 x G3 1524
+Data: 17/07/2014
+Localizador: DC9GTP", 
+                            "valorReembolsado":"816.64", "codDocumento":"940296"}, {"ano":"2014", "mes":"7", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL LINHAS AEREAS", 
+                            "documento":"1270001844053", "data":"2014-07-11", "detalhamento":"Passageiro: Hazenclever Lopes Cançado
+Matrícula: 163263
+Cargo: Assessor Técnico
+Trecho: Vitória x Belo Horizonte x Brasília
+Voo: G3 1157 x G3 1090
+Data: 11/07/2014
+Localizador: WLCBXH", 
+                            "valorReembolsado":"1508.13", "codDocumento":"939133"}, {"ano":"2014", "mes":"7", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL LINHAS AEREAS", 
+                            "documento":"null", "data":"2014-07-10", "detalhamento":"Passageiro: Magno Pereira Malta
+Cargo: Senador da República
+Trecho: Brasília x Rio de Janeiro
+Voo: G3 1625
+Data: 10/07/2014
+Localizador: AYLUUF", 
+                            "valorReembolsado":"1095.45", "codDocumento":"939132"}, {"ano":"2014", "mes":"7", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL LINHAS AEREAS", 
+                            "documento":"1270001848336", "data":"2014-07-09", "detalhamento":"Passageiro: Magno Pereira Malta
+Cargo: Senador da República
+Trecho: Belo Horizonte x Brasília
+Voo: G3 1086
+Data: 09/07/2014
+Localizador: SK2STK", 
+                            "valorReembolsado":"787.06", "codDocumento":"934577"}, {"ano":"2014", "mes":"7", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"09296295000160", "fornecedor":"AZUL LINHAS AÉREAS", 
+                            "documento":"null", "data":"2014-07-18", "detalhamento":"Nome: Hazenclever Lopes Cançado
+Matrícula:163263 
+Trecho: Vitória x Belo Horizonte
+Data: 18/07/2014", 
+                            "valorReembolsado":"337.85", "codDocumento":"940300"}, {"ano":"2014", "mes":"7", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"09296295000160", "fornecedor":"AZUL LINHAS AEREAS", 
+                            "documento":"null", "data":"2014-07-25", "detalhamento":"Passageiro: Hazenclever Lopes Cançado
+Matrícula: 163263
+Cargo: Assessor Parlamentar
+Trecho: Vitória x Campinas x Brasília
+Voo: 4085 x 4054
+Localizador: P554GI data 25/07/2014", 
+                            "valorReembolsado":"829.7", "codDocumento":"944436"}, {"ano":"2014", "mes":"7", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"09296295000160", "fornecedor":"AZUL LINHAS AEREAS", 
+                            "documento":"2220005501450", "data":"2014-07-17", "detalhamento":"Passageiro: Edimilson Passos de Andrade
+Matrícula: 163100
+Cargo: Assistente Parlamentar
+Trecho: Brasília x Belo Horizonte x Vitória
+Voo: AD 4431 x AD 5078
+Data: 17/07/2014
+Localizador: I5RM8S", 
+                            "valorReembolsado":"835.33", "codDocumento":"940295"}, {"ano":"2014", "mes":"7", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"09296295000160", "fornecedor":"AZUL LINHAS AEREAS", 
+                            "documento":"2220005496576", "data":"2014-07-07", "detalhamento":"Passageiro: Magno Pereira Malta
+Cargo: Senador da República
+Trecho: Vitória x Belo Horizonte
+Voo: AD 2942
+Data: 07/07/2014
+Localizador: D9HS9G", 
+                            "valorReembolsado":"416.14", "codDocumento":"937149"}, {"ano":"2014", "mes":"7", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"38000782000131", "fornecedor":"Sertão e Mar Restaurante", 
+                            "documento":"10873", "data":"2014-07-17", "detalhamento":"Despesa com refeição e bebidas não alcoólicas para o parlamentar.", 
+                            "valorReembolsado":"140.0", "codDocumento":"940299"}, {"ano":"2014", "mes":"7", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"01166046000148", "fornecedor":"POSTO TIBÉRIO LTDA", 
+                            "documento":"3693", "data":"2014-07-18", "detalhamento":"Despesa com combustível: Aquisição de combustível para veículos utilizado na atividade parlamentar.", 
+                            "valorReembolsado":"1750.24", "codDocumento":"940298"}, {"ano":"2014", "mes":"7", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Divulgação da atividade parlamentar", "cnpjCpf":"27252147000125", "fornecedor":"Gráfica JEP", 
+                            "documento":"5909", "data":"2014-08-07", "detalhamento":"Despesa com divulgação de atividade parlamentar: Divulgação de atividade parlamentar em jornais.", 
+                            "valorReembolsado":"2424.58", "codDocumento":"945789"}, {"ano":"2014", "mes":"7", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"16097819000159", "fornecedor":"Marcelo Rodrigues Soares de Sousa", 
+                            "documento":"0025", "data":"2014-07-21", "detalhamento":"Despesa com serviço de mídia virtual.", 
+                            "valorReembolsado":"2815.0", "codDocumento":"937150"}]}

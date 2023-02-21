@@ -1,0 +1,220 @@
+{"gastosSenador": [{"ano":"2014", "mes":"7", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"09296295000160", "fornecedor":"Viação Azul", 
+                            "documento":"RYP5YW", "data":"2014-07-02", "detalhamento":"Viação Azul
+Senador José Aparecido(Cidinho Santos)
+Brasília/Cuiabá - 02/07/2014", 
+                            "valorReembolsado":"754.23", "codDocumento":"936283"}, {"ano":"2014", "mes":"7", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02575829000148", "fornecedor":"Viação Avianca", 
+                            "documento":"247 2411270823", "data":"2014-07-07", "detalhamento":"Gol Linhas Aéreas
+Coaraci Castilho - Mat: 157640
+Brasília/Rio de Janeiro - 10/07/2014", 
+                            "valorReembolsado":"637.23", "codDocumento":"936286"}, {"ano":"2014", "mes":"7", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02575829000148", "fornecedor":"Viação Avianca", 
+                            "documento":"247 2410591689", "data":"2014-06-25", "detalhamento":"Viação Avianca
+Senador José Aparecido(Cidinho Santos)
+Cuiabá/Brasília - 01/07/2014", 
+                            "valorReembolsado":"654.86", "codDocumento":"936284"}, {"ano":"2014", "mes":"7", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol Linhas Aéreas", 
+                            "documento":"R8CZUB", "data":"2014-07-07", "detalhamento":"Gol Linhas Aéreas
+Coaraci Castilho - Mat: 157640
+Rio de Janeiro/Brasília - 10/07/2014", 
+                            "valorReembolsado":"846.46", "codDocumento":"936285"}, {"ano":"2014", "mes":"7", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"03568118000109", "fornecedor":"J. Tomelin Consultoria Ltda", 
+                            "documento":"0078", "data":"2014-07-10", "detalhamento":"Despesa com Consultoria: Despesa com consultoria para o exercício da atividade política parlamentar.", 
+                            "valorReembolsado":"6000.0", "codDocumento":"936287"}, {"ano":"2014", "mes":"7", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"06128710000188", "fornecedor":"JVM Copiadoras e Informática Ltda EPP", 
+                            "documento":"316", "data":"2014-07-01", "detalhamento":"Despesa com imóvel Político: Despesa com material de expediente para o escritório político.", 
+                            "valorReembolsado":"263.0", "codDocumento":"936289"}, {"ano":"2014", "mes":"7", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"03934759000130", "fornecedor":"Solução Empreendimentos Ltda", 
+                            "documento":"01152", "data":"2014-07-10", "detalhamento":"Despesa com imóvel político: Despesa com aluguel.", 
+                            "valorReembolsado":"3303.0", "codDocumento":"936288"}, {"ano":"2014", "mes":"7", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"03420926000710", "fornecedor":"GVT", 
+                            "documento":"01889129220", "data":"2014-07-05", "detalhamento":"Despesa com imóvel Político: Pagamento de conta telefônica.", 
+                            "valorReembolsado":"760.74", "codDocumento":"936291"}, {"ano":"2014", "mes":"7", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"08626278000180", "fornecedor":"Cond. Edifício Empresarial Santa Rosa Tower", 
+                            "documento":"1303/304/064", "data":"2014-07-10", "detalhamento":"Despesa com imóvel político: Pagamento de condomínio.", 
+                            "valorReembolsado":"1104.59", "codDocumento":"936290"}, {"ano":"2014", "mes":"6", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Viação Gol", 
+                            "documento":"XYM45V", "data":"2014-06-01", "detalhamento":"Viação Gol
+Senador José Aparecido(Cidinho Santos)
+Cuiabá/Brasília - 02/06/2014", 
+                            "valorReembolsado":"978.54", "codDocumento":"935715"}, {"ano":"2014", "mes":"6", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas", 
+                            "documento":"957 2490284985", "data":"2014-06-09", "detalhamento":"Tam Linhas Aéreas
+Senador José Aparecido(Cidinho)
+Cuiabá/Brasília - 10/06/2014", 
+                            "valorReembolsado":"1120.22", "codDocumento":"935717"}, {"ano":"2014", "mes":"6", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"03568118000109", "fornecedor":"J. Tomelin Consultoria Ltda", 
+                            "documento":"0077", "data":"2014-06-10", "detalhamento":"Despesa com Consultoria: Despesa com consultoria para o exercício da atividade parlamentar.", 
+                            "valorReembolsado":"6000.0", "codDocumento":"935520"}, {"ano":"2014", "mes":"6", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"06128710000188", "fornecedor":"J.V.M. Copiadoras e Informática Ltda", 
+                            "documento":"308", "data":"2014-06-03", "detalhamento":"Despesa com material de consumo: Despesa com material de expediente para o escritório político.", 
+                            "valorReembolsado":"263.0", "codDocumento":"935712"}, {"ano":"2014", "mes":"6", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"03934759000130", "fornecedor":"Solução Empreendimentos Ltda I", 
+                            "documento":"01152", "data":"2014-06-10", "detalhamento":"Despesa com imóvel político: pagamento de aluguel do imóvel.", 
+                            "valorReembolsado":"3303.0", "codDocumento":"935711"}, {"ano":"2014", "mes":"6", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"08626278000180", "fornecedor":"Condomínio Ed. Empreendimentos Santa Rosa", 
+                            "documento":"1303/304/064", "data":"2014-06-10", "detalhamento":"Despesa com imóvel político: pagamento de condomínio.", 
+                            "valorReembolsado":"924.92", "codDocumento":"935713"}, {"ano":"2014", "mes":"6", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"03467321000199", "fornecedor":"CEMAT", 
+                            "documento":"000.477.314", "data":"2014-06-26", "detalhamento":"Despesas com imóvel político: despesa com energia elétrica.", 
+                            "valorReembolsado":"222.72", "codDocumento":"935709"}, {"ano":"2014", "mes":"6", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"03467321000199", "fornecedor":"CEMAT", 
+                            "documento":"000.477.310", "data":"2014-06-26", "detalhamento":"Despesas com imóvel político: despesa com energia elétrica.", 
+                            "valorReembolsado":"117.5", "codDocumento":"935710"}, {"ano":"2014", "mes":"5", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Viação Gol", 
+                            "documento":"127 00245641241", "data":"2014-05-19", "detalhamento":"Viação Gol
+Senador Cidinho Santos (José Aparecido)
+Brasília/São Paulo - 19/05/2014", 
+                            "valorReembolsado":"656.04", "codDocumento":"924545"}, {"ano":"2014", "mes":"5", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"09296295000160", "fornecedor":"Viação Azul", 
+                            "documento":"222 0005433148", "data":"2014-05-02", "detalhamento":"Viação Azul
+Senador Cidinho Santos (José Aparecido)
+Cuiabá/Brasília - 06/05/2014", 
+                            "valorReembolsado":"533.33", "codDocumento":"924546"}, {"ano":"2014", "mes":"5", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas", 
+                            "documento":"957 2490284904", "data":"2014-05-24", "detalhamento":"TAM Linhas Aéreas
+Senador Cidinho Santos (José Aparecido)
+Cuiabá/Brasília - 27/05/2014", 
+                            "valorReembolsado":"899.04", "codDocumento":"924547"}, {"ano":"2014", "mes":"5", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"957 2489687283", "data":"2014-05-22", "detalhamento":"TAM Linhas Aéreas
+Senador Cidinho Santos (José Aparecido)
+Brasília/Cuiabá - 22/05/2014", 
+                            "valorReembolsado":"1031.36", "codDocumento":"924548"}, {"ano":"2014", "mes":"5", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"957 2489687245", "data":"2014-05-16", "detalhamento":"TAM Linhas Aéreas
+Senador Cidinho Santos (José Aparecido)
+Cuiabá/Brasília - 20/05/2014", 
+                            "valorReembolsado":"1023.66", "codDocumento":"924551"}, {"ano":"2014", "mes":"5", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"957 2489623414", "data":"2014-05-12", "detalhamento":"Tam Linhas Aéreas
+Senador Cidinho Santos (José Aparecido)
+Cuiabá/Brasília - 13/05/2014", 
+                            "valorReembolsado":"1035.95", "codDocumento":"924550"}, {"ano":"2014", "mes":"5", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"957 2488546077", "data":"2014-05-07", "detalhamento":"TAM Linhas Aéreas
+Senador Cidinho Santos (José Aparecido)
+Brasília/Cuiabá - 07/05/2014", 
+                            "valorReembolsado":"904.64", "codDocumento":"924549"}, {"ano":"2014", "mes":"5", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"32992455000127", "fornecedor":"Grafica Editora Centro Oeste Ltda", 
+                            "documento":"1205", "data":"2014-05-06", "detalhamento":"Despesa com material de consumo: aquisição de assinatura de Jornais.", 
+                            "valorReembolsado":"598.8", "codDocumento":"924544"}, {"ano":"2014", "mes":"5", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"03934759000130", "fornecedor":"Solução Empreendimentos Ltda", 
+                            "documento":"01152", "data":"2014-05-10", "detalhamento":"Despesa com imóvel político: Pagamento de Aluguel do escritório Político.", 
+                            "valorReembolsado":"3303.0", "codDocumento":"924543"}, {"ano":"2014", "mes":"5", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"03533064000146", "fornecedor":"Prefeitura Municipal de Cuiabá", 
+                            "documento":"81865000081627154", "data":"2014-05-05", "detalhamento":"Despesa com imóvel político: Pagamento de IPTU.", 
+                            "valorReembolsado":"61.96", "codDocumento":"924541"}, {"ano":"2014", "mes":"5", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"03533064000146", "fornecedor":"Prefeitura Municipal de Cuiabá", 
+                            "documento":"81865000081627152", "data":"2014-05-05", "detalhamento":"Despesa com imóvel político: Pagamento de IPTU.", 
+                            "valorReembolsado":"61.96", "codDocumento":"924540"}, {"ano":"2014", "mes":"5", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"03533064000146", "fornecedor":"Prefeitura Municipal de Cuiabá", 
+                            "documento":"81865000081531273", "data":"2014-05-05", "detalhamento":"Despesa com imóvel político: Pagamento de IPTU.", 
+                            "valorReembolsado":"619.34", "codDocumento":"924539"}, {"ano":"2014", "mes":"5", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"03533064000146", "fornecedor":"Prefeitura Municipal de Cuiabá", 
+                            "documento":"818650000810446586", "data":"2014-05-05", "detalhamento":"Despesa com imóvel político: Pagamento de IPTU.", 
+                            "valorReembolsado":"582.35", "codDocumento":"924538"}, {"ano":"2014", "mes":"5", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"08626278000180", "fornecedor":"Condominio Ed. Empresarial Santa Rosa", 
+                            "documento":"1303/304/064", "data":"2014-05-10", "detalhamento":"Despesa com imóvel político: Pagamento de condomínio.", 
+                            "valorReembolsado":"869.38", "codDocumento":"924542"}, {"ano":"2014", "mes":"5", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"03467321000199", "fornecedor":"CEMAT", 
+                            "documento":"427611", "data":"2014-05-26", "detalhamento":"Despesa com imóvel Político: Pagamento de energia elétrica. ", 
+                            "valorReembolsado":"230.06", "codDocumento":"924552"}, {"ano":"2014", "mes":"5", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"03467321000199", "fornecedor":"CEMAT", 
+                            "documento":"427605", "data":"2014-05-26", "detalhamento":"Despesa com imóvel Político: Pagamento de energia elétrica. ", 
+                            "valorReembolsado":"116.66", "codDocumento":"924553"}, {"ano":"2014", "mes":"4", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Viação Gol", 
+                            "documento":"127 00243872254", "data":"2014-04-28", "detalhamento":"Viação Gol
+Senador José Aparecido(Cidinho Santos)
+Cuiabá/Brasília - 29/04/2014", 
+                            "valorReembolsado":"978.54", "codDocumento":"914149"}, {"ano":"2014", "mes":"4", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02575829000148", "fornecedor":"Viação Avianca", 
+                            "documento":"247 2410037100", "data":"2014-04-06", "detalhamento":"Avianca
+Senador José Aparecido (Cidinho Santos)
+Brasília/Cuiabá - 09/04/2014
+", 
+                            "valorReembolsado":"1031.25", "codDocumento":"914148"}, {"ano":"2014", "mes":"4", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02575829000148", "fornecedor":"Viação Avianca", 
+                            "documento":"131-507760", "data":"2014-04-02", "detalhamento":"Avianca
+Senador José Aparecido (Cidinho Santos)
+Brasília/Cuiabá - 02/04/2014", 
+                            "valorReembolsado":"1117.05", "codDocumento":"914150"}, {"ano":"2014", "mes":"4", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas", 
+                            "documento":"957 248596869101", "data":"2014-03-31", "detalhamento":"Tam Linhas Aéreas
+Senador José Aparecido(Cidinho Santos)
+Cuiabá/Brasília - 01/04/2014", 
+                            "valorReembolsado":"558.59", "codDocumento":"914152"}, {"ano":"2014", "mes":"4", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"957 2487278358", "data":"2014-04-06", "detalhamento":"Tam Linhas Aéreas
+Senador José Aparecido(Cidinho Santos)
+Cuiabá/Brasília - 08/04/2014", 
+                            "valorReembolsado":"997.05", "codDocumento":"916773"}, {"ano":"2014", "mes":"4", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"09296295000160", "fornecedor":"Azul Linhas Aéreas Brasileiras", 
+                            "documento":"G4YCUY", "data":"2014-04-23", "detalhamento":"Azul
+Senador José Aparecido(Cidinho Santos)
+Brasília/Cuiabá - 30/04/2014", 
+                            "valorReembolsado":"360.04", "codDocumento":"914146"}, {"ano":"2014", "mes":"4", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"09296295000160", "fornecedor":"Azul Linhas Aéreas Brasileiras", 
+                            "documento":"TCC6GQ", "data":"2014-04-22", "detalhamento":"Azul
+Senador José Aparecido(Cidinho Santos)
+Cuiabá/Brasília - 22/04/2014", 
+                            "valorReembolsado":"1106.35", "codDocumento":"914151"}, {"ano":"2014", "mes":"4", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"06128710000188", "fornecedor":"JVM COPIADORAS E INFORMÁTICA LTDA", 
+                            "documento":"000688", "data":"2014-04-30", "detalhamento":"Despesa com material de consumo: Despesa com aluguel de equipamento.", 
+                            "valorReembolsado":"263.0", "codDocumento":"914145"}, {"ano":"2014", "mes":"4", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"03117579000165", "fornecedor":"Diario de Cuiabá Ltda", 
+                            "documento":"4252", "data":"2014-04-14", "detalhamento":"Despesa com aquisição de material de consumo: Despesas com aquisição de publicações.", 
+                            "valorReembolsado":"520.0", "codDocumento":"914153"}, {"ano":"2014", "mes":"4", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"03934759000130", "fornecedor":"Solução Empreendimentos Ltda ", 
+                            "documento":"01152", "data":"2014-04-10", "detalhamento":"Despesa com imóvel político: despesa com aluguel.", 
+                            "valorReembolsado":"3303.0", "codDocumento":"916772"}, {"ano":"2014", "mes":"4", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"08626278000180", "fornecedor":"Condominio Edifício Empresarial Santa Rosa Tower", 
+                            "documento":"1303/304/064", "data":"2014-04-10", "detalhamento":"Despesa com imóvel político: Pagamento de Condomínio.", 
+                            "valorReembolsado":"1014.86", "codDocumento":"914144"}, {"ano":"2014", "mes":"3", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02575829000148", "fornecedor":"Viação Avianca", 
+                            "documento":"1BK9IG", "data":"2014-03-24", "detalhamento":"Viação Avianca
+Senador José Aparecido (Cidinho Santos)
+Cuiabá/Campo Grande - 25/03/2014
+Campo Grande/Curitiba - 25/03/2014
+", 
+                            "valorReembolsado":"237.35", "codDocumento":"935703"}, {"ano":"2014", "mes":"3", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas", 
+                            "documento":"957 2485968670", "data":"2014-03-27", "detalhamento":"Tam Linhas Aéreas
+Senador José Aparecido(Cidinho Santos)
+Brasília/São Paulo - 27/03/2014", 
+                            "valorReembolsado":"732.38", "codDocumento":"935704"}, {"ano":"2014", "mes":"3", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas", 
+                            "documento":"957 2485968655", "data":"2014-03-25", "detalhamento":"Tam Linhas Aéreas
+Senador José Aparecido(Cidinho Santos)
+Curitiba/São Paulo - 25/03/2014
+São Paulo/Brasília - 25/03/2014", 
+                            "valorReembolsado":"1156.12", "codDocumento":"935706"}, {"ano":"2014", "mes":"3", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linha Aéreas", 
+                            "documento":"957 2485968632", "data":"2014-03-20", "detalhamento":"Tam Linha Aéreas
+Senador José Aparecido(Cidinho Santos)
+Brasília/Cuiabá - 20/03/2014
+", 
+                            "valorReembolsado":"904.64", "codDocumento":"935702"}, {"ano":"2014", "mes":"3", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol Linhas Aéreas", 
+                            "documento":"127 00240929764", "data":"2014-03-26", "detalhamento":"Gol Linhas Aéreas
+Coaraci Castilho - Mat: 157640
+Brasília/Cuiabá - 30/03/2014
+", 
+                            "valorReembolsado":"774.84", "codDocumento":"935707"}, {"ano":"2014", "mes":"3", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol Linhas Aéreas", 
+                            "documento":"127 00240115503", "data":"2014-03-18", "detalhamento":"Gol Linhas Aéreas
+Senador José Aparecido(Cidinho Santos)
+São Paulo/Cuiabá -28/03/2014 ", 
+                            "valorReembolsado":"844.14", "codDocumento":"935705"}, {"ano":"2014", "mes":"3", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"09296295000160", "fornecedor":"Azul Linhas Aéreas Brasileiras", 
+                            "documento":"JYIZ8D", "data":"2014-03-13", "detalhamento":"Azul Linhas Aéreas Brasileiras
+Senador José Aparecido(Cidinho Santos)
+Goiânia/Cuiabá - 13/032014", 
+                            "valorReembolsado":"513.01", "codDocumento":"935701"}, {"ano":"2014", "mes":"3", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"05559973000189", "fornecedor":"H M Mesquista Comunicação ME", 
+                            "documento":"1673", "data":"2014-03-18", "detalhamento":"Despesa com divulgação da atividade parlamentar: Despesa com prestação de serviço ref. hospedagem, manutenção e suporte técnico do portal www.cidinhosantos.com.br", 
+                            "valorReembolsado":"2000.0", "codDocumento":"935700"}, {"ano":"2014", "mes":"3", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"06128710000188", "fornecedor":"JVM Copiadora e informativa Ltda - EPP", 
+                            "documento":"000660", "data":"2014-03-31", "detalhamento":"Despesa com material de consumo: Despesa com locação de equipamento.", 
+                            "valorReembolsado":"263.0", "codDocumento":"913571"}]}

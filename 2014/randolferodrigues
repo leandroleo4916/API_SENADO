@@ -1,0 +1,1525 @@
+{"gastosSenador": [{"ano":"2014", "mes":"12", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas S/A", 
+                            "documento":"9572100508766", "data":"2014-12-30", "detalhamento":"Randolph Alves - 30/12/2014
+Macapá/Brasília - voo JJ 3529", 
+                            "valorReembolsado":"569.72", "codDocumento":"986687"}, {"ano":"2014", "mes":"12", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas S/A", 
+                            "documento":"9572101943720", "data":"2014-12-15", "detalhamento":"Randolph Alves - 15/12/2014
+Macapá/Brasília - voo JJ 3447", 
+                            "valorReembolsado":"1583.52", "codDocumento":"983876"}, {"ano":"2014", "mes":"12", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas S/A", 
+                            "documento":"9572101570878", "data":"2014-12-12", "detalhamento":"Randolph Alves - 12/12/2014
+Brasília/Macapá - voo JJ 3528", 
+                            "valorReembolsado":"1692.73", "codDocumento":"983875"}, {"ano":"2014", "mes":"12", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas S/A", 
+                            "documento":"9572101570878", "data":"2014-12-12", "detalhamento":"Randolph Alves - 12/12/2014
+Brasília/Macapá - voo JJ 3528", 
+                            "valorReembolsado":"1692.73", "codDocumento":"986683"}, {"ano":"2014", "mes":"12", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas S/A", 
+                            "documento":"7MP72R", "data":"2014-12-11", "detalhamento":"Randolph Rodrigues
+Brasília/São Paulo - voo JJ 3709 - em 11/12/2014", 
+                            "valorReembolsado":"521.23", "codDocumento":"989206"}, {"ano":"2014", "mes":"12", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas S/A", 
+                            "documento":"9572101788152", "data":"2014-12-11", "detalhamento":"Randolph Alves - 11/12/2014
+Brasília/São Paulo (CGH) - voo JJ 3709", 
+                            "valorReembolsado":"521.23", "codDocumento":"983873"}, {"ano":"2014", "mes":"12", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas S/A", 
+                            "documento":"9572100992761", "data":"2014-12-08", "detalhamento":"Randolph Alves - 08/12/2014
+Macapá/Brasília - voo JJ 3529", 
+                            "valorReembolsado":"2557.95", "codDocumento":"977743"}, {"ano":"2014", "mes":"12", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas S/A", 
+                            "documento":"9572101084599", "data":"2014-12-05", "detalhamento":"Randolph Alves - 05/12/2014
+Brasília/Macapá - voo JJ 3528", 
+                            "valorReembolsado":"1223.03", "codDocumento":"977742"}, {"ano":"2014", "mes":"12", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas S/A", 
+                            "documento":"9572100784597", "data":"2014-12-01", "detalhamento":"Randolph Alves - 01/12/2014
+Macapá/Brasília - voo JJ 3529", 
+                            "valorReembolsado":"1042.15", "codDocumento":"977741"}, {"ano":"2014", "mes":"12", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol Linhas Aereas S/A", 
+                            "documento":"QY98XL", "data":"2014-12-21", "detalhamento":"Randolph Alves - 21/12/2014
+Rio de Janeiro/Macapá - voo G3 1998", 
+                            "valorReembolsado":"2823.23", "codDocumento":"986689"}, {"ano":"2014", "mes":"12", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol Linhas Aereas S/A", 
+                            "documento":"1270001932048", "data":"2014-12-11", "detalhamento":"Randolph Alves - 11/12/2014
+São Paulo/Brasília - voo G3 1422", 
+                            "valorReembolsado":"325.47", "codDocumento":"986688"}, {"ano":"2014", "mes":"12", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol Linhas Aereas S/A", 
+                            "documento":"1270001932048", "data":"2014-12-11", "detalhamento":"Randolph Alves - 11/12/2014
+Congonhas/Brasília - voo G3 1422", 
+                            "valorReembolsado":"325.47", "codDocumento":"983874"}, {"ano":"2014", "mes":"12", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"09296295000160", "fornecedor":"Azul Linhas Aereas S/A", 
+                            "documento":"2220005512657", "data":"2014-12-20", "detalhamento":"Randolph Alves - 20/12/2014
+Brasília/Rio de Janeiro - AD 2647", 
+                            "valorReembolsado":"1989.64", "codDocumento":"986684"}, {"ano":"2014", "mes":"12", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"16736827000106", "fornecedor":"Mídia e Conexão Comunicação Ltda - ME", 
+                            "documento":"0220", "data":"2014-12-10", "detalhamento":"valor pago com serviços de apoio parlamentar.", 
+                            "valorReembolsado":"3000.0", "codDocumento":"986686"}, {"ano":"2014", "mes":"12", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"11468252000166", "fornecedor":"GVB 09 Consultoria Emprsarial Ltda", 
+                            "documento":"00000511", "data":"2015-01-05", "detalhamento":"valor pago com serviço de apoio parlamentar.", 
+                            "valorReembolsado":"5000.0", "codDocumento":"988174"}, {"ano":"2014", "mes":"12", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"13364156000101", "fornecedor":"Click Assessoria & Comunicação Ltda - ME", 
+                            "documento":"40", "data":"2014-12-09", "detalhamento":"valor pago com serviços de apoio parlamentar.", 
+                            "valorReembolsado":"1800.0", "codDocumento":"988609"}, {"ano":"2014", "mes":"12", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"07656757000187", "fornecedor":"Você Telecomunicações Ltda", 
+                            "documento":"null", "data":"2014-12-27", "detalhamento":"valor pago com serviço de provedor de internet.", 
+                            "valorReembolsado":"250.6", "codDocumento":"988613"}, {"ano":"2014", "mes":"12", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"07656757000187", "fornecedor":"Você Telecomunicações Ltda", 
+                            "documento":"null", "data":"2014-12-27", "detalhamento":"valor pago com serviço de provedor de internet.", 
+                            "valorReembolsado":"219.89", "codDocumento":"989205"}, {"ano":"2014", "mes":"12", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"04206050003015", "fornecedor":"Tim Celular S/A", 
+                            "documento":"null", "data":"2014-12-25", "detalhamento":"valor pago com telefonia móvel.", 
+                            "valorReembolsado":"342.65", "codDocumento":"988614"}, {"ano":"2014", "mes":"12", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000683", "fornecedor":"Telemar Norte Leste S/A", 
+                            "documento":"null", "data":"2015-01-01", "detalhamento":"valor pago com telefonia fixa no escritório de Macapá.", 
+                            "valorReembolsado":"413.34", "codDocumento":"988608"}, {"ano":"2014", "mes":"12", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"72820822002769", "fornecedor":"SKY Brasil Serviços Ltda", 
+                            "documento":"null", "data":"2014-12-23", "detalhamento":"valor pago com TV por assinatura.", 
+                            "valorReembolsado":"77.52", "codDocumento":"988611"}, {"ano":"2014", "mes":"12", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33530486000129", "fornecedor":"Empresa Brasileira de Telecomunicações S/A", 
+                            "documento":"null", "data":"2014-12-24", "detalhamento":"valor pago com telefonia.", 
+                            "valorReembolsado":"4.48", "codDocumento":"988612"}, {"ano":"2014", "mes":"12", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"05965546000109", "fornecedor":"Companhia de Eletricidade do Amapá - CEA", 
+                            "documento":"null", "data":"2014-12-10", "detalhamento":"valor pago com energia elétrica.", 
+                            "valorReembolsado":"582.32", "codDocumento":"988610"}, {"ano":"2014", "mes":"12", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"01549402000102", "fornecedor":"Capital Imoveis Ltda", 
+                            "documento":"null", "data":"2014-12-13", "detalhamento":"valor pago com aluguel do escritório de Macapá/AP.", 
+                            "valorReembolsado":"3088.0", "codDocumento":"983877"}, {"ano":"2014", "mes":"11", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas S/A", 
+                            "documento":"9572100809768", "data":"2014-11-28", "detalhamento":"Randolph Alves - 28/11/2014
+Brasília/Macapá - voo JJ 3528", 
+                            "valorReembolsado":"1792.73", "codDocumento":"976778"}, {"ano":"2014", "mes":"11", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas S/A", 
+                            "documento":"9572100691386", "data":"2014-11-26", "detalhamento":"Emilio Macedo - 26/11/2014
+Brasília/Macapá - voo JJ 3446
+Matricula: 237520", 
+                            "valorReembolsado":"1772.73", "codDocumento":"973414"}, {"ano":"2014", "mes":"11", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas S/A", 
+                            "documento":"9572100691387", "data":"2014-11-26", "detalhamento":"Ricardo Dias - 26/11/2014
+Brasília/Macapá - voo JJ 3446
+Matricula: 256976", 
+                            "valorReembolsado":"1772.73", "codDocumento":"973415"}, {"ano":"2014", "mes":"11", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas S/A", 
+                            "documento":"9572100784600", "data":"2014-11-26", "detalhamento":"Carla Ferreira - 26/11/2014
+Brasília/Macapá - voo JJ 3528
+Matricula: 259527", 
+                            "valorReembolsado":"1692.73", "codDocumento":"973416"}, {"ano":"2014", "mes":"11", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas S/A", 
+                            "documento":"9572100508717", "data":"2014-11-24", "detalhamento":"Randolph Alves - 24/11/2014
+Macapá/Brasília - voo JJ 3529", 
+                            "valorReembolsado":"1732.83", "codDocumento":"973410"}, {"ano":"2014", "mes":"11", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas S/A", 
+                            "documento":"9572100508728", "data":"2014-11-24", "detalhamento":"Ricardo Dias - 24/11/2014
+Macapá/Brasília - voo JJ 3529
+Matricula:256976", 
+                            "valorReembolsado":"1511.63", "codDocumento":"973411"}, {"ano":"2014", "mes":"11", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas S/A", 
+                            "documento":"9572100508729", "data":"2014-11-24", "detalhamento":"Emilio Macedo - 24/11/2014
+Macapá/Brasília - voo JJ 3529
+Matricula: 237520", 
+                            "valorReembolsado":"1511.63", "codDocumento":"973412"}, {"ano":"2014", "mes":"11", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas S/A", 
+                            "documento":"9572499931658", "data":"2014-11-14", "detalhamento":"Randolph Alves 
+14/11/2014 - Brasília/Macapá - voo JJ 3528
+17/11/2014 - Macapá/Brasília - voo JJ 3529
+", 
+                            "valorReembolsado":"4633.37", "codDocumento":"969533"}, {"ano":"2014", "mes":"11", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas S/A", 
+                            "documento":"9572499743626", "data":"2014-11-10", "detalhamento":"Randolph Alves - 06/11/2014
+Macapá/Brasília - voo JJ 3529", 
+                            "valorReembolsado":"303.84", "codDocumento":"969529"}, {"ano":"2014", "mes":"11", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas S/A", 
+                            "documento":"9572499095957", "data":"2014-11-08", "detalhamento":"Raphael Cittadino - 
+06/11/14 - Brasília/Macapá - voo JJ 3528
+08/11/14 - Macapá/Brasília - voo JJ 3529
+Matricula: 265795", 
+                            "valorReembolsado":"1878.49", "codDocumento":"966503"}, {"ano":"2014", "mes":"11", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas S/A", 
+                            "documento":"9572499334181", "data":"2014-11-03", "detalhamento":"Randolph Alves - 03/11/2014
+Macapá/Brasília - voo JJ 3447", 
+                            "valorReembolsado":"1650.29", "codDocumento":"966506"}, {"ano":"2014", "mes":"11", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas S/A", 
+                            "documento":"9572499334171", "data":"2014-11-02", "detalhamento":"Randolph Alves - 02/11/2014
+Rio de Janeiro (SDU)/Macapá - voo JJ 3864/3446", 
+                            "valorReembolsado":"1131.35", "codDocumento":"966505"}, {"ano":"2014", "mes":"11", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol Linhas Aereas S/A", 
+                            "documento":"IGGRHT", "data":"2014-11-24", "detalhamento":"Carla Ferreira - 25/11/2014
+Macapá/Brasília - voo G3 2171/1975
+Matricula: 259527", 
+                            "valorReembolsado":"1835.14", "codDocumento":"973413"}, {"ano":"2014", "mes":"11", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol Linhas Aereas S/A", 
+                            "documento":"YM3R2R", "data":"2014-11-20", "detalhamento":"Randolph Alves - 20/11/2014
+Brasília/Macapá - voo G3 1976", 
+                            "valorReembolsado":"1512.3", "codDocumento":"973409"}, {"ano":"2014", "mes":"11", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol Linhas Aereas S/A", 
+                            "documento":"1270001918716", "data":"2014-11-14", "detalhamento":"Raphael Cittadino
+14/11/2014 - Brasília/São Paulo - voo G3 1419
+16/11/2014 - São Paulo/Brasília - voo G3 1914
+Matricula: 265795", 
+                            "valorReembolsado":"1193.78", "codDocumento":"969532"}, {"ano":"2014", "mes":"11", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol Linhas Aereas S/A", 
+                            "documento":"1270001916394", "data":"2014-11-12", "detalhamento":"Ana Rita Queiroz - 
+12/11/2014 - Macapá/Brasília - voo G3 1621/1975
+12/11/2014/13/11/2014 Brasília/Macapá - voo G3 1978/1998
+Matricula: 250408", 
+                            "valorReembolsado":"2284.76", "codDocumento":"969531"}, {"ano":"2014", "mes":"11", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"07810282000131", "fornecedor":"M.C.G. Monteiro - LTDA EPP", 
+                            "documento":"4862", "data":"2014-11-08", "detalhamento":"valor pago com hospedagem do assessor Raphael Cittadino.
+Matricula: 265795", 
+                            "valorReembolsado":"559.0", "codDocumento":"969530"}, {"ano":"2014", "mes":"11", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"01913953000103", "fornecedor":"Hotéis Ortega Turismo Ltda", 
+                            "documento":"7253", "data":"2014-11-26", "detalhamento":"valor pago com hospedagem do assessor
+Ricardo Dias.
+Matricula: 256976", 
+                            "valorReembolsado":"680.0", "codDocumento":"973417"}, {"ano":"2014", "mes":"11", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"01913953000103", "fornecedor":"Hotéis Ortega Turismo Ltda", 
+                            "documento":"7251", "data":"2014-11-26", "detalhamento":"valor pago com hospedagem da assessora Carla Ferreira.
+Matricula: 259527", 
+                            "valorReembolsado":"366.0", "codDocumento":"973418"}, {"ano":"2014", "mes":"11", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"11468252000166", "fornecedor":"GVB 09 Consultoria Empresarial Ltda", 
+                            "documento":"00000483", "data":"2014-12-01", "detalhamento":"valor pago com serviço de assessoria parlamentar.", 
+                            "valorReembolsado":"5000.0", "codDocumento":"976638"}, {"ano":"2014", "mes":"11", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"11468252000166", "fornecedor":"GVB 09 Consultoria Empresarial Ltda", 
+                            "documento":"00000483", "data":"2014-12-01", "detalhamento":"valor pago com serviço de apoio parlamentar.", 
+                            "valorReembolsado":"5000.0", "codDocumento":"988173"}, {"ano":"2014", "mes":"11", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"11468252000166", "fornecedor":"GVB 09 Consultoria Empresarial Ltda", 
+                            "documento":"00000463", "data":"2014-11-03", "detalhamento":"valor pago com serviços de apoio parlamentar.", 
+                            "valorReembolsado":"5000.0", "codDocumento":"966507"}, {"ano":"2014", "mes":"11", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"13364156000101", "fornecedor":"Click Assessoria & Comunicação Ltda", 
+                            "documento":"36", "data":"2014-11-06", "detalhamento":"valor pago com serviço de apoio parlamentar.", 
+                            "valorReembolsado":"1800.0", "codDocumento":"983868"}, {"ano":"2014", "mes":"11", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"12380591000159", "fornecedor":"F Felgueiras Rodrigues ME", 
+                            "documento":"28", "data":"2014-11-10", "detalhamento":"valor pago com material de consumo.", 
+                            "valorReembolsado":"450.0", "codDocumento":"983864"}, {"ano":"2014", "mes":"11", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"07656757000187", "fornecedor":"Você Telecomunicações Ltda", 
+                            "documento":"null", "data":"2014-11-17", "detalhamento":"valor pago com provedor de internet.", 
+                            "valorReembolsado":"249.79", "codDocumento":"983871"}, {"ano":"2014", "mes":"11", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"04206050003015", "fornecedor":"Tim Celular S/A", 
+                            "documento":"null", "data":"2014-11-25", "detalhamento":"valor pago com serviço de telefonia móvel.", 
+                            "valorReembolsado":"511.63", "codDocumento":"983866"}, {"ano":"2014", "mes":"11", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000683", "fornecedor":"Telemar Norte Leste S/A", 
+                            "documento":"null", "data":"2014-12-01", "detalhamento":"valor pago com telefonia fixa.", 
+                            "valorReembolsado":"548.44", "codDocumento":"983870"}, {"ano":"2014", "mes":"11", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"02558157000162", "fornecedor":"Telefonica Brasil S/A", 
+                            "documento":"null", "data":"2014-12-06", "detalhamento":"valor pago com telefonia móvel", 
+                            "valorReembolsado":"591.31", "codDocumento":"983872"}, {"ano":"2014", "mes":"11", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"02558157000162", "fornecedor":"Telefonica Brasil S/A", 
+                            "documento":"null", "data":"2014-11-06", "detalhamento":"valor pago com telefonia móvel.", 
+                            "valorReembolsado":"527.37", "codDocumento":"983869"}, {"ano":"2014", "mes":"11", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"72820822002769", "fornecedor":"Sky Brasil Serviços Ltda", 
+                            "documento":"null", "data":"2014-11-23", "detalhamento":"valor pago com serviço de tv por assinatura.", 
+                            "valorReembolsado":"77.52", "codDocumento":"983865"}, {"ano":"2014", "mes":"11", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"05965546000109", "fornecedor":"Companhia de Eletricidade do Amapá - CEA", 
+                            "documento":"null", "data":"2014-11-06", "detalhamento":"valor pago com energia elétrica.", 
+                            "valorReembolsado":"558.67", "codDocumento":"983867"}, {"ano":"2014", "mes":"11", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"01549402000102", "fornecedor":"Capital Imóveis Ltda", 
+                            "documento":"null", "data":"2014-11-13", "detalhamento":"valor pago com aluguel do escritório de Macapá/AP.", 
+                            "valorReembolsado":"3000.0", "codDocumento":"966504"}, {"ano":"2014", "mes":"10", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas S/A", 
+                            "documento":"9572499250147", "data":"2014-10-30", "detalhamento":"Randolph Alves - 30/10/2014
+Brasília/Rio de Janeiro - voo JJ 3027", 
+                            "valorReembolsado":"1108.94", "codDocumento":"966485"}, {"ano":"2014", "mes":"10", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas S/A", 
+                            "documento":"9572499095923", "data":"2014-10-28", "detalhamento":"Randolph Alves - 28/10/2014
+Macapá/Brasília - voo JJ 3433", 
+                            "valorReembolsado":"2297.44", "codDocumento":"966486"}, {"ano":"2014", "mes":"10", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas S/A", 
+                            "documento":"9572498605748", "data":"2014-10-21", "detalhamento":"Randolph Alves - 21/10/20114
+Macapá/Brasília - voo JJ 3433
+", 
+                            "valorReembolsado":"2831.18", "codDocumento":"961498"}, {"ano":"2014", "mes":"10", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas S/A", 
+                            "documento":"9572498159613", "data":"2014-10-13", "detalhamento":"Randolph Alves-14/10/2014
+Belém/Macapá m- voo JJ 3432", 
+                            "valorReembolsado":"911.47", "codDocumento":"966496"}, {"ano":"2014", "mes":"10", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas S/A", 
+                            "documento":"9572498007660", "data":"2014-10-13", "detalhamento":"Randolph Alves - 13/10/2014
+Macapá/Belém - voo JJ 3433", 
+                            "valorReembolsado":"158.25", "codDocumento":"961497"}, {"ano":"2014", "mes":"10", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas S/A", 
+                            "documento":"9572497837171", "data":"2014-10-08", "detalhamento":"Randolph Alves - 08/10/2014
+Brasília/Macapá - voo JJ 3446", 
+                            "valorReembolsado":"1381.53", "codDocumento":"961496"}, {"ano":"2014", "mes":"10", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas S/A", 
+                            "documento":"9572497691868", "data":"2014-10-07", "detalhamento":"Randolph Alves - 07/10/2014
+Macapá/Brasília - voo G3 JJ3433", 
+                            "valorReembolsado":"2435.85", "codDocumento":"961495"}, {"ano":"2014", "mes":"10", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas S/A", 
+                            "documento":"9572497546805", "data":"2014-10-01", "detalhamento":"Randolph Alves - 01/010/2014
+Brasília/Macapá - voo JJ 3448
+", 
+                            "valorReembolsado":"1555.6", "codDocumento":"958824"}, {"ano":"2014", "mes":"10", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"05983192000389", "fornecedor":"Salomão Alcolumbre & CIA LTDA", 
+                            "documento":"100001316", "data":"2014-10-15", "detalhamento":"valor pago com combustivel", 
+                            "valorReembolsado":"600.0", "codDocumento":"966495"}, {"ano":"2014", "mes":"10", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"11363879000152", "fornecedor":"Shout Agencia de Publicidade Ltda", 
+                            "documento":"00000217", "data":"2014-10-02", "detalhamento":"valor pago com serviço de assessoria parlamentar.", 
+                            "valorReembolsado":"4166.0", "codDocumento":"958823"}, {"ano":"2014", "mes":"10", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"13364156000101", "fornecedor":"Click Assessoria & Comunicação Ltda - ME", 
+                            "documento":"32", "data":"2014-10-08", "detalhamento":"valor pago com serviço de apoio parlamentar.", 
+                            "valorReembolsado":"1800.0", "codDocumento":"966493"}, {"ano":"2014", "mes":"10", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"12380591000159", "fornecedor":"F Felgueiras Rodrigues - ME", 
+                            "documento":"13", "data":"2014-10-06", "detalhamento":"valor pago com material de consumo.", 
+                            "valorReembolsado":"350.0", "codDocumento":"966494"}, {"ano":"2014", "mes":"10", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"07656757000187", "fornecedor":"Você Telecom", 
+                            "documento":"null", "data":"2014-10-13", "detalhamento":"valor pago com provedor de internet.", 
+                            "valorReembolsado":"249.46", "codDocumento":"966488"}, {"ano":"2014", "mes":"10", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"04206050003015", "fornecedor":"Tim Celular S/A", 
+                            "documento":"null", "data":"2014-10-25", "detalhamento":"valor pago com telefonia móvel.", 
+                            "valorReembolsado":"361.77", "codDocumento":"983855"}, {"ano":"2014", "mes":"10", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000683", "fornecedor":"Telemar Norte Leste S/A", 
+                            "documento":"null", "data":"2014-10-30", "detalhamento":"valor pago com telefonia fixa.", 
+                            "valorReembolsado":"437.87", "codDocumento":"966492"}, {"ano":"2014", "mes":"10", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000683", "fornecedor":"Telemar Norte Leste S/A", 
+                            "documento":"null", "data":"2014-10-01", "detalhamento":"valor pago com telefonia fixa.", 
+                            "valorReembolsado":"442.87", "codDocumento":"961494"}, {"ano":"2014", "mes":"10", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"02558157000162", "fornecedor":"Telefônica Brasil S/A", 
+                            "documento":"null", "data":"2014-10-06", "detalhamento":"valor pago com telefonia fixa.", 
+                            "valorReembolsado":"683.03", "codDocumento":"966490"}, {"ano":"2014", "mes":"10", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"72820822002769", "fornecedor":"SKY Brasil Serviços Ltda", 
+                            "documento":"null", "data":"2014-10-23", "detalhamento":"valor pago com TV por assinatura.", 
+                            "valorReembolsado":"76.0", "codDocumento":"966489"}, {"ano":"2014", "mes":"10", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33530486000129", "fornecedor":"Empresa Brasileira de Telecomunicações S/A", 
+                            "documento":"null", "data":"2014-10-24", "detalhamento":"valor pago com  ligações interurbanas.", 
+                            "valorReembolsado":"3.34", "codDocumento":"966491"}, {"ano":"2014", "mes":"10", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"05965546000109", "fornecedor":"Companhia de Eletricidade do Amapá - CEA", 
+                            "documento":"null", "data":"2014-10-07", "detalhamento":"valor pago com energia elétrica.", 
+                            "valorReembolsado":"579.0", "codDocumento":"966487"}, {"ano":"2014", "mes":"10", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"01549402000102", "fornecedor":"Capital Imoveis Ltda", 
+                            "documento":"null", "data":"2014-10-13", "detalhamento":"valor pago com aluguel do escritório de Macapá.", 
+                            "valorReembolsado":"3000.0", "codDocumento":"961493"}, {"ano":"2014", "mes":"9", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas S/A", 
+                            "documento":"9572497252631", "data":"2014-09-30", "detalhamento":"1º bilhete: 957 2486431893
+valor do 1º bilhete: R$ 815,55
+2º bilhete: 957 2488302413
+valor do 2º bilhete: R$ 1.504,15
+3º bilhete: 957 2488484809
+valor do 3º bilhete: R$ 1.584,15
+4º bilhete: 9572494838550
+valor do 4º bilhete: R$ 1.760,15
+", 
+                            "valorReembolsado":"1880.15", "codDocumento":"956555"}, {"ano":"2014", "mes":"9", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas S/A", 
+                            "documento":"9572497120838", "data":"2014-09-24", "detalhamento":"Randolph Alves - 24/09/2014
+São Paulo/Brasília - voo JJ 3714", 
+                            "valorReembolsado":"438.57", "codDocumento":"955681"}, {"ano":"2014", "mes":"9", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas S/A", 
+                            "documento":"9572497024410", "data":"2014-09-23", "detalhamento":"Emilio Macedo - 23/09/2014
+Matricula: 237520
+São Paulo/Macapá - voo JJ 3386/3448
+1º Bilhete: 9572495116314
+valor do 1º bilhete: R$ 1.118,53
+2º bilhete: 9572497024410
+valor do 2º bilhete: R$ 1.871,62", 
+                            "valorReembolsado":"1871.62", "codDocumento":"955676"}, {"ano":"2014", "mes":"9", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas S/A", 
+                            "documento":"9572495978637", "data":"2014-09-07", "detalhamento":"Randolph Alves - 07/09/2014
+Rio de Janeiro/São Paulo - voo JJ 3929", 
+                            "valorReembolsado":"673.17", "codDocumento":"955666"}, {"ano":"2014", "mes":"9", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas S/A", 
+                            "documento":"9572496034502", "data":"2014-09-06", "detalhamento":"Randolph Alves - 06/09/2014
+Brasília/Rio de Janeiro - voo JJ 3029", 
+                            "valorReembolsado":"342.03", "codDocumento":"955665"}, {"ano":"2014", "mes":"9", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas S/A", 
+                            "documento":"9572495452552", "data":"2014-09-04", "detalhamento":"Randolph Alves - 
+01/09/14 - Rio de Janeiro/Brasília - voo jj 3148
+04/09/14 - Brasília/Macapá - voo jj 3448
+1º Bilhete: 9572495452547
+valor do 1º bilhete: R$ 2.213,92
+2º Bilhete:9572495452552
+valor do 2º bilhete: R$ 2.257,57
+valor das alterações: R$ 326,87", 
+                            "valorReembolsado":"2257.57", "codDocumento":"951067"}, {"ano":"2014", "mes":"9", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas S/A", 
+                            "documento":"9572495824802", "data":"2014-09-04", "detalhamento":"Randolph Alves - 04/09/2014
+São Paulo/Brasília - voo JJ 3706
+", 
+                            "valorReembolsado":"443.57", "codDocumento":"951069"}, {"ano":"2014", "mes":"9", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas S/A", 
+                            "documento":"9572495520466", "data":"2014-09-01", "detalhamento":"Heluana Lima - 01/09/2014
+Rio de Janeiro (santos dumont)/BSB - voo JJ 3148/ JJ 3448
+Matricula: 242709", 
+                            "valorReembolsado":"1801.37", "codDocumento":"951064"}, {"ano":"2014", "mes":"9", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"05983192001601", "fornecedor":"Salomão Alcolumbre & CIA LTDA", 
+                            "documento":"545", "data":"2014-09-22", "detalhamento":"valor pago com combustível.", 
+                            "valorReembolsado":"100.0", "codDocumento":"966511"}, {"ano":"2014", "mes":"9", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol Linhas Aereas S/A", 
+                            "documento":"9690001840433", "data":"2014-09-25", "detalhamento":"Randolph Alves - 25/09/2014
+Brasília/Macapá - voo G3 1976", 
+                            "valorReembolsado":"1219.58", "codDocumento":"955680"}, {"ano":"2014", "mes":"9", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol Linhas Aereas S/A", 
+                            "documento":"FENWSJ", "data":"2014-09-22", "detalhamento":"Randolph Alves - 22/09/2014
+Macapá/São Paulo - voo G3 1595", 
+                            "valorReembolsado":"1125.7", "codDocumento":"955677"}, {"ano":"2014", "mes":"9", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol Linhas Aereas S/A", 
+                            "documento":"HGYQJT", "data":"2014-09-22", "detalhamento":"Emilio Macedo - 22/09/2014
+Macapá/São Paulo - voo G3 1595
+Matricula: 237520", 
+                            "valorReembolsado":"1125.7", "codDocumento":"955675"}, {"ano":"2014", "mes":"8", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aerea S/A", 
+                            "documento":"9572494759229", "data":"2014-08-17", "detalhamento":"Heluana Lima - 17/08/2014
+Macapá/Brasília - voo JJ 3447
+Matricula: 242709", 
+                            "valorReembolsado":"1319.35", "codDocumento":"945783"}, {"ano":"2014", "mes":"8", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol Linhas Aereas S/A", 
+                            "documento":"1270001877251", "data":"2014-08-30", "detalhamento":"Randolph Alves - 30/08/2014
+Macapá/Brasília - voo G3 1979", 
+                            "valorReembolsado":"1189.44", "codDocumento":"951050"}, {"ano":"2014", "mes":"8", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol Linhas Aereas S/A", 
+                            "documento":"1270001871894", "data":"2014-08-28", "detalhamento":"Randolph Alves - 28/08/2014
+Brasília/Macapá - voo G3 1976", 
+                            "valorReembolsado":"734.14", "codDocumento":"948173"}, {"ano":"2014", "mes":"8", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol Linhas Aereas S/A", 
+                            "documento":"1270001862035", "data":"2014-08-07", "detalhamento":"Randolph Alves - 07/08/2014
+Brasília/Rio de Janeiro - voo G3 1485", 
+                            "valorReembolsado":"929.94", "codDocumento":"944393"}, {"ano":"2014", "mes":"8", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol Linhas Aereas S/A", 
+                            "documento":"1270001862036", "data":"2014-08-07", "detalhamento":"Raphael Cittadino - 07/08/2014
+Brasília/Rio de Janeiro - voo G3 1485
+Matricula: 265795", 
+                            "valorReembolsado":"929.94", "codDocumento":"944391"}, {"ano":"2014", "mes":"8", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol Linhas Aereas S/A", 
+                            "documento":"1270001859692", "data":"2014-08-02", "detalhamento":"Randolph Alves - 02/08/2014
+Macapá/Brasília - voo G3 1979", 
+                            "valorReembolsado":"1534.84", "codDocumento":"944387"}, {"ano":"2014", "mes":"8", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"09296295000160", "fornecedor":"Azul Linhas Aereas S/A", 
+                            "documento":"2220005509256", "data":"2014-08-12", "detalhamento":"Raphael Cittadino - 12/08/2014
+Vitória/Brasília - voo AD 2525
+Matricula: 265795", 
+                            "valorReembolsado":"373.23", "codDocumento":"944392"}, {"ano":"2014", "mes":"8", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"09296295000160", "fornecedor":"Azul Linhas Aereas S/A", 
+                            "documento":"2220005510086", "data":"2014-08-08", "detalhamento":"Randolph Alves - 08/08/2014
+Rio de Janeiro/Belo Horizonte - voo AD 2551
+Belo Horizonte/Belém - voo AD 4186
+Belém/Macapá - voo AD 2854", 
+                            "valorReembolsado":"2734.05", "codDocumento":"944395"}, {"ano":"2014", "mes":"8", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"09296295000160", "fornecedor":"Azul Linhas Aereas Brasilieiras S/A", 
+                            "documento":"2220005521268", "data":"2014-08-31", "detalhamento":"Heluana Lima - 31/08/2014
+Macapá/Belém - voo AD 2855
+Belém/Belo Horizonte - voo AD 4187
+Belo Horizonte/Rio de Janeiro - voo AD 2558
+Matricula: 242709", 
+                            "valorReembolsado":"1465.53", "codDocumento":"951052"}, {"ano":"2014", "mes":"8", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02575829000148", "fornecedor":"Avianca Linhas Aereas S/A", 
+                            "documento":"2472412040579", "data":"2014-08-27", "detalhamento":"Randolph Alves - 27/08/2014
+Florianópolis/Brasília - voo O66160", 
+                            "valorReembolsado":"852.07", "codDocumento":"948172"}, {"ano":"2014", "mes":"8", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02575829000148", "fornecedor":"Avianca Linhas Aereas S/A", 
+                            "documento":"2472412040580", "data":"2014-08-24", "detalhamento":"Randolph Alves - 24/08/2014
+Brasília/Florianópolis - voo O66161", 
+                            "valorReembolsado":"506.93", "codDocumento":"948171"}, {"ano":"2014", "mes":"8", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"04094931001986", "fornecedor":"Transamerica Flats Ltda", 
+                            "documento":"00088095", "data":"2014-08-26", "detalhamento":"valor pago com hospedagem do senador", 
+                            "valorReembolsado":"1497.39", "codDocumento":"948176"}, {"ano":"2014", "mes":"8", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"38269856991", "fornecedor":"Silvio da Silva", 
+                            "documento":"null", "data":"2014-08-27", "detalhamento":"valor pago com locomoção (táxi).", 
+                            "valorReembolsado":"35.0", "codDocumento":"956574"}, {"ano":"2014", "mes":"8", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"33469172002292", "fornecedor":"Serviço Nacional de Aprendiz. Com. SENAC", 
+                            "documento":"006129", "data":"2014-08-06", "detalhamento":"valor pago com refeição.", 
+                            "valorReembolsado":"39.5", "codDocumento":"944394"}, {"ano":"2014", "mes":"8", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"22443002420", "fornecedor":"Rubens Lima", 
+                            "documento":"null", "data":"2014-08-16", "detalhamento":"valor pago com locomoção (táxi).", 
+                            "valorReembolsado":"10.0", "codDocumento":"956573"}, {"ano":"2014", "mes":"8", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"05169232000191", "fornecedor":"J. R. Abdon Ferreira - ME", 
+                            "documento":"002475", "data":"2014-08-20", "detalhamento":"valor pago com alimentação.", 
+                            "valorReembolsado":"271.0", "codDocumento":"948182"}, {"ano":"2014", "mes":"8", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"08928877000159", "fornecedor":"Ibis Florianópolis Flex Hotelaria Ltda", 
+                            "documento":"196117", "data":"2014-08-27", "detalhamento":"valor pago com hospedagem", 
+                            "valorReembolsado":"528.0", "codDocumento":"951049"}, {"ano":"2014", "mes":"8", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"02221403000196", "fornecedor":"Hotel Diplomat Ltda EPP", 
+                            "documento":"6239", "data":"2014-08-18", "detalhamento":"valor pago com hospedagem de Heluana Quintas de Lima
+Matricula: 242709", 
+                            "valorReembolsado":"129.0", "codDocumento":"948179"}, {"ano":"2014", "mes":"8", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"01913953000103", "fornecedor":"Hoteis Ortega Turismo Ltda", 
+                            "documento":"6799", "data":"2014-08-27", "detalhamento":"valor pago com hospedagem da assessora Carla Ferreira
+Matricula: 259527", 
+                            "valorReembolsado":"484.0", "codDocumento":"966508"}, {"ano":"2014", "mes":"8", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"05124620000156", "fornecedor":"GZ Comercio de Alim. Ltda", 
+                            "documento":"375885", "data":"2014-08-17", "detalhamento":"valor pago com alimentação do senador.", 
+                            "valorReembolsado":"25.1", "codDocumento":"948163"}, {"ano":"2014", "mes":"8", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"31756620482", "fornecedor":"Edvan Gomes", 
+                            "documento":"null", "data":"2014-08-18", "detalhamento":"valor pago com locomoção (táxi).", 
+                            "valorReembolsado":"25.0", "codDocumento":"956571"}, {"ano":"2014", "mes":"8", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"31756620482", "fornecedor":"Edvan Gomes", 
+                            "documento":"null", "data":"2014-08-17", "detalhamento":"valor pago com locomoção (táxi).", 
+                            "valorReembolsado":"10.0", "codDocumento":"956575"}, {"ano":"2014", "mes":"8", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"06088004000150", "fornecedor":"Cooperativa de Serviços Taxi Comum Aeroporto", 
+                            "documento":"null", "data":"2014-08-18", "detalhamento":"valor pago com locomoção (táxi).", 
+                            "valorReembolsado":"21.29", "codDocumento":"956572"}, {"ano":"2014", "mes":"8", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"66489750406", "fornecedor":"Celso de Souza", 
+                            "documento":"null", "data":"2014-08-17", "detalhamento":"valor pago com locomoção (táxi).", 
+                            "valorReembolsado":"60.0", "codDocumento":"956570"}, {"ano":"2014", "mes":"8", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"11363879000152", "fornecedor":"Shout Agencia de Publicidade Ltda", 
+                            "documento":"00000211", "data":"2014-08-12", "detalhamento":"valor pago com serviço de assessoria de imprensa.", 
+                            "valorReembolsado":"5000.0", "codDocumento":"945779"}, {"ano":"2014", "mes":"8", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"13364156000101", "fornecedor":"Click Assessoria & Comunicação Ltda - ME", 
+                            "documento":"29", "data":"2014-08-05", "detalhamento":"valor pago com serviço de assessoria.", 
+                            "valorReembolsado":"1800.0", "codDocumento":"948178"}, {"ano":"2014", "mes":"8", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"08865615000192", "fornecedor":"Associação de Integração Profissional ", 
+                            "documento":"16959", "data":"2014-08-20", "detalhamento":"valor pago com serviço de assessoria.", 
+                            "valorReembolsado":"1375.0", "codDocumento":"948174"}, {"ano":"2014", "mes":"8", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"07656757000187", "fornecedor":"Você Telecom ", 
+                            "documento":"null", "data":"2014-08-18", "detalhamento":"valor pago com provedor de internet", 
+                            "valorReembolsado":"244.33", "codDocumento":"961485"}, {"ano":"2014", "mes":"8", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"07656757000187", "fornecedor":"Você Telecom", 
+                            "documento":"null", "data":"2014-08-01", "detalhamento":"valor pago com provedor de internet.", 
+                            "valorReembolsado":"253.32", "codDocumento":"945781"}, {"ano":"2014", "mes":"8", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"07656757000187", "fornecedor":"Você Telecom", 
+                            "documento":"null", "data":"2014-08-01", "detalhamento":"valor pago  com provedor de internet.", 
+                            "valorReembolsado":"244.33", "codDocumento":"944389"}, {"ano":"2014", "mes":"8", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"04206050003015", "fornecedor":"Tim Celular S/A", 
+                            "documento":"null", "data":"2014-08-07", "detalhamento":"valor pago com telefonia móvel.", 
+                            "valorReembolsado":"260.44", "codDocumento":"961484"}, {"ano":"2014", "mes":"8", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000683", "fornecedor":"Telemar Norte Leste S/A", 
+                            "documento":"null", "data":"2014-08-03", "detalhamento":"valor pago com telefonia fixa.", 
+                            "valorReembolsado":"557.75", "codDocumento":"948181"}, {"ano":"2014", "mes":"8", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"02558157000162", "fornecedor":"Telefonica Brasil S/A", 
+                            "documento":"null", "data":"2014-08-06", "detalhamento":"valor pago com telefonia móvel.", 
+                            "valorReembolsado":"84.0", "codDocumento":"944388"}, {"ano":"2014", "mes":"8", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"72820822002769", "fornecedor":"SKY Brasil Serviços Ltda", 
+                            "documento":"null", "data":"2014-08-23", "detalhamento":"valor pago com TV por assinatura.", 
+                            "valorReembolsado":"76.0", "codDocumento":"948180"}, {"ano":"2014", "mes":"8", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"05965546000109", "fornecedor":"Companhia de Eletricidade do Amapá - CEA", 
+                            "documento":"null", "data":"2014-08-06", "detalhamento":"valor pago com energia.", 
+                            "valorReembolsado":"452.23", "codDocumento":"948177"}, {"ano":"2014", "mes":"8", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"01549402000102", "fornecedor":"Capital Imoveis Cia Ltda", 
+                            "documento":"null", "data":"2014-08-13", "detalhamento":"valor pago com aluguel do escritório de Macapá.", 
+                            "valorReembolsado":"3000.0", "codDocumento":"944386"}, {"ano":"2014", "mes":"7", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas S/A", 
+                            "documento":"9572492998559", "data":"2014-07-23", "detalhamento":"Randolph Alves - 23/07/2014
+Brasília/Macapá - voo JJ 3448", 
+                            "valorReembolsado":"1352.45", "codDocumento":"942698"}, {"ano":"2014", "mes":"7", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas S/A", 
+                            "documento":"9572492935283", "data":"2014-07-22", "detalhamento":"Randolph Alves
+21/07/2014 - Rio de Janeiro/São Paulo - voo JJ 3939
+21/07/2014 - São Paulo/Brasília - voo JJ 3722
+1º bilhete: 957 2488024484
+valor do 1º bilhete: R$ 1.594,35
+2º bilhete: 957 2492619605
+valor do 2º bilhete: R$ 1.714,35 (multa: 120,00)
+crédito: R$ 135,00
+3º bilhete: 957 2492832328
+valor do 3º bilhete: R$ 1.839,35 (multa: 125,60)
+crédito: R$ 299,00
+4º bilhete: 957 2492935283
+valor do 4º bilhete: R$ 1.584,94
+5º bilhete: 957 2493042708
+valor do 5º bilhete: R$ 1.802,54 (multa: 217,00)", 
+                            "valorReembolsado":"1802.54", "codDocumento":"942695"}, {"ano":"2014", "mes":"7", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas S/A", 
+                            "documento":"9572493042739", "data":"2014-07-19", "detalhamento":"Randolph Alves - 19/07/2014
+Brasília/São Paulo - voo JJ 3701", 
+                            "valorReembolsado":"1601.05", "codDocumento":"954933"}, {"ano":"2014", "mes":"7", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas S/A", 
+                            "documento":"9572492639130", "data":"2014-07-12", "detalhamento":"Randolph Alves - 12/07/2014
+Macapá/Brasília - voo JJ 3449", 
+                            "valorReembolsado":"928.85", "codDocumento":"935628"}, {"ano":"2014", "mes":"7", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas S/A", 
+                            "documento":"9572492507073", "data":"2014-07-09", "detalhamento":"Raphael Sodre - 09/07/2014
+São Paulo / Vitória - voo JJ 3128
+Matricula: 265795", 
+                            "valorReembolsado":"1098.47", "codDocumento":"935632"}, {"ano":"2014", "mes":"7", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas S/A", 
+                            "documento":"9572492513346", "data":"2014-07-09", "detalhamento":"Raphael Sodre - 09/07/2014
+Vitória/São Paulo - voo JJ 3131
+Matricula: 265795", 
+                            "valorReembolsado":"1093.85", "codDocumento":"935629"}, {"ano":"2014", "mes":"7", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas S/A", 
+                            "documento":"9572492015392", "data":"2014-07-03", "detalhamento":"Emilio Macedo - 03/07/2014
+Brasília/Macapá - voo JJ 3448
+Matricula: 237520", 
+                            "valorReembolsado":"863.54", "codDocumento":"935627"}, {"ano":"2014", "mes":"7", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas S/A", 
+                            "documento":"9572492001798", "data":"2014-07-01", "detalhamento":"Emilio Macedo - 01/07/2014
+Belém/Brasília - voo JJ 3447
+Matricula: 237520", 
+                            "valorReembolsado":"1250.42", "codDocumento":"935626"}, {"ano":"2014", "mes":"7", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol Linhas Aereas S/A", 
+                            "documento":"FK11PH", "data":"2014-07-21", "detalhamento":"Giseli Barbiere - 21/07/2014
+São Paulo/Brasília - voo G3 1422
+Matricula: 243993
+valor da alteração: R$ 275,90", 
+                            "valorReembolsado":"725.9", "codDocumento":"942697"}, {"ano":"2014", "mes":"7", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol Linhas Aereas S/A", 
+                            "documento":"1270001854024", "data":"2014-07-21", "detalhamento":"Gisele Barbiere - 21/07/2014
+Brasília/São Paulo - voo G3 1409
+Matricula: 243993", 
+                            "valorReembolsado":"503.14", "codDocumento":"942696"}, {"ano":"2014", "mes":"7", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol Linhas Aereas S/A", 
+                            "documento":"9690001796470", "data":"2014-07-19", "detalhamento":"Randolph Alves - 19/07/2014
+Brasília/São Paulo - voo G3 1407", 
+                            "valorReembolsado":"893.64", "codDocumento":"942693"}, {"ano":"2014", "mes":"7", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol Linhas Aereas S/A", 
+                            "documento":"9690001778914", "data":"2014-07-05", "detalhamento":"Randolph Alves - 05/07/2014
+São Paulo/Macapá - voo G3 1590", 
+                            "valorReembolsado":"1591.46", "codDocumento":"935631"}, {"ano":"2014", "mes":"7", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol Linhas Aereas S/A", 
+                            "documento":"1270001845512", "data":"2014-07-04", "detalhamento":"Randolph Alves - 04/07/2014
+Brasília/São Paulo - voo G3 1405", 
+                            "valorReembolsado":"108.0", "codDocumento":"935630"}, {"ano":"2014", "mes":"7", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"09296295000160", "fornecedor":"Azul Linhas Aereas S/A", 
+                            "documento":"2220005494189", "data":"2014-07-01", "detalhamento":"Emilio Macedo - 01/07/2014
+Macapá/Belém - voo AD 2855
+Matricula: 237520", 
+                            "valorReembolsado":"654.84", "codDocumento":"935625"}, {"ano":"2014", "mes":"7", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02575829000148", "fornecedor":"Avianca Linhas Aereas S/A", 
+                            "documento":"2472411514647", "data":"2014-07-19", "detalhamento":"Randolph Alves - 19/07/2014
+São Paulo/Rio de Janeiro - voo 06 6030", 
+                            "valorReembolsado":"210.57", "codDocumento":"942694"}, {"ano":"2014", "mes":"7", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"11363879000152", "fornecedor":"Shout Agencia de Publicidade Ltda", 
+                            "documento":"00000207", "data":"2014-07-03", "detalhamento":"valor pago com serviço de assessoria de imprensa", 
+                            "valorReembolsado":"5000.0", "codDocumento":"935624"}, {"ano":"2014", "mes":"7", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"13364156000101", "fornecedor":"Click Assessoria & Comunicação Ltda - ME", 
+                            "documento":"27", "data":"2014-07-07", "detalhamento":"valor pago com serviço de assessoria.", 
+                            "valorReembolsado":"1800.0", "codDocumento":"942703"}, {"ano":"2014", "mes":"7", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000683", "fornecedor":"Telemar Norte Leste S/A", 
+                            "documento":"null", "data":"2014-07-13", "detalhamento":"valor pago com telefonia fixa.", 
+                            "valorReembolsado":"424.84", "codDocumento":"942702"}, {"ano":"2014", "mes":"7", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"05965546000109", "fornecedor":"Companhia de Eletricidade do Amapá - CEA", 
+                            "documento":"null", "data":"2014-07-07", "detalhamento":"Valor pago com energia elétrica.", 
+                            "valorReembolsado":"500.44", "codDocumento":"942700"}, {"ano":"2014", "mes":"7", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"05976311000104", "fornecedor":"Companhia de Água e Esgoto do Amapá - CAESA", 
+                            "documento":"null", "data":"2014-07-23", "detalhamento":"valor pago com tarifa de água e esgoto.", 
+                            "valorReembolsado":"39.55", "codDocumento":"942701"}, {"ano":"2014", "mes":"7", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"01549402000102", "fornecedor":"Capital Imóveis Ltda", 
+                            "documento":"null", "data":"2014-07-13", "detalhamento":"valor pago com aluguel.", 
+                            "valorReembolsado":"3017.0", "codDocumento":"942699"}, {"ano":"2014", "mes":"6", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas S/A", 
+                            "documento":"9572491758751", "data":"2014-06-25", "detalhamento":"Randolph Alves - 25/06/2014
+Macapá/Brasília - voo JJ 3447", 
+                            "valorReembolsado":"961.05", "codDocumento":"931435"}, {"ano":"2014", "mes":"6", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas S/A", 
+                            "documento":"9572491353279", "data":"2014-06-15", "detalhamento":"Randolph Alves - 15/06/2014
+Brasília/Macapá - voo JJ 3448", 
+                            "valorReembolsado":"873.95", "codDocumento":"931422"}, {"ano":"2014", "mes":"6", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas S/A", 
+                            "documento":"9572491266675", "data":"2014-06-13", "detalhamento":"Randolph Alves - 13/06/2014
+Rio de Janeiro/São Paulo - voo JJ 3913", 
+                            "valorReembolsado":"744.27", "codDocumento":"931421"}, {"ano":"2014", "mes":"6", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas S/A", 
+                            "documento":"9572490718398", "data":"2014-06-05", "detalhamento":"Emilio Macedo - 05/06/2014
+São Paulo/Brasília - voo JJ 3714
+Matricula: 237520", 
+                            "valorReembolsado":"473.67", "codDocumento":"924681"}, {"ano":"2014", "mes":"6", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas S/A", 
+                            "documento":"9572490892814", "data":"2014-06-05", "detalhamento":"Randolph Alves - 05/06/2014
+São Paulo/Brasília - voo JJ 3714
+", 
+                            "valorReembolsado":"440.57", "codDocumento":"924682"}, {"ano":"2014", "mes":"6", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas S/A", 
+                            "documento":"9572490718399", "data":"2014-06-04", "detalhamento":"Emilio Macedo - 04/06/2014
+Macapá/Brasília - voo JJ 3449
+Matricula: 237520", 
+                            "valorReembolsado":"873.85", "codDocumento":"924683"}, {"ano":"2014", "mes":"6", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas S/A", 
+                            "documento":"9572490622533", "data":"2014-06-02", "detalhamento":"Randolph Alves - 02/06/2014
+Macapá/Brasília - voo JJ 3433
+", 
+                            "valorReembolsado":"515.25", "codDocumento":"924679"}, {"ano":"2014", "mes":"6", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol Linhas Aereas S/A", 
+                            "documento":"LK85TH", "data":"2014-06-14", "detalhamento":"Randolph Alves - 14/06/2014
+São Paulo/Brasília - voo G3 1408
+1º bilhete: 127-0001836017
+valor do 1º bilhete: R$ 242,00
+2º bilhete: 127-0001835994
+valor do 2º bilhete: R$ 770,56
+Valor total dos bilhetes: R$ 1012,56
+", 
+                            "valorReembolsado":"1012.56", "codDocumento":"931424"}, {"ano":"2014", "mes":"6", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol Linhas Aereas S/A", 
+                            "documento":"CHST9K", "data":"2014-06-11", "detalhamento":"Randolph Alves - 11/06/2014
+Brasília/São Paulo - voo G3 1401", 
+                            "valorReembolsado":"521.26", "codDocumento":"931420"}, {"ano":"2014", "mes":"6", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol Linhas Aereas S/A", 
+                            "documento":"HJ1JSK", "data":"2014-06-09", "detalhamento":"Randolph Alves - 09/06/2014
+Macapá/Brasília - voo G3 1979", 
+                            "valorReembolsado":"723.04", "codDocumento":"931419"}, {"ano":"2014", "mes":"6", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol Linhas Aereas S/A", 
+                            "documento":"1270001831804", "data":"2014-06-06", "detalhamento":"Emilio Macedo - 06/06/2014
+Brasília/Macapá - Voo G3 1976
+Matricula: 237520", 
+                            "valorReembolsado":"800.14", "codDocumento":"924687"}, {"ano":"2014", "mes":"6", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol Linhas Aereas S/A", 
+                            "documento":"1270001832116", "data":"2014-06-06", "detalhamento":"Randolph Alves - 06/06/2014
+Brasília/Macapá - voo G3 1976", 
+                            "valorReembolsado":"800.14", "codDocumento":"924686"}, {"ano":"2014", "mes":"6", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol Linhas Aereas S/A", 
+                            "documento":"9690001657641", "data":"2014-06-05", "detalhamento":"Emilio Macedo - 05/06/2014
+Brasília/São Paulo - voo G3 1409
+Matricula:237520
+", 
+                            "valorReembolsado":"609.4", "codDocumento":"924685"}, {"ano":"2014", "mes":"6", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol Linhas Aereas S/A", 
+                            "documento":"9690001774569", "data":"2014-06-05", "detalhamento":"Randolph Alves - 05/06/2014
+Brasília/São Paulo - voo G3 1409", 
+                            "valorReembolsado":"453.44", "codDocumento":"924684"}, {"ano":"2014", "mes":"6", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol Linhas Aereas S/A", 
+                            "documento":"9690001771897", "data":"2014-06-03", "detalhamento":"Randolph Alves - 03/06/2014
+Brasília/Rio de Janeiro G3 1485", 
+                            "valorReembolsado":"511.44", "codDocumento":"924680"}, {"ano":"2014", "mes":"6", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"09296295000160", "fornecedor":"Azul Linhas Aereas S/A", 
+                            "documento":"PC3FRD", "data":"2014-06-03", "detalhamento":"Randolph Alves - 03/06/2014
+Rio de Janeiro/Brasília - voo AD 2644
+", 
+                            "valorReembolsado":"618.98", "codDocumento":"931423"}, {"ano":"2014", "mes":"6", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"83273714000109", "fornecedor":"F A Cavalcante Filho ME", 
+                            "documento":"00002120", "data":"2014-06-30", "detalhamento":"serviço de apoio parlamentar.", 
+                            "valorReembolsado":"5000.0", "codDocumento":"931436"}, {"ano":"2014", "mes":"6", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"13364156000101", "fornecedor":"Click Assessoria & Comunicação Ltda - ME", 
+                            "documento":"24", "data":"2014-06-04", "detalhamento":"valor pago com serviço de assessoria.", 
+                            "valorReembolsado":"1800.0", "codDocumento":"942691"}, {"ano":"2014", "mes":"6", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"12380591000159", "fornecedor":"F. Felgueiras Rodrigues - ME", 
+                            "documento":"000281", "data":"2014-06-18", "detalhamento":"valor pago com reciclagem de toner.", 
+                            "valorReembolsado":"200.0", "codDocumento":"931431"}, {"ano":"2014", "mes":"6", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"07656757000187", "fornecedor":"Você Telecom ", 
+                            "documento":"null", "data":"2014-06-30", "detalhamento":"valor pago com provedor de internet.", 
+                            "valorReembolsado":"244.33", "codDocumento":"931426"}, {"ano":"2014", "mes":"6", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"04206050003015", "fornecedor":"Tim Celular S/A", 
+                            "documento":"null", "data":"2014-07-25", "detalhamento":"valor pago com serviço de telefonia móvel.", 
+                            "valorReembolsado":"229.44", "codDocumento":"951048"}, {"ano":"2014", "mes":"6", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"04206050003015", "fornecedor":"Tim Celular S/A", 
+                            "documento":"null", "data":"2014-06-25", "detalhamento":"valor pago com telefonia móvel.", 
+                            "valorReembolsado":"246.43", "codDocumento":"931432"}, {"ano":"2014", "mes":"6", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"04206050003015", "fornecedor":"Tim Celular S/A", 
+                            "documento":"null", "data":"2014-06-25", "detalhamento":"valor pago com telefonia móvel.", 
+                            "valorReembolsado":"41.16", "codDocumento":"931433"}, {"ano":"2014", "mes":"6", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000683", "fornecedor":"Telemar Norte Leste S/A", 
+                            "documento":"null", "data":"2014-06-13", "detalhamento":"valor pago com telefonia fixa.", 
+                            "valorReembolsado":"259.46", "codDocumento":"931430"}, {"ano":"2014", "mes":"6", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"02558157000162", "fornecedor":"Telefonica Brasil S/A", 
+                            "documento":"null", "data":"2014-06-22", "detalhamento":"valor pago com telefonia móvel.", 
+                            "valorReembolsado":"84.0", "codDocumento":"931429"}, {"ano":"2014", "mes":"6", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"02558157000162", "fornecedor":"Telefonica Brasil S/A", 
+                            "documento":"null", "data":"2014-06-06", "detalhamento":"valor pago com telefonia móvel.", 
+                            "valorReembolsado":"662.02", "codDocumento":"931427"}, {"ano":"2014", "mes":"6", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"72820822002769", "fornecedor":"SKY Brasil Serviços Ltda", 
+                            "documento":"null", "data":"2014-07-23", "detalhamento":"valor pago com TV por assinatura", 
+                            "valorReembolsado":"87.42", "codDocumento":"951047"}, {"ano":"2014", "mes":"6", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33530486000129", "fornecedor":"Empresa Brasileira de Telecomunicação S/A", 
+                            "documento":"null", "data":"2014-06-24", "detalhamento":"valor pago com telefonia.", 
+                            "valorReembolsado":"11.19", "codDocumento":"931428"}, {"ano":"2014", "mes":"6", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"05965546000109", "fornecedor":"Companhia de eletricidade do Amapá - CEA", 
+                            "documento":"null", "data":"2014-06-09", "detalhamento":"valor pago com tarifa de eletricidade.", 
+                            "valorReembolsado":"396.93", "codDocumento":"931425"}, {"ano":"2014", "mes":"6", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"05976311000104", "fornecedor":"Companhia de Água e Esgoto do Amapá - CAESA", 
+                            "documento":"null", "data":"2014-06-27", "detalhamento":"valor pago com tarifa de água e esgoto.", 
+                            "valorReembolsado":"39.55", "codDocumento":"931434"}, {"ano":"2014", "mes":"6", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"01549402000102", "fornecedor":"Capital Imóveis Ltda", 
+                            "documento":"null", "data":"2014-06-13", "detalhamento":"valor pago com aluguel do escritório de Macapá.", 
+                            "valorReembolsado":"3000.0", "codDocumento":"937547"}, {"ano":"2014", "mes":"5", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas S/A", 
+                            "documento":"9572489407714", "data":"2014-05-10", "detalhamento":"Randolph Alves - 10/05/2014
+Brasília/Macapá - voo JJ 3446
+1º bilhete: 9572486431832
+Valor do 1º bilhete: R$ 815,55
+2º bilhete: 9572489407714
+Valor do 2º bilhete: R$ 1.337,15
+Valor das alterações: R$ 521,60", 
+                            "valorReembolsado":"1337.15", "codDocumento":"913886"}, {"ano":"2014", "mes":"5", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas S/A", 
+                            "documento":"9572488905163", "data":"2014-05-06", "detalhamento":"Emilio Macedo - 06/05/2014
+Rio de Janeiro (SDU)/Macapá - voos JJ 3024 e JJ 3446
+Matrícula: 237520
+1º Bilhete: 9572488484807
+Valor do 1º bilhete: R$ 1.599,95
+2º bilhete: 9572488905163 
+Valor do 2º bilhete: R$ 1.950,95
+Valor das alterações: R$ 351,00", 
+                            "valorReembolsado":"1950.95", "codDocumento":"913884"}, {"ano":"2014", "mes":"5", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas S/A", 
+                            "documento":"9572488302448", "data":"2014-05-04", "detalhamento":"Georgina Galvão - 04/05/2014
+Belém/Brasília - voo JJ 3447
+Matrícula: 202712", 
+                            "valorReembolsado":"285.57", "codDocumento":"913883"}, {"ano":"2014", "mes":"5", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol Linhas Aereas S/A", 
+                            "documento":"9690001771806", "data":"2014-05-31", "detalhamento":"Randolph Alves - 31/05/2014
+Rio de Janeiro/São Paulo/Macapá - G3 1703/ G3 1590", 
+                            "valorReembolsado":"1691.27", "codDocumento":"924659"}, {"ano":"2014", "mes":"5", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol Linhas Aereas S/A", 
+                            "documento":"9690001758647", "data":"2014-05-12", "detalhamento":"Randolph Alves - 12/05/2014
+Macapá/Brasília - voo G3 1979", 
+                            "valorReembolsado":"1080.13", "codDocumento":"913887"}, {"ano":"2014", "mes":"5", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"09296295000160", "fornecedor":"Azul Linhas Aereas S/A", 
+                            "documento":"2220005444603", "data":"2014-05-30", "detalhamento":"Randolph Alves - 30/05/2014
+Goiânia/Rio de Janeiro - voo AD 5053", 
+                            "valorReembolsado":"486.56", "codDocumento":"924658"}, {"ano":"2014", "mes":"5", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"05889046000127", "fornecedor":"Posto Park Santa Maria Deriv. de Petroleo Ltda", 
+                            "documento":"562957", "data":"2014-05-30", "detalhamento":"valor pago com combustível.", 
+                            "valorReembolsado":"40.0", "codDocumento":"924661"}, {"ano":"2014", "mes":"5", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"10234511000121", "fornecedor":"Maxpetro Comercio de Combustiveis Ltda", 
+                            "documento":"457828", "data":"2014-05-29", "detalhamento":"valor pago com combustível.", 
+                            "valorReembolsado":"97.03", "codDocumento":"924660"}, {"ano":"2014", "mes":"5", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"16978175000108", "fornecedor":"Adria Viagens e Turismo Ltda ME", 
+                            "documento":"000664", "data":"2014-05-28", "detalhamento":"valor pago com hospedagem no Hotel Quality Berrini, na cidade de São Paulo. Entre os dias 24 e 25 de abril de 2014.", 
+                            "valorReembolsado":"535.0", "codDocumento":"924662"}, {"ano":"2014", "mes":"5", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"11363879000152", "fornecedor":"Shout Agencia de Publicidade Ltda", 
+                            "documento":"00000195", "data":"2014-05-12", "detalhamento":"valor pago com serviço de assessoria parlamentar.", 
+                            "valorReembolsado":"5000.0", "codDocumento":"913885"}, {"ano":"2014", "mes":"5", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"13364156000101", "fornecedor":"Click Assessoria & Comunicação Ltda - ME", 
+                            "documento":"23", "data":"2014-05-07", "detalhamento":"valor pago com serviço de apoio parlamentar.", 
+                            "valorReembolsado":"375.0", "codDocumento":"924674"}, {"ano":"2014", "mes":"5", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"13364156000101", "fornecedor":"Click Assessoria & Comunicação Ltda - ME", 
+                            "documento":"20", "data":"2014-05-05", "detalhamento":"valor pago com serviço de apoio parlamentar.", 
+                            "valorReembolsado":"1800.0", "codDocumento":"924673"}, {"ano":"2014", "mes":"5", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"12380591000159", "fornecedor":"F. Felgueiras Rodrigues - ME", 
+                            "documento":"000265", "data":"2014-05-15", "detalhamento":"valor pago com reciclagem de toner para impressora.", 
+                            "valorReembolsado":"450.0", "codDocumento":"924663"}, {"ano":"2014", "mes":"5", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"01021577000142", "fornecedor":"E. V. Araújo - EPP", 
+                            "documento":"770", "data":"2014-05-14", "detalhamento":"valor pago com material de consumo.", 
+                            "valorReembolsado":"440.1", "codDocumento":"924675"}, {"ano":"2014", "mes":"1", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol Linhas Aereas S/A", 
+                            "documento":"9690001702816", "data":"2014-01-29", "detalhamento":"Janaina Carvalho - 29/01/2014
+Macapá/Brasília - voo G3 1621/G3 1975
+Matricula:243787", 
+                            "valorReembolsado":"800.39", "codDocumento":"865604"}, {"ano":"2014", "mes":"1", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol Linhas Aereas S/A", 
+                            "documento":"9690001699845", "data":"2014-01-23", "detalhamento":"Raimundo Araújo - 23/01/2014
+Rio de Janeiro (Santos Dumont)/Brasília - voo G3 1492
+Matricula: 201290", 
+                            "valorReembolsado":"1520.33", "codDocumento":"865602"}, {"ano":"2014", "mes":"1", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol Linhas Aereas S/A", 
+                            "documento":"9690001701099", "data":"2014-01-23", "detalhamento":"Randolph Alves - 23/01/2014
+Rio de Janeiro (Santos Dumont)/Belém - voo G3 1715/G3 2098", 
+                            "valorReembolsado":"539.4", "codDocumento":"865599"}, {"ano":"2014", "mes":"1", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol Linhas Aereas S/A", 
+                            "documento":"9690001700175", "data":"2014-01-21", "detalhamento":"Randolph Alves - 21/01/2014
+Brasília/São Paulo (Congonhas) voo G3 1423", 
+                            "valorReembolsado":"1100.51", "codDocumento":"865597"}, {"ano":"2014", "mes":"1", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol Linhas Aereas S/A", 
+                            "documento":"OKL17R", "data":"2014-01-12", "detalhamento":"Randolph Alves - 12/01/2014
+Brasília/São Luiz - voo G3 1275", 
+                            "valorReembolsado":"645.37", "codDocumento":"865612"}, {"ano":"2014", "mes":"1", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol Linhas Aereas S/A", 
+                            "documento":"QINKGK", "data":"2014-01-12", "detalhamento":"Gisele Barbieri - 12/01/2014
+Brasília/São Luiz - voo G3 1275
+Matricula: 243993", 
+                            "valorReembolsado":"645.37", "codDocumento":"865613"}, {"ano":"2014", "mes":"1", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol Linhas Aereas S/A", 
+                            "documento":"IF9HMT", "data":"2014-01-04", "detalhamento":"Randolph Alves - 04/01/2014
+Macapá/Brasília - voo G3 1979", 
+                            "valorReembolsado":"907.84", "codDocumento":"865611"}, {"ano":"2014", "mes":"1", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"09296295000160", "fornecedor":"Azul Linhas Aereas S/A", 
+                            "documento":"2220005387172", "data":"2014-01-25", "detalhamento":"Randolph Alves - 25/01/2014
+Belém/Macapá - voo AD 2854", 
+                            "valorReembolsado":"307.84", "codDocumento":"865600"}, {"ano":"2014", "mes":"1", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02575829000148", "fornecedor":"Avianca Linhas Aereas S/A", 
+                            "documento":"0230130112210", "data":"2013-01-22", "detalhamento":"Randolph Alves - 22/01/2014
+São Paulo (Congonhas)/Rio de Janeiro (Santos Dumont) voo O6 6032", 
+                            "valorReembolsado":"929.07", "codDocumento":"865598"}, {"ano":"2014", "mes":"1", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"08881090000260", "fornecedor":"Santos Dumont Investimentos Imobiliario S/A", 
+                            "documento":"00261602", "data":"2014-01-24", "detalhamento":"valor pago com hospedagem do Senador Randolfe Rodrigues.", 
+                            "valorReembolsado":"487.5", "codDocumento":"865625"}, {"ano":"2014", "mes":"1", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"08818964000153", "fornecedor":"SANDS Empreendimentos Hoteleiros Ltda", 
+                            "documento":"00013990", "data":"2014-01-14", "detalhamento":"valor pago com hospedagem da assessora Gisele Barbieri.
+Matricula: 243993", 
+                            "valorReembolsado":"294.0", "codDocumento":"865627"}, {"ano":"2014", "mes":"1", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"14459051000190", "fornecedor":"Cooperativa Mista de Motoristas Autônomos de Salvador", 
+                            "documento":"null", "data":"2014-01-14", "detalhamento":"valor pago com locomoção (táxi)", 
+                            "valorReembolsado":"42.57", "codDocumento":"891033"}, {"ano":"2014", "mes":"1", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"06236230000130", "fornecedor":"Atlantica Hotelaria Ltda", 
+                            "documento":"201400000000028", "data":"2014-01-25", "detalhamento":"valor pago com hospedagem do senador Randolfe Rodrigues", 
+                            "valorReembolsado":"163.0", "codDocumento":"865626"}, {"ano":"2014", "mes":"1", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"03545214000131", "fornecedor":"Associação de Taxistas - Ponto 1499", 
+                            "documento":"null", "data":"2014-01-30", "detalhamento":"valor pago com locomoção (táxi);", 
+                            "valorReembolsado":"34.0", "codDocumento":"883523"}, {"ano":"2014", "mes":"1", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Divulgação da atividade parlamentar", "cnpjCpf":"11363879000152", "fornecedor":"Shout Agencia de Publicidade Ltda", 
+                            "documento":"00000180", "data":"2014-01-29", "detalhamento":"valor pago com divulgação da atividade parlamentar;", 
+                            "valorReembolsado":"5000.0", "codDocumento":"883521"}, {"ano":"2014", "mes":"5", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"07656757000187", "fornecedor":"Você Telecomunicações Ltda", 
+                            "documento":"null", "data":"2014-05-20", "detalhamento":"valor pago com provedor de internet.", 
+                            "valorReembolsado":"250.04", "codDocumento":"924671"}, {"ano":"2014", "mes":"5", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"04206050003015", "fornecedor":"Tim Celular S/A", 
+                            "documento":"null", "data":"2014-05-25", "detalhamento":"valor pago com telefonia móvel.", 
+                            "valorReembolsado":"334.1", "codDocumento":"924665"}, {"ano":"2014", "mes":"5", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"04206050003015", "fornecedor":"Tim Celular S/A", 
+                            "documento":"null", "data":"2014-05-25", "detalhamento":"valor pago com telefonia móvel.", 
+                            "valorReembolsado":"58.0", "codDocumento":"924666"}, {"ano":"2014", "mes":"5", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"04206050003015", "fornecedor":"Tim Celular S/A", 
+                            "documento":"null", "data":"2014-05-25", "detalhamento":"valor pago com telefonia móvel.", 
+                            "valorReembolsado":"5.5", "codDocumento":"924672"}, {"ano":"2014", "mes":"5", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000683", "fornecedor":"Telemar Norte Leste S/A", 
+                            "documento":"null", "data":"2014-05-13", "detalhamento":"valor pago com telefonia fixa.", 
+                            "valorReembolsado":"270.64", "codDocumento":"924669"}, {"ano":"2014", "mes":"5", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"02558157000162", "fornecedor":"Telefonica Brasil S/A", 
+                            "documento":"null", "data":"2014-05-06", "detalhamento":"valor pago com telefonia móvel.", 
+                            "valorReembolsado":"602.85", "codDocumento":"924664"}, {"ano":"2014", "mes":"5", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"72820822002769", "fornecedor":"SKY Brasil Serviços Ltda", 
+                            "documento":"null", "data":"2014-05-23", "detalhamento":"valor pago com serviço de TV por assinatura.", 
+                            "valorReembolsado":"76.0", "codDocumento":"924667"}, {"ano":"2014", "mes":"5", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"05965546000109", "fornecedor":"Companhia de Eletricidade do Amapá - CEA", 
+                            "documento":"null", "data":"2014-05-07", "detalhamento":"valor pago com tarifa de energia elétrica.", 
+                            "valorReembolsado":"371.8", "codDocumento":"924668"}, {"ano":"2014", "mes":"5", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"10969713000111", "fornecedor":"Capital Imóveis", 
+                            "documento":"null", "data":"2014-05-13", "detalhamento":"valor referente ao aluguel do escritório de Macapá.", 
+                            "valorReembolsado":"3000.0", "codDocumento":"924670"}, {"ano":"2014", "mes":"4", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas S/A", 
+                            "documento":"9572488399370", "data":"2014-04-28", "detalhamento":"Emilio Macedo - 28/04/2014
+Macapá/Brasília - voo JJ 3447
+Matricula: 237520", 
+                            "valorReembolsado":"751.75", "codDocumento":"911355"}, {"ano":"2014", "mes":"4", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas S/A", 
+                            "documento":"9572488302447", "data":"2014-04-27", "detalhamento":"Georgina Galvão - 27/04/2014
+Brasília/Macapá - voo JJ 3448
+Matricula: 202712", 
+                            "valorReembolsado":"1069.75", "codDocumento":"911356"}, {"ano":"2014", "mes":"4", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas S/A", 
+                            "documento":"9572488078684", "data":"2014-04-20", "detalhamento":"Randolph Alves - 20/04/2014
+Macapá/Brasília - voo JJ 3447", 
+                            "valorReembolsado":"1594.35", "codDocumento":"908133"}, {"ano":"2014", "mes":"4", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas S/A", 
+                            "documento":"9572487904571", "data":"2014-04-17", "detalhamento":"Randolph Alves - 17/04/2014
+Brasília/Macapá - voo JJ 3446", 
+                            "valorReembolsado":"1599.95", "codDocumento":"908132"}, {"ano":"2014", "mes":"4", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas S/A", 
+                            "documento":"9572487081660", "data":"2014-04-07", "detalhamento":"Randolph Alves - 07/04/2014
+Belém/Brasília - voo JJ 3433", 
+                            "valorReembolsado":"1648.47", "codDocumento":"908134"}, {"ano":"2014", "mes":"4", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas S/A", 
+                            "documento":"9572486593862", "data":"2014-04-02", "detalhamento":"Georgina Galvão - 02/04/2014
+Macapá/Brasília - voo JJ 3447
+Matricula: 202712", 
+                            "valorReembolsado":"510.85", "codDocumento":"908129"}, {"ano":"2014", "mes":"4", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol Linhas Aereas S/A", 
+                            "documento":"9690001751702", "data":"2014-04-29", "detalhamento":"Randolph Alves -29/04/2014 
+Rio de Janeiro/Brasília - voo G3 1484
+", 
+                            "valorReembolsado":"1110.61", "codDocumento":"911358"}, {"ano":"2014", "mes":"1", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Divulgação da atividade parlamentar", "cnpjCpf":"13364156000101", "fornecedor":"Click Assessoria & Comunicação Ltda - ME", 
+                            "documento":"4", "data":"2014-01-13", "detalhamento":"valor pago com divulgação da atividade parlamentar.", 
+                            "valorReembolsado":"1800.0", "codDocumento":"865623"}, {"ano":"2014", "mes":"1", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"13855875000117", "fornecedor":"O. T. Belo - ME", 
+                            "documento":"15", "data":"2014-01-21", "detalhamento":"valor pago com material de consumo.", 
+                            "valorReembolsado":"360.0", "codDocumento":"865624"}, {"ano":"2014", "mes":"1", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"12380591000159", "fornecedor":"F. Felgueiras Rodrigues - ME", 
+                            "documento":"000240", "data":"2014-01-29", "detalhamento":"valor pago com material de consumo", 
+                            "valorReembolsado":"200.0", "codDocumento":"891035"}, {"ano":"2014", "mes":"1", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"01021577000142", "fornecedor":"E. V. Araújo - EPP", 
+                            "documento":"649", "data":"2014-01-21", "detalhamento":"valor pago com material de consumo.", 
+                            "valorReembolsado":"336.4", "codDocumento":"865628"}, {"ano":"2014", "mes":"1", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"07656757000187", "fornecedor":"Você Telecomunicações Ltda", 
+                            "documento":"null", "data":"2014-01-21", "detalhamento":"valor pago com provedor de internet.", 
+                            "valorReembolsado":"219.89", "codDocumento":"883522"}, {"ano":"2014", "mes":"1", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"04206050003015", "fornecedor":"Tim Celular S/A", 
+                            "documento":"null", "data":"2014-01-25", "detalhamento":"valor pago com telefonia móvel.", 
+                            "valorReembolsado":"368.07", "codDocumento":"865617"}, {"ano":"2014", "mes":"1", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"04206050003015", "fornecedor":"Tim Celular S/A", 
+                            "documento":"null", "data":"2014-01-25", "detalhamento":"valor pago com telefonia móvel.", 
+                            "valorReembolsado":"298.53", "codDocumento":"865619"}, {"ano":"2014", "mes":"1", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"04206050003015", "fornecedor":"Tim Celular S/A", 
+                            "documento":"null", "data":"2014-01-25", "detalhamento":"valor pago com telefonia móvel.", 
+                            "valorReembolsado":"125.12", "codDocumento":"865618"}, {"ano":"2014", "mes":"1", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000683", "fornecedor":"Telemar Norte Leste S/A", 
+                            "documento":"null", "data":"2014-01-13", "detalhamento":"valor pago com telefonia fixa.", 
+                            "valorReembolsado":"229.5", "codDocumento":"865621"}, {"ano":"2014", "mes":"1", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"02558157000162", "fornecedor":"Telefonica Brasil S/A", 
+                            "documento":"null", "data":"2014-01-06", "detalhamento":"valor pago com telefonia móvel.", 
+                            "valorReembolsado":"610.92", "codDocumento":"865622"}, {"ano":"2014", "mes":"1", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"72820822002769", "fornecedor":"SKY Brasil Serviços Ltda", 
+                            "documento":"null", "data":"2014-01-23", "detalhamento":"valor pago com TV por assinatura.", 
+                            "valorReembolsado":"77.79", "codDocumento":"865620"}, {"ano":"2014", "mes":"1", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"10969713000111", "fornecedor":"Elite Imoveis", 
+                            "documento":"null", "data":"2014-01-01", "detalhamento":"valor pago com aluguel do escritório de Macapá.", 
+                            "valorReembolsado":"1700.0", "codDocumento":"865615"}, {"ano":"2014", "mes":"1", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"05976311000104", "fornecedor":"Companhia de Água e Esgoto do Amapá - CAESA", 
+                            "documento":"null", "data":"2014-01-01", "detalhamento":"Valor pago com tarifa de água e esgoto.", 
+                            "valorReembolsado":"39.55", "codDocumento":"865616"}, {"ano":"2014", "mes":"4", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"09296295000160", "fornecedor":"Azul Linhas Aereas S/A", 
+                            "documento":"2220005428476", "data":"2014-04-30", "detalhamento":"Georgina Galvão - 30/04/2014
+Macapá/Belém - voo AD 2857
+Matrícula: 202712", 
+                            "valorReembolsado":"386.83", "codDocumento":"911357"}, {"ano":"2014", "mes":"4", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"33469172002292", "fornecedor":"Serviço Nacional de Aprendiz. Com. SENAC", 
+                            "documento":"CCF:003819", "data":"2014-04-22", "detalhamento":"valor pago com alimentação do senador randolfe rodrigues.", 
+                            "valorReembolsado":"80.0", "codDocumento":"911360"}, {"ano":"2014", "mes":"4", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"08881090000260", "fornecedor":"Santos Dumont Investimento Imobiliário S/A", 
+                            "documento":"00281264", "data":"2014-04-30", "detalhamento":"valor pago com hospedagem para o senador Randolfe Rodrigues.", 
+                            "valorReembolsado":"560.0", "codDocumento":"911361"}, {"ano":"2014", "mes":"4", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"08881090000260", "fornecedor":"Santos Dumont Investimento Imobiliario S/A", 
+                            "documento":"00278721", "data":"2014-04-16", "detalhamento":"pagamento com hospedagem do senador randolfe rodrigues.", 
+                            "valorReembolsado":"566.4", "codDocumento":"911344"}, {"ano":"2014", "mes":"4", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"43187943268", "fornecedor":"Santos Dumont Investimento Imobiliario S/A", 
+                            "documento":"00278721", "data":"2014-04-16", "detalhamento":"Hospedagem do senador Randolfe Rodrigues", 
+                            "valorReembolsado":"566.4", "codDocumento":"908131"}, {"ano":"2014", "mes":"4", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"52378239000101", "fornecedor":"Guarucoop", 
+                            "documento":"null", "data":"2014-04-24", "detalhamento":"valor pago com locomoção do senador Randolfe Rodrigues (táxi).", 
+                            "valorReembolsado":"154.64", "codDocumento":"911362"}, {"ano":"2014", "mes":"4", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"05124300000104", "fornecedor":"Cooperativa dos Condutores Autônomos de Veículos Rodoviários de Macapá - covem", 
+                            "documento":"null", "data":"2014-04-28", "detalhamento":"valor pago com serviço de locomoção, para assessora Georgina Galvão.
+Matricula: 202712", 
+                            "valorReembolsado":"15.0", "codDocumento":"913890"}, {"ano":"2014", "mes":"4", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"12993139000162", "fornecedor":"BDH Hotelaria e Turismo Ldta", 
+                            "documento":"1117", "data":"2014-04-30", "detalhamento":"valor pago com hospedagem de assessor.
+Matricula: 202712", 
+                            "valorReembolsado":"477.0", "codDocumento":"913889"}, {"ano":"2014", "mes":"4", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"15695357000109", "fornecedor":"Associação dos Taxistas do Distrito Federal - ASTDF", 
+                            "documento":"null", "data":"2014-04-27", "detalhamento":"valor pago com serviço de locomoção (táxi), para a assessora Georgina Galvão.
+Matrícula: 202712", 
+                            "valorReembolsado":"35.0", "codDocumento":"913891"}, {"ano":"2014", "mes":"4", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"11363879000152", "fornecedor":"Shout Agencia de Publicidade Ltda", 
+                            "documento":"00000189", "data":"2014-04-07", "detalhamento":"valor pago com serviço de apoio parlamentar", 
+                            "valorReembolsado":"5000.0", "codDocumento":"913888"}, {"ano":"2014", "mes":"4", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"13364156000101", "fornecedor":"Click assessoria & Comunicação Ltda-ME", 
+                            "documento":"18", "data":"2014-04-09", "detalhamento":"valor pago com serviço de apoio parlamentar.", 
+                            "valorReembolsado":"1800.0", "codDocumento":"911354"}, {"ano":"2014", "mes":"4", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"07656757000187", "fornecedor":"Você Telecomunicações Ltda", 
+                            "documento":"null", "data":"2014-04-23", "detalhamento":"valor pago com provedor de internet.", 
+                            "valorReembolsado":"244.33", "codDocumento":"911348"}, {"ano":"2014", "mes":"4", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"04206050003015", "fornecedor":"Tim Celular S/A", 
+                            "documento":"null", "data":"2014-04-25", "detalhamento":"valor pago com telefonia móvel.", 
+                            "valorReembolsado":"206.25", "codDocumento":"911350"}, {"ano":"2014", "mes":"4", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"04206050003015", "fornecedor":"Tim Celular S/A", 
+                            "documento":"null", "data":"2014-04-25", "detalhamento":"valor pago com telefonia móvel.", 
+                            "valorReembolsado":"199.05", "codDocumento":"911351"}, {"ano":"2014", "mes":"4", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"04206050003015", "fornecedor":"Tim Celular S/A", 
+                            "documento":"null", "data":"2014-04-25", "detalhamento":"valor pago com telefonia móvel.", 
+                            "valorReembolsado":"87.9", "codDocumento":"911349"}, {"ano":"2014", "mes":"4", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000683", "fornecedor":"Telemar Norte S/A", 
+                            "documento":"null", "data":"2014-04-13", "detalhamento":"valor pago com telefonia fixa.", 
+                            "valorReembolsado":"173.21", "codDocumento":"911353"}, {"ano":"2014", "mes":"4", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"02558157000162", "fornecedor":"Telefonica Brasil S/A", 
+                            "documento":"null", "data":"2014-04-06", "detalhamento":"valor pago com telefonia móvel.", 
+                            "valorReembolsado":"618.47", "codDocumento":"911347"}, {"ano":"2014", "mes":"4", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"72820822002769", "fornecedor":"SKY Brasil Serviços Ltda", 
+                            "documento":"null", "data":"2014-04-23", "detalhamento":"valor pago com TV por assinatura.", 
+                            "valorReembolsado":"76.0", "codDocumento":"911352"}, {"ano":"2014", "mes":"4", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"05995766000177", "fornecedor":"Prefeitura Municipal de Macapá", 
+                            "documento":"null", "data":"2014-04-30", "detalhamento":"valor pago com cota única de IPTU referente ao imóvel onde funciona o escritório de Macapá.", 
+                            "valorReembolsado":"437.81", "codDocumento":"978893"}, {"ano":"2014", "mes":"4", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"05965546000109", "fornecedor":"Companhia de Eletricidade do Amapá - CEA", 
+                            "documento":"null", "data":"2014-04-07", "detalhamento":"valor pago com tarifa de energia elétrica do escritório de Macapá.", 
+                            "valorReembolsado":"290.55", "codDocumento":"911346"}, {"ano":"2014", "mes":"4", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"01549402000102", "fornecedor":"capital imoveis ltda", 
+                            "documento":"null", "data":"2014-04-13", "detalhamento":"valor pago com aluguel do escritório de Macapá.", 
+                            "valorReembolsado":"3000.0", "codDocumento":"911345"}, {"ano":"2014", "mes":"3", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas S/A", 
+                            "documento":"9572486593861", "data":"2014-03-30", "detalhamento":"Georgina Galvão - 30/03/2014
+Belém/Macapá - voo JJ 3446
+Matricula: 202712", 
+                            "valorReembolsado":"144.47", "codDocumento":"899125"}, {"ano":"2014", "mes":"3", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas S/A", 
+                            "documento":"9572486593860", "data":"2014-03-29", "detalhamento":"Georgina Galvão - 29/03/2014
+ Brasília/Belém - voo JJ 3446
+Matricula: 202712", 
+                            "valorReembolsado":"882.75", "codDocumento":"899124"}, {"ano":"2014", "mes":"3", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas S/A", 
+                            "documento":"6NXKUO", "data":"2014-03-12", "detalhamento":"Emilio Macedo - 12/03/2014
+Brasília/Macapá - voo JJ 3448
+Matricula: 237520", 
+                            "valorReembolsado":"1069.75", "codDocumento":"888643"}, {"ano":"2014", "mes":"3", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas S/A", 
+                            "documento":"23PH6R", "data":"2014-03-09", "detalhamento":"Emilio Macedo - 09/03/2014
+Macapá/Brasília - voo JJ 3447
+Matricula: 237520", 
+                            "valorReembolsado":"896.95", "codDocumento":"888638"}, {"ano":"2014", "mes":"3", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas S/A", 
+                            "documento":"9572485344972", "data":"2014-03-07", "detalhamento":"Randolph Alves - 07/03/2014
+Macapá/Brasília - voo JJ 3449
+Brasília/Rio de Janeiro - voo JJ 3027
+1º bilhete: 95724833666186
+valor do bilhete: R$ 964,15
+bilhete remarcado: 9572485344972
+valor do bilhete remarcado: R$ 1.932,85", 
+                            "valorReembolsado":"1932.85", "codDocumento":"888636"}, {"ano":"2014", "mes":"3", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"11363879000152", "fornecedor":"Shout Agencia de Publicidade Ltda", 
+                            "documento":"00000184", "data":"2014-03-10", "detalhamento":"valor pago com divulgação da atividade parlamentar.", 
+                            "valorReembolsado":"5000.0", "codDocumento":"888642"}, {"ano":"2014", "mes":"3", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol Linhas Aereas S/A", 
+                            "documento":"WBSZHS", "data":"2014-03-30", "detalhamento":"Randolph Alves - 30/03/2014
+São Paulo (CGH)/Brasília - voo G3 1878
+1º bilhete:WBSZHS
+Valor do 1º bilhete: R$ 846,05
+2º bilhete:WBSZHS
+Valor do 2º bilhete: R$ 1.155,32
+", 
+                            "valorReembolsado":"1155.32", "codDocumento":"899128"}, {"ano":"2014", "mes":"3", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol Linhas Aereas S/A", 
+                            "documento":"TFY5WJ", "data":"2014-03-29", "detalhamento":"Randolph Alves - 29/03/2014
+São Luiz/Brasília - voo G3 1789", 
+                            "valorReembolsado":"1434.89", "codDocumento":"899123"}, {"ano":"2014", "mes":"3", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol Linhas Aereas S/A", 
+                            "documento":"JKNUKE", "data":"2014-03-23", "detalhamento":"Randolph Alves -23/03/2014
+Macapá/Brasília - voo G3 1979", 
+                            "valorReembolsado":"922.75", "codDocumento":"894099"}, {"ano":"2014", "mes":"3", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol Linhas Aereas S/A", 
+                            "documento":"GJ36MX", "data":"2014-03-21", "detalhamento":"Randolph Alves - 21/03/2014
+Brasília/Macapá -voo G3 1976
+1º bilhete: GJ36MX
+Valor do 1º bilhete: R$ 1.128,12
+2º bilhete:GJ36MX
+Valor do 2º bilhete: R$ 1.026,60", 
+                            "valorReembolsado":"1026.6", "codDocumento":"894097"}, {"ano":"2014", "mes":"3", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol Linhas Aereas S/A", 
+                            "documento":"OJLY3U", "data":"2014-03-16", "detalhamento":"Randolph Alves - 16/03/2014
+São Paulo (Congonhas)/Brasília - voo G3 1412", 
+                            "valorReembolsado":"1435.92", "codDocumento":"888641"}, {"ano":"2014", "mes":"3", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol Linhas Aereas S/A", 
+                            "documento":"HEJGSW", "data":"2014-03-15", "detalhamento":"Randolph Alves - 15/03/2014
+Rio de Janeiro (SDU)/São Paulo (Congonhas) - voo G3 1013", 
+                            "valorReembolsado":"1052.78", "codDocumento":"888640"}, {"ano":"2014", "mes":"3", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol Linhas Aereas S/A", 
+                            "documento":"GE3YFW", "data":"2014-03-08", "detalhamento":"Randolph Alves - 08/03/2014
+Rio de Janeiro (SDU)/Brasília - voo G3 1494
+", 
+                            "valorReembolsado":"890.31", "codDocumento":"888637"}, {"ano":"2014", "mes":"3", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02575829000148", "fornecedor":"Avianca linhas Aereas S/A", 
+                            "documento":"1B506E", "data":"2014-03-12", "detalhamento":"Randolph Alves - 12/03/2014
+Brasília/Rio de Janeiro (SDU) - voo 06 6231", 
+                            "valorReembolsado":"1007.05", "codDocumento":"888639"}, {"ano":"2014", "mes":"3", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"17065907000131", "fornecedor":"UP Asset Botafogo Hotel Ltda", 
+                            "documento":"0002584", "data":"2014-03-18", "detalhamento":"valor pago com hospedagem para o senador.", 
+                            "valorReembolsado":"1575.0", "codDocumento":"894094"}, {"ano":"2014", "mes":"3", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"33469172002292", "fornecedor":"Serviço Nacional de Aprendiz. Com. SENAC", 
+                            "documento":"002806", "data":"2014-03-17", "detalhamento":"valor pago com alimentação.", 
+                            "valorReembolsado":"189.0", "codDocumento":"894093"}, {"ano":"2014", "mes":"3", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"08881090000260", "fornecedor":"Santos Dumont Investimento Imobiliario S/A", 
+                            "documento":"00271173", "data":"2014-03-10", "detalhamento":"valor pago com hospedagem para o senador.", 
+                            "valorReembolsado":"380.2", "codDocumento":"894096"}, {"ano":"2014", "mes":"3", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"05158335000156", "fornecedor":"Posto 109 Sul Derivados de Petroleo Ltda", 
+                            "documento":"005945", "data":"2014-03-31", "detalhamento":"valor pago com combustível.", 
+                            "valorReembolsado":"100.0", "codDocumento":"899129"}, {"ano":"2014", "mes":"3", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"09967852010866", "fornecedor":"Hotelaria Accor Brasil S/A", 
+                            "documento":"00321927", "data":"2014-03-31", "detalhamento":"Valor pago com hospedagem do assessor Raphael Sodre Cittadino 
+Matricula: 265795", 
+                            "valorReembolsado":"590.0", "codDocumento":"899126"}, {"ano":"2014", "mes":"3", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"09967852010866", "fornecedor":"Hotelaria Accor Brasil S/A", 
+                            "documento":"00321940", "data":"2014-03-31", "detalhamento":"Valor pago com hospedagem do Senador Randolfe Rodrigues.", 
+                            "valorReembolsado":"297.2", "codDocumento":"899127"}, {"ano":"2014", "mes":"3", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"09967852010866", "fornecedor":"Hotelaria Accor Brasil S/A", 
+                            "documento":"00320326", "data":"2014-03-17", "detalhamento":"valor pago com hospedagem.", 
+                            "valorReembolsado":"295.0", "codDocumento":"894095"}, {"ano":"2014", "mes":"3", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"18236527000185", "fornecedor":"Família Natural Restaurante Ltda EPP", 
+                            "documento":"2206", "data":"2014-03-12", "detalhamento":"valor pago com alimentação.", 
+                            "valorReembolsado":"49.7", "codDocumento":"894092"}, {"ano":"2014", "mes":"3", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Divulgação da atividade parlamentar", "cnpjCpf":"13364156000101", "fornecedor":"Click Assessoria & Comunicação Ltda - ME", 
+                            "documento":"12", "data":"2014-03-07", "detalhamento":"valor pago com divulgação da atividade parlamentar.", 
+                            "valorReembolsado":"1800.0", "codDocumento":"894108"}, {"ano":"2014", "mes":"3", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Divulgação da atividade parlamentar", "cnpjCpf":"13364156000101", "fornecedor":"Click Assessoria & Comunicação Ltda - ME", 
+                            "documento":"13", "data":"2014-03-07", "detalhamento":"valor pago com divulgação da atividade parlamentar.", 
+                            "valorReembolsado":"500.0", "codDocumento":"894109"}, {"ano":"2014", "mes":"3", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"01021577000142", "fornecedor":"E. V. Araújo - EPP", 
+                            "documento":"690", "data":"2014-03-12", "detalhamento":"valor pago com material de escritório.", 
+                            "valorReembolsado":"659.0", "codDocumento":"894110"}, {"ano":"2014", "mes":"3", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"04206050003015", "fornecedor":"Tim Celular S/A", 
+                            "documento":"null", "data":"2014-03-25", "detalhamento":"valor pago com telefonia móvel.", 
+                            "valorReembolsado":"277.96", "codDocumento":"894106"}, {"ano":"2014", "mes":"3", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"04206050003015", "fornecedor":"Tim Celular S/A", 
+                            "documento":"null", "data":"2014-03-25", "detalhamento":"valor pago com telefonia móvel.", 
+                            "valorReembolsado":"237.5", "codDocumento":"894105"}, {"ano":"2014", "mes":"3", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"04206050003015", "fornecedor":"Tim Celular S/A", 
+                            "documento":"null", "data":"2014-03-25", "detalhamento":"valor pago com telefonia móvel.", 
+                            "valorReembolsado":"87.9", "codDocumento":"894107"}, {"ano":"2014", "mes":"3", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000683", "fornecedor":"Telemar Norte Leste S/A", 
+                            "documento":"null", "data":"2014-03-13", "detalhamento":"valor pago com telefonia fixa.", 
+                            "valorReembolsado":"121.49", "codDocumento":"894103"}, {"ano":"2014", "mes":"3", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"02558157000162", "fornecedor":"Telefonia Brasil S/A", 
+                            "documento":"null", "data":"2014-03-06", "detalhamento":"valor pago com telefonia móvel.", 
+                            "valorReembolsado":"602.85", "codDocumento":"894102"}, {"ano":"2014", "mes":"3", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"05965546000109", "fornecedor":"Companhia de Eletricidade do Amapá - CEA", 
+                            "documento":"null", "data":"2014-03-11", "detalhamento":"valor pago com energia elétrica.", 
+                            "valorReembolsado":"296.76", "codDocumento":"894101"}, {"ano":"2014", "mes":"3", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"05976311000104", "fornecedor":"Companhia de Água e Esgoto do Amapá - CAESA", 
+                            "documento":"null", "data":"2014-03-18", "detalhamento":"valor pago com tarifa de água e esgoto.", 
+                            "valorReembolsado":"39.55", "codDocumento":"894100"}, {"ano":"2014", "mes":"3", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"01549402000102", "fornecedor":"Capital Imóveis Ltda", 
+                            "documento":"null", "data":"2014-03-13", "detalhamento":"valor pago com aluguel do escritório de Macapá. Contrato de locação já encaminhado.", 
+                            "valorReembolsado":"3000.0", "codDocumento":"894104"}, {"ano":"2014", "mes":"2", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas S/A", 
+                            "documento":"9572485211701", "data":"2014-02-27", "detalhamento":"Randolph Alves - 27/02/2014
+Brasília/Macapá - voo JJ 3446
+1º bilhete: 9572484688727
+Valor do 1º bilhete: R$ 1.494,47
+2º bilhete (remarcado): 9572485211701
+Valor do 2º bilhete: R$ 1.454,47
+Valor de crédito (reembolsavel): R$ 237,00", 
+                            "valorReembolsado":"1454.47", "codDocumento":"891040"}, {"ano":"2014", "mes":"2", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas S/A", 
+                            "documento":"9572485090855", "data":"2014-02-26", "detalhamento":"Heluana Lima - 26/02/2014
+Brasília/Macapá - voo JJ 3446
+Matricula: 242709", 
+                            "valorReembolsado":"1234.75", "codDocumento":"885265"}, {"ano":"2014", "mes":"2", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas S/A", 
+                            "documento":"9572484544049", "data":"2014-02-17", "detalhamento":"Rodrigo Pereira - 17/02/2014
+Brasília/Rio de Janeiro - voo JJ 3027
+Matricula: 239607", 
+                            "valorReembolsado":"1710.62", "codDocumento":"878843"}, {"ano":"2014", "mes":"2", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas S/A", 
+                            "documento":"9572484415631", "data":"2014-02-13", "detalhamento":"Randolph Alves - 13/02/2014
+Brasília/Macapá - voo JJ 3446
+bilhete original: 9572483812600
+valor do bilhete original: R$ 1.120,47
+Bilhete remarcado: 9572484415631
+valor do bilhete remarcado: R$1.310,47", 
+                            "valorReembolsado":"1310.47", "codDocumento":"878845"}, {"ano":"2014", "mes":"2", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas S/A", 
+                            "documento":"95724833666125", "data":"2014-02-07", "detalhamento":"Raimundo Araújo - 07/02/2014
+Macapá/Brasília - voo JJ 3447
+Matricula: 201290", 
+                            "valorReembolsado":"487.75", "codDocumento":"874223"}, {"ano":"2014", "mes":"2", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol Linhas Aereas S/A", 
+                            "documento":"X9DG7Y", "data":"2014-02-24", "detalhamento":"Heluana Lima - 24/02/2014
+Macapá/Brasília - voo G3 1979
+Matricula: 242709", 
+                            "valorReembolsado":"1295.41", "codDocumento":"885264"}, {"ano":"2014", "mes":"2", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol Linhas Aereas S/A", 
+                            "documento":"9690001712929", "data":"2014-02-18", "detalhamento":"Randolph Alves - 18/02/2014
+Rio de Janeiro (santos Dumont)/Brasília - voo G3 1482", 
+                            "valorReembolsado":"1294.89", "codDocumento":"878846"}, {"ano":"2014", "mes":"2", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol Linhas Aereas S/A", 
+                            "documento":"HISGWK", "data":"2014-02-17", "detalhamento":"Randolph Alves - 17/02/2014
+São Paulo (Congonhas)/Rio de Janeiro - voo G3 1044
+1º bilhete HISGWK
+Valor do 1º bilhete: R$ 1.100,32
+2º bilhete (remarcação) HISGWK
+Valor do 2º bilhete: R$ 1.137,95", 
+                            "valorReembolsado":"1137.95", "codDocumento":"878847"}, {"ano":"2014", "mes":"2", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol Linhas Aereas S/A", 
+                            "documento":"9690001712921", "data":"2014-02-16", "detalhamento":"Randolph Alves - 16/02/2014
+Macapá/São Paulo (GRU) - voo G3 1595", 
+                            "valorReembolsado":"1789.54", "codDocumento":"878842"}, {"ano":"2014", "mes":"2", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol Linhas Aereas S/A", 
+                            "documento":"Y9595Y", "data":"2014-02-05", "detalhamento":"Raimundo Araújo - 05/02/2014
+Brasília/Macapá - voo G3 1976
+Matricula: 201290", 
+                            "valorReembolsado":"536.95", "codDocumento":"874222"}, {"ano":"2014", "mes":"2", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol Linhas Aereas S/A", 
+                            "documento":"MEK6XJ", "data":"2014-02-03", "detalhamento":"Randolph Alves - 03/02/2014
+Rio de Janeiro (Santos Dumont)/Brasília - voo G3 1742", 
+                            "valorReembolsado":"838.84", "codDocumento":"874225"}, {"ano":"2014", "mes":"2", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol Linhas Aereas S/A", 
+                            "documento":"Y7URKB", "data":"2014-02-02", "detalhamento":"Randolph Alves - 02/02/2014
+São Paulo (Congonhas)/Rio de Janeiro (Santos Dumont) G3 1020", 
+                            "valorReembolsado":"1082.82", "codDocumento":"874224"}, {"ano":"2014", "mes":"2", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"78352572000801", "fornecedor":"Slaviero Hoteis e Turismo Ltda", 
+                            "documento":"00072688", "data":"2014-02-24", "detalhamento":"valor pago com hospedagem do Senador Randolfe Rodrigues.", 
+                            "valorReembolsado":"139.42", "codDocumento":"891043"}, {"ano":"2014", "mes":"2", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"78352572000801", "fornecedor":"Slavieiro Hoteis e Turismo Ltda", 
+                            "documento":"00072926", "data":"2014-02-26", "detalhamento":"valor pago com hospedagem do senador Randolfe Rodrigues.", 
+                            "valorReembolsado":"43.0", "codDocumento":"891042"}, {"ano":"2014", "mes":"2", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"33469172002292", "fornecedor":"Serviço Nacional de Aprendiz. Com. Senac", 
+                            "documento":"002393", "data":"2014-02-20", "detalhamento":"valor pago com alimentação do senador Randolfe Rodrigues.", 
+                            "valorReembolsado":"43.0", "codDocumento":"894086"}, {"ano":"2014", "mes":"2", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"08881090000260", "fornecedor":"Santos Dumont Investimento Imobiliário S/A", 
+                            "documento":"00267395", "data":"2014-02-19", "detalhamento":"valor pago com hospedagem do Senador Randolfe Rodrigues, na cidade do Rio de Janeiro.", 
+                            "valorReembolsado":"279.0", "codDocumento":"885254"}, {"ano":"2014", "mes":"2", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"04482810000182", "fornecedor":"Ponto de Taxi Guararapes", 
+                            "documento":"null", "data":"2014-02-02", "detalhamento":"valor pago com serviço de táxi.", 
+                            "valorReembolsado":"25.0", "codDocumento":"874227"}, {"ano":"2014", "mes":"2", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"62413877003187", "fornecedor":"Melia Brasil Administração Hoteleira e Comercial Ltda", 
+                            "documento":"00199808", "data":"2014-02-03", "detalhamento":"valor pago com hospedagem do senador em São Paulo. ", 
+                            "valorReembolsado":"1146.45", "codDocumento":"874226"}, {"ano":"2014", "mes":"2", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"37128477000167", "fornecedor":"JT Comércio de Devirados de Petroelo Ltda", 
+                            "documento":"000848", "data":"2014-02-12", "detalhamento":"valor pago com combustível.", 
+                            "valorReembolsado":"87.0", "codDocumento":"894087"}, {"ano":"2014", "mes":"9", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol Linhas Aereas S/A", 
+                            "documento":"OG45HG", "data":"2014-09-19", "detalhamento":"Randolph Alves - 19/09/2014
+Rio de Janeiro/Brasília - voo G3 1484
+1º Bilhete: OG45HG
+Valor do 1º bilhete: R$ 390,04
+2º bilhete: OG45HG
+Valor do 2º bilhete: R$ 1.735,19", 
+                            "valorReembolsado":"1735.19", "codDocumento":"955674"}, {"ano":"2014", "mes":"9", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol Linhas Aereas S/A", 
+                            "documento":"AL162B", "data":"2014-09-18", "detalhamento":"Randolph Alves - 18/09/2014
+Rio de Janeiro/ Brasília - voo G3 1494", 
+                            "valorReembolsado":"214.57", "codDocumento":"955673"}, {"ano":"2014", "mes":"9", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol Linhas Aereas S/A", 
+                            "documento":"JFEIUW", "data":"2014-09-17", "detalhamento":"Randolph Alves - 17/09/2014
+São Paulo/Rio de Janeiro - voo G3 1032
+1º bilhete: JFEIUW
+valor do 1º bilhete: R$ 511,84
+2º bilhete: JFEIUW
+valor do 2º bilhete:1.123,00
+3º bilhete:JFEIUW
+valor do 3º bilhete: R$ 1.396,85
+4º bilhete: JFEIUW
+valor do 4º bilhete: 859,04
+valor para reembolso: R$ 575,80
+ ", 
+                            "valorReembolsado":"859.04", "codDocumento":"955672"}, {"ano":"2014", "mes":"9", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol Linhas Aereas S/A", 
+                            "documento":"VGEG8T", "data":"2014-09-15", "detalhamento":"Randolph Alves - 15/09/2014
+Curitiba/São Paulo - voo G3 1117
+1º bilhete: VGEG8T
+valor do 1º bilhete: R$ 215,33
+2º bilhete: VGEG8T
+valor do 2º bilhete: R$ 1.027,75", 
+                            "valorReembolsado":"1027.75", "codDocumento":"955671"}, {"ano":"2014", "mes":"9", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol Linhas Aereas S/A", 
+                            "documento":"9690001829842", "data":"2014-09-10", "detalhamento":"Randolph Alves - 10/09/2014
+Brasília/Macapá - voo G3 1976", 
+                            "valorReembolsado":"1049.24", "codDocumento":"955668"}, {"ano":"2014", "mes":"9", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol Linhas Aereas S/A", 
+                            "documento":"GCP5SP", "data":"2014-09-07", "detalhamento":"Randolph Alves - 07/09/2014
+São Paulo/Brasília - voo G3 1878", 
+                            "valorReembolsado":"443.47", "codDocumento":"955667"}, {"ano":"2014", "mes":"9", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol Linhas Aereas S/A", 
+                            "documento":"GLCE6B", "data":"2014-09-03", "detalhamento":"Randolph Alves - 03/09/2014
+Brasília/São Paulo - G3 1411", 
+                            "valorReembolsado":"1033.34", "codDocumento":"951070"}, {"ano":"2014", "mes":"9", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol Linhas Aereas S/A", 
+                            "documento":"GLCE6B", "data":"2014-09-01", "detalhamento":"Randolph Alves - 01/09/2014
+Macapá/Brasília - voo G3 1979", 
+                            "valorReembolsado":"970.43", "codDocumento":"956560"}, {"ano":"2014", "mes":"9", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"09296295000160", "fornecedor":"Azul Linhas Aereas Brasileiras S/A", 
+                            "documento":"2220005491491", "data":"2014-09-14", "detalhamento":"Randolph Alves - 14/09/2014
+Macapá/Belém - voo AD 2855
+Belém/Belo Horizonte - voo Ad 4187
+Belo Horizonte/Curitiba - voo AD 5030", 
+                            "valorReembolsado":"2013.98", "codDocumento":"955669"}, {"ano":"2014", "mes":"9", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"08881090000260", "fornecedor":"Santos Dumont Investimento Imobiliario S/A", 
+                            "documento":"00303638", "data":"2014-09-02", "detalhamento":"valor pago com hospedagem de Heluana Lima
+Matricula: 242709", 
+                            "valorReembolsado":"265.0", "codDocumento":"951068"}, {"ano":"2014", "mes":"9", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"05983192001601", "fornecedor":"Salomão Alcolumbre & CIA LTDA", 
+                            "documento":"558", "data":"2014-09-29", "detalhamento":"valor pago com combustível.", 
+                            "valorReembolsado":"100.0", "codDocumento":"966510"}, {"ano":"2014", "mes":"9", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"05983192001601", "fornecedor":"Salomão Alcolumbre & CIA LTDA", 
+                            "documento":"544", "data":"2014-09-20", "detalhamento":"valor pago com combustível.", 
+                            "valorReembolsado":"100.0", "codDocumento":"976772"}, {"ano":"2014", "mes":"9", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"05983192001601", "fornecedor":"Salomão Alcolumbre & CIA LTDA", 
+                            "documento":"000000532", "data":"2014-09-11", "detalhamento":"valor pago com combustível.", 
+                            "valorReembolsado":"100.0", "codDocumento":"956557"}, {"ano":"2014", "mes":"9", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"09259358000450", "fornecedor":"Melongena Participações Ltda", 
+                            "documento":"55820", "data":"2014-09-16", "detalhamento":"valor pago com hospedagem do Senador Randolfe Rodrigues.", 
+                            "valorReembolsado":"214.75", "codDocumento":"956556"}, {"ano":"2014", "mes":"2", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"09967852010866", "fornecedor":"Hotelaria Accor Brasil S/A", 
+                            "documento":"00317675", "data":"2014-02-18", "detalhamento":"valor pago com hospedagem do senador randolfe rodrigues.", 
+                            "valorReembolsado":"249.0", "codDocumento":"885251"}, {"ano":"2014", "mes":"2", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"09967852010866", "fornecedor":"Hotelaria Accor Brasil S/A", 
+                            "documento":"00317675", "data":"2014-02-18", "detalhamento":"valor pago com hospedagem.", 
+                            "valorReembolsado":"249.0", "codDocumento":"894089"}, {"ano":"2014", "mes":"2", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"52378239000101", "fornecedor":"Guarucoop táxi Aeroporto", 
+                            "documento":"null", "data":"2014-02-20", "detalhamento":"valor pago com locomoção (táxi)", 
+                            "valorReembolsado":"147.31", "codDocumento":"885249"}, {"ano":"2014", "mes":"2", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"52378239000101", "fornecedor":"Guarucoop", 
+                            "documento":"null", "data":"2014-02-16", "detalhamento":"valor pago com locomoção (táxi).", 
+                            "valorReembolsado":"124.16", "codDocumento":"894088"}, {"ano":"2014", "mes":"2", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"02266042000102", "fornecedor":"Bovinu´s Restaurante Ltda", 
+                            "documento":"017240", "data":"2014-02-21", "detalhamento":"valor pago com alimentação do senador Randolfe Rodrigues.", 
+                            "valorReembolsado":"92.41", "codDocumento":"885250"}, {"ano":"2014", "mes":"2", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"05544009000187", "fornecedor":"Associção dos Taxistas do Ponto Anhanguera", 
+                            "documento":"null", "data":"2014-02-21", "detalhamento":"valor pago com locomoção (taxi).", 
+                            "valorReembolsado":"45.0", "codDocumento":"885248"}, {"ano":"2014", "mes":"2", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"06065572000135", "fornecedor":"Associação de Taxi Nações Unidas", 
+                            "documento":"null", "data":"2014-02-21", "detalhamento":"valor pago com locomoção (taxi)", 
+                            "valorReembolsado":"28.0", "codDocumento":"885253"}, {"ano":"2014", "mes":"2", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Divulgação da atividade parlamentar", "cnpjCpf":"11363879000152", "fornecedor":"Shout Agencia de Publicidade Ltda", 
+                            "documento":"00000182", "data":"2014-02-20", "detalhamento":"valor pago com divulgação da atividade parlamentar", 
+                            "valorReembolsado":"5000.0", "codDocumento":"885252"}, {"ano":"2014", "mes":"2", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Divulgação da atividade parlamentar", "cnpjCpf":"02747184000183", "fornecedor":"R. M. R. de Almedia - ME", 
+                            "documento":"01994", "data":"2014-02-19", "detalhamento":"valor pago com divulgação da atividade parlamentar.", 
+                            "valorReembolsado":"5200.0", "codDocumento":"885260"}, {"ano":"2014", "mes":"2", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Divulgação da atividade parlamentar", "cnpjCpf":"13364156000101", "fornecedor":"Click Assessoria & Comunicação Ltda - ME", 
+                            "documento":"5", "data":"2014-02-04", "detalhamento":"valor pago com divulgação da atividade parlamentar.", 
+                            "valorReembolsado":"1800.0", "codDocumento":"885263"}, {"ano":"2014", "mes":"2", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"04206050003015", "fornecedor":"Tim Celular S/A", 
+                            "documento":"null", "data":"2014-02-25", "detalhamento":"valor pago com telefonia móvel.", 
+                            "valorReembolsado":"194.1", "codDocumento":"885259"}, {"ano":"2014", "mes":"2", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"04206050003015", "fornecedor":"Tim Celular S/A", 
+                            "documento":"null", "data":"2014-02-25", "detalhamento":"valor pago com telefonia móvel.", 
+                            "valorReembolsado":"126.67", "codDocumento":"885257"}, {"ano":"2014", "mes":"2", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"04206050003015", "fornecedor":"Tim Celular S/A", 
+                            "documento":"null", "data":"2014-02-25", "detalhamento":"valor pago com telefonia móvel.", 
+                            "valorReembolsado":"111.18", "codDocumento":"885258"}, {"ano":"2014", "mes":"2", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000683", "fornecedor":"Telemar Norte Leste S/A", 
+                            "documento":"null", "data":"2014-02-13", "detalhamento":"valor pago com serviço de telefonia fixa.", 
+                            "valorReembolsado":"152.03", "codDocumento":"891038"}, {"ano":"2014", "mes":"2", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"02558157000162", "fornecedor":"Telefonia Brasil S/A", 
+                            "documento":"null", "data":"2014-02-06", "detalhamento":"valor pago com telefonia móvel.", 
+                            "valorReembolsado":"639.02", "codDocumento":"885262"}, {"ano":"2014", "mes":"2", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"72820822002769", "fornecedor":"SKY Brasil Serviços Ltda", 
+                            "documento":"null", "data":"2014-02-23", "detalhamento":"valor pago com serviço de Tv por assinatura.", 
+                            "valorReembolsado":"76.0", "codDocumento":"891037"}, {"ano":"2014", "mes":"2", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33530486000129", "fornecedor":"Empresa Brasileira de Telecomunicações S/A", 
+                            "documento":"null", "data":"2014-02-24", "detalhamento":"valor pago com serviço de telfonia fixa.", 
+                            "valorReembolsado":"4.51", "codDocumento":"891039"}, {"ano":"2014", "mes":"9", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"09967852010866", "fornecedor":"Hotelaria Accor Brasil S/A", 
+                            "documento":"00341151", "data":"2014-09-24", "detalhamento":"valor pago com hospedagem do assessor Emilio Façanha Macedo
+Matricula: 237520", 
+                            "valorReembolsado":"150.0", "codDocumento":"955679"}, {"ano":"2014", "mes":"9", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"09967852010866", "fornecedor":"Hotelaria Accor Brasil S/A", 
+                            "documento":"00340493", "data":"2014-09-19", "detalhamento":"valor pago com hospedagem do Senador Randolfe Rodrigues.", 
+                            "valorReembolsado":"646.0", "codDocumento":"956559"}, {"ano":"2014", "mes":"9", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"08865615000192", "fornecedor":"Working Associação de Imtegração Profissional", 
+                            "documento":"17122", "data":"2014-09-01", "detalhamento":"valor pago com serviço de assessoria.", 
+                            "valorReembolsado":"1375.0", "codDocumento":"951066"}, {"ano":"2014", "mes":"9", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"11363879000152", "fornecedor":"Shout Agencia de Publicidade Ltda", 
+                            "documento":"00000215", "data":"2014-09-18", "detalhamento":"valor pago com serviço de assessoria.", 
+                            "valorReembolsado":"5000.0", "codDocumento":"955678"}, {"ano":"2014", "mes":"9", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"11468252000166", "fornecedor":"GVB 09 Consultoria Empresarial Ltda", 
+                            "documento":"00000417", "data":"2014-09-11", "detalhamento":"valor pago com serviço de apoio ao parlamentar.", 
+                            "valorReembolsado":"6000.0", "codDocumento":"955670"}, {"ano":"2014", "mes":"9", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"13364156000101", "fornecedor":"Click Assessoria & Comunicação Ltda - ME", 
+                            "documento":"31", "data":"2014-09-01", "detalhamento":"valor pago com serviços de apoio parlamentar.", 
+                            "valorReembolsado":"1800.0", "codDocumento":"961489"}, {"ano":"2014", "mes":"9", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"01021577000142", "fornecedor":"E. V. Araújo - EPP", 
+                            "documento":"860", "data":"2014-09-02", "detalhamento":"valor pago com compra de material de consumo.", 
+                            "valorReembolsado":"537.8", "codDocumento":"961492"}, {"ano":"2014", "mes":"9", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"04206050003015", "fornecedor":"Tim Celular S/A", 
+                            "documento":"null", "data":"2014-09-25", "detalhamento":"valor pago com telefonia móvel.", 
+                            "valorReembolsado":"300.39", "codDocumento":"966509"}, {"ano":"2014", "mes":"9", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"02558157000162", "fornecedor":"Telefonica Brasil S/A", 
+                            "documento":"null", "data":"2014-09-06", "detalhamento":"valor pago com telefonia móvel.", 
+                            "valorReembolsado":"84.0", "codDocumento":"961491"}, {"ano":"2014", "mes":"9", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"72820822002769", "fornecedor":"SKY Brasil Serviços Ltda", 
+                            "documento":"null", "data":"2014-09-23", "detalhamento":"valor pago com TV por assinatura.", 
+                            "valorReembolsado":"76.0", "codDocumento":"961490"}, {"ano":"2014", "mes":"9", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"05965546000109", "fornecedor":"Companhia de Eletricidade do Amapá - CEA", 
+                            "documento":"null", "data":"2014-09-04", "detalhamento":"valor pago com tarifa de energia elétrica.", 
+                            "valorReembolsado":"471.84", "codDocumento":"961488"}, {"ano":"2014", "mes":"9", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"01549402000102", "fornecedor":"Capital Imoveis ", 
+                            "documento":"null", "data":"2014-09-13", "detalhamento":"valor pago com aluguel", 
+                            "valorReembolsado":"3000.0", "codDocumento":"951065"}, {"ano":"2014", "mes":"8", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas S/A", 
+                            "documento":"9572495452549", "data":"2014-08-31", "detalhamento":"Randolph Alves - 31/08/2014
+Brasília/Rio de Janeiro - voo JJ 3025", 
+                            "valorReembolsado":"662.59", "codDocumento":"951051"}, {"ano":"2014", "mes":"8", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas S/A", 
+                            "documento":"9572494926804", "data":"2014-08-27", "detalhamento":"Carla Ferreira - 27/08/2014
+Brasília/Macapá - voo JJ 3448
+Matricula: 259527", 
+                            "valorReembolsado":"1142.61", "codDocumento":"948166"}, {"ano":"2014", "mes":"2", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"10969713000111", "fornecedor":"Elite Imoveis", 
+                            "documento":"null", "data":"2014-02-01", "detalhamento":"valor pago com aluguel", 
+                            "valorReembolsado":"1700.0", "codDocumento":"874221"}, {"ano":"2014", "mes":"2", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"05965546000109", "fornecedor":"Companhia de Eletricidade do Amapá - CEA", 
+                            "documento":"null", "data":"2014-02-06", "detalhamento":"valor pago com tarifa de energia elétrica.", 
+                            "valorReembolsado":"54.29", "codDocumento":"885261"}, {"ano":"2014", "mes":"2", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"01549402000102", "fornecedor":"Capital  Imóvel Ltda", 
+                            "documento":"null", "data":"2014-02-13", "detalhamento":"valor pago com aluguel do escritório de Macapá", 
+                            "valorReembolsado":"3000.0", "codDocumento":"885256"}, {"ano":"2014", "mes":"1", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas S/A", 
+                            "documento":"9572483423359", "data":"2014-01-31", "detalhamento":"Janaina Carvalho - 31/01/2014
+Brasília/Macapá - voo JJ 3446
+Matricula: 243787", 
+                            "valorReembolsado":"892.65", "codDocumento":"865605"}, {"ano":"2014", "mes":"1", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas S/A", 
+                            "documento":"9572483423346", "data":"2014-01-29", "detalhamento":"Randolph Alves - 29/01/2014
+Macapá/Brasília - voo JJ 3433
+1º bilhete: 9572483004006
+Valor do 1º bilhete: R$ 786,07
+2º bilhete (remarcado):9572483423346
+Valor do 2º bilhete:R$ 1.072,45
+Valor da remarcação: R$ 286,38", 
+                            "valorReembolsado":"1072.45", "codDocumento":"891036"}, {"ano":"2014", "mes":"1", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas S/A", 
+                            "documento":"9572483238659", "data":"2014-01-27", "detalhamento":"Raimundo Araújo - 27/01/2014
+Brasília/Natal - voo JJ 3312
+Natal/Brasília - voo JJ 3313
+Matricula:201290
+", 
+                            "valorReembolsado":"1920.72", "codDocumento":"865603"}, {"ano":"2014", "mes":"1", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas S/A", 
+                            "documento":"9572483238601", "data":"2014-01-22", "detalhamento":"Raimundo Araújo - 22/01/2014
+Brasília/Rio de Janeiro (Santos Dumont) voo JJ 3029
+Matricula: 201290", 
+                            "valorReembolsado":"787.05", "codDocumento":"865601"}, {"ano":"2014", "mes":"1", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas S/A", 
+                            "documento":"9572482493029", "data":"2014-01-11", "detalhamento":"Djalma Espirito Santos - 11/01/2014
+Brasília/Macapá - voo JJ 3448
+Matricula: 237477", 
+                            "valorReembolsado":"671.55", "codDocumento":"865608"}, {"ano":"2014", "mes":"1", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas S/A", 
+                            "documento":"9572482493030", "data":"2014-01-11", "detalhamento":"Emilio Macedo - 11/01/2014
+Brasília/Macapá - voo JJ 3448
+Matricula:237520", 
+                            "valorReembolsado":"671.55", "codDocumento":"865610"}, {"ano":"2014", "mes":"1", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas S/A", 
+                            "documento":"9572481971274", "data":"2014-01-08", "detalhamento":"Emilio Macedo - 08/01/2014
+Macapá/Brasília - voo JJ 3447
+Matricula: 237520", 
+                            "valorReembolsado":"665.95", "codDocumento":"865609"}, {"ano":"2014", "mes":"1", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas S/A", 
+                            "documento":"9572481971275", "data":"2014-01-08", "detalhamento":"Djalma Espirito Santos - 08/01/2014
+Macapá/Brasília - voo JJ 3447
+Matricula: 237477", 
+                            "valorReembolsado":"460.25", "codDocumento":"865607"}, {"ano":"2014", "mes":"1", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol Linhas Aereas S/a", 
+                            "documento":"VYB2PI", "data":"2014-01-30", "detalhamento":"Randolph Alves - 30/01/2014
+Brasília/São Paulo (Congonhas) - voo G3 1409
+Bilhete original: VYB2PI (969 0001699459)
+Valor do bilhete original: R$ 776,88
+Bilhete remarcado: VYB2PI ( 969 0001704126)
+Valor do bilhete remarcado: R$ 1.001,88", 
+                            "valorReembolsado":"835.88", "codDocumento":"865629"}, {"ano":"2014", "mes":"1", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol Linhas Aereas S/a", 
+                            "documento":"AKDINR", "data":"2014-01-14", "detalhamento":"Gisele Barbieri - 14/01/2014
+São Luiz/Brasília - voo G3 1081
+Matricula: 243993", 
+                            "valorReembolsado":"2080.35", "codDocumento":"865614"}, {"ano":"2014", "mes":"8", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas S/A", 
+                            "documento":"9572495146968", "data":"2014-08-26", "detalhamento":"Raphael Cittadino - 26/08/2014
+Vitória/Brasília - voo JJ 3230
+Matricula: 265795
+1º bilhete: 9572494722379
+valor do 1º bilhete: R$ 1.216,98
+2º bilhete: 9572495146968
+valor do 2º bilhete: R$ 1.607,71
+valor das alterações: 545,43
+", 
+                            "valorReembolsado":"1607.71", "codDocumento":"948175"}, {"ano":"2014", "mes":"8", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas S/A", 
+                            "documento":"9572495116313", "data":"2014-08-26", "detalhamento":"Emilio Macedo - 26/08/2014
+Macapá/Brasília - voo JJ 3447
+Matricula: 237520", 
+                            "valorReembolsado":"969.55", "codDocumento":"948168"}, {"ano":"2014", "mes":"8", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas S/A", 
+                            "documento":"9572494926803", "data":"2014-08-26", "detalhamento":"Carla Ferreira - 26/08/2014
+Macapá/Brasília - Voo JJ 3447
+Matricula:259527", 
+                            "valorReembolsado":"719.59", "codDocumento":"948167"}, {"ano":"2014", "mes":"8", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas S/A", 
+                            "documento":"9572494722379", "data":"2014-08-25", "detalhamento":"Raphael Cittadino - 25/08/2014
+Vitória/Brasília - voo JJ 3230
+Matricula: 265795", 
+                            "valorReembolsado":"1216.98", "codDocumento":"951053"}, {"ano":"2014", "mes":"8", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas S/A", 
+                            "documento":"9572495028568", "data":"2014-08-23", "detalhamento":"Randolph Alves - 23/08/2014
+Macapá/Brasília - voo JJ 3433", 
+                            "valorReembolsado":"1246.75", "codDocumento":"948170"}, {"ano":"2014", "mes":"8", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas S/A", 
+                            "documento":"9572494722378", "data":"2014-08-21", "detalhamento":"Raphael Cittadino - 21/08/2014
+Brasília/Vitória - voo JJ 3229
+Matricula: 265795", 
+                            "valorReembolsado":"1565.75", "codDocumento":"948162"}, {"ano":"2014", "mes":"8", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas S/A", 
+                            "documento":"9572494722399", "data":"2014-08-19", "detalhamento":"Heluana Lima - 19/08/2014
+Brasília/Macapá - voo JJ 3432
+Matricula: 242709", 
+                            "valorReembolsado":"2202.15", "codDocumento":"945787"}, {"ano":"2014", "mes":"8", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas S/A", 
+                            "documento":"9572494838525", "data":"2014-08-19", "detalhamento":"Randolph Alves - 19/08/2014
+Brasília/Macapá - voo JJ 3448
+1º Bilhete: 9572493627063
+valor do 1º bilhete: R$ 1046,55
+2º bilhete: 9572494301462
+valor do 2º bilhete: R$ 1.173,63
+3º bilhete: 9572494838525
+valor do 3º bilhete: R$ 1.389,10", 
+                            "valorReembolsado":"1389.1", "codDocumento":"945788"}, {"ano":"2014", "mes":"8", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas S/A", 
+                            "documento":"9572494722388", "data":"2014-08-18", "detalhamento":"Raphael Cittadino - 18/08/2014
+Recife/Brasilia - voo JJ 3451
+Matricula: 265795", 
+                            "valorReembolsado":"1432.28", "codDocumento":"945786"}, {"ano":"2014", "mes":"8", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas S/A", 
+                            "documento":"9572494727295", "data":"2014-08-18", "detalhamento":"Randolph Alves - 18/08/2014
+Recife/Brasília - voo JJ 3451
+1º Bilhete: 9572494301461
+Valor do 1º bilhete: R$ 836,55
+2º Bilhete: 9572494727295
+Valor do 2º bilhete: R$ 1.216,55
+Valor das alterações: R$ 380,00", 
+                            "valorReembolsado":"1216.55", "codDocumento":"945784"}, {"ano":"2014", "mes":"8", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas S/A", 
+                            "documento":"9572494722368", "data":"2014-08-16", "detalhamento":"Raphael Cittadino - 16/08/2014
+Brasília/Recife - voo JJ 3354
+Matricula: 265795", 
+                            "valorReembolsado":"1433.26", "codDocumento":"945785"}, {"ano":"2014", "mes":"8", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas S/A", 
+                            "documento":"9572494722351", "data":"2014-08-16", "detalhamento":"Randolph Alves - 16/08/2014
+Brasília/Recife - voo JJ 3354", 
+                            "valorReembolsado":"1107.46", "codDocumento":"945782"}, {"ano":"2014", "mes":"8", "senador":"RANDOLFE RODRIGUES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas S/A", 
+                            "documento":"9572380950975", "data":"2014-08-15", "detalhamento":"Randolph Alves - 15/08/2014
+Macapá/Brasília - voo JJ 3433", 
+                            "valorReembolsado":"1840.75", "codDocumento":"945780"}]}

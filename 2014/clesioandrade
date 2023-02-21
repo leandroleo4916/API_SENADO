@@ -1,0 +1,318 @@
+{"gastosSenador": [{"ano":"2014", "mes":"7", "senador":"CLÉSIO ANDRADE", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"01203804000150", "fornecedor":"Residencial Locação de Imoveis Ltda", 
+                            "documento":"R T00675", "data":"2014-07-18", "detalhamento":"Aluguel do escritório Politico.", 
+                            "valorReembolsado":"5881.38", "codDocumento":"935663"}, {"ano":"2014", "mes":"6", "senador":"CLÉSIO ANDRADE", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM Linhas Aereas Ltda ", 
+                            "documento":"95724877300784", "data":"2014-06-06", "detalhamento":"
+Bilhete de passagem emitido em nome do chefe de gabinete do senador Clésio Andrade. Sr. Aloisio Carvalho , matricula 234762.
+Trecho: Brasília - Belo Horizonte, em 06/06/2014
+", 
+                            "valorReembolsado":"323.56", "codDocumento":"935657"}, {"ano":"2014", "mes":"6", "senador":"CLÉSIO ANDRADE", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas Ltda", 
+                            "documento":"9572487304589", "data":"2014-06-18", "detalhamento":"
+Passagem emitida em nome do chefe de gabinete, Sr. Aloisio Carvalho, matricula 234 762.
+Trecho: Brasília - Belo Horizonte, em 18/06/2014
+", 
+                            "valorReembolsado":"334.56", "codDocumento":"935659"}, {"ano":"2014", "mes":"6", "senador":"CLÉSIO ANDRADE", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam - Linhas Aereas Ltda", 
+                            "documento":"9572491847145", "data":"2014-06-26", "detalhamento":"Bilhete emitido em nome do chefe de gabinete do senador Clésio Andrade.
+Aloisio Carvalho, matricula - 234762
+Trecho: Brasília - Belo Horizonte, 26/06/2014
+", 
+                            "valorReembolsado":"422.55", "codDocumento":"935661"}, {"ano":"2014", "mes":"6", "senador":"CLÉSIO ANDRADE", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam - Linhas Aereas ", 
+                            "documento":"9572487300784", "data":"2014-06-08", "detalhamento":"
+Passagem emitida em nome do chefe de gabinete do senador.
+Sr. Aloisio Carvalho, matricula: 234.762
+Trecho:Belo Horizonte - Brasília", 
+                            "valorReembolsado":"323.56", "codDocumento":"935658"}, {"ano":"2014", "mes":"6", "senador":"CLÉSIO ANDRADE", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam - Linas Aereas", 
+                            "documento":"9572487304589", "data":"2014-06-24", "detalhamento":"Bilhete emitida em nome do chefe de gabinete do senador.
+Aloisio Carvalho, matricula 234762.
+Trecho:Belo Horizonte - Brasília", 
+                            "valorReembolsado":"334.56", "codDocumento":"935660"}, {"ano":"2014", "mes":"6", "senador":"CLÉSIO ANDRADE", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol - Linhas Aereas ", 
+                            "documento":"12700248908927", "data":"2014-06-30", "detalhamento":"Bilhete emitido em nome do Sr. Aloisio Carvalho, matricula: 234.762. Chefe de gabinete do senador Clésio Andrade.
+Trecho: Belo Horizonte - Brasília, 30/06/2014.", 
+                            "valorReembolsado":"557.47", "codDocumento":"935662"}, {"ano":"2014", "mes":"6", "senador":"CLÉSIO ANDRADE", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"01203804000150", "fornecedor":"Residencial Locação e Venda de Imóveis Ltda", 
+                            "documento":"T00675", "data":"2014-06-18", "detalhamento":"
+Aluguel do imóvel para o escritório politico.", 
+                            "valorReembolsado":"5881.38", "codDocumento":"930301"}, {"ano":"2014", "mes":"6", "senador":"CLÉSIO ANDRADE", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"00108786015359", "fornecedor":"NET TV", 
+                            "documento":"null", "data":"2014-06-01", "detalhamento":"Para uso do escritório politico.
+Net - TV
+Net - Virtua
+Net - Fone
+", 
+                            "valorReembolsado":"384.31", "codDocumento":"935653"}, {"ano":"2014", "mes":"6", "senador":"CLÉSIO ANDRADE", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"07853604000120", "fornecedor":"Emive Locação de Equipamentos Ltda", 
+                            "documento":"2014/27481", "data":"2014-06-06", "detalhamento":"Serviço de segurança e vigilância.", 
+                            "valorReembolsado":"250.46", "codDocumento":"935654"}, {"ano":"2014", "mes":"6", "senador":"CLÉSIO ANDRADE", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"17281106000103", "fornecedor":"Copasa - Companhia de Saneamento Basico de Minas Gerais", 
+                            "documento":"null", "data":"2014-06-20", "detalhamento":"Serviço de abastecimento de água e tratamento de esgoto.", 
+                            "valorReembolsado":"42.61", "codDocumento":"935655"}, {"ano":"2014", "mes":"6", "senador":"CLÉSIO ANDRADE", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"06981180000116", "fornecedor":"Centrais Eletricas de Minas Gerais.", 
+                            "documento":"null", "data":"2014-06-04", "detalhamento":"Conta de energia elétrica. Escritório Politico.", 
+                            "valorReembolsado":"226.7", "codDocumento":"935656"}, {"ano":"2014", "mes":"5", "senador":"CLÉSIO ANDRADE", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam - Linhas Aereas ", 
+                            "documento":"9572486485446", "data":"2014-05-04", "detalhamento":"
+Passagem emitida em nome do Sr. Aloisio Carvalho, chefe de gabinete do senador, matricula 2347-62.
+Trecho: Belo Horizonte/Brasília
+Dia: 04/05/2014.", 
+                            "valorReembolsado":"291.56", "codDocumento":"930291"}, {"ano":"2014", "mes":"5", "senador":"CLÉSIO ANDRADE", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam - Linhas Aereas", 
+                            "documento":"9572486485446", "data":"2014-05-01", "detalhamento":"
+Passagem emitida em nome do Sr. Aloisio Carvalho, matricula: 2347-62, chefe de gabinete do senador.
+Trecho: Brasília/Belo Horizonte.
+Dia: 01/0/2014.
+
+", 
+                            "valorReembolsado":"291.56", "codDocumento":"930290"}, {"ano":"2014", "mes":"5", "senador":"CLÉSIO ANDRADE", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol Linhas Aereas", 
+                            "documento":"12700241889487", "data":"2014-05-22", "detalhamento":"Bilhete emitido para o Sr. Aloisio Carvalho - Chefe de gabinete do Senador Clésio Andrade. Matricula: 2347/62.
+Trecho: Brasília/Belo Horizonte
+Dia: 22/05/2014
+G3 1089.", 
+                            "valorReembolsado":"356.02", "codDocumento":"930292"}, {"ano":"2014", "mes":"5", "senador":"CLÉSIO ANDRADE", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol - Linhas Aereas ", 
+                            "documento":"12700241889487", "data":"2014-05-26", "detalhamento":"
+Bilhete emitido em nome do Sr. Aloisio Carvalho, matricula 2347-62. Chefe de gabinete do senador.
+Dia: 26/05/2014
+Trecho: Belo Horizonte/Brasília.", 
+                            "valorReembolsado":"353.9", "codDocumento":"930293"}, {"ano":"2014", "mes":"5", "senador":"CLÉSIO ANDRADE", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"05222003000193", "fornecedor":"MR Copiadoras Digitais Ltda", 
+                            "documento":"R19781", "data":"2014-05-27", "detalhamento":"Referente à locação sem mão de obra do equipamento e copias tiradas. Para uso do escritório Politico.", 
+                            "valorReembolsado":"63.65", "codDocumento":"930299"}, {"ano":"2014", "mes":"5", "senador":"CLÉSIO ANDRADE", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"01203804000150", "fornecedor":"Residencial Locação e Venda de Imóveis Ltda", 
+                            "documento":"T00675", "data":"2014-05-18", "detalhamento":"Imóvel alugado para o escritório politico.", 
+                            "valorReembolsado":"5881.38", "codDocumento":"930288"}, {"ano":"2014", "mes":"5", "senador":"CLÉSIO ANDRADE", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"02257365000121", "fornecedor":"Pratika - Terceirização em Serviços", 
+                            "documento":"NF 12139", "data":"2014-05-13", "detalhamento":"Serviço de limpeza e manutenção e conservação. Escritório Politico.", 
+                            "valorReembolsado":"1711.05", "codDocumento":"930296"}, {"ano":"2014", "mes":"5", "senador":"CLÉSIO ANDRADE", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"00108786015359", "fornecedor":"NET - TV, Virtua e Net Fone", 
+                            "documento":"null", "data":"2014-05-01", "detalhamento":"
+NET TV, Net Virtua e Net fone,  de uso do escritório Politico.", 
+                            "valorReembolsado":"587.08", "codDocumento":"930298"}, {"ano":"2014", "mes":"5", "senador":"CLÉSIO ANDRADE", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"05222003000193", "fornecedor":"MR Copiadoras Digitais Ltda", 
+                            "documento":"R19366", "data":"2014-05-02", "detalhamento":"Referente  à  locação sem mão de obra do equipamento.
+Copias Tiradas", 
+                            "valorReembolsado":"217.67", "codDocumento":"930289"}, {"ano":"2014", "mes":"5", "senador":"CLÉSIO ANDRADE", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"07853604000120", "fornecedor":"Emive Locação de Equipamentos Ltda", 
+                            "documento":"Nº 2014/21678", "data":"2014-05-05", "detalhamento":"Serviço de monitoramento segurança - Escritório Politico", 
+                            "valorReembolsado":"250.46", "codDocumento":"930300"}, {"ano":"2014", "mes":"5", "senador":"CLÉSIO ANDRADE", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"17281106000103", "fornecedor":"COPASA - Cia de Saneamento Basico de Minas Gerais", 
+                            "documento":"null", "data":"2014-05-19", "detalhamento":"Abastecimento de Água e tratamento de esgoto.
+Escritório Politico. ", 
+                            "valorReembolsado":"48.8", "codDocumento":"930297"}, {"ano":"2014", "mes":"5", "senador":"CLÉSIO ANDRADE", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"06981180000116", "fornecedor":"Centrais Eletricas de Minas Gerais", 
+                            "documento":"null", "data":"2014-05-06", "detalhamento":"
+ Fatura Energia Elétrica, escritório Politico. ", 
+                            "valorReembolsado":"480.43", "codDocumento":"930295"}, {"ano":"2014", "mes":"4", "senador":"CLÉSIO ANDRADE", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM - Linhas Aereas ", 
+                            "documento":"9572485111936", "data":"2014-04-11", "detalhamento":"Bilhete emitido em nome do Sr. Aloisio Carvalho, matricula 234762
+Trecho: Brasília/Belo Horizonte.", 
+                            "valorReembolsado":"339.56", "codDocumento":"919402"}, {"ano":"2014", "mes":"4", "senador":"CLÉSIO ANDRADE", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam - Linhas Aéreas", 
+                            "documento":"95724833415753", "data":"2014-04-21", "detalhamento":"Bilhete emitido em nome do chefe de gabinete do senador.
+Aloisio Carvalho - Matricula . 234762. 21/04/2014.", 
+                            "valorReembolsado":"204.57", "codDocumento":"919405"}, {"ano":"2014", "mes":"4", "senador":"CLÉSIO ANDRADE", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM - Linhas Aereas", 
+                            "documento":"9572485111936", "data":"2014-04-13", "detalhamento":"Bilhete emitido em nome do chefe de gabinete, Aloisio Carvalho.
+Matricula 234762.
+Trecho: Belo Horizonte/Brasilia", 
+                            "valorReembolsado":"339.56", "codDocumento":"919403"}, {"ano":"2014", "mes":"4", "senador":"CLÉSIO ANDRADE", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"09296295000160", "fornecedor":"Azul Linhas Aéreas Brasileiras", 
+                            "documento":"CBV7RA", "data":"2014-04-16", "detalhamento":"
+Bilhete emitido pela empresa Azul em nome do Sr. Aloisio Carvalho, chefe de gabinete - Matricula 234.762", 
+                            "valorReembolsado":"383.45", "codDocumento":"919404"}, {"ano":"2014", "mes":"4", "senador":"CLÉSIO ANDRADE", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"05222003000193", "fornecedor":"MR Copiadoras Digitais Ltda", 
+                            "documento":"R 18974", "data":"2014-04-02", "detalhamento":"Referente à locação sem mão de obra do equipamento e copias tiradas.", 
+                            "valorReembolsado":"212.54", "codDocumento":"919399"}, {"ano":"2014", "mes":"4", "senador":"CLÉSIO ANDRADE", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"01203804000150", "fornecedor":"Residencial Locação e Venda de Imóveis Ltda", 
+                            "documento":"T 00 675", "data":"2014-04-18", "detalhamento":"
+Recibo do aluguel do imóvel do escritório politico.", 
+                            "valorReembolsado":"5881.38", "codDocumento":"919400"}, {"ano":"2014", "mes":"4", "senador":"CLÉSIO ANDRADE", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"01203804000150", "fornecedor":"Residencial Locaçã e Venda de Imóveis LTDA", 
+                            "documento":" T 00675", "data":"2014-04-18", "detalhamento":"Referente ao Reajuste Anual da Locação", 
+                            "valorReembolsado":"1124.7", "codDocumento":"919401"}, {"ano":"2014", "mes":"4", "senador":"CLÉSIO ANDRADE", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"02257365000121", "fornecedor":"Prátika Tercerização de Serviços Ltda", 
+                            "documento":"NF11424", "data":"2014-04-16", "detalhamento":"
+Prestação de serviço - Escritório Politico.
+Serviço de limpeza,  manutenção  e conservação.
+      ", 
+                            "valorReembolsado":"1711.05", "codDocumento":"930274"}, {"ano":"2014", "mes":"4", "senador":"CLÉSIO ANDRADE", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"00108786015359", "fornecedor":"NET-TV/Virtua/Fone", 
+                            "documento":"null", "data":"2014-04-01", "detalhamento":"Mensalidades:
+Net-TV
+Net - Virtua
+Net-Fone.
+Escritório Politico.", 
+                            "valorReembolsado":"720.94", "codDocumento":"930273"}, {"ano":"2014", "mes":"4", "senador":"CLÉSIO ANDRADE", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"07853604000120", "fornecedor":"Emive Locação de Equipamentos Ltda", 
+                            "documento":"Nº 2014/18407", "data":"2014-04-01", "detalhamento":"Serviço de Vigilância segurança e monitoramento de bens e pessoas.", 
+                            "valorReembolsado":"250.46", "codDocumento":"930277"}, {"ano":"2014", "mes":"4", "senador":"CLÉSIO ANDRADE", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"17281106000103", "fornecedor":"COPASA - Companhia de Saneamento de Minas Gerais", 
+                            "documento":"null", "data":"2014-04-25", "detalhamento":"Conta da COPASA escritório politico.
+Abastecimento de Água, tratamento de esgoto.", 
+                            "valorReembolsado":"40.84", "codDocumento":"930276"}, {"ano":"2014", "mes":"4", "senador":"CLÉSIO ANDRADE", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"06981180000116", "fornecedor":"CEMIG - Centrais de Distribuição S.A", 
+                            "documento":"null", "data":"2014-04-03", "detalhamento":"Conta de energia elétrica de uso do escritório politico.", 
+                            "valorReembolsado":"423.16", "codDocumento":"930275"}, {"ano":"2014", "mes":"3", "senador":"CLÉSIO ANDRADE", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas", 
+                            "documento":"9572484155381", "data":"2014-03-16", "detalhamento":"Bilhete emitido em nome do chefe de gabinete, Sr. Aloisio Carvalho - Matricula: 234762 trecho: BH-BSB, EM 16/03/2014.", 
+                            "valorReembolsado":"501.62", "codDocumento":"919395"}, {"ano":"2014", "mes":"3", "senador":"CLÉSIO ANDRADE", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM - Linhas Aereas S/A", 
+                            "documento":"9572482919908", "data":"2014-03-09", "detalhamento":"Bilhete emitido em nome do chefe de gabinete do senador.
+Sr. Aloisio Carvalho - Matricula 234762.
+Trecho: Belo Horizonte/Brasília.", 
+                            "valorReembolsado":"643.12", "codDocumento":"919393"}, {"ano":"2014", "mes":"3", "senador":"CLÉSIO ANDRADE", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM - Linhas Aereas", 
+                            "documento":"9572484888884", "data":"2014-03-30", "detalhamento":"Bilhete emitido em nome do Sr. Aloisio Carvalho - Matricula: 234762.
+Trecho: Belo Horizonte/Brasília.", 
+                            "valorReembolsado":"255.06", "codDocumento":"919397"}, {"ano":"2014", "mes":"3", "senador":"CLÉSIO ANDRADE", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM - Linhas Aereas", 
+                            "documento":"9572484888884", "data":"2014-03-28", "detalhamento":"
+Bilhete emitido em nome do chefe de gabinete, Sr. Aloisio Carvalho. Matricula: 234762
+Trecho: Brasília/Belo Horizonte, 28/03/2014.", 
+                            "valorReembolsado":"255.06", "codDocumento":"919396"}, {"ano":"2014", "mes":"3", "senador":"CLÉSIO ANDRADE", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM - Linhas Aereas", 
+                            "documento":"9572485908539", "data":"2014-03-13", "detalhamento":"Bilhete emitido em nome do Sr. Aloisio Carvalho - Matricula: 234762.
+
+Trecho: Brasília/Belo Horizonte, 16/03/2014.", 
+                            "valorReembolsado":"425.55", "codDocumento":"919394"}, {"ano":"2014", "mes":"3", "senador":"CLÉSIO ANDRADE", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"05222003000193", "fornecedor":"MR Copiadoras Digitais Ltda", 
+                            "documento":"R18671", "data":"2014-03-13", "detalhamento":"Referente à locação sem mão de obra do equipamento e cópias tiradas, escritório politico.", 
+                            "valorReembolsado":"413.15", "codDocumento":"919390"}, {"ano":"2014", "mes":"3", "senador":"CLÉSIO ANDRADE", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"01203804000150", "fornecedor":"Residencial Locação e Venda de Imóveis Ltda", 
+                            "documento":"null", "data":"2014-03-18", "detalhamento":"Aluguel do imóvel para o escritório politico.", 
+                            "valorReembolsado":"5596.81", "codDocumento":"919388"}, {"ano":"2014", "mes":"3", "senador":"CLÉSIO ANDRADE", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"02257365000121", "fornecedor":"Pratika - Tercerização  em Serviços", 
+                            "documento":"NF 10797", "data":"2014-03-18", "detalhamento":"Serviço de limpeza e conservação - Escritório Politico.", 
+                            "valorReembolsado":"1711.05", "codDocumento":"919389"}, {"ano":"2014", "mes":"3", "senador":"CLÉSIO ANDRADE", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"00108786015359", "fornecedor":"NET - TV/Net Virtual/Net fone", 
+                            "documento":"null", "data":"2014-03-01", "detalhamento":"Mensalidades: 
+
+Net - virtual
+Net - TV
+Net - Fone", 
+                            "valorReembolsado":"763.16", "codDocumento":"919392"}, {"ano":"2014", "mes":"3", "senador":"CLÉSIO ANDRADE", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"07853604000120", "fornecedor":"Emive Locação de Equipamentos Ltda", 
+                            "documento":"NF 2014/12309", "data":"2014-03-05", "detalhamento":"Serviço de vigilância, segurança ou monitoramento de bens e pessoas.
+Contrato CIC7", 
+                            "valorReembolsado":"250.46", "codDocumento":"919398"}, {"ano":"2014", "mes":"3", "senador":"CLÉSIO ANDRADE", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"17281106000103", "fornecedor":"Companhia de Saneamento de Minas Gerais - COPASA", 
+                            "documento":"null", "data":"2014-03-20", "detalhamento":"Abastecimento de Agua. Esgoto Dinâmico com coleta tratamento - EDT.", 
+                            "valorReembolsado":"322.63", "codDocumento":"919391"}, {"ano":"2014", "mes":"2", "senador":"CLÉSIO ANDRADE", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM - Linhas Aereas S.A", 
+                            "documento":"957.2483133292", "data":"2014-02-16", "detalhamento":"Bilhete emitido pela TAM em nome do Sr. Aloisio Carvalho, chefe de gabinete. Matricula 234762.
+Trecho:  Belo Horizonte/Brasília
+Voo: JJ 3844.
+Dia: 16/02/2014.", 
+                            "valorReembolsado":"239.56", "codDocumento":"897057"}, {"ano":"2014", "mes":"2", "senador":"CLÉSIO ANDRADE", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM - Linhas Aereas S.A", 
+                            "documento":"957.2483133292", "data":"2014-02-14", "detalhamento":"Bilhete emitido em nome do senhor Aloisio Carvalho, matricula 234762, chefe de gabinete.
+Trecho: Brasília/Belo Horizonte.
+Data de embarque: 14 de fevereiro de 2014.", 
+                            "valorReembolsado":"239.56", "codDocumento":"897056"}, {"ano":"2014", "mes":"2", "senador":"CLÉSIO ANDRADE", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM - Linhas Aereas S.A", 
+                            "documento":"957.2483237583", "data":"2014-02-03", "detalhamento":"Bilhete emitido em nome do chefe de gabinete do senador.
+Sr. Aloisio Carvalho, Matricula: 234762.
+Trecho: Belo Horizonte/Brasília
+Dia: 03/02/2014
+JJ 3870", 
+                            "valorReembolsado":"231.06", "codDocumento":"897055"}, {"ano":"2014", "mes":"2", "senador":"CLÉSIO ANDRADE", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"19207588000349", "fornecedor":"Ediminas S/A Jornal Hoje em Dia.", 
+                            "documento":"null", "data":"2014-02-06", "detalhamento":"Assinatura do Jornal.
+Jornal Hoje em Dia", 
+                            "valorReembolsado":"354.0", "codDocumento":"897062"}, {"ano":"2014", "mes":"2", "senador":"CLÉSIO ANDRADE", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"05222003000193", "fornecedor":"MR Copiadoras Digitais Ltda", 
+                            "documento":"R 18186", "data":"2014-02-06", "detalhamento":"Referente à locação sem mão de obra de equipamento.", 
+                            "valorReembolsado":"346.64", "codDocumento":"897061"}, {"ano":"2014", "mes":"2", "senador":"CLÉSIO ANDRADE", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"01203804000150", "fornecedor":"Residencial Locação de Vendas de Imóveis Ltda", 
+                            "documento":"T00675", "data":"2014-02-18", "detalhamento":"
+Imóvel alugado para o escritório politico.", 
+                            "valorReembolsado":"5555.86", "codDocumento":"897059"}, {"ano":"2014", "mes":"2", "senador":"CLÉSIO ANDRADE", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"02257365000121", "fornecedor":"Prátika - Terceirização em Serviços", 
+                            "documento":"NFº 10110", "data":"2014-02-11", "detalhamento":"Prestação de serviço.", 
+                            "valorReembolsado":"1711.05", "codDocumento":"897058"}, {"ano":"2014", "mes":"2", "senador":"CLÉSIO ANDRADE", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"00108786015359", "fornecedor":"NET TV/Net Virtua/Net Fone", 
+                            "documento":"null", "data":"2014-02-01", "detalhamento":"
+Mensalidades: 
+NET TV
+NET Virtua
+NET Fone.
+Escritório Politico.", 
+                            "valorReembolsado":"1756.36", "codDocumento":"897060"}, {"ano":"2014", "mes":"2", "senador":"CLÉSIO ANDRADE", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"07853604000120", "fornecedor":"Emive Locação de Equipamentos Ltda", 
+                            "documento":"NF nº 2014/5913", "data":"2014-02-04", "detalhamento":"Vigilância, segurança ou monitoramento de bens e pessoas.
+Serviços de monitoramento
+Contrato: C1C7
+", 
+                            "valorReembolsado":"250.46", "codDocumento":"897063"}, {"ano":"2014", "mes":"2", "senador":"CLÉSIO ANDRADE", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"17281106000103", "fornecedor":"Copasa - Companhia de Saneamento de Minas Gerais", 
+                            "documento":"00114075788094", "data":"2014-02-26", "detalhamento":"2ª via simplificada da Nota fiscal da COPASA.
+Abastecimento de água tratamento de esgoto.
+Escritório Politico.", 
+                            "valorReembolsado":"119.12", "codDocumento":"919355"}, {"ano":"2014", "mes":"2", "senador":"CLÉSIO ANDRADE", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"06981180000116", "fornecedor":"Centrais Eletrica de Minas Gerais - CEMIG ", 
+                            "documento":"null", "data":"2014-02-05", "detalhamento":"Conta de Energia Elétrica, gabinete do senador.", 
+                            "valorReembolsado":"618.2", "codDocumento":"897054"}, {"ano":"2014", "mes":"1", "senador":"CLÉSIO ANDRADE", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam - Linhas Aereas S.A.", 
+                            "documento":"957-2483237583", "data":"2014-01-31", "detalhamento":"Bilhete emitido em nome do Sr. Aloisio de Carvalho, chefe de gabinete, matricula 234762.
+Trecho: Brasília/Belo Horizonte.
+", 
+                            "valorReembolsado":"231.06", "codDocumento":"897047"}, {"ano":"2014", "mes":"1", "senador":"CLÉSIO ANDRADE", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam - Linhas Aereas S.A", 
+                            "documento":"957 2481577439", "data":"2014-01-24", "detalhamento":"Bilhete emitido em nome do chefe de gabinete, Aloisio Carvalho - Matricula: 234.762.
+Trecho: Brasília/Belo Horizonte. dia 24/01/2014 - JJ 3857", 
+                            "valorReembolsado":"224.06", "codDocumento":"879355"}, {"ano":"2014", "mes":"1", "senador":"CLÉSIO ANDRADE", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam - Linhas Aereas S.A", 
+                            "documento":"9572482842550", "data":"2014-01-17", "detalhamento":"Bilhete emitido em nome do Sr. Aloisio Carvalho - Chefe de gabinete do senador Clésio Andrade. Matricula: 234.762
+Empresa: Tam. Linhas Aéreas S.A
+Dia: 17 de janeiro de 2014
+Trechos ida e volta: 
+Brasília/Belo Horizonte - JJ 3845
+Belo Horizonte/Brasília - JJ  3854", 
+                            "valorReembolsado":"912.92", "codDocumento":"879354"}, {"ano":"2014", "mes":"1", "senador":"CLÉSIO ANDRADE", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam - Linhas Aereas S.A", 
+                            "documento":"957.2481577032", "data":"2014-01-12", "detalhamento":"Trecho: Belo Horizonte/Brasília
+Dia: 12 de janeiro.
+Sr. Aloisio Carvalho - Chefe de gabinete do Senador Clésio Andrade - pelo estado de Minas Gerais.
+Matricula: 234.762
+JJ 3844
+", 
+                            "valorReembolsado":"265.57", "codDocumento":"879353"}, {"ano":"2014", "mes":"1", "senador":"CLÉSIO ANDRADE", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM - Linhas Aereas S.A", 
+                            "documento":"957 2481577439", "data":"2014-01-26", "detalhamento":"Bilhete emitido em nome do Sr. Aloisio Carvalho - Chefe de gabinete do Senador Clésio Andrade. Matricula: 234.762
+Trecho: Belo Horizonte/Brasília, dia 26/01/2014.
+JJ 3854", 
+                            "valorReembolsado":"224.06", "codDocumento":"879356"}, {"ano":"2014", "mes":"1", "senador":"CLÉSIO ANDRADE", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"05222003000193", "fornecedor":"MR Copiadoras Digitais Ltda", 
+                            "documento":"R17702", "data":"2014-01-13", "detalhamento":"Referente à locação sem mão de obra dos equipamentos serie:N1 124707. ", 
+                            "valorReembolsado":"236.27", "codDocumento":"879348"}, {"ano":"2014", "mes":"1", "senador":"CLÉSIO ANDRADE", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"01203804000150", "fornecedor":"Residencial Locação e Venda de Imóveis Ltda", 
+                            "documento":"T00675", "data":"2014-01-21", "detalhamento":"Aluguel do escritório politico.", 
+                            "valorReembolsado":"6111.15", "codDocumento":"879351"}, {"ano":"2014", "mes":"1", "senador":"CLÉSIO ANDRADE", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"02257365000121", "fornecedor":"Pratika - Tercerização em Serviços.", 
+                            "documento":"NF 9437", "data":"2014-01-16", "detalhamento":"Limpeza e Conservação do escritório Politico.", 
+                            "valorReembolsado":"1711.05", "codDocumento":"879350"}, {"ano":"2014", "mes":"1", "senador":"CLÉSIO ANDRADE", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"00108786015359", "fornecedor":"NET-TV. Net Virtua - Net Fone.", 
+                            "documento":"null", "data":"2014-01-01", "detalhamento":"Mensalidades:
+NET - TV 168,11
+NET - Virtua - 66,81
+NET - Fone: 451,16
+Escritório Politico.", 
+                            "valorReembolsado":"686.08", "codDocumento":"879352"}, {"ano":"2014", "mes":"1", "senador":"CLÉSIO ANDRADE", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"07853604000120", "fornecedor":"Emive Locação de Equipamentos Ltda", 
+                            "documento":"NF 2014/967", "data":"2014-01-03", "detalhamento":"Vigilância, segurança. Serviços de Monitoramento - Contrato C1C7", 
+                            "valorReembolsado":"250.46", "codDocumento":"879347"}, {"ano":"2014", "mes":"1", "senador":"CLÉSIO ANDRADE", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"02059753000106", "fornecedor":"Emive  Patrulha 24 horas Ltda", 
+                            "documento":"NFº 2014/13440", "data":"2014-01-29", "detalhamento":"Visita técnica de manutenção - OS: 1797379", 
+                            "valorReembolsado":"129.0", "codDocumento":"897046"}, {"ano":"2014", "mes":"1", "senador":"CLÉSIO ANDRADE", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"17281106000103", "fornecedor":"Copasa - Companhia de Saneamento de Minas Gerais", 
+                            "documento":"null", "data":"2014-01-17", "detalhamento":"Serviço de abastecimento de água, esgoto com coleta e tratamento. Escritório Politico.", 
+                            "valorReembolsado":"40.14", "codDocumento":"879346"}, {"ano":"2014", "mes":"1", "senador":"CLÉSIO ANDRADE", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"06981180000116", "fornecedor":"CEMIG - Centrais Eletricas de Minas Gerais", 
+                            "documento":"null", "data":"2014-01-04", "detalhamento":"Conta de energia elétrica do escritório politico.", 
+                            "valorReembolsado":"437.9", "codDocumento":"879349"}]}

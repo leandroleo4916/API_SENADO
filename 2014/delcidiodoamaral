@@ -1,0 +1,1144 @@
+{"gastosSenador": [{"ano":"2014", "mes":"7", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"06164253000187", "fornecedor":"GOL Linhas Aéreas", 
+                            "documento":"969-0001789666", "data":"2014-07-03", "detalhamento":"GOL Linhas Aéreas
+Passageiro: GOMEZ /DELCÍDIO
+Localizador: EL2BYE
+Trecho: CGH - CGR - 03 de julho de 2014", 
+                            "valorReembolsado":"470.26", "codDocumento":"937637"}, {"ano":"2014", "mes":"7", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"06164253000187", "fornecedor":"GOL Linhas Aéreas", 
+                            "documento":"969-0001783060", "data":"2014-07-03", "detalhamento":"GOL Linhas Aéreas
+Passageiro: PAES DA SILVA /EDIMAR
+    - EDIMAR PAES DA SILVA – Mat. 177158 - SF01
+Localizador: TFJRGW
+Trecho: BSB - CGR - 03 de julho de 2014", 
+                            "valorReembolsado":"391.45", "codDocumento":"937635"}, {"ano":"2014", "mes":"7", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"09296295000160", "fornecedor":"AZUL Linhas Aéreas", 
+                            "documento":"C3DT8Y", "data":"2014-07-27", "detalhamento":"AZUL Linhas Aéreas
+Passageiro: MARZAGÃO /JOSÉ EDUARDO
+    - JOSÉ EDUARDO MARZAGÃO – Mat. 182774 - SF02
+Localizador: C3DT8Y
+Trecho: BSB - GRU - 27 de julho de 2014", 
+                            "valorReembolsado":"735.24", "codDocumento":"943517"}, {"ano":"2014", "mes":"7", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"09296295000160", "fornecedor":"AZUL Linhas Aéreas", 
+                            "documento":"222-0005458885", "data":"2014-07-06", "detalhamento":"AZUL Linhas Aéreas
+Passageiro: GOMEZ /DELCÍDIO
+Localizador: F6E6WS
+Trecho: CGR - SDU - 13 de agosto de 2013", 
+                            "valorReembolsado":"1115.85", "codDocumento":"937639"}, {"ano":"2014", "mes":"7", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02575829000148", "fornecedor":"AVIANCA Linhas Aéreas", 
+                            "documento":"247-2411733531", "data":"2014-07-31", "detalhamento":"AVIANCA Linhas Aéreas
+Passageiro: MARZAGÃO /JOSÉ EDUARDO
+    - JOSÉ EDUARDO MARZAGÃO – Mat. 182774 - SF02
+Localizador: ZAVN63
+Trecho: CGR - BSB - 31 de julho de 2014", 
+                            "valorReembolsado":"887.16", "codDocumento":"943515"}, {"ano":"2014", "mes":"7", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02575829000148", "fornecedor":"AVIANCA Linhas Aéreas", 
+                            "documento":"247-2411455183", "data":"2014-07-21", "detalhamento":"AVIANCA Linhas Aéreas
+Passageiro: PAES DA SILVA /EDIMAR
+    - EDIMAR PAES DA SILVA – Mat. 177158 - SF01
+Localizador: YM9P6U
+Trecho: CGR - BSB - 21 de julho de 2014", 
+                            "valorReembolsado":"353.05", "codDocumento":"943513"}, {"ano":"2014", "mes":"7", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02575829000148", "fornecedor":"AVIANCA Linhas Aéreas", 
+                            "documento":"247-2411455182", "data":"2014-07-17", "detalhamento":"AVIANCA Linhas Aéreas
+Passageiro: PAES DA SILVA /EDIMAR
+    - EDIMAR PAES DA SILVA – Mat. 177158 - SF01
+Localizador: YNIC9X
+Trecho: BSB - CGR - 17 de julho de 2014", 
+                            "valorReembolsado":"1121.45", "codDocumento":"943514"}, {"ano":"2014", "mes":"7", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02575829000148", "fornecedor":"AVIANCA Linhas Aéreas", 
+                            "documento":"245-2411455145", "data":"2014-07-16", "detalhamento":"AVIANCA Linhas Aéreas
+Passageiro: GOMEZ /DELCÍDIO
+Localizador: YLL3K7
+Trecho: CGR - BSB - 16 de julho de 2014", 
+                            "valorReembolsado":"778.26", "codDocumento":"937633"}, {"ano":"2014", "mes":"7", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02575829000148", "fornecedor":"AVIANCA Linhas Aéreas", 
+                            "documento":"247-2411189642", "data":"2014-07-01", "detalhamento":"AVIANCA Linhas Aéreas
+Passageiro: PAES DA SILVA /EDIMAR
+    - EDIMAR PAES DA SILVA – Mat. 177158 - SF01
+Localizador: 8GM3ZB
+Trecho: CGR - BSB - 01 de julho de 2014", 
+                            "valorReembolsado":"443.05", "codDocumento":"937636"}, {"ano":"2014", "mes":"7", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"76535764000143", "fornecedor":"OI S.A.", 
+                            "documento":"6733223400", "data":"2014-07-14", "detalhamento":"Conta de Telefone do Escritório Político", 
+                            "valorReembolsado":"2655.61", "codDocumento":"943511"}, {"ano":"2014", "mes":"7", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"76535764000143", "fornecedor":"OI S.A.", 
+                            "documento":"6733268334", "data":"2014-07-14", "detalhamento":"Conta de Telefone do Escritório Político", 
+                            "valorReembolsado":"246.43", "codDocumento":"943509"}, {"ano":"2014", "mes":"7", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"76535764000143", "fornecedor":"OI S.A.", 
+                            "documento":"6733267610", "data":"2014-07-14", "detalhamento":"Conta de Telefone do Escritório Político", 
+                            "valorReembolsado":"119.78", "codDocumento":"943510"}, {"ano":"2014", "mes":"7", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"05423963000111", "fornecedor":"OI Móvel S.A.", 
+                            "documento":"6784622000", "data":"2014-07-14", "detalhamento":"Conta de Telefone do Escritório Político", 
+                            "valorReembolsado":"1989.2", "codDocumento":"943512"}, {"ano":"2014", "mes":"7", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"15413826000150", "fornecedor":"ENERSUL - Empresa Energética de Mato Grosso do Sul S.A.", 
+                            "documento":"2917271", "data":"2014-07-11", "detalhamento":"Conta de Energia Elétrica do Escritório Político", 
+                            "valorReembolsado":"612.86", "codDocumento":"943507"}, {"ano":"2014", "mes":"7", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"05922585649", "fornecedor":"Cláudio Pagnoncelli - Aluguel do Escritório Político", 
+                            "documento":"null", "data":"2014-07-05", "detalhamento":"Aluguel do Escritório Político", 
+                            "valorReembolsado":"5000.0", "codDocumento":"943506"}, {"ano":"2014", "mes":"7", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"04089570000150", "fornecedor":"Águas Guariroba S.A.", 
+                            "documento":"172399416", "data":"2014-07-13", "detalhamento":"Conta de Água do Escritório Político", 
+                            "valorReembolsado":"512.15", "codDocumento":"943508"}, {"ano":"2014", "mes":"6", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"01832635000118", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"957-2491625996", "data":"2014-06-30", "detalhamento":"TAM Linhas Aéreas
+Passageiro: GOMEZ /DELCÍDIO
+Localizador: 8GFECC
+Trecho: CGR - GRU - 30 de junho de 2014
+OBS: Passagem remarcada", 
+                            "valorReembolsado":"915.65", "codDocumento":"937625"}, {"ano":"2014", "mes":"6", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"01832635000118", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"957-2490947773", "data":"2014-06-06", "detalhamento":"TAM Linhas Aéreas
+Passageiro: GOMEZ /DELCÍDIO
+Localizador: 7E8NCG
+Trecho: BSB - SDU - 06 de junho de 2014", 
+                            "valorReembolsado":"666.05", "codDocumento":"930309"}, {"ano":"2014", "mes":"6", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"01832635000118", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"957-2490947750", "data":"2014-06-05", "detalhamento":"TAM Linhas Aéreas
+Passageiro: PAES DA SILVA /EDIMAR
+    - EDIMAR PAES DA SILVA – Mat. 177158 - SF01
+Localizador: 7FDJLT
+Trecho: BSB - CGR - 05 de junho de 2014", 
+                            "valorReembolsado":"454.05", "codDocumento":"930310"}, {"ano":"2014", "mes":"6", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"01832635000118", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"957-2490610446", "data":"2014-06-01", "detalhamento":"TAM Linhas Aéreas
+Passageiro: GOMEZ /DELCÍDIO
+Localizador: 62WRI5
+Trecho: CGR - GRU - 01 de junho de 2014", 
+                            "valorReembolsado":"359.95", "codDocumento":"930313"}, {"ano":"2014", "mes":"6", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"06164253000187", "fornecedor":"GOL Linhas Aéreas", 
+                            "documento":"403083", "data":"2014-06-25", "detalhamento":"GOL Linhas Aéreas
+Passageiro: PAES DA SILVA /EDIMAR
+    - EDIMAR PAES DA SILVA – Mat. 177158 - SF01
+Localizador: GI545K
+Trecho: BSB - CGR - 25 de junho de 2014", 
+                            "valorReembolsado":"422.45", "codDocumento":"937621"}, {"ano":"2014", "mes":"6", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"06164253000187", "fornecedor":"GOL Linhas Aéreas", 
+                            "documento":"969-0001779680", "data":"2014-06-16", "detalhamento":"GOL Linhas Aéreas
+Passageiro: PAES DA SILVA /EDIMAR
+    - EDIMAR PAES DA SILVA – Mat. 177158 - SF01
+Localizador: UGH34D
+Trecho: BSB - CGR - 16 de junho de 2014", 
+                            "valorReembolsado":"325.45", "codDocumento":"937624"}, {"ano":"2014", "mes":"6", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"06164253000187", "fornecedor":"GOL Linhas Aéreas", 
+                            "documento":"969-0001774519", "data":"2014-06-03", "detalhamento":"GOL Linhas Aéreas
+Passageiro: GOMEZ /DELCÍDIO
+Localizador: YBMGQV
+Trecho: CGH - BSB - 03 de junho de 2014", 
+                            "valorReembolsado":"452.47", "codDocumento":"930311"}, {"ano":"2014", "mes":"6", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"09296295000160", "fornecedor":"AZUL Linhas Aéreas", 
+                            "documento":"222-000544208", "data":"2014-06-06", "detalhamento":"AZUL Linhas Aéreas
+Passageiro: GOMEZ /DELCÍDIO
+Localizador: KCPZTA
+Trecho: SDU - CGR - 06 de junho de 2014", 
+                            "valorReembolsado":"60.0", "codDocumento":"930308"}, {"ano":"2014", "mes":"6", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02575829000148", "fornecedor":"AVIANCA Linhas Aéreas", 
+                            "documento":"247-2411090253", "data":"2014-06-24", "detalhamento":"AVIANCA Linhas Aéreas
+Passageiro: PAES DA SILVA /EDIMAR
+    - EDIMAR PAES DA SILVA – Mat. 177158 - SF01
+Localizador: 78AQHD
+Trecho: CGR - BSB - 24 de junho de 2014", 
+                            "valorReembolsado":"353.05", "codDocumento":"937622"}, {"ano":"2014", "mes":"6", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02575829000148", "fornecedor":"AVIANCA Linhas Aéreas", 
+                            "documento":"247-2410945863", "data":"2014-06-16", "detalhamento":"AVIANCA Linhas Aéreas
+Passageiro: PAES DA SILVA /EDIMAR
+    - EDIMAR PAES DA SILVA – Mat. 177158 - SF01
+Localizador: 7RZTBV
+Trecho: CGR - BSB - 16 de junho de 2014", 
+                            "valorReembolsado":"371.05", "codDocumento":"937623"}, {"ano":"2014", "mes":"6", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02575829000148", "fornecedor":"AVIANCA Linhas Aéreas", 
+                            "documento":"247-2410817539", "data":"2014-06-02", "detalhamento":"AVIANCA Linhas Aéreas
+Passageiro: PAES DA SILVA /EDIMAR
+    - EDIMAR PAES DA SILVA – Mat. 177158 - SF01
+Localizador: 66APNA
+Trecho: CGR - BSB - 02 de junho de 2014", 
+                            "valorReembolsado":"416.05", "codDocumento":"930312"}, {"ano":"2014", "mes":"6", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"05203527000137", "fornecedor":"Posto Gueno Avenida LTDA", 
+                            "documento":"009984", "data":"2014-06-26", "detalhamento":"Combustíveis", 
+                            "valorReembolsado":"1648.62", "codDocumento":"932395"}, {"ano":"2014", "mes":"6", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"76535764000143", "fornecedor":"OI S.A.", 
+                            "documento":"6733223400", "data":"2014-06-14", "detalhamento":"Conta de Telefone do Escritório Político", 
+                            "valorReembolsado":"2569.27", "codDocumento":"932393"}, {"ano":"2014", "mes":"6", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"76535764000143", "fornecedor":"OI S.A.", 
+                            "documento":"6733268334", "data":"2014-06-14", "detalhamento":"Conta de Telefone do Escritório Político", 
+                            "valorReembolsado":"246.12", "codDocumento":"932392"}, {"ano":"2014", "mes":"6", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"76535764000143", "fornecedor":"OI S.A.", 
+                            "documento":"6733267610", "data":"2014-06-14", "detalhamento":"Conta de Telefone do Escritório Político", 
+                            "valorReembolsado":"119.68", "codDocumento":"932391"}, {"ano":"2014", "mes":"6", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"05423963000111", "fornecedor":"OI Móvel S.A.", 
+                            "documento":"6784622000", "data":"2014-06-14", "detalhamento":"Conta de Telefone do Escritório Político", 
+                            "valorReembolsado":"1734.17", "codDocumento":"932394"}, {"ano":"2014", "mes":"6", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"15413826000150", "fornecedor":"ENERSUL - Empresa Energética de Mato Grosso do Sul S.A.", 
+                            "documento":"2917271", "data":"2014-06-12", "detalhamento":"Conta de Energia Elétrica do Escritório Político", 
+                            "valorReembolsado":"598.18", "codDocumento":"932389"}, {"ano":"2014", "mes":"6", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"05922585649", "fornecedor":"Cláudio Pagnoncelli - Aluguel do Escritório Político", 
+                            "documento":"null", "data":"2014-06-05", "detalhamento":"Aluguel do Escritório Político", 
+                            "valorReembolsado":"5000.0", "codDocumento":"932388"}, {"ano":"2014", "mes":"6", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"04089570000150", "fornecedor":"Águas Guariroba S.A.", 
+                            "documento":"172399416", "data":"2014-06-13", "detalhamento":"Conta de Água do Escritório Político", 
+                            "valorReembolsado":"512.15", "codDocumento":"932390"}, {"ano":"2014", "mes":"5", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"01832635000118", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"9572490610439", "data":"2014-05-29", "detalhamento":"TAM Linhas Aéreas
+Passageiro: PAES DA SILVA /EDIMAR
+    - EDIMAR PAES DA SILVA – Mat. 177158 - SF01
+Localizador: 624QNP
+Trecho: BSB - CGR - BSB - 29 de maio de 2014", 
+                            "valorReembolsado":"501.05", "codDocumento":"930304"}, {"ano":"2014", "mes":"5", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"01832635000118", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"957-2490532696", "data":"2014-05-28", "detalhamento":"TAM Linhas Aéreas
+Passageiro: GOMEZ /DELCÍDIO
+Localizador: 6YHYSK
+Trecho: CGR - BSB - 28 de maio de 2014", 
+                            "valorReembolsado":"495.45", "codDocumento":"920346"}, {"ano":"2014", "mes":"5", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"01832635000118", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"957-2490295833", "data":"2014-05-26", "detalhamento":"TAM Linhas Aéreas
+Passageiro: PAES DA SILVA /EDIMA – Mat. 177158 - SF01
+Localizador: 6RLNL2
+Trecho: CGR - BSB - 26 de maio de 2014", 
+                            "valorReembolsado":"495.45", "codDocumento":"920347"}, {"ano":"2014", "mes":"5", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"01832635000118", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"957-2489698220", "data":"2014-05-22", "detalhamento":"TAM Linhas Aéreas
+Passageiro: PAES DA SILVA /EDIMAR
+Mat. 177158 - SF01
+Localizador: 56ITQU
+Trecho: BSB - CGR - 22 de maio de 2014", 
+                            "valorReembolsado":"330.55", "codDocumento":"920348"}, {"ano":"2014", "mes":"5", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"01832635000118", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"957-2489784265", "data":"2014-05-15", "detalhamento":"TAM Linhas Aéreas
+Passageiro: PAES DA SILVA /EDIMAR
+Mat. 177158 - SF01
+Localizador: 59YSIL
+Trecho: BSB - VCP - 15 de maio de 2014", 
+                            "valorReembolsado":"455.55", "codDocumento":"920352"}, {"ano":"2014", "mes":"5", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"01832635000118", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"957-2489476002", "data":"2014-05-12", "detalhamento":"TAM Linhas Aéreas
+Passageiro: PAES DA SILVA /EDIMAR
+Mat. 177158 - SF01
+Localizador: 5R3B5U
+Trecho: CGR - BSB - 12 de maio de 2014", 
+                            "valorReembolsado":"531.55", "codDocumento":"920355"}, {"ano":"2014", "mes":"5", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"01832635000118", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"957-2489350984", "data":"2014-05-09", "detalhamento":"TAM Linhas Aéreas
+Passageiro: GOMEZ /DELCÍDIO
+Localizador: 5UXPCH
+Trecho: BSB - CGR - 09 de maio de 2014", 
+                            "valorReembolsado":"501.05", "codDocumento":"930306"}, {"ano":"2014", "mes":"5", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"01832635000118", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"957-2489237396", "data":"2014-05-09", "detalhamento":"TAM Linhas Aéreas
+Passageiro: PAES DA SILVA /EDIMAR
+Mat. 177158 - SF01
+Localizador: 5RD22E
+Trecho: BSB - CGR - 09 de maio de 2014", 
+                            "valorReembolsado":"501.05", "codDocumento":"920356"}, {"ano":"2014", "mes":"5", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"06164253000187", "fornecedor":"GOL Linhas Aéreas", 
+                            "documento":"969-0001762635", "data":"2014-05-15", "detalhamento":"GOL Linhas Aéreas
+Passageiro: GOMEZ /DELCÍDIO
+Localizador: LHIVMA
+Trecho: BSB - CGH - 15 de maio de 2014", 
+                            "valorReembolsado":"723.14", "codDocumento":"920354"}, {"ano":"2014", "mes":"5", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"06164253000187", "fornecedor":"GOL Linhas Aéreas", 
+                            "documento":"969-0001756895", "data":"2014-05-06", "detalhamento":"GOL Linhas Aéreas
+Passageiro:  MARZAGÃO /JOSÉ EDUARDO
+Mat. 182774  SF02, Localizador: HBH9HC
+Trecho: BSB - CGR - 06 de maio de 2014", 
+                            "valorReembolsado":"477.84", "codDocumento":"912140"}, {"ano":"2014", "mes":"5", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"06164253000187", "fornecedor":"GOL Linhas Aéreas", 
+                            "documento":"969-0001755291", "data":"2014-05-03", "detalhamento":"GOL Linhas Aéreas
+Passageiro: GOMEZ /DELCÍDIO
+Localizador: PKGYWH
+Trecho: CGH - CGR - 03 de maio de 2014", 
+                            "valorReembolsado":"558.26", "codDocumento":"912138"}, {"ano":"2014", "mes":"5", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"09296295000160", "fornecedor":"AZUL Linhas Aéreas", 
+                            "documento":"F9NSPW", "data":"2014-05-16", "detalhamento":"AZUL Linhas Aéreas
+Passageiro: GOMEZ /DELCÍDIO
+Localizador: F9NSPW
+Trecho: SDU - CGR - 16 de maio de 2014", 
+                            "valorReembolsado":"1071.46", "codDocumento":"920350"}, {"ano":"2014", "mes":"5", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"09296295000160", "fornecedor":"AZUL Linhas Aéreas", 
+                            "documento":"G9EFHW", "data":"2014-05-15", "detalhamento":"AZUL Linhas Aéreas
+Passageiro: PAES DA SILVA /EDIMAR
+Mat. 177158 - SF01
+Localizador: G9EFHW
+Trecho: Campinas - Campo Grande - 15 de maio de 2014", 
+                            "valorReembolsado":"453.64", "codDocumento":"920353"}, {"ano":"2014", "mes":"5", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"09296295000160", "fornecedor":"AZUL Linhas Aéreas", 
+                            "documento":"222-0005433827", "data":"2014-05-07", "detalhamento":"AZUL Linhas Aéreas
+Passageiro: MARZAGÃO /JOSÉ EDUARDO
+Mat. 182774 - SF02, Localizador: MBNE2A
+Trecho: CGR - BSB - 07 de maio de 2014", 
+                            "valorReembolsado":"427.14", "codDocumento":"912141"}, {"ano":"2014", "mes":"5", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"09296295000160", "fornecedor":"AZUL Linhas Aéreas", 
+                            "documento":"E8NJWZ", "data":"2014-05-02", "detalhamento":"AZUL Linhas Aéreas
+Passageiro: GOMEZ /DELCÍDIO
+Localizador: E8NJWZ
+Trecho: CGR - VCP - 05 de maio de 2014", 
+                            "valorReembolsado":"416.13", "codDocumento":"930307"}, {"ano":"2014", "mes":"5", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"09296295000160", "fornecedor":"AZUL Linhas Aéreas", 
+                            "documento":"222-0005432400", "data":"2014-05-01", "detalhamento":"AZUL Linhas Aéreas
+Passageiro: GOMEZ /DELCÍDIO
+Localizador: ACH6WN
+Trecho: BSB - CGH - 01 de maio de 2014", 
+                            "valorReembolsado":"432.74", "codDocumento":"912139"}, {"ano":"2014", "mes":"5", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02575829000148", "fornecedor":"AVIANCA Linhas Aéreas", 
+                            "documento":"247-2410572002", "data":"2014-05-19", "detalhamento":"AVIANCA Linhas Aéreas
+Passageiro: PAES DA SILVA /EDIMAR
+Mat. 177158 - SF01
+Localizador: 56UPIT
+Trecho: CGR - BSB - 19 de maio de 2014", 
+                            "valorReembolsado":"358.45", "codDocumento":"920349"}, {"ano":"2014", "mes":"5", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02575829000148", "fornecedor":"AVIANCA Linhas Aéreas", 
+                            "documento":"247-2410572034", "data":"2014-05-15", "detalhamento":"AVIANCA Linhas Aéreas
+Passageiro: GOMEZ /DELCÍDIO
+Localizador: 589YXP
+Trecho: CGH - SDU - 15 de maio de 2014", 
+                            "valorReembolsado":"1120.47", "codDocumento":"920351"}, {"ano":"2014", "mes":"5", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02575829000148", "fornecedor":"AVIANCA Linhas Aéreas", 
+                            "documento":"2472410497491", "data":"2014-05-14", "detalhamento":"AVIANCA Linhas Aéreas
+Passageiro: GOMEZ /DELCÍDIO
+Localizador: 56E3EU
+Trecho: CGR - BSB - 14 de maio de 2014", 
+                            "valorReembolsado":"1115.85", "codDocumento":"930305"}, {"ano":"2014", "mes":"5", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02575829000148", "fornecedor":"AVIANCA Linhas Aéreas", 
+                            "documento":"247-2410375856", "data":"2014-05-06", "detalhamento":"AVIANCA Linhas Aéreas
+Passageiro: GOMEZ /DELCÍDIO
+Localizador: 5GOKEP
+Trecho: CGR - BSB - 06 de maio de 2014", 
+                            "valorReembolsado":"358.45", "codDocumento":"912136"}, {"ano":"2014", "mes":"5", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02575829000148", "fornecedor":"AVIANCA Linhas Aéreas", 
+                            "documento":"247-2410334944", "data":"2014-05-05", "detalhamento":"AVIANCA Linhas Aéreas
+Passageiro: PAES DA SILVA /EDIMAR
+Mat. 177158 - SF01
+Localizador: 45EMEW
+Trecho: CGR - BSB - 05 de maio de 2014", 
+                            "valorReembolsado":"277.45", "codDocumento":"912137"}, {"ano":"2014", "mes":"5", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"05203527000137", "fornecedor":"Posto Gueno Avenida LTDA", 
+                            "documento":"009657", "data":"2014-05-26", "detalhamento":"Combustíveis", 
+                            "valorReembolsado":"1660.0", "codDocumento":"920345"}, {"ano":"2014", "mes":"5", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"15941453000190", "fornecedor":"Cortez Comércio, Consignado e Locadora de Veículos LTDA ME", 
+                            "documento":"0062", "data":"2014-06-24", "detalhamento":"Locação de Veículos para o Escritório Político - referente ao mês de MAIO/2014", 
+                            "valorReembolsado":"4000.0", "codDocumento":"932387"}, {"ano":"2014", "mes":"5", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"76535764000143", "fornecedor":"OI S.A.", 
+                            "documento":"6733268334", "data":"2014-05-14", "detalhamento":"Conta de Telefone do Escritório Político", 
+                            "valorReembolsado":"240.64", "codDocumento":"920340"}, {"ano":"2014", "mes":"5", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"76535764000143", "fornecedor":"OI S.A.", 
+                            "documento":"6733267610", "data":"2014-05-14", "detalhamento":"Conta de Telefone do Escritório Político", 
+                            "valorReembolsado":"116.99", "codDocumento":"920339"}, {"ano":"2014", "mes":"5", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"76535764000143", "fornecedor":"OI S.A.", 
+                            "documento":"6733223400", "data":"2014-05-14", "detalhamento":"Conta de Telefone do Escritório Político", 
+                            "valorReembolsado":"2497.07", "codDocumento":"920341"}, {"ano":"2014", "mes":"5", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"05423963000111", "fornecedor":"OI Movel S.A.", 
+                            "documento":"6784622000", "data":"2014-05-14", "detalhamento":"Conta de Telefone do Escritório Político", 
+                            "valorReembolsado":"1782.65", "codDocumento":"920343"}, {"ano":"2014", "mes":"5", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"15413826000150", "fornecedor":"ENERSUL - Empresa Energética de Mato Grosso do Sul S.A.", 
+                            "documento":"2917871", "data":"2014-05-14", "detalhamento":"Conta de Energia Elétrica do Escritório Político", 
+                            "valorReembolsado":"697.67", "codDocumento":"920338"}, {"ano":"2014", "mes":"5", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33530486000129", "fornecedor":"EMBRATEL - Empresa Brasileira de Telecomunicações S.A.", 
+                            "documento":"6733223400", "data":"2014-05-06", "detalhamento":"Conta de Telefone do Escritório Político", 
+                            "valorReembolsado":"91.77", "codDocumento":"920342"}, {"ano":"2014", "mes":"5", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"05922585649", "fornecedor":"Cláudio Pagnoncelli - Aluguel do Escritório Político", 
+                            "documento":"null", "data":"2014-05-05", "detalhamento":"Aluguel do Escritório Político", 
+                            "valorReembolsado":"5000.0", "codDocumento":"920337"}, {"ano":"2014", "mes":"4", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"01832635000118", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"957-2488149642", "data":"2014-04-22", "detalhamento":"TAM Linhas Aéreas
+Passageiro: GOMEZ /DELCÍDIO
+Localizador: 4R6536
+Trecho: BSB - CGH - 22 de abril de 2014", 
+                            "valorReembolsado":"1242.45", "codDocumento":"905636"}, {"ano":"2014", "mes":"4", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"01832635000118", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"957-2488149630", "data":"2014-04-21", "detalhamento":"TAM Linhas Aéreas
+Passageiro: GOMEZ /DELCÍDIO
+Localizador: 4OU458
+Trecho: FLN - BSB - 21 de abril de 2014", 
+                            "valorReembolsado":"1280.57", "codDocumento":"905638"}, {"ano":"2014", "mes":"4", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"01832635000118", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"957-2488149618", "data":"2014-04-18", "detalhamento":"TAM Linhas Aéreas
+Passageiro: GOMEZ /DELCÍDIO
+Localizador: 4OE22Q
+Trecho: CGR - FLN - 18 de abril de 2014", 
+                            "valorReembolsado":"1606.95", "codDocumento":"905639"}, {"ano":"2014", "mes":"4", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"01832635000118", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"957-2487671179", "data":"2014-04-11", "detalhamento":"TAM Linhas Aéreas
+Passageiro: PAES DA SILVA /EDIMAR
+    - EDIMAR PAES DA SILVA – Mat. 177158 - SF01
+Localizador: 375ZHT
+Trecho: BSB - CGR - 11 de abril de 2014", 
+                            "valorReembolsado":"527.45", "codDocumento":"905644"}, {"ano":"2014", "mes":"4", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"01832635000118", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"957-2487047622", "data":"2014-04-04", "detalhamento":"TAM Linhas Aéreas
+Passageiro: PAES DA SILVA /EDIMAR
+    - EDIMAR PAES DA SILVA – Mat. 177158 - SF01
+Localizador: 3KX7UV
+Trecho: BSB - CGR - 04 de abril de 2014", 
+                            "valorReembolsado":"527.45", "codDocumento":"905634"}, {"ano":"2014", "mes":"4", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"01832635000118", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"957-2709548639", "data":"2014-04-03", "detalhamento":"TAM Linhas Aéreas
+Passageiro: GOMEZ /DELCÍDIO
+Localizador: 3MHODW
+Trecho: CGH - BSB - 03 de abril de 2014", 
+                            "valorReembolsado":"140.0", "codDocumento":"905646"}, {"ano":"2014", "mes":"4", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"01832635000118", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"957-2486988404", "data":"2014-04-01", "detalhamento":"TAM Linhas Aéreas
+Passageiro: GOMEZ /DELCÍDIO
+Localizador: 3GDAB2
+Trecho: BSB - CGH - 01 de abril de 2014", 
+                            "valorReembolsado":"717.75", "codDocumento":"905647"}, {"ano":"2014", "mes":"4", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"06164253000187", "fornecedor":"GOL Linhas Aéreas", 
+                            "documento":"969-0001752972", "data":"2014-04-30", "detalhamento":"GOL Linhas Aéreas
+Passageiro: PAES DA SILVA /EDIMAR – Mat. 177158 - SF01
+Localizador:SJP67H
+BSB - CGR - 30 de abril de 2014", 
+                            "valorReembolsado":"867.24", "codDocumento":"912133"}, {"ano":"2014", "mes":"4", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"06164253000187", "fornecedor":"GOL Linhas Aéreas", 
+                            "documento":"969-0001752594", "data":"2014-04-28", "detalhamento":"GOL Linhas Aéreas
+Passageiro: GOMEZ /DELCÍDIO
+Localizador: IBI8HC
+Trecho: CGR - BSB - 28 de abril de 2014", 
+                            "valorReembolsado":"472.24", "codDocumento":"912135"}, {"ano":"2014", "mes":"4", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"06164253000187", "fornecedor":"GOL Linhas Aéreas", 
+                            "documento":"969-0001752601", "data":"2014-04-26", "detalhamento":"GOL Linhas Aéreas
+Passageiro: GOMEZ /DELCÍDIO
+Localizador: GHNFQN
+Trecho: CGH - CGR - 26 de abril de 2014", 
+                            "valorReembolsado":"538.76", "codDocumento":"909525"}, {"ano":"2014", "mes":"4", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"06164253000187", "fornecedor":"GOL Linhas Aéreas", 
+                            "documento":"969-0001751797", "data":"2014-04-25", "detalhamento":"GOL Linhas Aéreas
+Passageiro: PAES DA SILVA /EDIMAR
+    - EDIMAR PAES DA SILVA – Mat. 177158 - SF01
+Localizador: SFC3MW
+Trecho: BSB - CGR - 25 de abril de 2014", 
+                            "valorReembolsado":"524.04", "codDocumento":"909526"}, {"ano":"2014", "mes":"4", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"06164253000187", "fornecedor":"GOL Linhas Aéreas", 
+                            "documento":"969-0001750978", "data":"2014-04-24", "detalhamento":"GOL Linhas Aéreas
+Passageiro: GOMEZ /DELCÍDIO
+Localizador: RY2KSY
+Trecho: BSB - CGH - 24 de abril de 2014", 
+                            "valorReembolsado":"828.74", "codDocumento":"930303"}, {"ano":"2014", "mes":"4", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"06164253000187", "fornecedor":"GOL Linhas Aéreas", 
+                            "documento":"969-0001750598", "data":"2014-04-23", "detalhamento":"GOL Linhas Aéreas
+Passageiro: GOMEZ /DELCÍDIO
+Localizador: DGQQFA
+Trecho: CGH - BSB - 23 de abril de 2014", 
+                            "valorReembolsado":"827.76", "codDocumento":"905635"}, {"ano":"2014", "mes":"12", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"01832635000118", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"957-2100511066", "data":"2014-12-24", "detalhamento":"TAM Linhas Aéreas
+Passageiro: BRUM /CARLOS
+    - CARLOS GUSTAVO DE ALMEIDA BRUM – Mat. 245383 - SF01
+Localizador: 6QJW4A
+Trecho: BSB - CGR - 24 de dezembro de 2014", 
+                            "valorReembolsado":"362.03", "codDocumento":"989225"}, {"ano":"2014", "mes":"12", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"01832635000118", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"957-2102139124", "data":"2014-12-18", "detalhamento":"TAM Linhas Aéreas
+Passageiro: DO AMARAL GOMEZ /DELCÍDIO
+Localizador: 7WFXA9
+Trecho: BSB - SDU - 18 de dezembro de 2014", 
+                            "valorReembolsado":"563.38", "codDocumento":"990087"}, {"ano":"2014", "mes":"12", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"01832635000118", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"957-2101549663", "data":"2014-12-12", "detalhamento":"TAM Linhas Aéreas
+Passageiro: DO AMARAL GOMEZ /DELCÍDIO
+Localizador: 7N872U
+Trecho: BSB - CGR - 12 de dezembro de 2014", 
+                            "valorReembolsado":"1083.33", "codDocumento":"984719"}, {"ano":"2014", "mes":"12", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"01832635000118", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"957-210154964501", "data":"2014-12-10", "detalhamento":"TAM Linhas Aéreas
+Passageiro: BRUM /CARLOS
+    - CARLOS GUSTAVO DE ALMEIDA BRUM – Mat. 245383 - SF01
+Localizador: 6P36I8
+Trecho: BSB - CGR - 10 de dezembro de 2014", 
+                            "valorReembolsado":"987.03", "codDocumento":"984720"}, {"ano":"2014", "mes":"12", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"01832635000118", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"957-2101115082", "data":"2014-12-05", "detalhamento":"TAM Linhas Aéreas
+Passageiro: DO AMARAL GOMEZ /DELCÍDIO
+Localizador: 698RS3
+Trecho: CGH - CGR - 05 de dezembro de 2014", 
+                            "valorReembolsado":"977.47", "codDocumento":"984722"}, {"ano":"2014", "mes":"12", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"01832635000118", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"957-2101008374", "data":"2014-12-02", "detalhamento":"TAM Linhas Aéreas
+Passageiro: GOMEZ /DELCÍDIO
+Localizador: 68SF63
+Trecho: SDU - BSB - 02 de dezembro de 2014", 
+                            "valorReembolsado":"1120.47", "codDocumento":"978395"}, {"ano":"2014", "mes":"12", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"06164253000187", "fornecedor":"GOL Linhas Aéreas", 
+                            "documento":"HLPUVE", "data":"2014-12-18", "detalhamento":"GOL Linhas Aéreas
+Passageiro: DO AMARAL GOMEZ /DELCÍDIO
+Localizador: HLPUVE
+Trecho: SDU - CGH - 18 de dezembro de 2014", 
+                            "valorReembolsado":"928.96", "codDocumento":"989924"}, {"ano":"2014", "mes":"12", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"06164253000187", "fornecedor":"GOL Linhas Aéreas", 
+                            "documento":"EHKC4N", "data":"2014-12-04", "detalhamento":"GOL Linhas Aéreas
+Passageiro: DO AMARAL GOMEZ /DELCÍDIO
+Localizador: EHKC4N
+Trecho: BSB - CGH - 04 de dezembro de 2014", 
+                            "valorReembolsado":"535.82", "codDocumento":"984723"}, {"ano":"2014", "mes":"12", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"09296295000160", "fornecedor":"AZUL Linhas Aéreas", 
+                            "documento":"222-0005523889", "data":"2014-12-26", "detalhamento":"AZUL Linhas Aéreas
+Passageiro: DO AMARAL GOMEZ /DELCÍDIO
+Localizador: HBCYVT
+Trecho: GRU - FLN - 26 de dezembro de 2014", 
+                            "valorReembolsado":"1268.92", "codDocumento":"989925"}, {"ano":"2014", "mes":"12", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"09296295000160", "fornecedor":"AZUL Linhas Aéreas", 
+                            "documento":"N8CZTP", "data":"2014-12-15", "detalhamento":"AZUL Linhas Aéreas
+Passageiro: DO AMARAL GOMEZ /DELCÍDIO
+Localizador: N8CZTP
+Trecho: CGR - BSB - 15 de dezembro de 2014", 
+                            "valorReembolsado":"879.24", "codDocumento":"984718"}, {"ano":"2014", "mes":"12", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"09296295000160", "fornecedor":"AZUL Linhas Aéreas", 
+                            "documento":"G7YQRC", "data":"2014-12-08", "detalhamento":"AZUL Linhas Aéreas
+Passageiro: DO AMARAL GOMEZ /DELCÍDIO
+Localizador: G7YQRC
+Trecho: VCP - BSB - 08 de dezembro de 2014", 
+                            "valorReembolsado":"973.83", "codDocumento":"984721"}, {"ano":"2014", "mes":"12", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"09296295000160", "fornecedor":"AZUL Linhas Aéreas", 
+                            "documento":"U7QUFC", "data":"2014-12-01", "detalhamento":"AZUL Linhas Aéreas
+Passageiro: DO AMARAL GOMEZ /DELCÍDIO
+Localizador: U7QUFC
+Trecho: CGR - SDU - 01 de dezembro de 2014", 
+                            "valorReembolsado":"495.14", "codDocumento":"978396"}, {"ano":"2014", "mes":"12", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02575829000148", "fornecedor":"AVIANCA Linhas Aéreas", 
+                            "documento":"247-2413450525", "data":"2014-12-31", "detalhamento":"AVIANCA Linhas Aéreas
+Passageiro: BRUM /CARLOS
+    - CARLOS GUSTAVO DE ALMEIDA BRUM – Mat. 245383 - SF01
+Localizador: 6QTAWB
+Trecho: BSB - CGR - 31 de dezembro de 2014", 
+                            "valorReembolsado":"349.03", "codDocumento":"989227"}, {"ano":"2014", "mes":"12", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02575829000148", "fornecedor":"AVIANCA Linhas Aéreas", 
+                            "documento":"247-2413450524", "data":"2014-12-28", "detalhamento":"AVIANCA Linhas Aéreas
+Passageiro: BRUM /CARLOS
+    - CARLOS GUSTAVO DE ALMEIDA BRUM – Mat. 245383 - SF01
+Localizador: 6QJZQC
+Trecho: CGR - BSB - 28 de dezembro de 2014", 
+                            "valorReembolsado":"737.45", "codDocumento":"989226"}, {"ano":"2014", "mes":"12", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02575829000148", "fornecedor":"AVIANCA Linhas Aéreas", 
+                            "documento":"247-2413450523", "data":"2014-12-15", "detalhamento":"AVIANCA Linhas Aéreas
+Passageiro: BRUM /CARLOS
+    - CARLOS GUSTAVO DE ALMEIDA BRUM – Mat. 245383 - SF01
+Localizador: 6P2BLG
+Trecho: CGR - BSB - 15 de dezembro de 2014
+
+OBS: A Passagem foi comprada junto à AVIANCA, mas o voo foi cancelado e a empresa AVIANCA embarcou os passageiros no voo da TAM para o mesmo destino e sem custos adicionais.", 
+                            "valorReembolsado":"1001.45", "codDocumento":"984724"}, {"ano":"2014", "mes":"12", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02575829000148", "fornecedor":"AVIANCA Linhas Aéreas", 
+                            "documento":"247-2413547374", "data":"2014-12-02", "detalhamento":"AVIANCA Linhas Aéreas
+Passageiro: BRUM /CARLOS
+    - CARLOS GUSTAVO DE ALMEIDA BRUM – Mat. 245383 - SF01
+Localizador: 64D8S6
+Trecho: CGR - BSB - 02 de dezembro de 2014", 
+                            "valorReembolsado":"924.45", "codDocumento":"978394"}, {"ano":"2014", "mes":"12", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"76535764000143", "fornecedor":"OI S.A.", 
+                            "documento":"6733223400", "data":"2014-12-14", "detalhamento":"Conta de Telefone do Escritório Político", 
+                            "valorReembolsado":"2484.52", "codDocumento":"989222"}, {"ano":"2014", "mes":"12", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"76535764000143", "fornecedor":"OI S.A.", 
+                            "documento":"6733268334", "data":"2014-12-14", "detalhamento":"Conta de Telefone do Escritório Político", 
+                            "valorReembolsado":"246.27", "codDocumento":"989223"}, {"ano":"2014", "mes":"12", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"76535764000143", "fornecedor":"OI S.A.", 
+                            "documento":"6733267610", "data":"2014-12-14", "detalhamento":"Conta de Telefone do Escritório Político", 
+                            "valorReembolsado":"119.7", "codDocumento":"989578"}, {"ano":"2014", "mes":"12", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"05423963000111", "fornecedor":"OI Móvel S.A.", 
+                            "documento":"6784622000", "data":"2014-12-14", "detalhamento":"Conta de Telefone do Escritório Político", 
+                            "valorReembolsado":"657.59", "codDocumento":"989224"}, {"ano":"2014", "mes":"12", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"15413826000150", "fornecedor":"ENERSUL - Empresa Energética de Mato Grosso do Sul S.A.", 
+                            "documento":"2917271", "data":"2014-12-08", "detalhamento":"Conta de Energia Elétrica do Escritório Político", 
+                            "valorReembolsado":"454.35", "codDocumento":"978399"}, {"ano":"2014", "mes":"12", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"05922585649", "fornecedor":"Cláudio Pagnoncelli - Aluguel do Escritório Político", 
+                            "documento":"null", "data":"2014-12-05", "detalhamento":"Aluguel do Escritório Político", 
+                            "valorReembolsado":"5000.0", "codDocumento":"978397"}, {"ano":"2014", "mes":"12", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"04089570000150", "fornecedor":"Águas Guariroba S.A.", 
+                            "documento":"172399416", "data":"2014-12-08", "detalhamento":"Conta de Água do Escritório Político", 
+                            "valorReembolsado":"242.79", "codDocumento":"978398"}, {"ano":"2014", "mes":"11", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"01832635000118", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"957-2499819891", "data":"2014-11-13", "detalhamento":"TAM Linhas Aéreas
+Passageiro: BRUM /CARLOS
+    - CARLOS GUSTAVO DE ALMEIDA BRUM – Mat. 245383 - SF01
+Localizador: 58UYUV
+Trecho: BSB - CGR - 13 de novembro de 2014", 
+                            "valorReembolsado":"1031.63", "codDocumento":"976770"}, {"ano":"2014", "mes":"11", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"06164253000187", "fornecedor":"GOL Linhas Aéreas", 
+                            "documento":"JBI76S", "data":"2014-11-29", "detalhamento":"GOL Linhas Aéreas
+Passageiro: DO AMARAL GOMEZ /DELCÍDIO
+Localizador: JBI76S
+Trecho: CGH - CGR - 29 de novembro de 2014", 
+                            "valorReembolsado":"931.16", "codDocumento":"978392"}, {"ano":"2014", "mes":"11", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02575829000148", "fornecedor":"AVIANCA Linhas Aéreas", 
+                            "documento":"247-2413547350", "data":"2014-11-28", "detalhamento":"AVIANCA Linhas Aéreas
+Passageiro: DO AMARAL GOMEZ /DELCÍDIO
+Localizador: 63CC7P
+Trecho: BSB - CGH - 28 de novembro de 2014", 
+                            "valorReembolsado":"557.53", "codDocumento":"978393"}, {"ano":"2014", "mes":"11", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02575829000148", "fornecedor":"AVIANCA Linhas Aéreas", 
+                            "documento":"124-72413502961", "data":"2014-11-26", "detalhamento":"AVIANCA Linhas Aéreas
+Passageiro: GOMEZ /DELCÍDIO
+Localizador: 6VTUI8
+Trecho: CGR - BSB - 26 de novembro de 2014", 
+                            "valorReembolsado":"897.45", "codDocumento":"976771"}, {"ano":"2014", "mes":"11", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02575829000148", "fornecedor":"AVIANCA Linhas Aéreas", 
+                            "documento":"247-2413307844", "data":"2014-11-25", "detalhamento":"AVIANCA Linhas Aéreas
+Passageiro: BRUM /CARLOS
+    - CARLOS GUSTAVO DE ALMEIDA BRUM – Mat. 245383 - SF01
+Localizador: 6E5Z5S
+Trecho: CGR - BSB - 25 de novembro de 2014", 
+                            "valorReembolsado":"521.85", "codDocumento":"976767"}, {"ano":"2014", "mes":"11", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02575829000148", "fornecedor":"AVIANCA Linhas Aéreas", 
+                            "documento":"247-2413307843", "data":"2014-11-20", "detalhamento":"AVIANCA Linhas Aéreas
+Passageiro: BRUM /CARLOS
+    - CARLOS GUSTAVO DE ALMEIDA BRUM – Mat. 245383 - SF01
+Localizador: 6FBD82
+Trecho: BSB - CGR - 20 de novembro de 2014", 
+                            "valorReembolsado":"847.93", "codDocumento":"976768"}, {"ano":"2014", "mes":"11", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02575829000148", "fornecedor":"AVIANCA Linhas Aéreas", 
+                            "documento":"247-2413283095", "data":"2014-11-18", "detalhamento":"AVIANCA Linhas Aéreas
+Passageiro: BRUM /CARLOS
+    - CARLOS GUSTAVO DE ALMEIDA BRUM – Mat. 245383 - SF01
+Localizador: 58UYXY
+Trecho: CGR - BSB - 18 de novembro de 2014", 
+                            "valorReembolsado":"521.85", "codDocumento":"976769"}, {"ano":"2014", "mes":"11", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"76535764000143", "fornecedor":"Oi S.A.", 
+                            "documento":"6733268334", "data":"2014-11-14", "detalhamento":"Conta de Telefone do Escritório Político", 
+                            "valorReembolsado":"246.67", "codDocumento":"978389"}, {"ano":"2014", "mes":"11", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"76535764000143", "fornecedor":"Oi S.A.", 
+                            "documento":"6733267610", "data":"2014-11-14", "detalhamento":"Conta de Telefone do Escritório Político", 
+                            "valorReembolsado":"119.9", "codDocumento":"978391"}, {"ano":"2014", "mes":"11", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"76535764000143", "fornecedor":"Oi S.A.", 
+                            "documento":"6733223400", "data":"2014-11-14", "detalhamento":"Conta de Telefone do Escritório Político", 
+                            "valorReembolsado":"2401.88", "codDocumento":"978388"}, {"ano":"2014", "mes":"11", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"05423963000111", "fornecedor":"Oi Móvel S.A.", 
+                            "documento":"6784622000", "data":"2014-11-14", "detalhamento":"Conta de Telefone do Escritório Político", 
+                            "valorReembolsado":"768.13", "codDocumento":"978390"}, {"ano":"2014", "mes":"11", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"15413826000150", "fornecedor":"ENERSUL - Empresa Energética de Mato Grosso do Sul S.A.", 
+                            "documento":"2917271", "data":"2014-11-12", "detalhamento":"Conta de Energia Elétrica do Escritório Político", 
+                            "valorReembolsado":"109.88", "codDocumento":"978387"}, {"ano":"2014", "mes":"11", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"05922585649", "fornecedor":"Cláudio Pagnoncelli - Aluguel do Escritório Político", 
+                            "documento":"null", "data":"2014-11-05", "detalhamento":"Aluguel do Escritório Político", 
+                            "valorReembolsado":"5000.0", "codDocumento":"978386"}, {"ano":"2014", "mes":"10", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"01832635000118", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"957-2499243346", "data":"2014-10-31", "detalhamento":"TAM Linhas Aéreas
+Passageiro: FERREIRA RODRIGUES/ DIOGO
+    - DIOGO FERREIRA RODRIGUES – Mat. 165570 - SF02
+Localizador: 5QBRJ7
+Trecho: BSB - CGH - 31 de outubro de 2014", 
+                            "valorReembolsado":"1048.13", "codDocumento":"976766"}, {"ano":"2014", "mes":"10", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"01832635000118", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"957-2499243348", "data":"2014-10-31", "detalhamento":"TAM Linhas Aéreas
+Passageiro: FERREIRA RODRIGUES /DIOGO
+    - DIOGO FERREIRA RODRIGUES – Mat. 165570 - SF02
+Localizador: 5P9BB6
+Trecho: CGH - BSB - 31 de outubro de 2014", 
+                            "valorReembolsado":"434.57", "codDocumento":"976765"}, {"ano":"2014", "mes":"10", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"01832635000118", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"957-2498917989", "data":"2014-10-27", "detalhamento":"TAM Linhas Aéreas
+Passageiro: MARZAGÃO /JOSÉ EDUARDO
+    - JOSÉ EDUARDO MARZAGÃO – Mat. 182774 - SF02
+Localizador: 5KF92N
+Trecho: CGR - BSB - 27 de outubro de 2014", 
+                            "valorReembolsado":"2078.35", "codDocumento":"978365"}, {"ano":"2014", "mes":"10", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"01832635000118", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"957-2498089570", "data":"2014-10-13", "detalhamento":"TAM Linhas Aéreas
+Passageiro: MARZAGÃO /JOSÉ EDUARDO
+    - JOSÉ EDUARDO MARZAGÃO – Mat. 182774 - SF02
+Localizador: 4PAL26
+Trecho: BSB - CGR - 13 de outubro de 2014", 
+                            "valorReembolsado":"1001.93", "codDocumento":"984717"}, {"ano":"2014", "mes":"10", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"01832635000118", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"957-2498089504", "data":"2014-10-10", "detalhamento":"TAM Linhas Aéreas
+Passageiro: DO AMARAL GOMEZ /DELCÍDIO
+Localizador: 4RY3H2
+Trecho: SDU - CGH - 10 de outubro de 2014", 
+                            "valorReembolsado":"1347.07", "codDocumento":"978363"}, {"ano":"2014", "mes":"10", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"01832635000118", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"957-2497970246", "data":"2014-10-10", "detalhamento":"TAM Linhas Aéreas
+Passageiro: DO AMARAL GOMEZ /DELCÍDIO
+Localizador: 4R5PPT
+Trecho: CGH - SDU - 10 de outubro de 2014", 
+                            "valorReembolsado":"797.07", "codDocumento":"978364"}, {"ano":"2014", "mes":"9", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"01832635000118", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"957-2495988225", "data":"2014-09-17", "detalhamento":"TAM Linhas Aéreas
+Passageiro: MARZAGÃO /JOSÉ EDUARDO
+    - JOSÉ EDUARDO MARZAGÃO – Mat. 182774 - SF02
+Localizador: 3FZDLY
+Trecho: BSB - CGR - 14 de setembro de 2014", 
+                            "valorReembolsado":"1226.33", "codDocumento":"984671"}, {"ano":"2014", "mes":"9", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"09296295000160", "fornecedor":"AZUL Linhas Aéreas", 
+                            "documento":"222-0005488123", "data":"2014-09-06", "detalhamento":"AZUL Linhas Aéreas
+Passageiro: MARZAGÃO /JOSÉ EDUARDO
+    - JOSÉ EDUARDO MARZAGÃO – Mat. 182774 - SF02
+Localizador: R5FG7V
+Trecho: CGR - BSB - 06 de setembro de 2014", 
+                            "valorReembolsado":"747.24", "codDocumento":"984672"}, {"ano":"2014", "mes":"8", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"01832635000118", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"957-2495395611", "data":"2014-08-27", "detalhamento":"TAM Linhas Aéreas
+Passageiro: MARZAGÃO /JOSÉ EDUARDO
+    - JOSÉ EDUARDO MARZAGÃO – Mat. 182774 - SF02
+Localizador: 2IRY5H
+Trecho: CGR - BSB - 27 de agosto de 2014", 
+                            "valorReembolsado":"1226.33", "codDocumento":"984670"}, {"ano":"2014", "mes":"8", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"01832635000118", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"957-2495033684", "data":"2014-08-21", "detalhamento":"TAM Linhas Aéreas
+Passageiro: MARZAGÃO /JOSÉ EDUARDO
+    - JOSÉ EDUARDO MARZAGÃO – Mat. 182774 - SF02
+Localizador: Z8JWF6
+Trecho: BSB - SDU - 21 de agosto de 2014", 
+                            "valorReembolsado":"1260.72", "codDocumento":"946797"}, {"ano":"2014", "mes":"8", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"01832635000118", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"957-2494590300", "data":"2014-08-14", "detalhamento":"TAM Linhas Aéreas
+Passageiro: MARZAGÃO /JOSÉ EDUARDO
+    - JOSÉ EDUARDO MARZAGÃO – Mat. 182774 - SF02
+Localizador: ZW7PLI
+Trecho: CGR - BSB - 14 de agosto de 2014", 
+                            "valorReembolsado":"2037.65", "codDocumento":"946798"}, {"ano":"2014", "mes":"8", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"01832635000118", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"957-2494347082", "data":"2014-08-11", "detalhamento":"TAM Linhas Aéreas
+Passageiro: MARZAGÃO /JOSÉ EDUARDO
+    - JOSÉ EDUARDO MARZAGÃO – Mat. 182774 - SF02
+Localizador: ZP466C
+Trecho: BSB - CGH - 11 de agosto de 2014", 
+                            "valorReembolsado":"626.45", "codDocumento":"946800"}, {"ano":"2014", "mes":"8", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"09296295000160", "fornecedor":"AZUL Linhas Aéreas", 
+                            "documento":"IYFF9T", "data":"2014-08-11", "detalhamento":"AZUL Linhas Aéreas
+Passageiro: MARZAGÃO /JOSÉ EDUARDO
+    - JOSÉ EDUARDO MARZAGÃO – Mat. 182774 - SF02
+Localizador: IYFF9T
+Trecho: GRU - CGR - 11 de agosto de 2014", 
+                            "valorReembolsado":"617.11", "codDocumento":"946799"}, {"ano":"2014", "mes":"7", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"01832635000118", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"957-2493563746", "data":"2014-07-28", "detalhamento":"TAM Linhas Aéreas
+Passageiro: MARZAGÃO /JOSÉ EDUARDO
+    - JOSÉ EDUARDO MARZAGÃO – Mat. 182774 - SF02
+Localizador: Y2FRSV
+Trecho: CGH - CGR - 28 de julho de 2014", 
+                            "valorReembolsado":"589.17", "codDocumento":"943516"}, {"ano":"2014", "mes":"7", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"01832635000118", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"957-2493563746", "data":"2014-07-28", "detalhamento":"TAM Linhas Aéreas
+Passageiro: MARZAGÃO /JOSÉ EDUARDO
+    - JOSÉ EDUARDO MARZAGÃO – Mat. 182774 - SF02
+Localizador: Y2FRSV
+Trecho: CGH - CGR - 28 de julho de 2014", 
+                            "valorReembolsado":"589.17", "codDocumento":"946787"}, {"ano":"2014", "mes":"7", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"01832635000118", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"957-2493618770", "data":"2014-07-26", "detalhamento":"TAM Linhas Aéreas
+Passageiro: GOMEZ /DELCÍDIO
+Localizador: Y44JYM
+Trecho: CGR - GRU - 26 de julho de 2014", 
+                            "valorReembolsado":"1103.97", "codDocumento":"946788"}, {"ano":"2014", "mes":"7", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"01832635000118", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"957-2492935100", "data":"2014-07-18", "detalhamento":"TAM Linhas Aéreas
+Passageiro: GOMEZ /DELCÍDIO
+Localizador: YNYK8S
+Trecho: BSB - CGH - 18 de julho de 2014", 
+                            "valorReembolsado":"1601.05", "codDocumento":"946789"}, {"ano":"2014", "mes":"7", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"01832635000118", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"957-2492747623", "data":"2014-07-14", "detalhamento":"TAM Linhas Aéreas
+Passageiro: PAES DA SILVA /EDIMAR
+    - EDIMAR PAES DA SILVA – Mat. 177158 - SF01
+Localizador: YJAMCV
+Trecho: CGR - BSB - 14 de julho de 2014", 
+                            "valorReembolsado":"936.55", "codDocumento":"937634"}, {"ano":"2014", "mes":"7", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"01832635000118", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"957-2492594759", "data":"2014-07-10", "detalhamento":"TAM Linhas Aéreas
+Passageiro: GOMEZ /DELCÍDIO
+Localizador: YBPGER
+Trecho: CGR - CGH - 10 de julho de 2014", 
+                            "valorReembolsado":"395.0", "codDocumento":"937638"}, {"ano":"2014", "mes":"7", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"06164253000187", "fornecedor":"GOL Linhas Aéreas", 
+                            "documento":"969-0001804303", "data":"2014-07-31", "detalhamento":"GOL Linhas Aéreas
+Passageiro: GOMEZ /DELCÍDIO
+Localizador: ML8B5R
+Trecho: CGH - CGR - 31 de julho de 2014", 
+                            "valorReembolsado":"616.56", "codDocumento":"946784"}, {"ano":"2014", "mes":"7", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"06164253000187", "fornecedor":"GOL Linhas Aéreas", 
+                            "documento":"969-0001804295", "data":"2014-07-30", "detalhamento":"GOL Linhas Aéreas
+Passageiro: GOMEZ /DELCÍDIO
+Localizador: WLIK7E
+Trecho: SDU - CGH - 30 de julho de 2014", 
+                            "valorReembolsado":"1092.86", "codDocumento":"946785"}, {"ano":"2014", "mes":"7", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"06164253000187", "fornecedor":"GOL Linhas Aéreas", 
+                            "documento":"9690001804279", "data":"2014-07-30", "detalhamento":"GOL Linhas Aéreas
+Passageiro: GOMEZ /DELCÍDIO
+Localizador: DGWPNQ
+Trecho: CGH - SDU - 30 de julho de 2014", 
+                            "valorReembolsado":"808.26", "codDocumento":"946786"}, {"ano":"2014", "mes":"4", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"76535764000143", "fornecedor":"OI S.A.", 
+                            "documento":"6733223400", "data":"2014-04-15", "detalhamento":"Conta de Telefone do Escritório Político", 
+                            "valorReembolsado":"2490.99", "codDocumento":"909520"}, {"ano":"2014", "mes":"4", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"76535764000143", "fornecedor":"OI S.A.", 
+                            "documento":"6733268334", "data":"2014-04-15", "detalhamento":"Conta de Telefone do Escritório Político", 
+                            "valorReembolsado":"245.68", "codDocumento":"909519"}, {"ano":"2014", "mes":"4", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"76535764000143", "fornecedor":"OI S.A.", 
+                            "documento":"6733267610", "data":"2014-04-15", "detalhamento":"Conta de Telefone do Escritório Político", 
+                            "valorReembolsado":"119.5", "codDocumento":"909518"}, {"ano":"2014", "mes":"4", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"05423963000111", "fornecedor":"OI Móvel S.A.", 
+                            "documento":"6784622000", "data":"2014-04-15", "detalhamento":"Conta de Telefone do Escritório Político", 
+                            "valorReembolsado":"1826.23", "codDocumento":"909521"}, {"ano":"2014", "mes":"4", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"15413826000150", "fornecedor":"ENERSUL - Empresa Energética de Mato Grosso do Sul S.A.", 
+                            "documento":"2917271", "data":"2014-04-11", "detalhamento":"Conta de Energia Elétrica do Escritório Político", 
+                            "valorReembolsado":"897.59", "codDocumento":"909516"}, {"ano":"2014", "mes":"4", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"05922585649", "fornecedor":"Cláudio Pagnoncelli - Aluguel do Escritório Político", 
+                            "documento":"null", "data":"2014-04-05", "detalhamento":"Aluguel do Escritório Político", 
+                            "valorReembolsado":"5000.0", "codDocumento":"909515"}, {"ano":"2014", "mes":"4", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"04089570000150", "fornecedor":"Águas Guariroba S.A.", 
+                            "documento":"17239941-6", "data":"2014-04-13", "detalhamento":"Conta de Água do Escritório Político", 
+                            "valorReembolsado":"512.15", "codDocumento":"909517"}, {"ano":"2014", "mes":"3", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"01832635000118", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"957-2486281434", "data":"2014-03-20", "detalhamento":"TAM Linhas Aéreas
+Passageiro: PAES DA SILVA /EDIMAR
+    - EDIMAR PAES DA SILVA – Mat. 177158 - SF01
+Localizador: 2KR82G
+Trecho: BSB - CGR - 20 de março de 2014", 
+                            "valorReembolsado":"423.8", "codDocumento":"894084"}, {"ano":"2014", "mes":"3", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"01832635000118", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"957-2485895139", "data":"2014-03-14", "detalhamento":"TAM Linhas Aéreas
+Passageiro: GOMEZ /DELCÍDIO
+Localizador: 8EYSVQ
+Trecho: BSB - CGR - 14 de março de 2014", 
+                            "valorReembolsado":"663.85", "codDocumento":"909465"}, {"ano":"2014", "mes":"3", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"06164253000187", "fornecedor":"GOL Linhas Aéreas", 
+                            "documento":"UY2RRY", "data":"2014-03-28", "detalhamento":"GOL Linhas Aéreas
+Passageiro: GOMEZ /DELCÍDIO
+Localizador: UY2RRY
+Trecho: BSB - CGR - 28 de março de 2014", 
+                            "valorReembolsado":"503.14", "codDocumento":"909462"}, {"ano":"2014", "mes":"3", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"06164253000187", "fornecedor":"GOL Linhas Aéreas", 
+                            "documento":"969-0001731397", "data":"2014-03-21", "detalhamento":"GOL Linhas Aéreas
+Passageiro: GOMEZ /DELCÍDIO
+Localizador: JLK2JB
+Trecho: BSB - CGR - 21 de março de 2014", 
+                            "valorReembolsado":"580.14", "codDocumento":"909463"}, {"ano":"2014", "mes":"3", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"06164253000187", "fornecedor":"GOL Linhas Aéreas", 
+                            "documento":"EKH7UE", "data":"2014-03-13", "detalhamento":"GOL Linhas Aéreas
+Passageiro: PAES DA SILVA /EDIMAR
+    - EDIMAR PAES DA SILVA – Mat. 177158 - SF01
+Localizador: EKH7UE
+Trecho: BSB - CGR - 13 de março de 2014", 
+                            "valorReembolsado":"602.14", "codDocumento":"894082"}, {"ano":"2014", "mes":"3", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02575829000148", "fornecedor":"AVIANCA Linhas Aéreas", 
+                            "documento":"023-0131436535", "data":"2014-03-31", "detalhamento":"AVIANCA Linhas Aéreas
+Passageiro: BRUM /CARLOS
+    - CARLOS GUSTAVO DE ALMEIDA BRUM – Mat. 245383 - SF01
+Localizador: 1BQ3QH
+Trecho: CGR - BSB - 31 de março de 2014", 
+                            "valorReembolsado":"467.4", "codDocumento":"909464"}, {"ano":"2014", "mes":"3", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02575829000148", "fornecedor":"AVIANCA Linhas Aéreas", 
+                            "documento":"131-358424", "data":"2014-03-26", "detalhamento":"AVIANCA Linhas Aéreas
+Passageiro: GOMEZ /DELCÍDIO
+Localizador: 1BLUHN
+Trecho: CGR - BSB - 26 de março de 2014", 
+                            "valorReembolsado":"428.25", "codDocumento":"894079"}, {"ano":"2014", "mes":"3", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02575829000148", "fornecedor":"AVIANCA Linhas Aéreas", 
+                            "documento":"131-129786", "data":"2014-03-18", "detalhamento":"AVIANCA Linhas Aéreas
+Passageiro: GOMEZ /DELCÍDIO
+Localizador: 1B8BNX
+Trecho: CGR - BSB - 18 de março de 2014", 
+                            "valorReembolsado":"519.95", "codDocumento":"894080"}, {"ano":"2014", "mes":"3", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02575829000148", "fornecedor":"AVIANCA Linhas Aéreas", 
+                            "documento":"131-129886", "data":"2014-03-17", "detalhamento":"AVIANCA Linhas Aéreas
+Passageiro: PAES DA SILVA /EDIMAR
+    - EDIMAR PAES DA SILVA – Mat. 177158 - SF01
+Localizador: 1B8BV6
+Trecho: CGR - BSB - 17 de março de 2014", 
+                            "valorReembolsado":"800.4", "codDocumento":"894081"}, {"ano":"2014", "mes":"3", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02575829000148", "fornecedor":"AVIANCA Linhas Aéreas", 
+                            "documento":"130-828240", "data":"2014-03-10", "detalhamento":"AVIANCA Linhas Aéreas
+Passageiro: PAES DA SILVA /EDIMAR
+    - EDIMAR PAES DA SILVA – Mat. 177158 - SF01
+Localizador: 1AOFHT
+Trecho: CGR - BSB - 10 de março de 2014", 
+                            "valorReembolsado":"570.36", "codDocumento":"894083"}, {"ano":"2014", "mes":"3", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"05203527000137", "fornecedor":"Posto Gueno Avenida Ltda", 
+                            "documento":"009041", "data":"2014-03-24", "detalhamento":"Combustíveis", 
+                            "valorReembolsado":"1166.03", "codDocumento":"894077"}, {"ano":"2014", "mes":"3", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"01962745000102", "fornecedor":"Brandão & Cia LTDA - ME (Vila Rica Hotel)", 
+                            "documento":"1296", "data":"2014-03-11", "detalhamento":"Hospedagem", 
+                            "valorReembolsado":"1081.0", "codDocumento":"894078"}, {"ano":"2014", "mes":"3", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Divulgação da atividade parlamentar", "cnpjCpf":"02575829000148", "fornecedor":"AVIANCA Linhas Aéreas", 
+                            "documento":"131-320348", "data":"2014-03-25", "detalhamento":"AVIANCA Linhas Aéreas
+Passageiro: PAES DA SILVA /EDIMAR
+    - EDIMAR PAES DA SILVA – Mat. 177158 - SF01
+Localizador: 1BJXSA
+Trecho: CGR - BSB - 25 de março de 2014", 
+                            "valorReembolsado":"211.91", "codDocumento":"894085"}, {"ano":"2014", "mes":"3", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"76535764000143", "fornecedor":"OI S.A.", 
+                            "documento":"6733223400", "data":"2014-03-15", "detalhamento":"Conta de Telefone do Escritório Político", 
+                            "valorReembolsado":"2560.22", "codDocumento":"894074"}, {"ano":"2014", "mes":"3", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"76535764000143", "fornecedor":"OI S.A.", 
+                            "documento":"6733268334", "data":"2014-03-15", "detalhamento":"Conta de Telefone do Escritório Político", 
+                            "valorReembolsado":"243.51", "codDocumento":"894073"}, {"ano":"2014", "mes":"3", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"76535764000143", "fornecedor":"OI S.A.", 
+                            "documento":"6733267610", "data":"2014-03-15", "detalhamento":"Conta de Telefone do Escritório Político", 
+                            "valorReembolsado":"122.18", "codDocumento":"894072"}, {"ano":"2014", "mes":"3", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"05423963000111", "fornecedor":"OI Móvel S.A.", 
+                            "documento":"6784622000", "data":"2014-03-15", "detalhamento":"Conta de Telefone do Escritório Político", 
+                            "valorReembolsado":"1721.93", "codDocumento":"894076"}, {"ano":"2014", "mes":"3", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"15413826000150", "fornecedor":"ENERSUL - Empresa Energética de Mato Grosso do Sul S.A.", 
+                            "documento":"2917271", "data":"2014-03-19", "detalhamento":"Conta de Energia Elétrica do Escritório Político", 
+                            "valorReembolsado":"672.26", "codDocumento":"894070"}, {"ano":"2014", "mes":"3", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33530486000129", "fornecedor":"EMBRATEL - Empresa Brasileira de Telecomunicações S.A.", 
+                            "documento":"97235350", "data":"2014-03-06", "detalhamento":"Conta de Telefone do Escritório Político", 
+                            "valorReembolsado":"58.84", "codDocumento":"894075"}, {"ano":"2014", "mes":"3", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"05922585649", "fornecedor":"Cláudio Pagnoncelli - Aluguel do Escritório Político", 
+                            "documento":"null", "data":"2014-03-05", "detalhamento":"Aluguel do Escritório Político", 
+                            "valorReembolsado":"5000.0", "codDocumento":"894069"}, {"ano":"2014", "mes":"3", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"04089570000150", "fornecedor":"Águas Guariroba S.A.", 
+                            "documento":"172399416", "data":"2014-03-13", "detalhamento":"Conta de Água do Escritório Político", 
+                            "valorReembolsado":"412.64", "codDocumento":"894071"}, {"ano":"2014", "mes":"2", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"01832635000118", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"957-2484798874", "data":"2014-02-21", "detalhamento":"TAM Linhas Aéreas
+Passageiro: PAES DA SILVA /EDIMAR
+    - EDIMAR PAES DA SILVA – Mat. 177158 - SF01
+Localizador: Z3YKJZ
+Trecho: BSB - CGR - 21 de fevereiro de 2014", 
+                            "valorReembolsado":"780.45", "codDocumento":"883158"}, {"ano":"2014", "mes":"2", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"01832635000118", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"957-2484510717", "data":"2014-02-14", "detalhamento":"TAM Linhas Aéreas
+Passageiro: GOMEZ /DELCÍDIO
+Localizador: 52485E
+Trecho: BSB - CGR - 14 de fevereiro de 2014", 
+                            "valorReembolsado":"870.65", "codDocumento":"883162"}, {"ano":"2014", "mes":"2", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"01832635000118", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"957-2484510716", "data":"2014-02-14", "detalhamento":"TAM Linhas Aéreas
+Passageiro: PAES DA SILVA /EDIMAR
+    - EDIMAR PAES DA SILVA – Mat. 177158 - SF01
+Localizador: 52K9W6
+Trecho: BSB - CGR - 14 de fevereiro de 2014", 
+                            "valorReembolsado":"780.45", "codDocumento":"883161"}, {"ano":"2014", "mes":"2", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"01832635000118", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"9572484331174", "data":"2014-02-11", "detalhamento":"TAM Linhas Aéreas
+Passageiro: GOMEZ /DELCÍDIO
+Localizador: 3XF8IM
+Trecho: CGH - BSB - 11 de fevereiro de 2014", 
+                            "valorReembolsado":"894.37", "codDocumento":"874427"}, {"ano":"2014", "mes":"2", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"01832635000118", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"9572484061854", "data":"2014-02-10", "detalhamento":"TAM Linhas Aéreas
+Passageiro: GOMEZ /DELCÍDIO
+Localizador: ZGAKKU
+Trecho: SDU - CGH - 10 de fevereiro de 2014", 
+                            "valorReembolsado":"1116.06", "codDocumento":"874428"}, {"ano":"2014", "mes":"2", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"01832635000118", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"957-24840611823", "data":"2013-02-07", "detalhamento":"TAM Linhas Aéreas
+Passageiro: PAES DA SILVA /EDIMAR
+    - EDIMAR PAES DA SILVA – Mat. 177158 - SF01
+Localizador: YQYPTM
+Trecho: BSB - CGR - 07 de fevereiro de 2014", 
+                            "valorReembolsado":"744.15", "codDocumento":"874430"}, {"ano":"2014", "mes":"2", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"06164253000187", "fornecedor":"GOL Linhas Aéreas", 
+                            "documento":"UJR7KX", "data":"2014-02-27", "detalhamento":"GOL Linhas Aéreas
+Passageiro: DO AMARAL GOMEZ/ DELCÍDIO
+Localizador: 12Q3P6
+Trecho: BSB/CGR/Campo Grande - 27 de fevereiro de 2014", 
+                            "valorReembolsado":"2721.3", "codDocumento":"893643"}, {"ano":"2014", "mes":"2", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"09296295000160", "fornecedor":"AZUL Linhas Aéreas", 
+                            "documento":"U4GJRL", "data":"2014-02-20", "detalhamento":"AZUL Linhas Aéreas
+Passageiro: GOMEZ /DELCÍDIO
+Localizador: U4GJRL
+Trecho: BSB - CGR - 20 de fevereiro de 2014", 
+                            "valorReembolsado":"705.87", "codDocumento":"883159"}, {"ano":"2014", "mes":"2", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"09296295000160", "fornecedor":"AZUL Linhas Aéreas", 
+                            "documento":"222-0005395145", "data":"2014-02-07", "detalhamento":"AZUL Linhas Aéreas
+Passageiro: GOMEZ /DELCÍDIO
+Localizador: Y9CPRM
+Trecho: CGR - SDU - 07 de fevereiro de 2014", 
+                            "valorReembolsado":"480.08", "codDocumento":"874431"}, {"ano":"2014", "mes":"2", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02575829000148", "fornecedor":"AVIANCA Linhas Aéreas", 
+                            "documento":"130-828388", "data":"2014-02-27", "detalhamento":"AVIANCA Linhas Aéreas
+Passageiro: PAES DA SILVA /EDIMAR
+    - EDIMAR PAES DA SILVA – Mat. 177158 - SF01
+Localizador: 1AOFQ8
+Trecho: BSB - CGR - 27 de fevereiro de 2014", 
+                            "valorReembolsado":"1088.45", "codDocumento":"893642"}, {"ano":"2014", "mes":"2", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02575829000148", "fornecedor":"AVIANCA Linhas Aéreas", 
+                            "documento":"130-786788", "data":"2014-02-25", "detalhamento":"AVIANCA Linhas Aéreas
+Passageiro: GOMEZ /DELCÍDIO
+Localizador: 1ALE7O
+Trecho: CGR - BSB - 25 de fevereiro de 2014", 
+                            "valorReembolsado":"448.45", "codDocumento":"883156"}, {"ano":"2014", "mes":"2", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02575829000148", "fornecedor":"AVIANCA Linhas Aéreas", 
+                            "documento":"130-754893", "data":"2014-02-24", "detalhamento":"AVIANCA Linhas Aéreas
+Passageiro: PAES DA SILVA /EDIMAR
+    - EDIMAR PAES DA SILVA – Mat. 177158 - SF01
+Localizador: 1AJVVD
+Trecho: CGR - BSB - 24 de fevereiro de 2014", 
+                            "valorReembolsado":"448.45", "codDocumento":"883157"}, {"ano":"2014", "mes":"2", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02575829000148", "fornecedor":"AVIANCA Linhas Aéreas", 
+                            "documento":"130-621240", "data":"2014-02-17", "detalhamento":"AVIANCA Linhas Aéreas
+Passageiro: PAES DA SILVA /EDIMAR
+    - EDIMAR PAES DA SILVA – Mat. 177158 - SF01
+Localizador: 1ABIP8
+Trecho: CGR - BSB - 17 de fevereiro de 2014", 
+                            "valorReembolsado":"570.36", "codDocumento":"883160"}, {"ano":"2014", "mes":"2", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02575829000148", "fornecedor":"AVIANCA Linhas Aéreas", 
+                            "documento":"130-470172", "data":"2014-02-10", "detalhamento":"AVIANCA Linhas Aéreas
+Passageiro: PAES DA SILVA /EDIMAR
+    - EDIMAR PAES DA SILVA – Mat. 177158 - SF01
+Localizador: 1A26ZY
+Trecho: CGR - BSB - 10 de fevereiro de 2014", 
+                            "valorReembolsado":"685.48", "codDocumento":"874429"}, {"ano":"2014", "mes":"2", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02575829000148", "fornecedor":"AVIANCA Linhas Aéreas", 
+                            "documento":"130-344033", "data":"2014-02-03", "detalhamento":"AVIANCA Linhas Aéreas
+Passageiro: PAES DA SILVA /EDIMAR
+    - EDIMAR PAES DA SILVA – Mat. 177158 - SF01
+Localizador: 19US4H
+Trecho: CGR - BSB - 03 de fevereiro de 2014", 
+                            "valorReembolsado":"807.03", "codDocumento":"874426"}, {"ano":"2014", "mes":"2", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"15941453000190", "fornecedor":"Cortez Comércio, Consignação e Locadora de Veículos LTDA - ME", 
+                            "documento":"0048", "data":"2014-03-20", "detalhamento":"Locação de Veículos para o Escritório Político - Ref. Mês 02/2014", 
+                            "valorReembolsado":"4000.0", "codDocumento":"893641"}, {"ano":"2014", "mes":"2", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"76535764000143", "fornecedor":"OI S.A.", 
+                            "documento":"6733268334", "data":"2014-02-14", "detalhamento":"Conta de Telefone do Escritório Político", 
+                            "valorReembolsado":"159.46", "codDocumento":"883153"}, {"ano":"2014", "mes":"2", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"76535764000143", "fornecedor":"OI S.A.", 
+                            "documento":"6733267610", "data":"2014-02-14", "detalhamento":"Conta de Telefone do Escritório Político", 
+                            "valorReembolsado":"116.99", "codDocumento":"883152"}, {"ano":"2014", "mes":"2", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"76535764000143", "fornecedor":"OI S.A.", 
+                            "documento":"6733223400", "data":"2014-02-14", "detalhamento":"Conta de Telefone do Escritório Político", 
+                            "valorReembolsado":"2190.79", "codDocumento":"883154"}, {"ano":"2014", "mes":"2", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"05423963000383", "fornecedor":"OI Móvel S.A.", 
+                            "documento":"6784622000", "data":"2014-02-14", "detalhamento":"Conta de Telefone do Escritório Político", 
+                            "valorReembolsado":"660.59", "codDocumento":"883155"}, {"ano":"2014", "mes":"2", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"15413826000150", "fornecedor":"ENERSUL - Empresa Energética de Mato Grosso do Sul S.A.", 
+                            "documento":"2917271", "data":"2014-02-17", "detalhamento":"Conta de Energia Elétrica do Escritório Político", 
+                            "valorReembolsado":"424.9", "codDocumento":"883150"}, {"ano":"2014", "mes":"2", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"05922585649", "fornecedor":"Cláudio Pagnoncelli - Aluguel do Escritório Político", 
+                            "documento":"null", "data":"2014-02-05", "detalhamento":"Aluguel do Escritório Político", 
+                            "valorReembolsado":"5000.0", "codDocumento":"883149"}, {"ano":"2014", "mes":"2", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"04089570000150", "fornecedor":"Águas Guariroba S.A.", 
+                            "documento":"172399416", "data":"2014-02-13", "detalhamento":"Conta de Água do Escritório Político", 
+                            "valorReembolsado":"322.52", "codDocumento":"883151"}, {"ano":"2014", "mes":"1", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"01832635000118", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"957-2483618079", "data":"2014-01-31", "detalhamento":"TAM Linhas Aéreas
+Passageiro: PAES DA SILVA /EDIMAR
+    - EDIMAR PAES DA SILVA – Mat. 177158 - SF01
+Localizador: 5PEJZB
+Trecho: BSB - CGR - 31 de janeiro de 2014", 
+                            "valorReembolsado":"829.95", "codDocumento":"874411"}, {"ano":"2014", "mes":"1", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"01832635000118", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"957-2483618033", "data":"2014-01-30", "detalhamento":"TAM Linhas Aéreas
+Passageiro: GOMEZ /DELCÍDIO
+Localizador: 4CJU2S
+Trecho: CGH - SDU - 30 de janeiro de 2014", 
+                            "valorReembolsado":"1083.07", "codDocumento":"874417"}, {"ano":"2014", "mes":"1", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"01832635000118", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"957-2483618031", "data":"2014-01-30", "detalhamento":"TAM Linhas Aéreas
+Passageiro: GOMEZ /DELCÍDIO
+Localizador: 4CLJP4
+Trecho: GIG - FLN - 30 de janeiro de 2014", 
+                            "valorReembolsado":"711.27", "codDocumento":"874416"}, {"ano":"2014", "mes":"1", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"01832635000118", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"957-2483618027", "data":"2014-01-29", "detalhamento":"TAM Linhas Aéreas
+Passageiro: GOMEZ /DELCÍDIO
+Localizador: 4AT6N2
+Trecho: FLN - CGH - 29 de janeiro de 2014", 
+                            "valorReembolsado":"672.77", "codDocumento":"874415"}, {"ano":"2014", "mes":"1", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"01832635000118", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"957-2482573389", "data":"2014-01-15", "detalhamento":"TAM Linhas Aéreas
+Passageiro: GOMEZ /DELCÍDIO
+Localizador: 3GS8LK
+Trecho: FLN - CGH - 15 de janeiro de 2014", 
+                            "valorReembolsado":"640.87", "codDocumento":"874414"}, {"ano":"2014", "mes":"1", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"06164253000187", "fornecedor":"GOL Linhas Aéreas", 
+                            "documento":"773894", "data":"2014-01-15", "detalhamento":"GOL Linhas Aéreas
+Passageiro: BRUM /CARLOS
+    - CARLOS GUSTAVO DE ALMEIDA BRUM – Mat. 245383 - SF01
+Localizador: UH3Y9A
+Trecho: BSB - CGR - 15 de janeiro de 2014", 
+                            "valorReembolsado":"740.74", "codDocumento":"874413"}, {"ano":"2014", "mes":"1", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02575829000148", "fornecedor":"AVIANCA Linhas Aéreas", 
+                            "documento":"130-151387", "data":"2014-01-24", "detalhamento":"AVIANCA Linhas Aéreas
+Passageiro: BRUM /CARLOS
+    - CARLOS GUSTAVO DE ALMEIDA BRUM – Mat. 245383 - SF01
+Localizador: 19K18E
+Trecho: CGR - BSB - 24 de janeiro de 2014", 
+                            "valorReembolsado":"643.95", "codDocumento":"874412"}, {"ano":"2014", "mes":"1", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"05203527000137", "fornecedor":"Posto Gueno Avenida LTDA", 
+                            "documento":"008487", "data":"2014-01-23", "detalhamento":"Combustíveis", 
+                            "valorReembolsado":"1388.49", "codDocumento":"874410"}, {"ano":"2014", "mes":"1", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"76535764000143", "fornecedor":"OI S.A.", 
+                            "documento":"6733223400", "data":"2014-01-14", "detalhamento":"Conta de Telefone do Escritório Político", 
+                            "valorReembolsado":"2497.7", "codDocumento":"874407"}, {"ano":"2014", "mes":"1", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"76535764000143", "fornecedor":"OI S.A.", 
+                            "documento":"6733268334", "data":"2014-01-14", "detalhamento":"Conta de Telefone do Escritório Político", 
+                            "valorReembolsado":"234.36", "codDocumento":"874406"}, {"ano":"2014", "mes":"1", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"76535764000143", "fornecedor":"OI S.A.", 
+                            "documento":"6733267610", "data":"2014-01-14", "detalhamento":"Conta de Telefone do Escritório Político", 
+                            "valorReembolsado":"113.48", "codDocumento":"874405"}, {"ano":"2014", "mes":"1", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"05423963000111", "fornecedor":"OI Móvel S.A.", 
+                            "documento":"6784622000", "data":"2014-01-14", "detalhamento":"Conta de Telefone do Escritório Político", 
+                            "valorReembolsado":"1727.69", "codDocumento":"874408"}, {"ano":"2014", "mes":"1", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"15413826000150", "fornecedor":"Enersul - Empresa Energética de Mato Grosso do Sul S.A.", 
+                            "documento":"2917271", "data":"2014-01-17", "detalhamento":"Conta de Energia Elétrica do Escritório Político", 
+                            "valorReembolsado":"694.71", "codDocumento":"874403"}, {"ano":"2014", "mes":"1", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"05922585649", "fornecedor":"Cláudio Pagnoncelli - Aluguel do Escritório Político", 
+                            "documento":"null", "data":"2014-01-05", "detalhamento":"Aluguel do Escritório Político", 
+                            "valorReembolsado":"5000.0", "codDocumento":"874402"}, {"ano":"2014", "mes":"1", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"04089570000150", "fornecedor":"Águas Guariroba S.A.", 
+                            "documento":"172399416", "data":"2014-01-13", "detalhamento":"Conta de Água do Escritório Político", 
+                            "valorReembolsado":"271.07", "codDocumento":"874404"}, {"ano":"2014", "mes":"4", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"06164253000187", "fornecedor":"GOL Linhas Aéreas", 
+                            "documento":"969-0001746659", "data":"2014-04-14", "detalhamento":"GOL Linhas Aéreas
+Passageiro: GOMEZ /DELCÍDIO
+Localizador: NFES9T
+Trecho: CGR - BSB - 14 de abril de 2014", 
+                            "valorReembolsado":"497.54", "codDocumento":"905641"}, {"ano":"2014", "mes":"4", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"06164253000187", "fornecedor":"GOL Linhas Aéreas", 
+                            "documento":"969-0001746066", "data":"2014-04-12", "detalhamento":"GOL Linhas Aéreas
+Passageiro: GOMEZ /DELCÍDIO
+Localizador: Y7RCMR
+Trecho: GRU - CGR - 12 de abril de 2014", 
+                            "valorReembolsado":"387.45", "codDocumento":"905643"}, {"ano":"2014", "mes":"4", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"06164253000187", "fornecedor":"GOL Linhas Aéreas", 
+                            "documento":"969-0001744916", "data":"2014-04-10", "detalhamento":"GOL Linhas Aéreas
+Passageiro: GOMEZ /DELCÍDIO
+Localizador: SC57YS
+Trecho: BSB - CGH - 10 de abril de 2014", 
+                            "valorReembolsado":"723.14", "codDocumento":"905645"}, {"ano":"2014", "mes":"4", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"06164253000187", "fornecedor":"GOL Linhas Aéreas", 
+                            "documento":"969-0001740314", "data":"2014-04-07", "detalhamento":"GOL Linhas Aéreas
+Passageiro: GOMEZ /DELCÍDIO
+Localizador: OFQG6D
+Trecho: CGR - BSB - 07 de abril de 2014", 
+                            "valorReembolsado":"416.85", "codDocumento":"905633"}, {"ano":"2014", "mes":"4", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"06164253000187", "fornecedor":"GOL Linhas Aéreas", 
+                            "documento":"969-0001738669", "data":"2014-04-03", "detalhamento":"GOL Linhas Aéreas
+Passageiro: GOMEZ /DELCÍDIO
+Localizador: KJ6Z5H
+Trecho: BSB - CGR - 03 de abril de 2014", 
+                            "valorReembolsado":"503.14", "codDocumento":"909527"}, {"ano":"2014", "mes":"4", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"09296295000160", "fornecedor":"AZUL Linhas Aéreas", 
+                            "documento":"222-0005425835", "data":"2014-04-17", "detalhamento":"AZUL Linhas Aéreas
+Passageiro: PAES DA SILVA /EDIMAR,
+Mat. 177158 - SF01
+Localizador: NECDSK
+Trecho: BSB - CGR - 17 de abril de 2014", 
+                            "valorReembolsado":"518.54", "codDocumento":"912134"}, {"ano":"2014", "mes":"4", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02575829000148", "fornecedor":"AVIANCA Linhas Aéreas", 
+                            "documento":"247-2410291479", "data":"2014-04-28", "detalhamento":"AVIANCA Linhas Aéreas
+Passageiro: PAES DA SILVA /EDIMAR
+    - EDIMAR PAES DA SILVA – Mat. 177158 - SF01
+Localizador: 4Y5K4U
+Trecho: CGR - BSB - 28 de abril de 2014", 
+                            "valorReembolsado":"358.45", "codDocumento":"909524"}, {"ano":"2014", "mes":"4", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02575829000148", "fornecedor":"AVIANCA Linhas Aéreas", 
+                            "documento":"247-2410144664", "data":"2014-04-22", "detalhamento":"AVIANCA Linhas Aéreas
+Passageiro: PAES DA SILVA /EDIMAR
+    - EDIMAR PAES DA SILVA – Mat. 177158 - SF01
+Localizador: 4ESMMA
+Trecho: CGR - BSB - 22 de abril de 2014", 
+                            "valorReembolsado":"1115.85", "codDocumento":"905637"}, {"ano":"2014", "mes":"4", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02575829000148", "fornecedor":"AVIANCA Linhas Aéreas", 
+                            "documento":"247-2410144616", "data":"2014-04-14", "detalhamento":"AVIANCA Linhas Aéreas
+Passageiro: PAES DA SILVA /EDIMAR
+    - EDIMAR PAES DA SILVA – Mat. 177158 - SF01
+Localizador: 375Z8A
+Trecho: CGR - BSB - 14 de abril de 2014", 
+                            "valorReembolsado":"510.85", "codDocumento":"905642"}, {"ano":"2014", "mes":"4", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02575829000148", "fornecedor":"AVIANCA Linhas Aéreas", 
+                            "documento":"023-0131498133", "data":"2014-04-07", "detalhamento":"AVIANCA Linhas Aéreas
+Passageiro: PAES DA SILVA /EDIMAR
+    - EDIMAR PAES DA SILVA – Mat. 177158 - SF01
+Localizador: 1BULCE
+Trecho: CGR - BSB - 07 de abril de 2014", 
+                            "valorReembolsado":"434.05", "codDocumento":"905632"}, {"ano":"2014", "mes":"4", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"05203527000137", "fornecedor":"Posto Gueno Avenida LTDA", 
+                            "documento":"009284", "data":"2014-04-15", "detalhamento":"Combustíveis", 
+                            "valorReembolsado":"1887.25", "codDocumento":"909523"}, {"ano":"2014", "mes":"4", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"15941453000190", "fornecedor":"Cortez Comércio, Consignado e Locadora de Veículos LTDA ME", 
+                            "documento":"0051", "data":"2014-04-23", "detalhamento":"Locação de Veículos para o Escritório Político", 
+                            "valorReembolsado":"4000.0", "codDocumento":"909522"}, {"ano":"2014", "mes":"4", "senador":"DELCIDIO DO AMARAL", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"15941453000190", "fornecedor":"Cortez Comercio, Consignação e Locadora de Veículos Ltda ME", 
+                            "documento":"0052", "data":"2014-05-20", "detalhamento":"Locação de Veículos para o Escritório Político - referente ao Mês de Abril/2014", 
+                            "valorReembolsado":"358.55", "codDocumento":"930302"}]}
