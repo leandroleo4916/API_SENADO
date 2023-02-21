@@ -1,0 +1,119 @@
+{"LAURO ANTÔNIO": [{"ano":"2011", "mes":"12", "senador":"LAURO ANTÔNIO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02575829000148", "fornecedor":"AVIANCA", 
+                            "documento":"0IEFKB", "data":"2011-12-13", "detalhamento":"Passageiro: José Silvio Monteiro
+matrícula: 188223
+trecho de ida: Aracaju/Brasília dia 13/12/2011
+", 
+                            "valorReembolsado":"491.23", "codDocumento":"495143"}, {"ano":"2011", "mes":"12", "senador":"LAURO ANTÔNIO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"01488787000145", "fornecedor":"TRANSTOP COMÉRCIO E LOCAÇÕES DE VEÍCULOS E MÁQUINAS LTDA", 
+                            "documento":"00000007", "data":"2012-01-11", "detalhamento":"null", 
+                            "valorReembolsado":"3950.0", "codDocumento":"495168"}, {"ano":"2011", "mes":"12", "senador":"LAURO ANTÔNIO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"16194581000180", "fornecedor":"Posto São Carlos", 
+                            "documento":"000000352", "data":"2011-12-21", "detalhamento":"null", 
+                            "valorReembolsado":"3097.0", "codDocumento":"495141"}, {"ano":"2011", "mes":"12", "senador":"LAURO ANTÔNIO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"08202116000115", "fornecedor":"Posto Aeroporto", 
+                            "documento":"32739", "data":"2011-12-21", "detalhamento":"null", 
+                            "valorReembolsado":"100.0", "codDocumento":"495170"}, {"ano":"2011", "mes":"12", "senador":"LAURO ANTÔNIO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"32885543000120", "fornecedor":"MFTUR Empreendimentos e Serviços Ltda", 
+                            "documento":"00000007", "data":"2012-01-18", "detalhamento":"null", 
+                            "valorReembolsado":"3850.0", "codDocumento":"508194"}, {"ano":"2011", "mes":"12", "senador":"LAURO ANTÔNIO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"02989654001197", "fornecedor":"Melhor Posto de combustíveis Ltda", 
+                            "documento":"84189", "data":"2011-12-12", "detalhamento":"null", 
+                            "valorReembolsado":"100.0", "codDocumento":"495150"}, {"ano":"2011", "mes":"12", "senador":"LAURO ANTÔNIO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"02989654001197", "fornecedor":"Melhor Posto de Combustíveis Ltda", 
+                            "documento":"85537", "data":"2011-12-29", "detalhamento":"null", 
+                            "valorReembolsado":"100.0", "codDocumento":"495166"}, {"ano":"2011", "mes":"12", "senador":"LAURO ANTÔNIO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"02989654001197", "fornecedor":"Melhor Posto de Combustíveis Ltda", 
+                            "documento":"201799", "data":"2011-12-21", "detalhamento":"null", 
+                            "valorReembolsado":"50.0", "codDocumento":"495164"}, {"ano":"2011", "mes":"12", "senador":"LAURO ANTÔNIO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"02989654001197", "fornecedor":"Melhor Posto de Combustíveis Ltda", 
+                            "documento":"201785", "data":"2011-12-21", "detalhamento":"null", 
+                            "valorReembolsado":"50.0", "codDocumento":"495163"}, {"ano":"2011", "mes":"12", "senador":"LAURO ANTÔNIO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"02989654001197", "fornecedor":"Melhor Posto de Combustíveis Ltda", 
+                            "documento":"84670", "data":"2011-12-20", "detalhamento":"null", 
+                            "valorReembolsado":"50.0", "codDocumento":"495152"}, {"ano":"2011", "mes":"12", "senador":"LAURO ANTÔNIO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"02989654001197", "fornecedor":"Melhor Posto de Combustíveis Ltda", 
+                            "documento":"84660", "data":"2011-12-20", "detalhamento":"null", 
+                            "valorReembolsado":"50.0", "codDocumento":"495155"}, {"ano":"2011", "mes":"12", "senador":"LAURO ANTÔNIO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"02989654001197", "fornecedor":"Melhor Posto de Combustíveis Ltda", 
+                            "documento":"84570", "data":"2011-12-19", "detalhamento":"null", 
+                            "valorReembolsado":"100.0", "codDocumento":"495156"}, {"ano":"2011", "mes":"12", "senador":"LAURO ANTÔNIO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"02989654001197", "fornecedor":"Melhor Posto de Combustíveis Ltda", 
+                            "documento":"84619", "data":"2011-12-19", "detalhamento":"null", 
+                            "valorReembolsado":"50.0", "codDocumento":"495154"}, {"ano":"2011", "mes":"12", "senador":"LAURO ANTÔNIO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"02989654001197", "fornecedor":"Melhor Posto de Combustíveis Ltda", 
+                            "documento":"84336", "data":"2011-12-15", "detalhamento":"null", 
+                            "valorReembolsado":"100.0", "codDocumento":"495157"}, {"ano":"2011", "mes":"12", "senador":"LAURO ANTÔNIO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"02989654001197", "fornecedor":"Melhor Posto de Combustíveis Ltda", 
+                            "documento":"84379", "data":"2011-12-14", "detalhamento":"null", 
+                            "valorReembolsado":"25.0", "codDocumento":"495153"}, {"ano":"2011", "mes":"12", "senador":"LAURO ANTÔNIO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"02989654001197", "fornecedor":"Melhor Posto de Combustíveis Ltda", 
+                            "documento":"84293", "data":"2011-12-13", "detalhamento":"null", 
+                            "valorReembolsado":"100.0", "codDocumento":"495151"}, {"ano":"2011", "mes":"12", "senador":"LAURO ANTÔNIO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"02989654001197", "fornecedor":"Melhor Posto de Combustíveis Ltda", 
+                            "documento":"84031", "data":"2011-12-08", "detalhamento":"null", 
+                            "valorReembolsado":"100.0", "codDocumento":"495161"}, {"ano":"2011", "mes":"12", "senador":"LAURO ANTÔNIO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"02989654001197", "fornecedor":"Melhor Posto de Combustíveis Ltda", 
+                            "documento":"83738", "data":"2011-12-07", "detalhamento":"null", 
+                            "valorReembolsado":"100.0", "codDocumento":"495158"}, {"ano":"2011", "mes":"12", "senador":"LAURO ANTÔNIO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"02989654001197", "fornecedor":"Melhor Posto de Combustíveis Ltda", 
+                            "documento":"83701", "data":"2011-12-07", "detalhamento":"null", 
+                            "valorReembolsado":"100.0", "codDocumento":"495159"}, {"ano":"2011", "mes":"12", "senador":"LAURO ANTÔNIO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"02989654001197", "fornecedor":"Melhor Posto de Combustíveis Ltda", 
+                            "documento":"83967", "data":"2011-12-06", "detalhamento":"null", 
+                            "valorReembolsado":"100.0", "codDocumento":"495160"}, {"ano":"2011", "mes":"12", "senador":"LAURO ANTÔNIO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"02989654001197", "fornecedor":"Melhor Posto de Combustíveis Ltda", 
+                            "documento":"83894", "data":"2011-12-06", "detalhamento":"null", 
+                            "valorReembolsado":"100.0", "codDocumento":"495162"}, {"ano":"2011", "mes":"12", "senador":"LAURO ANTÔNIO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"00306597001250", "fornecedor":"CASOL Combustíveis para Veículos ltda", 
+                            "documento":"005414", "data":"2011-12-13", "detalhamento":"null", 
+                            "valorReembolsado":"100.0", "codDocumento":"495149"}, {"ano":"2011", "mes":"12", "senador":"LAURO ANTÔNIO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"00097626000400", "fornecedor":"Brasal Combustíveis ", 
+                            "documento":"132793", "data":"2011-12-22", "detalhamento":"null", 
+                            "valorReembolsado":"100.0", "codDocumento":"495165"}, {"ano":"2011", "mes":"12", "senador":"LAURO ANTÔNIO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"5FR2B4", "data":"2011-12-14", "detalhamento":"Francisco Ferreira
+matrícula 246302
+trecho de ida Brasília/Aracaju dia 14/12/2011", 
+                            "valorReembolsado":"869.66", "codDocumento":"495146"}, {"ano":"2011", "mes":"12", "senador":"LAURO ANTÔNIO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"34FQYC", "data":"2011-12-12", "detalhamento":"Passageiro: Francisco Ferreira
+matrícula 246302
+Trecho Aracaju/Brasília dia 12/12/2011", 
+                            "valorReembolsado":"595.43", "codDocumento":"495144"}, {"ano":"2011", "mes":"12", "senador":"LAURO ANTÔNIO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"00512777000135", "fornecedor":"Passaredo", 
+                            "documento":"35BENHT", "data":"2011-12-26", "detalhamento":"Passageiro: Rita Campos
+matrícula 234920
+trecho de ida: Ribeirão Preto/Brasília 26/12/2011
+trecho de volta: Brasília/Ribeirão Preto 29/12/2011", 
+                            "valorReembolsado":"971.79", "codDocumento":"495167"}, {"ano":"2011", "mes":"12", "senador":"LAURO ANTÔNIO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL ", 
+                            "documento":"W4MVVR", "data":"2011-12-09", "detalhamento":"Passageira: Hadijamile Itapá de Carvalho
+matrícula: 237799
+trecho de ida: Brasília/São Paulo (CGH), dia 09/12/2011
+trecho de volta: São Paulo (CGH)/Brasília dia 09/12/2011
+", 
+                            "valorReembolsado":"1268.12", "codDocumento":"495142"}, {"ano":"2011", "mes":"12", "senador":"LAURO ANTÔNIO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"09296295000160", "fornecedor":"GOL", 
+                            "documento":"GENMYN", "data":"2011-12-23", "detalhamento":"Passageira: Hadijamile Itapá de Carvalho
+matrícula 237799
+Trecho de ida: Brasília/Aracaju dia 23/12/2011", 
+                            "valorReembolsado":"1192.56", "codDocumento":"495169"}, {"ano":"2011", "mes":"12", "senador":"LAURO ANTÔNIO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02575829000148", "fornecedor":"AVIANCA", 
+                            "documento":"0IEFL8", "data":"2011-12-19", "detalhamento":"Passageiro: Francisco Ferreira
+matrícula:246302
+trecho de ida: Aracaju/Brasília dia 19/12/2011
+trecho de volta: Brasília/Aracaju dia 22/12/2011", 
+                            "valorReembolsado":"645.44", "codDocumento":"495145"}, {"ano":"2011", "mes":"12", "senador":"LAURO ANTÔNIO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02575829000148", "fornecedor":"AVIANCA", 
+                            "documento":"0IGRGF", "data":"2011-12-19", "detalhamento":"Passageiro José Silvio Monteiro
+matrícula 188223
+trecho de ida: Aracaju/Brasília dia 19/12/2011
+", 
+                            "valorReembolsado":"535.44", "codDocumento":"495148"}, {"ano":"2011", "mes":"12", "senador":"LAURO ANTÔNIO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02575829000148", "fornecedor":"AVIANCA", 
+                            "documento":"0IEFBZ", "data":"2011-12-19", "detalhamento":"Passageira : Hadijamile Itapá de Carvalho
+matrícula: 237799
+trecho Salvador / Brasília
+este bilhete é uma reemissão do bilhete 116 056552, código 0IDE61, que está anexado, em 19/12/2012.", 
+                            "valorReembolsado":"303.93", "codDocumento":"499005"}]}
