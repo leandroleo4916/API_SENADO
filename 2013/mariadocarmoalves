@@ -1,0 +1,565 @@
+{"gastosSenador": [{"ano":"2013", "mes":"12", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"33712837000546", "fornecedor":"AVIANCA - AEROVIAS NACIONALES DE COLÔMBIA S/A", 
+                            "documento":"1837CG", "data":"2013-12-09", "detalhamento":"Passageira: Senadora Maria do Carmo Alves
+Data: 12 DEZEMBRO 2013
+Trecho: Brasília / Aracaju", 
+                            "valorReembolsado":"867.35", "codDocumento":"874136"}, {"ano":"2013", "mes":"12", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"33712837000546", "fornecedor":"AVIANCA - AEROVIAS NACIONALES DE COLÔMBIA S/A", 
+                            "documento":"1839QF", "data":"2013-12-09", "detalhamento":"Passageira: Senadora Maria do Carmo Alves
+Data: 16 DEZEMBRO 2013
+Trecho: Aracaju / Brasília", 
+                            "valorReembolsado":"361.95", "codDocumento":"874137"}, {"ano":"2013", "mes":"12", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"33712837000546", "fornecedor":"AVIANCA - AEROVIAS NACIONALES DE COLÔMBIA S/A", 
+                            "documento":"17ZMWS", "data":"2013-12-06", "detalhamento":"Passageira: Senadora Maria do Carmo Alves
+Data: 09 DEZEMBRO 2013
+Trecho: Rio de Janeiro / Brasília", 
+                            "valorReembolsado":"1450.47", "codDocumento":"854756"}, {"ano":"2013", "mes":"12", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"33712837000546", "fornecedor":"AVIANCA - AEROVIAS NACIONALES DE COLÔMBIA S/A", 
+                            "documento":"1798DA", "data":"2013-11-14", "detalhamento":"Passageira: Senadora Maria do Carmo Alves
+Data: 19 DEZEMBRO 2013
+Trecho: Brasília / Aracaju", 
+                            "valorReembolsado":"867.35", "codDocumento":"874138"}, {"ano":"2013", "mes":"12", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"00734015526", "fornecedor":"NEY MAX SANTANA OLIVEIRA", 
+                            "documento":"null", "data":"2013-12-31", "detalhamento":"Aluguel do veículo VW GOL, 2013, placa OEM-2510/SE.
+", 
+                            "valorReembolsado":"2000.0", "codDocumento":"874144"}, {"ano":"2013", "mes":"12", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"68872534534", "fornecedor":"MANUEL HUDSON FREITAS DOS SANTOS", 
+                            "documento":"null", "data":"2014-01-02", "detalhamento":"Aluguel do veículo VW Gol, 2011, placa OEK-3088/SE.", 
+                            "valorReembolsado":"2000.0", "codDocumento":"874143"}, {"ano":"2013", "mes":"12", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"08369234000112", "fornecedor":"HC VEÍCULOS LTDA", 
+                            "documento":"002/2014", "data":"2014-01-21", "detalhamento":"Aluguel do veículo Hyundai Tucson, 2010, placa NVG-1299", 
+                            "valorReembolsado":"5200.0", "codDocumento":"874145"}, {"ano":"2013", "mes":"12", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"06767532568", "fornecedor":"WALKER MARTINS CARVALHO", 
+                            "documento":"56247", "data":"2013-12-26", "detalhamento":"Escritório de Apoio no Estado de Sergipe: 
+Rua Cedro, 348 - Aracaju / Sergipe", 
+                            "valorReembolsado":"4500.0", "codDocumento":"874139"}, {"ano":"2013", "mes":"12", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000411", "fornecedor":"TELEMAR NORTE LESTE S/A", 
+                            "documento":"34536", "data":"2013-12-16", "detalhamento":"Despesa com telefonia fixa do Escritório de Apoio.
+Rua Cedro, 348 - Acarju/SE", 
+                            "valorReembolsado":"203.0", "codDocumento":"874142"}, {"ano":"2013", "mes":"12", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"13017462000163", "fornecedor":"ENERGISA SERGIPE - DISTRIB ENERGIA S.A.", 
+                            "documento":"420037", "data":"2013-12-17", "detalhamento":"Despesa com conumo de energia elétrica do Escritório de Apoio.
+Rua Cedro, 348 - Aracaju/SE", 
+                            "valorReembolsado":"444.63", "codDocumento":"874141"}, {"ano":"2013", "mes":"12", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"13018171000190", "fornecedor":"DESO - COMPANHIA DE SANEAMENTO DE SERGIPE", 
+                            "documento":"null", "data":"2014-01-02", "detalhamento":"Despesa com consumo de água do Escritório de Apoio.
+Rua Cedro, 348 - Aracaju/SE", 
+                            "valorReembolsado":"38.59", "codDocumento":"874140"}, {"ano":"2013", "mes":"11", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"33712837000546", "fornecedor":"AVIANCA AEROVIAS NACIONALES DE COLÔMBIA S/A", 
+                            "documento":"17fW5J", "data":"2013-11-20", "detalhamento":"Passageira: Senadora Maria do Carmo Alves
+Data: 21 de NOVEMBRO 2013
+Trecho: Brasília / Aracaju", 
+                            "valorReembolsado":"616.28", "codDocumento":"846919"}, {"ano":"2013", "mes":"11", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"33712837000546", "fornecedor":"AVIANCA - AEROVIAS NACIONALES DE COLÔMBIA S/A", 
+                            "documento":"17PFK3", "data":"2013-11-28", "detalhamento":"Passageira: Senadora Maria do Carmo Alves
+Data: 28 NOVEMBRO 2013
+Trecho: Brasília / Aracaju", 
+                            "valorReembolsado":"1131.8", "codDocumento":"854755"}, {"ano":"2013", "mes":"11", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"33712837000546", "fornecedor":"AVIANCA - AEROVIAS NACIONALES DE COLÔMBIA S/A", 
+                            "documento":"17FW6J", "data":"2013-11-20", "detalhamento":"Passageira: Senadora Maria do Carmo Alves
+Data: 25 de NOVEMBRO 2013
+Trecho: Aracaju / Brasília", 
+                            "valorReembolsado":"788.33", "codDocumento":"846920"}, {"ano":"2013", "mes":"11", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"33712837000546", "fornecedor":"AVIANCA - AEROVIAS NACIONALES DE COLÔMBIA S/A", 
+                            "documento":"16YGVK", "data":"2013-11-05", "detalhamento":"Passageira: Senadora Maria do Carmo Alves
+Data: 14 NOVEMBRO 2013
+Trecho:Brasília / Aracaju", 
+                            "valorReembolsado":"867.35", "codDocumento":"842585"}, {"ano":"2013", "mes":"11", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"33712837000546", "fornecedor":"AVIANCA - AEROVIAS NACIONALES DE COLÔMBIA S/A", 
+                            "documento":"16YG1R", "data":"2013-11-05", "detalhamento":"Passageira: Senadora Maria do Carmo Alves
+Data: 07 NOVEMBRO 2013
+Trecho: Brasília / Aracaju", 
+                            "valorReembolsado":"550.83", "codDocumento":"838309"}, {"ano":"2013", "mes":"11", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"33712837000546", "fornecedor":"AVIANCA - AEROVIAS NACIONALES DE COLÔMBIA S/A", 
+                            "documento":"16YHBL", "data":"2013-11-05", "detalhamento":"Passageira: Senadora Maria do Carmo Alves
+Data: 18 NOVEMBRO 2013
+Trecho: Aracaju / Brasília", 
+                            "valorReembolsado":"514.15", "codDocumento":"842586"}, {"ano":"2013", "mes":"11", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"33712837000546", "fornecedor":"AVIANCA - AEROVIAS NACIONALES DE COLÔMBIA S/A", 
+                            "documento":"16QBYB", "data":"2013-10-29", "detalhamento":"Passageira: Senadora Maria do Carmo Alves
+Data: 04 NOVEMBRO 2013
+Trecho: Aracaju / Brasília", 
+                            "valorReembolsado":"1237.13", "codDocumento":"838308"}, {"ano":"2013", "mes":"11", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"33712837000546", "fornecedor":"AVIANCA - AEROVIAS NACIONALES DE COLÔMBAI S/A", 
+                            "documento":"16YGQ3", "data":"2013-11-05", "detalhamento":"Passageira: Senadora Maria do Carmo Alves
+Data: 11 NOVEMBRO 2013
+Trecho: Aracaju / Brasília", 
+                            "valorReembolsado":"392.7", "codDocumento":"842584"}, {"ano":"2013", "mes":"11", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"00734015526", "fornecedor":"NEY MAX SANTANA OLIVEIRA", 
+                            "documento":"null", "data":"2013-12-02", "detalhamento":"Aluguel do veículo VW GOL, 2013, OEM-2510.", 
+                            "valorReembolsado":"2000.0", "codDocumento":"874134"}, {"ano":"2013", "mes":"11", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"68872534534", "fornecedor":"MANUEL HUDSON FREITAS DOS SANTOS", 
+                            "documento":"null", "data":"2013-11-02", "detalhamento":"Aluguel do veículo VW Gol, ano 2011 - OEK-3088/SE", 
+                            "valorReembolsado":"2000.0", "codDocumento":"860251"}, {"ano":"2013", "mes":"11", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"06767532568", "fornecedor":"WALKER MARTINS CARVALHO", 
+                            "documento":"56246", "data":"2013-11-26", "detalhamento":"Aluguel do Escritório Político em Sergipe:
+Rua Cedro, 348 - Aracaju/SE", 
+                            "valorReembolsado":"4500.0", "codDocumento":"874135"}, {"ano":"2013", "mes":"10", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"33712837000546", "fornecedor":"AVIANCA - AEROVIAS NACIONALES DE COLÔMBIA S/A", 
+                            "documento":"16QC4T", "data":"2013-10-29", "detalhamento":"Passageira: Senadora Maria do Carmo Alves
+Data: 31 OUTUBRO 2013
+Trecho: Brasília / Aracaju", 
+                            "valorReembolsado":"398.3", "codDocumento":"834463"}, {"ano":"2013", "mes":"10", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"33712837000546", "fornecedor":"AVIANCA - AEROVIAS NACIONALES DE COLÔMBIA S/A", 
+                            "documento":"16JADF", "data":"2013-10-23", "detalhamento":"Passageira: Senadora Maria do Carmo Alves
+Trecho: Brasília / Aracaju
+Data: 24 de OUTUBRO 2013", 
+                            "valorReembolsado":"937.92", "codDocumento":"834459"}, {"ano":"2013", "mes":"10", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"33712837000546", "fornecedor":"AVIANCA - AEROVIAS NACIONALES DE COLÔMBIA S/A", 
+                            "documento":"16JAOQ", "data":"2013-10-23", "detalhamento":"Passageira: Senadora Maria do Carmo Alves
+Data: 28 OUTUBRO 2013
+Trecho: Aracaju / Brasília", 
+                            "valorReembolsado":"932.32", "codDocumento":"834460"}, {"ano":"2013", "mes":"10", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"33712837000546", "fornecedor":"AVIANCA - AEROVIAS NACIONALES DE COLÔMBIA S/A", 
+                            "documento":"16B689", "data":"2013-10-16", "detalhamento":"Passageira: Senadora Maria do Carmo Alves
+Data: 17 OUTUBRO 2013
+Trecho: Brasília / Aracaju", 
+                            "valorReembolsado":"937.92", "codDocumento":"834457"}, {"ano":"2013", "mes":"10", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"33712837000546", "fornecedor":"AVIANCA - AEROVIAS NACIONALES DE COLÔMBIA S/A", 
+                            "documento":"161WX2", "data":"2013-10-08", "detalhamento":"Passageira: Senadora Maria do Carmo Alves
+Data: 10 OUTUBRO 2013
+Trecho: Brasília / Aracaju", 
+                            "valorReembolsado":"446.75", "codDocumento":"823350"}, {"ano":"2013", "mes":"10", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"33712837000546", "fornecedor":"AVIANCA - AEROVIAS NACIONALES DE COLÔMBIA S/A", 
+                            "documento":"161X5Y", "data":"2013-10-08", "detalhamento":"Passageira: Senadora Maria do Carmo Alves
+Data: 14 OUTUBRO 2013
+Trecho: Aracaju / Brasília", 
+                            "valorReembolsado":"441.15", "codDocumento":"834456"}, {"ano":"2013", "mes":"10", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"33712837000546", "fornecedor":"AVIANCA - AEROVIAS NACIONALES DE COLÕMBAI S/A", 
+                            "documento":"15TJJS", "data":"2013-10-01", "detalhamento":"Passageira: Senadora Maria do Carmo Alves
+Data: 03 OUTUBRO 2013
+Trecho: Brasília / Aracaju", 
+                            "valorReembolsado":"363.83", "codDocumento":"823348"}, {"ano":"2013", "mes":"10", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"33712837000546", "fornecedor":"AVIANCA - AEROVIAS NACIONALES DE COLÔMBAI S/A", 
+                            "documento":"16B689", "data":"2013-10-16", "detalhamento":"Passageira: Senadora Maria do Carmo Alves
+Data: 21 OUTUBRO 2013
+Trecho: Aracaju / Brasília", 
+                            "valorReembolsado":"788.33", "codDocumento":"834458"}, {"ano":"2013", "mes":"10", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"33712837000546", "fornecedor":"AVIANCA - AEROVIAS NACIONALES DE COLÔMBAI S/A", 
+                            "documento":"15TJJS", "data":"2013-10-01", "detalhamento":"Passageira: Senadora Maria do Carmo Alves
+Data: 07 OUTUBRO 2013
+Trecho: Aracaju / Brasília", 
+                            "valorReembolsado":"358.23", "codDocumento":"823349"}, {"ano":"2013", "mes":"10", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"68872534534", "fornecedor":"MANUEL HUDSON FREITAS DOS SANTOS", 
+                            "documento":"null", "data":"2013-11-01", "detalhamento":"Aluguel do veículo VW Gol 1.6, ano 2011/12 - Placa 0EK-3088/SE.", 
+                            "valorReembolsado":"2000.0", "codDocumento":"834461"}, {"ano":"2013", "mes":"10", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"06767532568", "fornecedor":"WALKER MARTINS CARVALHO", 
+                            "documento":"56245", "data":"2013-10-24", "detalhamento":"Aluguel do Escritório Político, referente ao mês de Outubro/2013 - Rua Cedro, 348 - Aracaju/Sergipe.", 
+                            "valorReembolsado":"4500.0", "codDocumento":"834462"}, {"ano":"2013", "mes":"10", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000411", "fornecedor":"TELEMAR NORTE LESTE S/A", 
+                            "documento":"35410", "data":"2013-10-17", "detalhamento":"Despesa com telefonia fixa do escritório político. Rua Cedro, 348 - Aracaju / Sergipe", 
+                            "valorReembolsado":"113.54", "codDocumento":"860250"}, {"ano":"2013", "mes":"10", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"13017462000163", "fornecedor":"ENERGISA - ENERGIA SERGIPE DISTRIB. ENERGIA S/A", 
+                            "documento":"417287", "data":"2013-10-21", "detalhamento":"Despesa com consumo de energia elétrica do escritório político. Rua Cedro, 348 - Aracaju / Sergipe", 
+                            "valorReembolsado":"411.19", "codDocumento":"860249"}, {"ano":"2013", "mes":"10", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"13018171000190", "fornecedor":"DESO - COMPANHIA DE SANEAMENTO DE SERGIPE", 
+                            "documento":"null", "data":"2013-10-31", "detalhamento":"Despesa com consumo de água do escritório político - Rua Cedro, 348 - Aracaju / Sergipe", 
+                            "valorReembolsado":"69.8", "codDocumento":"860248"}, {"ano":"2013", "mes":"9", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"33712837000546", "fornecedor":"AVIANCA - AEROVIAS NACIONALES DE COLÔMBIA S/A", 
+                            "documento":"15LHQU", "data":"2013-09-26", "detalhamento":"Passageira: Senadora Maria do Carmo Alves
+Trecho: Brasília / Aracaju - Data: 26 SETEMBRO 2013
+Trecho: Aracaju / Brasília - Data: 30 SETEMBRO 2013", 
+                            "valorReembolsado":"1241.0", "codDocumento":"818964"}, {"ano":"2013", "mes":"9", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"33712837000546", "fornecedor":"AVIANCA - AEROVIAS NACIONALES DE COLÔMBIA S/A", 
+                            "documento":"15F7JO", "data":"2013-09-18", "detalhamento":"Passageira: Senadora Maria do Carmo Alves]
+Data: 19 SETEMBRO 2013
+Trecho: Brasília / Aracaju", 
+                            "valorReembolsado":"937.92", "codDocumento":"814436"}, {"ano":"2013", "mes":"9", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"33712837000546", "fornecedor":"AVIANCA - AEROVIAS NACIONALES DE COLÔMBIA S/A", 
+                            "documento":"15EZCE", "data":"2013-09-18", "detalhamento":"Passageira: Senadora Maria do Carmo Alves
+Data: 23 SETEMBRO 2013
+Trecho: Aracaju / Brasília", 
+                            "valorReembolsado":"788.33", "codDocumento":"818963"}, {"ano":"2013", "mes":"9", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"33712837000546", "fornecedor":"AVIANCA - AEROVIAS NACIONALES DE COLÔMBIA S/A", 
+                            "documento":"15755S", "data":"2013-09-11", "detalhamento":"Passageira: Senadora Maria do Carmo Alves
+Data: 12 SETEMBRO 2013
+Trecho: Brasília /  Aracaju", 
+                            "valorReembolsado":"1242.73", "codDocumento":"812498"}, {"ano":"2013", "mes":"9", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"33712837000546", "fornecedor":"AVIANCA - AEROVIAS NACIONALES DE COLÔMBIA S/A", 
+                            "documento":"1576BR", "data":"2013-09-11", "detalhamento":"Passageira: Senadora Maria do Carmo Alves
+Data: 16 SETEMBRO 2013
+Trecho: Aracaju / Brasília", 
+                            "valorReembolsado":"788.33", "codDocumento":"814434"}, {"ano":"2013", "mes":"9", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"33712837000546", "fornecedor":"AVIANCA - AEROVIAS NACIONALES DE COLÔMBIA S/A", 
+                            "documento":"14YH4L", "data":"2013-09-03", "detalhamento":"Passageira: Senadora Maria do Carmo Alves
+Data: 09 SETEMBRO 2013
+Trecho: Aracaju / Brasília", 
+                            "valorReembolsado":"392.7", "codDocumento":"812497"}, {"ano":"2013", "mes":"9", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"33712837000546", "fornecedor":"AVIANCA - AEROVIAS NACIONALES DE COLÔMBIA S/A", 
+                            "documento":"14YH2T", "data":"2013-09-03", "detalhamento":"Passageira: Senadora Maria do Carmo Alves
+Data: 05 SETEMBRO 2013
+Trecho: Brasília / Aracaju", 
+                            "valorReembolsado":"616.28", "codDocumento":"807476"}, {"ano":"2013", "mes":"9", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"33712837000546", "fornecedor":"AVIANCA - AEROVIAS NACIONALES DE COLÔMBIA S/A", 
+                            "documento":"14R445", "data":"2013-08-27", "detalhamento":"Passageira: Senadora Maria do Carmo Alves
+Data: 02 SETEMBRO 2013
+Trecho: Aracaju / Brasília", 
+                            "valorReembolsado":"553.64", "codDocumento":"807475"}, {"ano":"2013", "mes":"9", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"00734015526", "fornecedor":"NEY MAX SANTANA OLIVEIRA", 
+                            "documento":"null", "data":"2013-10-01", "detalhamento":"Aluguel do veículo VW Novo Gol 1.0 - 2013 - Placa OER-2510/SE, no período de 01 a 30/09/2013.", 
+                            "valorReembolsado":"2000.0", "codDocumento":"827865"}, {"ano":"2013", "mes":"9", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"68872534534", "fornecedor":"MANUEL HUDSON FREITAS DOS SANTOS", 
+                            "documento":"null", "data":"2013-10-01", "detalhamento":"Aluguel do veículo VW Gol 1.6, ano 2011/12 - Placa 0EK-3088/SE.", 
+                            "valorReembolsado":"2000.0", "codDocumento":"834455"}, {"ano":"2013", "mes":"9", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"06767532568", "fornecedor":"WALKER MARTINS CARVALHO", 
+                            "documento":"51699", "data":"2013-09-23", "detalhamento":"Despesa com aluguel do escritório político da Senadora Maria do Carmo Alves - Rua Cedro, 348 - Aracaju/Sergipe", 
+                            "valorReembolsado":"4100.0", "codDocumento":"818962"}, {"ano":"2013", "mes":"9", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000411", "fornecedor":"TELEMAR NORTE LESTE S/A", 
+                            "documento":"35513", "data":"2013-09-16", "detalhamento":"Despesa com telefonia fixa do Escritório de Apoio.
+Rua Cedro, 348 - Aracaju / Sergipe", 
+                            "valorReembolsado":"148.93", "codDocumento":"842583"}, {"ano":"2013", "mes":"9", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"13017462000163", "fornecedor":"ENERGISA SERGIPE DISTRIB. ENERGIA S/A", 
+                            "documento":"417237", "data":"2013-09-20", "detalhamento":"Consumo de energia elétrica do Escritório de Apoio em Sergipe.
+Rua Cedro, 348 - Arascaju / Sergipe", 
+                            "valorReembolsado":"469.79", "codDocumento":"842582"}, {"ano":"2013", "mes":"9", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"13018171000190", "fornecedor":"DESO - COMPANHIA DE SANEAMENTO DE SERGIPE", 
+                            "documento":"null", "data":"2013-10-01", "detalhamento":"Consumo de água do Escritório de Apoio em Sergipe
+Rua Cedro, 348 - Aracaju / Sergipe", 
+                            "valorReembolsado":"568.63", "codDocumento":"842581"}, {"ano":"2013", "mes":"8", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"33712837000546", "fornecedor":"AVIANCA - AEROVIAS NACIONALES DE COLÔMBIA S/A", 
+                            "documento":"14R43G", "data":"2013-08-27", "detalhamento":"Passageira: Senadora Maria do Carmo Alves
+Data: 29 AGOSTO 2013
+Trecho: Brasília / Aracaju", 
+                            "valorReembolsado":"797.67", "codDocumento":"807474"}, {"ano":"2013", "mes":"8", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"33712837000546", "fornecedor":"AVIANCA - AEROVIAS NACIONALES DE COLÔMBIA S/A", 
+                            "documento":"14JBFE", "data":"2013-08-20", "detalhamento":"Passageira: Senadora Maria do Carmo Alves
+Data: 26 AGOSTO 2013
+Trecho: Aracaju / Brasília", 
+                            "valorReembolsado":"1237.13", "codDocumento":"803620"}, {"ano":"2013", "mes":"8", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"33712837000546", "fornecedor":"AVIANCA - AEROVIAS NACIONALES DE COLÔMBIA S/A", 
+                            "documento":"14JC2K", "data":"2013-08-20", "detalhamento":"Passageira: Senadora Maria do Carmo Alves
+Data: 22 AGOSTO 2013
+Trecho: Brasília / Aracaju", 
+                            "valorReembolsado":"936.5", "codDocumento":"803619"}, {"ano":"2013", "mes":"8", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"33712837000546", "fornecedor":"AVIANCA - AEROVIAS NACIONALES DE COLÔMBIA S/A", 
+                            "documento":"14CWVW", "data":"2013-08-14", "detalhamento":"Passageira: Senadora Maria do Carmo Alves
+Data: 16 AGOSTO 2013
+Trecho: Brasília / Aracaju", 
+                            "valorReembolsado":"796.25", "codDocumento":"803617"}, {"ano":"2013", "mes":"8", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"33712837000546", "fornecedor":"AVIANCA - AEROVIAS NACIONALES DE COLÔMBIA S/A", 
+                            "documento":"144EQ1", "data":"2013-08-06", "detalhamento":"Passageira: Senadora Maria do Carmo Alves
+Data: 12 AGOSTO 2013
+Trecho: Aracaju / Brasília", 
+                            "valorReembolsado":"932.32", "codDocumento":"803616"}, {"ano":"2013", "mes":"8", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"33712837000546", "fornecedor":"AVIANCA - AEROVAS NACIONALES DE COLÔMBIA S/A", 
+                            "documento":"14CY5V", "data":"2013-08-14", "detalhamento":"Passageira: Senadora Maria do Carmo Alves
+Data: 19 AGOSTO 2013
+Trecho: Aracaju / Brasília", 
+                            "valorReembolsado":"792.07", "codDocumento":"803618"}, {"ano":"2013", "mes":"8", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"00734015526", "fornecedor":"NEY MAX SANTANA OLIVEIRA", 
+                            "documento":"null", "data":"2013-09-03", "detalhamento":"Aluguel do veículo VW GOL 2013 PLACA 045-2510/SE", 
+                            "valorReembolsado":"2000.0", "codDocumento":"878874"}, {"ano":"2013", "mes":"8", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"06767532568", "fornecedor":"WALKER MARTINS CARVALHO", 
+                            "documento":"51698", "data":"2013-07-30", "detalhamento":"Aluguel do Escritório de Apoio Político - Rua Cedro, 348 - Aracaju - Sergipe - mês de agosto/2013", 
+                            "valorReembolsado":"4100.0", "codDocumento":"803621"}, {"ano":"2013", "mes":"8", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000411", "fornecedor":"TELEMAR NORTE LESTE S/A", 
+                            "documento":"36896", "data":"2013-08-19", "detalhamento":"Despesa com telefonia fixa do escritório político da Senadora Maria do Carmo Alves - Rua Cedro, 348 - Aracaju/Sergipe.", 
+                            "valorReembolsado":"131.33", "codDocumento":"818940"}, {"ano":"2013", "mes":"8", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"13017462000163", "fornecedor":"ENERGISA SERGIPE - DISTRIB. ENERGIA S/A", 
+                            "documento":"414789", "data":"2013-08-22", "detalhamento":"Consumo de energia elétrica do escritório político da Senadora Maria do Carmo Alves - Rua Cedro, 348 - Aracaju/Sergipe", 
+                            "valorReembolsado":"418.41", "codDocumento":"818939"}, {"ano":"2013", "mes":"8", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"13018171000190", "fornecedor":"DESO - COMPANHIA DE SANEAMENTO DE SERGIPE", 
+                            "documento":"null", "data":"2013-08-31", "detalhamento":"Despesa com consumo de água do escritório político da Senadora Maria do Carmo Alves - Rua Cedro, 348 - Acaraju/Sergipe.", 
+                            "valorReembolsado":"55.83", "codDocumento":"818938"}, {"ano":"2013", "mes":"7", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"VRG - LINHAS AÉREAS S/A", 
+                            "documento":"FDJS6T", "data":"2013-07-17", "detalhamento":"Passageira: Senadora Maria do Carmo Alves
+Data: 17 JULHO 2013
+Trecho: Brasília / São Paulo", 
+                            "valorReembolsado":"499.9", "codDocumento":"791854"}, {"ano":"2013", "mes":"7", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"33712837000546", "fornecedor":"AVIANCA - AEROVIAS NACIONALES DE COLÔMBIA S/A", 
+                            "documento":"139515", "data":"2013-07-10", "detalhamento":"Passageira: Senadora Maria do Carmo Alves
+Trecho: Brasília / Aracaju
+Data: 12 JULHO 2013", 
+                            "valorReembolsado":"422.18", "codDocumento":"781488"}, {"ano":"2013", "mes":"7", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"33712837000546", "fornecedor":"AVIANCA - AEROVIAS NACIONALES DE COLÔMBIA S/A", 
+                            "documento":"1397WN", "data":"2013-07-10", "detalhamento":"Passageira: Senadora Maria do Carmo Alves
+Trecho: Aracaju / Brasília
+Data: 15 JULHO 2013", 
+                            "valorReembolsado":"372.85", "codDocumento":"781489"}, {"ano":"2013", "mes":"7", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"33712837000546", "fornecedor":"AVIANCA - AEROVIAS NACIONALES DE COLÔMBIA S/A", 
+                            "documento":"135PA2", "data":"2013-07-07", "detalhamento":"Passageira: Senadora Maria do Carmo Alves
+Trecho: Aracaju / Brasília
+Data: 08 JULHO 2013", 
+                            "valorReembolsado":"1452.45", "codDocumento":"781487"}, {"ano":"2013", "mes":"7", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"33712837000546", "fornecedor":"AVIANCA - AEROVIAS NACIONALES DE COLÔMBIA S/A", 
+                            "documento":"12YI9T", "data":"2013-07-01", "detalhamento":"Passageira: Senadora Maria do Carmo Alves
+Trecho: Aracaju / Brasília 
+Data: 01 JULHO 2013", 
+                            "valorReembolsado":"1452.45", "codDocumento":"772613"}, {"ano":"2013", "mes":"7", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"00734015526", "fornecedor":"NEY MAX SANTANA OLIVEIRA", 
+                            "documento":"null", "data":"2013-08-01", "detalhamento":"Aluguel do automóvel VW Novo Gol 1.0, placa OER-2510/SE, no período de 01 a 31/07/2013.", 
+                            "valorReembolsado":"2000.0", "codDocumento":"827876"}, {"ano":"2013", "mes":"7", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"57432031568", "fornecedor":"BRUNO SANTANA DINIZ GONÇALVES", 
+                            "documento":"null", "data":"2013-07-31", "detalhamento":"Aluguel do veículo Fiat Palio Fire, placa IAF-8628, de 1º a 31 de julho de 2013.", 
+                            "valorReembolsado":"2000.0", "codDocumento":"791855"}, {"ano":"2013", "mes":"7", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"06767532568", "fornecedor":"Walker Martins Carvalho", 
+                            "documento":"51697", "data":"2013-07-24", "detalhamento":"Aluguel do Escritório Político 
+Rua Cedro, 348 - Aracaju/Sergipe", 
+                            "valorReembolsado":"4100.0", "codDocumento":"791853"}, {"ano":"2013", "mes":"7", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000411", "fornecedor":"TELEMAR NORTE LESTE S/A", 
+                            "documento":"36573", "data":"2013-07-19", "detalhamento":"Despesa com telefonia fixa do escritório.
+Rua Cedro, 348 - Aracaju/Sergipe", 
+                            "valorReembolsado":"147.64", "codDocumento":"794633"}, {"ano":"2013", "mes":"3", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"33712837000546", "fornecedor":"AVIANCA - AEROVIAS NACIONALES DE COLÔMBIA S/A", 
+                            "documento":"0YWOY2", "data":"2013-03-04", "detalhamento":"Passageira: Senadora Maria do Carmo Alves
+Trecho: ARACAJU / BRASÍLIA
+Data: 04 MARÇO 2013", 
+                            "valorReembolsado":"1100.45", "codDocumento":"701509"}, {"ano":"2013", "mes":"3", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"33712837000546", "fornecedor":"AVIANCA - AEROVIAS NACIONALES DE COLÔMBIA S/A", 
+                            "documento":"0ZC9R1", "data":"2012-03-12", "detalhamento":"Passageira: Senadora Maria do Carmo Alves
+Trecho: Brasília / Aracaju
+Data: 14 MARÇO 2013", 
+                            "valorReembolsado":"1456.63", "codDocumento":"716205"}, {"ano":"2013", "mes":"3", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"06767532568", "fornecedor":"WALKER MARTINS CARVALHO", 
+                            "documento":"null", "data":"2013-03-25", "detalhamento":"null", 
+                            "valorReembolsado":"4100.0", "codDocumento":"716204"}, {"ano":"2013", "mes":"3", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000411", "fornecedor":"TELEMAR NORTE LESTE S/A", 
+                            "documento":"38160", "data":"2013-03-10", "detalhamento":"null", 
+                            "valorReembolsado":"254.02", "codDocumento":"730083"}, {"ano":"2013", "mes":"3", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"13017462000163", "fornecedor":"ENERGISA SERGIPE DISTRIB. ENERGIA S/A", 
+                            "documento":"409153", "data":"2013-03-21", "detalhamento":"null", 
+                            "valorReembolsado":"442.09", "codDocumento":"730082"}, {"ano":"2013", "mes":"3", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"13018171000190", "fornecedor":"COMPANHIA DE SANEAMENTO DE SERGIPE - DESO", 
+                            "documento":"null", "data":"2013-04-02", "detalhamento":"null", 
+                            "valorReembolsado":"39.54", "codDocumento":"730081"}, {"ano":"2013", "mes":"2", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"47893664000190", "fornecedor":"TAM - TRANSPORTES AÉREOS REGIONAIS S/A", 
+                            "documento":"6VS4BS", "data":"2013-02-03", "detalhamento":"Passageiro: Senadora Maria do Carmo Alves
+Trecho: Aracaju / Brasília
+Data: 04 FEVEREIRO 2013", 
+                            "valorReembolsado":"942.05", "codDocumento":"696133"}, {"ano":"2013", "mes":"2", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"33712837000546", "fornecedor":"AVIANCA - AEROVIAS NACIONALES DE COLÔMBIA S/A", 
+                            "documento":"0YTVON", "data":"2013-02-27", "detalhamento":"Passageira: Senadora Maria do Carmo Alves
+Trecho: Brasília / Aracaju
+Data: 28 FEVEREIRO 2013", 
+                            "valorReembolsado":"1456.63", "codDocumento":"701507"}, {"ano":"2013", "mes":"2", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"33712837000546", "fornecedor":"AVIANCA - AEROVIAS NACIONALES DE COLÔMBIA S/A", 
+                            "documento":"0YN3TC", "data":"2013-02-21", "detalhamento":"Passageiro: Senadora Maria do Carmo Alves
+Trecho: Aracaju / Brasília
+Data: 25 FEVEREIRO 2013", 
+                            "valorReembolsado":"1452.45", "codDocumento":"696136"}, {"ano":"2013", "mes":"2", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"33712837000546", "fornecedor":"AVIANCA - AEROVIAS NACIONALES DE COLÔMBIA S/A", 
+                            "documento":"0YK3MQ", "data":"2013-02-19", "detalhamento":"Passageiro: Senadora Maria do Carmo Alves
+Trecho: Brasília / Aracaju
+Data: 21 FEVERIRO 2013", 
+                            "valorReembolsado":"1456.63", "codDocumento":"696135"}, {"ano":"2013", "mes":"2", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"33712837000546", "fornecedor":"AVIANCA - AEROVIAS NACIONALES DE COLÔMBIA S/A", 
+                            "documento":"0Y39NR", "data":"2013-02-06", "detalhamento":"Passageiro: Senadora Maria do Carmo Alves
+Trecho: Aracaju / Brasília
+Data: 18 FEVERIRO 2013", 
+                            "valorReembolsado":"1025.0", "codDocumento":"696134"}, {"ano":"2013", "mes":"2", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"33712837000546", "fornecedor":"AVIANCA - AEROVIAS NACIONALES DE COLÔMBIA S/A", 
+                            "documento":"0XW0ZR", "data":"2013-01-31", "detalhamento":"Passageiro: Senadora Maria do Carmo Alves
+Trecho: Brasília / Aracaju
+Data: 1º FEVEREIRO 2013", 
+                            "valorReembolsado":"684.13", "codDocumento":"696132"}, {"ano":"2013", "mes":"2", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"68872534534", "fornecedor":"MANUEL HUDSON FREITAS DOS SANTOS", 
+                            "documento":"null", "data":"2013-03-01", "detalhamento":"null", 
+                            "valorReembolsado":"2000.0", "codDocumento":"703345"}, {"ano":"2013", "mes":"2", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"06767532568", "fornecedor":"WALKER MARTINS CARVALHO", 
+                            "documento":"51692", "data":"2013-02-21", "detalhamento":"null", 
+                            "valorReembolsado":"4100.0", "codDocumento":"701508"}, {"ano":"2013", "mes":"2", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000411", "fornecedor":"TELEMAR NORTE LESTE S/A", 
+                            "documento":"37222", "data":"2013-02-14", "detalhamento":"null", 
+                            "valorReembolsado":"173.9", "codDocumento":"719956"}, {"ano":"2013", "mes":"2", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"13017462000163", "fornecedor":"ENERGISA SERGIPE - DISTRIB ENERGIA S/A", 
+                            "documento":"407534", "data":"2013-02-20", "detalhamento":"null", 
+                            "valorReembolsado":"393.27", "codDocumento":"719955"}, {"ano":"2013", "mes":"2", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"13018171000190", "fornecedor":"COMPANHIA DE SANEAMENTO DE SERGIPE - DESO", 
+                            "documento":"null", "data":"2013-03-02", "detalhamento":"null", 
+                            "valorReembolsado":"38.59", "codDocumento":"719954"}, {"ano":"2013", "mes":"1", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"33712837000546", "fornecedor":"AVIANCA - AEROVIAS NACIONALES DE COLÔMBIA S/A", 
+                            "documento":"0XSZQG", "data":"2013-01-31", "detalhamento":"Passageiro: Senadora Maria do Carmo Alves
+Trecho: Aracaju / Brasília
+Data: 31 JANEIRO 2013", 
+                            "valorReembolsado":"799.0", "codDocumento":"696727"}, {"ano":"2013", "mes":"1", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"07298098000154", "fornecedor":"ORIENT EMPREENDIMENTOS E SERVIÇOS LTDA", 
+                            "documento":"869", "data":"2013-01-28", "detalhamento":"null", 
+                            "valorReembolsado":"5000.0", "codDocumento":"689566"}, {"ano":"2013", "mes":"1", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"68872534534", "fornecedor":"MANUEL HUDSON FREITAS DOS SANTOS", 
+                            "documento":"null", "data":"2013-02-01", "detalhamento":"null", 
+                            "valorReembolsado":"2000.0", "codDocumento":"696726"}, {"ano":"2013", "mes":"1", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"06767532568", "fornecedor":"WALKER MARTINS CARVALHO", 
+                            "documento":"51691", "data":"2013-01-23", "detalhamento":"null", 
+                            "valorReembolsado":"4100.0", "codDocumento":"688787"}, {"ano":"2013", "mes":"1", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"06767532568", "fornecedor":"WALKER MARTINS CARVALHO", 
+                            "documento":"51690", "data":"2012-12-21", "detalhamento":"null", 
+                            "valorReembolsado":"4100.0", "codDocumento":"696725"}, {"ano":"2013", "mes":"1", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000411", "fornecedor":"TELEMAR NORTE LESTE S/A", 
+                            "documento":"38672", "data":"2013-01-18", "detalhamento":"null", 
+                            "valorReembolsado":"235.35", "codDocumento":"701506"}, {"ano":"2013", "mes":"1", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"13017462000163", "fornecedor":"ENERGISA SERGIPE - DISTRIB. ENERGIA S/A", 
+                            "documento":"405554", "data":"2013-01-21", "detalhamento":"null", 
+                            "valorReembolsado":"342.44", "codDocumento":"701505"}, {"ano":"2013", "mes":"1", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"13018171000190", "fornecedor":"DESO - COMPANHIA DE SANEAMENTO DE SERGIPE", 
+                            "documento":"null", "data":"2013-01-31", "detalhamento":"null", 
+                            "valorReembolsado":"35.89", "codDocumento":"701504"}, {"ano":"2013", "mes":"7", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"13017462000163", "fornecedor":"ENERGISA SERGIPE DISTRIB. ENERGIA S/A", 
+                            "documento":"413267", "data":"2013-07-23", "detalhamento":"consumo de energia elétrica do escritório político
+Rua Cedro, 348 - Aracaju - Sergipe", 
+                            "valorReembolsado":"438.44", "codDocumento":"794632"}, {"ano":"2013", "mes":"7", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"13018171000190", "fornecedor":"DESO - COMPANHIA DE SANEAMENTO DE SERGIPE", 
+                            "documento":"null", "data":"2013-08-01", "detalhamento":"Consumo de água do escritório político
+Rua Cedro, 348 - Aracaju / Sergipe", 
+                            "valorReembolsado":"177.37", "codDocumento":"794631"}, {"ano":"2013", "mes":"6", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"33712837000546", "fornecedor":"AVIANCA - AEROVIAS NACIONALES DE COLÔMBIA S/A", 
+                            "documento":"12LU62", "data":"2013-06-24", "detalhamento":"Passageira: Senadora Maria do Carmo Alves
+Trecho: Aracaju / Brasília
+Data: 24 junho 2013", 
+                            "valorReembolsado":"782.95", "codDocumento":"766624"}, {"ano":"2013", "mes":"6", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"33712837000546", "fornecedor":"AVIANCA - AEROVIAS NACIONALES DE COLÔMBIA S/A", 
+                            "documento":"12QDI6", "data":"2013-06-24", "detalhamento":"Passageira: Senadora Maria do Carmo Alves
+Trecho: Brasília / SSA / AJU
+Data: 25 JUNHO 2013", 
+                            "valorReembolsado":"575.87", "codDocumento":"772611"}, {"ano":"2013", "mes":"6", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"33712837000546", "fornecedor":"AVIANCA - AEROVIAS NACIONALES DE COLÔMBIA S/A", 
+                            "documento":"12JI5F", "data":"2013-06-18", "detalhamento":"Passageira: Senadora Maria do Carmo Alves
+Trecho: Brasília / Aracaju
+Data: 20 junho 2013", 
+                            "valorReembolsado":"1226.95", "codDocumento":"766623"}, {"ano":"2013", "mes":"6", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"33712837000546", "fornecedor":"AVIANCA - AEROVIAS NACIONALES DE COLÔMBIA S/A", 
+                            "documento":"J7K6RL", "data":"2013-06-16", "detalhamento":"Passageira: Senadora Maria do Carmo Alves
+Trecho: São Paulo (CGH) / Brasília
+Data: 17 JUNHO 2013", 
+                            "valorReembolsado":"842.06", "codDocumento":"766622"}, {"ano":"2013", "mes":"6", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"33712837000546", "fornecedor":"AVIANCA - AEROVIAS NACIONALES DE COLÔMBIA S/A", 
+                            "documento":"125kQ0", "data":"2013-06-05", "detalhamento":"Passageira: Senadora Maria do Carmo Alves
+Trecho: Brasília / São Paulo (CGH)
+Data: 06 JUNHO 2013", 
+                            "valorReembolsado":"446.5", "codDocumento":"766621"}, {"ano":"2013", "mes":"6", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"33712837000546", "fornecedor":"AVIANCA - AEROVIAS NACIONALES DE COLÔMBIA S/A", 
+                            "documento":"11X628", "data":"2013-06-03", "detalhamento":"Passageira: Senadora Maria do Carmo Alves
+Trecho: Aracaju / Brasília
+Data: 03 JUNHO 2013", 
+                            "valorReembolsado":"730.85", "codDocumento":"766620"}, {"ano":"2013", "mes":"6", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"00734015526", "fornecedor":"NEY MAX SANTANA OLIVEIRA", 
+                            "documento":"null", "data":"2013-07-02", "detalhamento":"Aluguel do veículo VW GOL, 2013, OEM-2510/SE.", 
+                            "valorReembolsado":"2000.0", "codDocumento":"874131"}, {"ano":"2013", "mes":"6", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"06767532568", "fornecedor":"WALKER MARTINS CARVALHO", 
+                            "documento":"51696", "data":"2013-06-25", "detalhamento":"Aluguel do Escritório de Apoio Político em Sergipe. Rua Cedro, 348 - Aracaju - Sergipe", 
+                            "valorReembolsado":"4100.0", "codDocumento":"772612"}, {"ano":"2013", "mes":"6", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000411", "fornecedor":"TELE NORTE LESTE S/A", 
+                            "documento":"37981", "data":"2013-06-17", "detalhamento":"Despesa com telefonia fixa do Escritório Político
+Rua Cedro, 348 - Aracaju / Sergipe", 
+                            "valorReembolsado":"155.41", "codDocumento":"789660"}, {"ano":"2013", "mes":"6", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"13017462000163", "fornecedor":"ENERGISA SERGIPE - DISTRIB. ENERGIA S/A.", 
+                            "documento":"411373", "data":"2013-06-20", "detalhamento":"Despesa com consumo de energia elétrica do Escritório Político
+Rua Cedro, 348 - Aracaju/Sergipe", 
+                            "valorReembolsado":"467.78", "codDocumento":"789658"}, {"ano":"2013", "mes":"6", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"13018171000190", "fornecedor":"DESO - Companhia de Saneamento de Sergipe", 
+                            "documento":"null", "data":"2013-07-02", "detalhamento":"Despesa com consumo de água do Escritório Político
+Rua Cedro, 348 - Aracaju/Sergipe", 
+                            "valorReembolsado":"47.21", "codDocumento":"789659"}, {"ano":"2013", "mes":"5", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"33712837000546", "fornecedor":"AVIANCA - AEROVIAS NACIONALES DE COLÔMBIA S/A", 
+                            "documento":"11Q6G0", "data":"2013-05-21", "detalhamento":"Passageira: Senadora Maria do Carmo Alves
+Trecho: Brasília / Aracaju
+Data: 23 MAIO 2013", 
+                            "valorReembolsado":"609.63", "codDocumento":"766613"}, {"ano":"2013", "mes":"5", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"33712837000546", "fornecedor":"AVIANCA - AEROVIAS NACIONALES DE COLÔMBIA S/A", 
+                            "documento":"11HYB9", "data":"2013-05-14", "detalhamento":"Passageira: Senadora Maria do Carmo Alves
+Trecho: Brasília / Aracaju
+Data: 16 MAIO 2013", 
+                            "valorReembolsado":"735.03", "codDocumento":"749837"}, {"ano":"2013", "mes":"5", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"33712837000546", "fornecedor":"AVIANCA - AEROVIAS NACIONALES DE COLÔMBIA S/A", 
+                            "documento":"11HY6A", "data":"2013-05-14", "detalhamento":"Passageira: Senadora Maria do Carmo Alves
+Trecho: Aracaju / Brasília
+Data: 20 MAIO 2013", 
+                            "valorReembolsado":"605.45", "codDocumento":"749838"}, {"ano":"2013", "mes":"5", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"33712837000546", "fornecedor":"AVIANCA - AEROVIAS NACIONALES DE COLÔMBIA S/A", 
+                            "documento":"11A7B8", "data":"2013-05-07", "detalhamento":"Passageira: Senadora Maria do Carmo Alves
+Data: 13 MAIO 2013
+Trecho: Aracaju / Brasília", 
+                            "valorReembolsado":"675.85", "codDocumento":"744390"}, {"ano":"2013", "mes":"5", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"33712837000546", "fornecedor":"AVIANCA - AEROVIAS NACIONALES DE COLÔMBIA S/A", 
+                            "documento":"10TLMV", "data":"2013-05-06", "detalhamento":"Passageira: Senadora Maria do Carmo Alves
+Trecho: Aracaju / Brasília
+Data: 06 MAIO 2013", 
+                            "valorReembolsado":"484.45", "codDocumento":"739848"}, {"ano":"2013", "mes":"5", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"33712837000546", "fornecedor":"AVIANCA - AEROVIAS NACIONALES DE COLOMBIA  S/A", 
+                            "documento":"11A6UI", "data":"2013-05-07", "detalhamento":"Passageira: Senadora Maria do Carmo Alves
+Data: 09 MAIO 2013
+Trecho: Brasília / Aracaju", 
+                            "valorReembolsado":"531.13", "codDocumento":"744389"}, {"ano":"2013", "mes":"5", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"06767532568", "fornecedor":"WALKER MARTINS CARVALHO", 
+                            "documento":"51695", "data":"2013-05-24", "detalhamento":"Rua Cedro, 348 - Aracaju/SE - ALUGUEL", 
+                            "valorReembolsado":"4100.0", "codDocumento":"766612"}, {"ano":"2013", "mes":"5", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000411", "fornecedor":"TELEMAR NORTE LESTE S/A", 
+                            "documento":"37437", "data":"2013-05-17", "detalhamento":"Despesa com telefonia fixa do Escritório Político - Rua Cedro, 348 - Aracaju / Sergipe", 
+                            "valorReembolsado":"154.55", "codDocumento":"772610"}, {"ano":"2013", "mes":"5", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"13017462000163", "fornecedor":"ENERGISA SERGIPE  - DISTRIB ENERGIA S/A", 
+                            "documento":"410560", "data":"2013-05-22", "detalhamento":"Despesa com consumo de energia elétrica do Escritório Político -  Rua Cedro, 348 - Aracaju / Sergipe", 
+                            "valorReembolsado":"463.42", "codDocumento":"772609"}, {"ano":"2013", "mes":"5", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"13018171000190", "fornecedor":"COMPANHIA DE SANEAMENTO DE SREGIPE - DESO", 
+                            "documento":"null", "data":"2013-06-18", "detalhamento":"Despesa com consumo de água do Escritório Político - Rua Cedro, 348 - Aracaju - Sergipe", 
+                            "valorReembolsado":"311.34", "codDocumento":"772608"}, {"ano":"2013", "mes":"4", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"33712837000546", "fornecedor":"AVIANCA - AEROVIAS NACIONALES DE COLÔMBIA S/A", 
+                            "documento":"10TKPP", "data":"2013-04-30", "detalhamento":"Passageira: Senadora Maria do Carmo Alves
+Trecho: Brasília / Aracaju
+Data: 30 ABRIL 2013", 
+                            "valorReembolsado":"390.13", "codDocumento":"739846"}, {"ano":"2013", "mes":"4", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"33712837000546", "fornecedor":"AVIANCA - AEROVIAS NACIONALES DE COLÔMBIA S/A", 
+                            "documento":"10KYBB", "data":"2013-04-16", "detalhamento":"Passageira: Senadora Maria do Carmo Alves
+Trecho: Aracaju / Brasília
+Data: 22 ABRIL 2013", 
+                            "valorReembolsado":"928.85", "codDocumento":"730087"}, {"ano":"2013", "mes":"4", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"33712837000546", "fornecedor":"AVIANCA - AEROVIAS NACIONALES DE COLÔMBIA S/A", 
+                            "documento":"10KXSA", "data":"2013-04-16", "detalhamento":"Passageira: Senadora Maria do Carmo Alves
+Trecho: Brasília / Aracaju
+Data: 18 ABRIL 2013", 
+                            "valorReembolsado":"609.63", "codDocumento":"730086"}, {"ano":"2013", "mes":"4", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"33712837000546", "fornecedor":"AVIANCA - AEROVIAS NACIONALES DE COLÔMBIA S/A", 
+                            "documento":"10C91Z", "data":"2013-04-09", "detalhamento":"Passageira: Maria do Carmo Alves
+Trecho: Brasília / Aracaju
+Data: 11 ABRIL 2013", 
+                            "valorReembolsado":"647.03", "codDocumento":"730084"}, {"ano":"2013", "mes":"4", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"33712837000546", "fornecedor":"AVIANCA - AEROVIAS NACIONALES DE COLÔMBIA S/A", 
+                            "documento":"10C88L", "data":"2013-04-09", "detalhamento":"Passageira: Senadora Maria do Carmo Alves
+Trecho: ARACAJU / BRASÍLIA
+Data: 15 ABRIL 2013", 
+                            "valorReembolsado":"642.85", "codDocumento":"730085"}, {"ano":"2013", "mes":"4", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"33712837000546", "fornecedor":"AVIANCA - AEROVIAS NACIONALES DE COLÔMBIA S/A", 
+                            "documento":"103826", "data":"2013-04-02", "detalhamento":"Passageira: Senadora Maria do Carmo Alves
+Trecho: Brasília / Aracaju
+Data: 04 ABRIL 2013", 
+                            "valorReembolsado":"730.63", "codDocumento":"719957"}, {"ano":"2013", "mes":"4", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"33712837000546", "fornecedor":"AVIANCA - AEROVIAS NACIONALES DE COLÔMBIA S/A", 
+                            "documento":"1038TA", "data":"2013-04-02", "detalhamento":"Passageira: Senadora Maria do Carmo Alves
+Trecho: Aracaju / Brasília
+Data: 08 ABRIL 2013", 
+                            "valorReembolsado":"726.45", "codDocumento":"719958"}, {"ano":"2013", "mes":"4", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"33712837000546", "fornecedor":"AVIANCA - AEROVIAS NACIONALES DE COLÔMBIA S/A", 
+                            "documento":"0ZLDPT", "data":"2013-03-19", "detalhamento":"Passageira: Senadora Maria do Carmo Alves
+Trecho: Aracaju / Brasília
+Data: 01 ABRIL 2013", 
+                            "valorReembolsado":"726.45", "codDocumento":"716203"}, {"ano":"2013", "mes":"4", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"06767532568", "fornecedor":"WALKER MARTINS CARVALHO", 
+                            "documento":"51694", "data":"2013-04-23", "detalhamento":"Aluguel do imóvel para escritório político da Senadora Maria do Carmo Alves.", 
+                            "valorReembolsado":"4100.0", "codDocumento":"739847"}, {"ano":"2013", "mes":"4", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000411", "fornecedor":"TELEMAR NORTE LESTE S/A", 
+                            "documento":"37496", "data":"2013-04-19", "detalhamento":"Despesa com telefonia fixa do escritório político.", 
+                            "valorReembolsado":"182.54", "codDocumento":"744386"}, {"ano":"2013", "mes":"4", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"13017462000163", "fornecedor":"ENERGISA SERGIPE - DISTRIB. ENERGIA S/A", 
+                            "documento":"412102", "data":"2013-04-22", "detalhamento":"Despesa com consumo de energia elétrica do escritório político.", 
+                            "valorReembolsado":"460.34", "codDocumento":"744388"}, {"ano":"2013", "mes":"4", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"13018171000190", "fornecedor":"COMPANHIA DE SANEAMENTO DE SERGIPE - DESO", 
+                            "documento":"null", "data":"2013-05-02", "detalhamento":"Despesa com consumo de água do escritório político.", 
+                            "valorReembolsado":"38.59", "codDocumento":"744387"}, {"ano":"2013", "mes":"3", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"33712837000546", "fornecedor":"AVIANCA - AEROVIAS NACIONALES DE COLÔMBIA S/A", 
+                            "documento":"0ZLDVT", "data":"2013-03-19", "detalhamento":"Passageira: Senadora Maria do Carmo Alves
+Trecho: Brasília / Aracaju
+Data: 21 MARÇO 2013", 
+                            "valorReembolsado":"1148.63", "codDocumento":"716207"}, {"ano":"2013", "mes":"3", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"33712837000546", "fornecedor":"AVIANCA - AEROVIAS NACIONALES DE COLÔMBIA S/A", 
+                            "documento":"0ZC9M7", "data":"2013-03-18", "detalhamento":"Passageira: Senadora Maria do Carmo Alves
+Trecho: Aracaju / Brasília
+Data: 18 MARÇO 2013", 
+                            "valorReembolsado":"985.0", "codDocumento":"716206"}, {"ano":"2013", "mes":"3", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"33712837000546", "fornecedor":"AVIANCA - AEROVIAS NACIONALES DE COLÔMBIA S/A", 
+                            "documento":"0Z3FXZ", "data":"2013-03-05", "detalhamento":"Passageira: Senadora Maria do Carmo Alves
+Trecho: Brasília / Aracaju
+Data: 07 MARÇO 2013", 
+                            "valorReembolsado":"1456.63", "codDocumento":"703346"}, {"ano":"2013", "mes":"3", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"33712837000546", "fornecedor":"AVIANCA - AEROVIAS NACIONALES DE COLÔMBIA S/A", 
+                            "documento":"0Z3GE0", "data":"2013-03-05", "detalhamento":"Passageira: Senadora Maria do Carmo Alves
+Trecho: Aracaju / Brasília
+Data: 10 MARÇO 2013", 
+                            "valorReembolsado":"1452.45", "codDocumento":"703347"}]}

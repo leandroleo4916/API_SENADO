@@ -1,0 +1,1617 @@
+{"gastosSenador": [{"ano":"2013", "mes":"12", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"16490701000196", "fornecedor":"HERBEST LOCAÇÕES E SERVIÇOS LTDA ME", 
+                            "documento":"52", "data":"2013-12-09", "detalhamento":"O VALOR DE R$ 2.500,00, REFERE-SE AO PAGAMENTO DE LOCAÇÃO DE VEÍCULO RENAULT SANDERO QUE ATENDE AO ESCRITÓRIO DE APOIO.", 
+                            "valorReembolsado":"2500.0", "codDocumento":"857777"}, {"ano":"2013", "mes":"12", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"06283146000178", "fornecedor":"FOUR COLORS COMERCIO E SERVIÇOS DE INFORMÁTICA LTDA", 
+                            "documento":"936", "data":"2013-12-05", "detalhamento":"O VALOR DE R$ 70,00, REFERE-SE AO PAGAMENTO DE RECARGA DE CARTUCHO DE TONER HP85A PARA IMPRESSORA MFP1132, QUE ATENDE AO ESCRITÓRIO DE APOIO", 
+                            "valorReembolsado":"70.0", "codDocumento":"857775"}, {"ano":"2013", "mes":"12", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"06788256000191", "fornecedor":"COND. ED. PETRO TOWER BUSINESS", 
+                            "documento":"106259", "data":"2013-12-05", "detalhamento":"O VALOR DE R$ 321,37, REFERE-SE AO PAGAMENTO DO ALUGUEL DA SALA 1604, QUE ATENDE AO ESCRITÓRIO DE APOIO", 
+                            "valorReembolsado":"321.37", "codDocumento":"857774"}, {"ano":"2013", "mes":"12", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"06788256000191", "fornecedor":"COND. ED. PETRO TOWER BUSINESS", 
+                            "documento":"10624-0", "data":"2013-12-05", "detalhamento":"O VALOR DE R$ 314,63, REFERE-SE AO PAGAMENTO DO ALUGUEL DA SALA 1603, QUE ATENDE AO ESCRITÓRIO DE APOIO", 
+                            "valorReembolsado":"314.63", "codDocumento":"857773"}, {"ano":"2013", "mes":"12", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"07661480000180", "fornecedor":"BOUSQUET 2005 PARTICIPAÇÕES E INVESTIMENTOS LTDA", 
+                            "documento":"null", "data":"2013-12-13", "detalhamento":"O VALOR DE R$ 4.675,55, REFERE-SE AO PAGAMENTO DO ALUGUEL REFERENTE AO MÊS DE DEZEMBRO DO IMÓVEL SITUADO NA AV. NOSSA SENHORA DOS NAVEGANTES, 451, SALAS 1603 E 1604, ENSEADA DO SUÁ - VITÓRIA -ES", 
+                            "valorReembolsado":"4675.55", "codDocumento":"857778"}, {"ano":"2013", "mes":"11", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572480369960", "data":"2013-11-27", "detalhamento":"PASSAGEIRO/TRECHO: JOSE LIMA - BSB X VIX - 27/11/2013
+MATRÍCULA/CARGO: 238834/SF02
+VALOR REEMBOLSADO: R$ 919,25
+
+*DESCRIÇÃO DO VALOR: O BILHETE DA PASSAGEM AÉREA E-TICKET: 957-2479877622 foi emitido, inicialmente, para o vôo do dia 26/11/2013, trecho VIX x BSB
+
+Tarifa Aérea R$ 607,00
+Taxas de Embarque R$ 16,95
+Taxa DU	R$ 60,70
+Valor Total R$ 684,65
+
+Foi reemitido para o dia 27/11/2013, trecho BSB x VIX
+
+Diferença Tarifa Aérea R$ 154,60
+Taxa DU	R$ 0,00
+Multa R$ 80,00
+Valor Total R$ 234,60
+
+Valor Total: R$ 919,25
+", 
+                            "valorReembolsado":"919.25", "codDocumento":"850174"}, {"ano":"2013", "mes":"11", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"957-2479039148", "data":"2013-11-18", "detalhamento":"PASSAGEIRO/TRECHO: RICARDO FERRAÇO - VIX x BSB - 18/11/2013
+VALOR REEMBOLSADO: R$ 905,75", 
+                            "valorReembolsado":"905.75", "codDocumento":"843969"}, {"ano":"2013", "mes":"11", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"957-2479039163", "data":"2013-11-14", "detalhamento":"PASSAGEIRO/TRECHO: RICARDO FERRAÇO - BSB x VIX - 14/11/2013
+VALOR REEMBOLSADO: R$ 805,75", 
+                            "valorReembolsado":"805.75", "codDocumento":"843968"}, {"ano":"2013", "mes":"11", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"957-2479136334", "data":"2013-11-12", "detalhamento":"PASSAGEIRO/TRECHO: RICARDO FERRAÇO - VIX x BSB - 12/11/2013
+VALOR REEMBOLSADO: R$ 766,05", 
+                            "valorReembolsado":"766.05", "codDocumento":"843967"}, {"ano":"2013", "mes":"11", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572478450092", "data":"2013-11-05", "detalhamento":"PASSAGEIRO/TRECHO: RICARDO FERRAÇO - VIX x BSB - 05/11/2013
+VALOR REEMBOLSADO: R$ 773,75", 
+                            "valorReembolsado":"773.75", "codDocumento":"843964"}, {"ano":"2013", "mes":"11", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL", 
+                            "documento":"969-0001657156", "data":"2013-11-19", "detalhamento":"PASSAGEIRO/TRECHO: EDUARDO CHUAIRI - SDU  x VIX - 19/11/2013
+MARTRÍCULA/CARGO: 263774/ APSF06
+VALOR REEMBOLSADO: R$ 492,71", 
+                            "valorReembolsado":"492.71", "codDocumento":"843970"}, {"ano":"2013", "mes":"11", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL", 
+                            "documento":"969-0001657129", "data":"2013-11-09", "detalhamento":"PASSAGEIRO/TRECHO: EDUARDO CHUAIRI - BSB X GIG - 09/11/2013
+MATRÍCULA/CARGO: 263774/ APSF06
+VALOR REEMBOLSADO: R$ 560,08", 
+                            "valorReembolsado":"560.08", "codDocumento":"843966"}, {"ano":"2013", "mes":"11", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"09296295000160", "fornecedor":"AZUL", 
+                            "documento":"2220005363070", "data":"2013-11-28", "detalhamento":"PASSAGEIRO/TRECHO: RICARDO FERRAÇO - BSB x CNF - CNF x VIX - 28/11/2013
+VALOR REEMBOLSADO: R$ 2028,41", 
+                            "valorReembolsado":"2028.41", "codDocumento":"850175"}, {"ano":"2013", "mes":"11", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"09296295000160", "fornecedor":"AZUL", 
+                            "documento":"222-0005359204", "data":"2013-11-21", "detalhamento":"PASSAGEIRO/TRECHO: RICARDO FERRAÇO - BSB x CNF - CNF x VIX 21/11/2013
+VALOR REEMBOLSADO: R$ 694,55
+
+", 
+                            "valorReembolsado":"694.55", "codDocumento":"843971"}, {"ano":"2013", "mes":"11", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"09296295000160", "fornecedor":"AZUL", 
+                            "documento":"2220005330132", "data":"2013-11-07", "detalhamento":"*DESCRIÇÃO DO VALOR: O BILHETE DA PASSAGEM AÉREA E-TICKET: 222-0005330132 foi emitido, inicialmente, para o vôo do dia 20/09/2013, trecho BSB x CNF – CNF x VIX
+
+Tarifa Aérea R$ 817,71
+Taxas de Embarque R$ 22,55
+Taxa DU	R$ 81,77
+Valor Total R$ 922,03
+
+Foi reemitido para o dia 07/11/2013, trecho BSB x CNF – CNF x VIX
+
+Diferença Tarifa Aérea R$ 740,13
+Taxa DU	R$ 0,00
+Multa R$ 0,00
+Valor Total R$ 740,13
+
+Valor Total: R$ 1.662,16
+", 
+                            "valorReembolsado":"1662.16", "codDocumento":"843965"}, {"ano":"2013", "mes":"11", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"04145589001068", "fornecedor":"ARARA AZUL REDE DE POSTOS LTDA", 
+                            "documento":"26309/1", "data":"2013-11-11", "detalhamento":"O VALOR DE R$ 508,11, REFERE-SE AOS SEGUINTES ABASTECIMENTOS:
+01/11/2013 - R$ 140,00 - VEÍCULO COROLA , PLACA ODT- 5294, MOTORISTA VALDEVINO;
+11/11/2013 - R$ 144,38 - VEÍCULO COROLA, PLACA ODT - 5294, MOTORISTA VALDEVINO;
+22/11/2013 -R$ 112,33 - VEÍCULO RENAULT SANDERO, PLACA MTZ 0354, MOTORISTA VALDEVINO;
+28/11/2013 - R$ 111,40 - VEÍCULO RENAULT SANDERO, PLACA MTZ 0354, MOTORISTA VALDEVINO.", 
+                            "valorReembolsado":"508.11", "codDocumento":"857728"}, {"ano":"2013", "mes":"11", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"04145589000681", "fornecedor":"ARARA AZUL REDE DE POSTOS LTDA", 
+                            "documento":"109000296944", "data":"2013-11-09", "detalhamento":"O VALOR DE R$ 581,76, REFERE-SE AO PAGAMENTO DOS SEGUINTES ABASTECIMENTOS:
+04/10/2013 - R$ 126,12 -  VEÍCULO COROLA, PLACA MTZ - 0354, MOTORISTA WALDIVINO;
+08/10/2013 - R$ 113,02 - VEÍCULO RENAULT SANDERO, PLACA MPJ -0195, MOTORISTA JARDEL;
+10/10/2013 - R$ 98,02 - VEÍCULO 
+18/10/2013 - R$ 115,63  -VEÍCULO
+25/10/2013 - R$ 128,97", 
+                            "valorReembolsado":"581.76", "codDocumento":"843974"}, {"ano":"2013", "mes":"11", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"32398877000179", "fornecedor":"ECT - EMP. BRAS. DE CORREIOS E TELGRAFOS", 
+                            "documento":"057", "data":"2013-11-19", "detalhamento":"O VALOR DE R$ 67,40, REFERE-SE AO PAGAMENTO DE DESPESAS POSTAIS", 
+                            "valorReembolsado":"67.4", "codDocumento":"857726"}, {"ano":"2013", "mes":"11", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"02558157000162", "fornecedor":"TELEFONICA BRASIL S.A", 
+                            "documento":"null", "data":"2013-11-24", "detalhamento":"O VALOR DE R$ 309,13, REFERE-SE AO PAGAMENTO DE CONTA TELEFÔNICA QUE ATENDE AO ESCRITÓRIO DE APOIO SITUADO NA AV. NOSSA SENHROA DOS NAVEGANTES, 451, SALAS 1603 E 1604 - ED. PETRO TOWER BUSINESS - ENSEADA DO SUÁ", 
+                            "valorReembolsado":"309.13", "codDocumento":"857727"}, {"ano":"2013", "mes":"11", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"00108786014549", "fornecedor":"NET", 
+                            "documento":"null", "data":"2013-11-30", "detalhamento":"O VALOR DE R$ 684,33, REFERE-SE AO PAGAMENTO DE CONTA DA NET QUE ATENDE AO ESCRITÓRIO DE APOIO.", 
+                            "valorReembolsado":"684.33", "codDocumento":"857730"}, {"ano":"2013", "mes":"11", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"16490701000196", "fornecedor":"HERBEST LOCAÇÕES E SERVIÇOS LTDA ME", 
+                            "documento":"48", "data":"2013-11-14", "detalhamento":"O VALOR DE R$ 4.200,00 REFERE-SE AO PAGAMENTO DE ALUGUEL DE VEÍCULO COROLA, PLACA MTZ - 0354 QUE ATENDE AO ESCRITÓRIO DE APOIO", 
+                            "valorReembolsado":"4200.0", "codDocumento":"843975"}, {"ano":"2013", "mes":"11", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"16490701000196", "fornecedor":"HERBEST LOCAÇÕES E SERVIÇOS LTDA ME", 
+                            "documento":"49", "data":"2013-11-14", "detalhamento":"O VALOR DE R$ 2.500,00, REFERE-SE AO PAGAMENTO DO ALUGUEL DO VEÍCULO SANDERO, PLACA MPJ- 9105 QUE ATENDE AO ESCRITÓRIO DE APOIO", 
+                            "valorReembolsado":"2500.0", "codDocumento":"843976"}, {"ano":"2013", "mes":"11", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"28152650000171", "fornecedor":"ESPÍRITO SANTO CENTRAIS ELETRICAS S.A", 
+                            "documento":"001292781", "data":"2013-11-24", "detalhamento":"O VALOR DE R$ 544,17, REFERE-SE AO PAGAMENTO DE CONTA DE ENERGIA ELÉTRICA QUE ATENDE AO ESCRITÓRIO DE APOIO, SITUADO NA AV. NOSSA SENHORA DOS NAVEGANTES, 451, SALAS 1603 E 1604 - ED. PETRO TOWER BUSINESS - ENSEADA DO SUÁ, VITÓRIA -ES", 
+                            "valorReembolsado":"544.17", "codDocumento":"857729"}, {"ano":"2013", "mes":"11", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"06788256000191", "fornecedor":"COND. ED. PETRO TOWER BUSINESS", 
+                            "documento":"97950", "data":"2013-11-05", "detalhamento":"O VALOR DE R$ 321,37, REFERE-SE AO PAGAMENTO DO ALUGUEL DA SALA 1604, QUE ATENDE AO ESCRITÓRIO DE APOIO", 
+                            "valorReembolsado":"321.37", "codDocumento":"843973"}, {"ano":"2013", "mes":"11", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"06788256000191", "fornecedor":"COND. ED. PETRO TOWER BUSINESS", 
+                            "documento":"97942", "data":"2013-11-05", "detalhamento":"O VALOR DE R$ 314,63 REFERE-SE AO PAGAMENTO DO ALUGUEL DA SALA 1603, DO ESCRITÓRIO DE APOIO SITUADO NA AV. NOSSA SENHORA DOS NAVEGANTES, 451 - ED. PETRO TOWER BUSINESS", 
+                            "valorReembolsado":"314.63", "codDocumento":"843972"}, {"ano":"2013", "mes":"11", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"07661480000180", "fornecedor":"BOUSQUET 2005 PARTICIPAÇOES E INVESTIMENTOS LTDA", 
+                            "documento":"null", "data":"2013-11-23", "detalhamento":"O VALOR DE R$ 4.300,80, REFERE-SE AO PAGAMENTO DO ALUGUEL DO MÊS DE NOVEMBRO DO IMÓVEL SITUADO NA AV. NOSSA SENHORA DOS NAVEGANTES, 451 - ED. PETRO TOWER BUSINESS, SALAS 1603 E 1604 - ENSEADA DO SUA", 
+                            "valorReembolsado":"4300.8", "codDocumento":"843977"}, {"ano":"2013", "mes":"10", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572478113873", "data":"2013-10-25", "detalhamento":"CNPJ: 02.012.862/0001-60
+FORNECEDOR: TAM
+DOCUMENTO: 957- 2478113873
+PASSAGEIRO/TRECHO: RICARDO FERRAÇO - BSB x CGH - 25/10/2013
+VALOR REEMBOLSADO: R$ 862,95", 
+                            "valorReembolsado":"862.95", "codDocumento":"837434"}, {"ano":"2013", "mes":"10", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572477469338", "data":"2013-10-24", "detalhamento":"CNPJ: 02.012.862/0001-60
+FORNECEDOR: TAM
+DOCUMENTO: 957- 2477469338
+PASSAGEIRO/TRECHO: KALIANA KALACHE - BSB X CWB - 24/10/2013
+MATRÍCULA/CARGO: 253938/ SF1
+VALOR REEMBOLSADO: R$ 423,55", 
+                            "valorReembolsado":"423.55", "codDocumento":"837433"}, {"ano":"2013", "mes":"10", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572477770492", "data":"2013-10-22", "detalhamento":"CNPJ: 02.012.862/0001-60
+FORNECEDOR: TAM
+DOCUMENTO: 957- 2477770492
+PASSAGEIRO/TRECHO: RICARDO FERRAÇO - VIX x BSB - 22/10/2013
+VALOR REEMBOLSADO: R$ 790,25", 
+                            "valorReembolsado":"790.25", "codDocumento":"830062"}, {"ano":"2013", "mes":"10", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572477595781", "data":"2013-10-17", "detalhamento":"CNPJ: 02.012.862/0001-60
+FORNECEDOR:TAM
+DOCUMENTO: 957-2477595781
+PASSAGEIRO/TRECHO: RICARDO FERRAÇO - BSB x SDU - 17/10/2013
+VALOR REEMBOLSADO: R$ 1029,05", 
+                            "valorReembolsado":"1029.05", "codDocumento":"830060"}, {"ano":"2013", "mes":"10", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572477301378", "data":"2013-10-15", "detalhamento":"CNPJ: 02.012.862/0001-60
+FORNECEDOR:TAM
+DOCUMENTO: 957-2477301378
+PASSAGEIRO/TRECHO: RICARDO FERRAÇO - VIX x BSB - 15/10/2013
+VALOR REEMBOLSADO: R$ 806,75", 
+                            "valorReembolsado":"806.75", "codDocumento":"830059"}, {"ano":"2013", "mes":"10", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572477098796", "data":"2013-10-10", "detalhamento":"CNPJ: 02.012.862/0001-60
+FORNECEDOR:TAM
+DOCUMENTO: 957-2477098796
+PASSAGEIRO/TRECHO: RICARDO FERRAÇO - BSB x VIX - 10/10/2013
+VALOR REEMBOLSADO: R$ 847,55", 
+                            "valorReembolsado":"847.55", "codDocumento":"830058"}, {"ano":"2013", "mes":"10", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"957-2476760789", "data":"2013-10-08", "detalhamento":"CNPJ: 02.012.862/0001-60
+FORNECEDOR:TAM
+DOCUMENTO: 957-2476760789
+PASSAGEIRO/TRECHO: RICARDO FERRAÇO - VIX x BSB - 08/10/2013
+VALOR REEMBOLSADO: R$ 907,15
+
+*DESCRIÇÃO DO VALOR: O BILHETE DA PASSAGEM AÉREA E-TICKET: 957-2475027670 foi emitido, inicialmente, para o vôo do dia 10/09/2013, trecho
+ VIX x BSB
+
+Tarifa Aérea R$ 682,00
+Taxas de Embarque R$ 16,95
+Taxa DU	R$ 68,20
+Valor Total R$ 767,15
+
+Foi reemitido para o dia 08/10/2013, trecho VIX x BSB
+Diferença Tarifa Aérea R$ 0,00
+Taxa DU	R$ 40,00
+Multa R$ 100,00
+Valor Total R$ 140,00
+
+Valor Total: R$ 907,15
+", 
+                            "valorReembolsado":"907.15", "codDocumento":"830057"}, {"ano":"2013", "mes":"10", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL", 
+                            "documento":"9690001641683", "data":"2013-10-18", "detalhamento":"CNPJ: 07.575.651/0001-59
+FORNECEDOR:GOL
+DOCUMENTO: 969-0001641683
+PASSAGEIRO/TRECHO: RICARDO FERRAÇO - SDU x VIX - 18/10/2013
+VALOR REEMBOLSADO: R$ 283,47", 
+                            "valorReembolsado":"283.47", "codDocumento":"830061"}, {"ano":"2013", "mes":"10", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"09296295000160", "fornecedor":"AZUL", 
+                            "documento":"2220005294788", "data":"2013-10-03", "detalhamento":"CNPJ: 09.296.295/0001-60
+FORNECEDOR: AZUL
+DOCUMENTO: 222-0005294788
+PASSAGEIRO/TRECHO: RICARDO FERRAÇO - 03/10/2013  -BSB x CNF - CNF x VIX
+VALOR REEMBOLSADO: R$ 2.460,29
+
+*DESCRIÇÃO DO VALOR: O BILHETE DA PASSAGEM AÉREA E-TICKET: 222-0005294788 foi emitido, inicialmente, para o vôo do dia 12/07/2013, trecho BSB x CNF – CNF x VIX
+
+Tarifa Aérea R$ 598,40
+Taxas de Embarque R$ 21,13
+Taxa DU	R$ 59,84
+Valor Total R$ 679,37
+
+Foi reemitido para o dia 11/07/2013, trecho BSB x CNF – CNF x VIX
+
+Diferença Tarifa Aérea R$ 334,80
+Taxa DU	R$ 0,00
+Multa R$ 0,00
+Valor Total R$ 334,80
+
+Foi reemitido para o dia 03/10/2013, trecho BSB x CNF – CNF x VIX
+
+Diferença Tarifa Aérea R$ 1446,12
+Taxa DU	R$ 187,99
+Multa R$ 22,55
+Valor Total R$ 1.446,12
+
+Valor Total: R$ 2.460,29
+
+", 
+                            "valorReembolsado":"2460.29", "codDocumento":"830056"}, {"ano":"2013", "mes":"10", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02575829000148", "fornecedor":"AVIANCA", 
+                            "documento":"0230128186689", "data":"2013-10-28", "detalhamento":"CNPJ: 02.575.829/0001-48
+FORNECEDOR: AVIANCA
+DOCUMENTO: 023-0128186689
+PASSAGEIRO/TRECHO: KALIANA KALACHE - CWB x BSB - 28/10/2013
+MATRICULA/CARGO: 253938/ SF1
+VALOR REEMBOLSADO: R$ 349,72", 
+                            "valorReembolsado":"349.72", "codDocumento":"837435"}, {"ano":"2013", "mes":"10", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"16490701000196", "fornecedor":"HERBEST LOCACOES E SERVIÇOS LTDA ME", 
+                            "documento":"46", "data":"2013-10-14", "detalhamento":"O VALOR DE R$ 4.200,00, REFERE-SE AO PAGAMENTO DE ALUGUEL DE VEÍCULO COROLA, PLACA MTZ - 0354, PARA ATENDER AO ESCRITÓRIO DE APOIO.", 
+                            "valorReembolsado":"4200.0", "codDocumento":"830068"}, {"ano":"2013", "mes":"10", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"16490701000196", "fornecedor":"HERBEST LOCACOES E SERVIÇOS LTDA ME", 
+                            "documento":"45", "data":"2013-10-14", "detalhamento":"O VALOR DE R$ 2.500,00, REFERE-SE AO PAGAMENTO DE ALUGUEL DE VEÍCULO RENAULT SANDERO, PLACA MPJ - 9105, QUE ATENDE AO ESCRITÓRIO DE APOIO.", 
+                            "valorReembolsado":"2500.0", "codDocumento":"830069"}, {"ano":"2013", "mes":"10", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Divulgação da atividade parlamentar", "cnpjCpf":"01105988000116", "fornecedor":"VIDEOPRESS PRODUÇÕES E JORNALISMO LTDA", 
+                            "documento":"0401", "data":"2013-10-09", "detalhamento":"O VALOR DE R$ 1.800,00, REFERE-SE AO PAGAMENTO DE SERVIÇOS DE FILMAGEM PARA DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR", 
+                            "valorReembolsado":"1800.0", "codDocumento":"830066"}, {"ano":"2013", "mes":"10", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"32398877000179", "fornecedor":"ECT - EMP. BRAS. DE CORREIOS E TELEGRAFOS ", 
+                            "documento":"060", "data":"2013-10-17", "detalhamento":"O VALOR DE R$ 37,20 REFERE-SE AO PAGAMENTO DE DESPESAS POSTAIS", 
+                            "valorReembolsado":"37.2", "codDocumento":"844233"}, {"ano":"2013", "mes":"10", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"02558157000162", "fornecedor":"TELFONICA BRASIL S.A", 
+                            "documento":"null", "data":"2013-10-20", "detalhamento":"O VALOR DE R$ 386,77, REFERE-SE AO PAGAMENTO DE CONTA TELEFONICA QUE ATENDE AO ESCRITORIO DE APOIO SITUADO NA AV. NOSSA SENHORA DOS NAVEGANTES, 451- ED. PETRO TOWER BUSINESS, SALAS 1603 E 1604 - ENSEADA DO SUÁ", 
+                            "valorReembolsado":"386.77", "codDocumento":"844234"}, {"ano":"2013", "mes":"10", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"00108786014549", "fornecedor":"NET", 
+                            "documento":"508002142221", "data":"2013-10-31", "detalhamento":"O VALOR DE R$ 585,75 REFERE-SE AO PAGAMENTO DA NET QUE ATENDE AO ESCRITORIO DE APOIO", 
+                            "valorReembolsado":"585.75", "codDocumento":"844236"}, {"ano":"2013", "mes":"10", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"10484680000110", "fornecedor":"JET COMERCIO DE ARTIGOS DE PAPELARIA LTDA ME", 
+                            "documento":"4027", "data":"2013-10-10", "detalhamento":"O VALOR DE R$ 240,00, REFERE-SE AO PAGAMENTO DE DESPESA COM MATERIAL DE PAPELARIA PARA ATENDER AO ESCRITÓRIO DE APOIO, SITUADO NA AV. NOSSA SENHORA DOS NAVEGANTES, 451 - SALAS 1603 E 1604 - ED. PETRO TOWER BUSINESS - ENSEADA DO SUÁ", 
+                            "valorReembolsado":"240.0", "codDocumento":"837436"}, {"ano":"2013", "mes":"10", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"28152650000171", "fornecedor":"ESPÍRITO SANTO CENTRAIS ELETRICAS S.A", 
+                            "documento":"001298914", "data":"2013-10-10", "detalhamento":"O VALOR DE R$ 280,52, REFERE-SE AO PAGAMENTO DE CONTA DE ENERGIA QUE ATENDE AO ESCRITÓRIO DE APOIO.", 
+                            "valorReembolsado":"280.52", "codDocumento":"830065"}, {"ano":"2013", "mes":"10", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"28152650000171", "fornecedor":"ESPIRITO SANTO CENTRAIS ELETRICAS S.A", 
+                            "documento":"null", "data":"2013-10-24", "detalhamento":"O VALOR DE R$ 230,50, REFERE-SE AO PAGAMENTO DE CONTA DE ENERGIA ELETRICA QUE ATENDE AO ESCRITÓRIO DE APOIO", 
+                            "valorReembolsado":"230.5", "codDocumento":"844235"}, {"ano":"2013", "mes":"10", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"06788256000191", "fornecedor":"COND. ED. PETRO TOWER BUSINESS", 
+                            "documento":"9431-5", "data":"2013-10-05", "detalhamento":"O VALOR DE R$ 321,37, REFERE-SE AO PAGAMENTO DO CONDOMÍNIO DA SALA 1604, QUE ATENDE AO ESCRITÓRIO DE APOIO", 
+                            "valorReembolsado":"321.37", "codDocumento":"830063"}, {"ano":"2013", "mes":"10", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"06788256000191", "fornecedor":"COND. ED. PETRO TOWER BUSINESS", 
+                            "documento":"9430-7", "data":"2013-10-05", "detalhamento":"O VALOR DE R$ 314,63, REFERE-SE AO PAGAMENTO DO CONDOMÍNIO DA SALA 1603, QUE ATENDE AO ESCRITÓRIO DE APOIO", 
+                            "valorReembolsado":"314.63", "codDocumento":"830064"}, {"ano":"2013", "mes":"10", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"07661480000180", "fornecedor":"BOUSQUET 2005 PARTICIPAÇÕES E INVESTIMENTOS LTDA", 
+                            "documento":"null", "data":"2013-10-23", "detalhamento":"O VALOR DE R$ 4.300,80, REFERE-SE AO PAGAMENTO DO ALUGUEL DO MÊS DE OUTUBRO, DO IMÓVEL SITUADO NA AV. NOSSA SENHORA DOS NAVEGANTES, 451, SALAS 1603 E 1604 - ENSEADA DO SUÁ - VITÓRIA/ES", 
+                            "valorReembolsado":"4300.8", "codDocumento":"830070"}, {"ano":"2013", "mes":"9", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572475538292", "data":"2013-09-29", "detalhamento":"CNPJ: 02.012.862/0001-60
+FORNECEDOR: TAM
+DOCUMENTO: 957- 2475538292
+PASSAGEIRO/TRECHO: KALIANA KALACHE - CWB x VIX - 29/09/2013
+MATRÍCULA: 250597/ SF1
+VALOR REEMBOLSADO: R$ 570,47", 
+                            "valorReembolsado":"570.47", "codDocumento":"818296"}, {"ano":"2013", "mes":"9", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572476065897", "data":"2013-09-19", "detalhamento":"CNPJ: 02.012.862/0001-60
+FORNECEDOR: TAM
+DOCUMENTO: 957-2476065897
+PASSAGEIRO/TRECHO: RICARDO FERRAÇO - BSB x VIX - 19/09/2013
+VALOR REEMBOLSADO: R$ 847,55", 
+                            "valorReembolsado":"847.55", "codDocumento":"818284"}, {"ano":"2013", "mes":"9", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572475861502", "data":"2013-09-17", "detalhamento":"CNPJ: 02.012.862/0001-60
+FORNECEDOR: TAM
+DOCUMENTO: 957-2475861502
+PASSAGEIRO/TRECHO: RICARDO FERRAÇO - VIX x BSB - 17/09/2013
+VALOR REEMBOLSADO: R$ 771,55", 
+                            "valorReembolsado":"771.55", "codDocumento":"818283"}, {"ano":"2013", "mes":"9", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572475861534", "data":"2013-09-13", "detalhamento":"CNPJ: 02.012.862/0001-60
+FORNECEDOR: TAM
+DOCUMENTO: 957-2475861534
+PASSAGEIRO/TRECHO: TAÍSA SILVA- BSB x SDU - 13/09/2013
+MATRÍCULA: 190140/ SF02
+VALOR REEMBOLSADO: R$ 2.129,05", 
+                            "valorReembolsado":"2129.05", "codDocumento":"818281"}, {"ano":"2013", "mes":"9", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572475027669", "data":"2013-09-03", "detalhamento":"CNPJ: 02.012.862/0001-60
+FORNECEDOR: TAM
+DOCUMENTO: 957-2475027669
+PASSAGEIRO/TRECHO: RICARDO FERRAÇO - VIX x BSB - 03/09/2013
+
+*DESCRIÇÃO DO VALOR: O BILHETE DA PASSAGEM AÉREA E-TICKET: 957-2474665795 foi emitido, inicialmente, para o vôo do dia 02/09/2013, trecho 
+VIX x BSB
+Tarifa Aérea R$ 1012,00
+Taxas de Embarque R$ 16,95
+Taxa DU	R$ 101,20
+Valor Total R$ 1130,15
+
+Foi reemitido para o dia 03/09/2013, trecho VIX x BSB
+
+Diferença Tarifa Aérea R$ 0,00
+Taxa DU	R$ 40,00
+Multa	R$ 80,00
+Valor Total R$ 120,00
+
+
+Valor Total: R$ 1.250,15
+
+", 
+                            "valorReembolsado":"1250.15", "codDocumento":"818279"}, {"ano":"2013", "mes":"9", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL", 
+                            "documento":"969-0001631083", "data":"2013-09-30", "detalhamento":"CNPJ: 07.575.651/0001-59
+FORNECEDOR: GOL
+DOCUMENTO: 969-0001631083
+PASSSAGEIRO/TRECHO: RICARDO FERRAÇO - GRU x BSB - 30/09/2013
+VALOR REEMBOLSADO: R$ 654,94", 
+                            "valorReembolsado":"654.94", "codDocumento":"818297"}, {"ano":"2013", "mes":"9", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL", 
+                            "documento":"9690001621115", "data":"2013-09-15", "detalhamento":"CNPJ: 07.575.651/0001-59
+FORNECEDOR: GOL
+DOCUMENTO: 969-0001621115
+PASSAGEIRO/TRECHO: TAISA SILVA - SDU x BSB - 15/09/2013
+MATRÍCULA: 190140/SF02
+VALOR REEMBOLSADO: R$ 1414,06", 
+                            "valorReembolsado":"1414.06", "codDocumento":"818282"}, {"ano":"2013", "mes":"9", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"09296295000160", "fornecedor":"AZUL", 
+                            "documento":"2220005331244", "data":"2013-09-24", "detalhamento":"CNPJ: 09.296.295/0001-60
+FORNECEDOR: AZUL
+DOCUMENTO: 222-0005331244
+PASSAGEIRO/TRECHO: RICARDO FERRAÇO - VIX x SDU - 24/09/2013
+VALOR REEMBOLSADO: R$ 230,68", 
+                            "valorReembolsado":"230.68", "codDocumento":"818285"}, {"ano":"2013", "mes":"9", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"09296295000160", "fornecedor":"AZUL", 
+                            "documento":"2220005326629", "data":"2013-09-12", "detalhamento":"CNPJ: 09.296.295/0001-60
+FORNECEDOR: AZUL
+DOCUMENTO: 222-0005326629
+PASSAGEIRO/TRECHO: RICARDO FERRAÇO - BSB x CNF - CNF x VIX - 12/09/2013
+VALOR REEMBOLSADO: R$ 1.109,24", 
+                            "valorReembolsado":"1109.24", "codDocumento":"818280"}, {"ano":"2013", "mes":"9", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02575829000148", "fornecedor":"AVIANCA", 
+                            "documento":"0230127616313", "data":"2013-09-26", "detalhamento":"CNPJ: 02.575.829/0001-48
+FORNECEDOR: AVIANCA
+DOCUMENTO: 023-0127616313
+PASSAGEIRO/TRECHO: KALIANA KALACHE - BSB x CWB - 26/09/2013
+MATRÍCULA: 253938/SF01
+VALOR REEMBOLSADO: R$ 350,70", 
+                            "valorReembolsado":"350.7", "codDocumento":"818295"}, {"ano":"2013", "mes":"9", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"06325665000151", "fornecedor":"PROMENADE APART HOTEIS LTDA", 
+                            "documento":"00297445", "data":"2013-09-27", "detalhamento":"O VALOR DE R$ 457,810, REFERE-SE AO PAGAMENTO DE DESPESA COM HOSPEDAGEM, NO PROMENADE APART HOTEIS LTDA, SITUADO À RUA TEÓFILO OTONI, 15, AND 4 - CENTRO - RJ", 
+                            "valorReembolsado":"457.8", "codDocumento":"818298"}, {"ano":"2013", "mes":"9", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"02419765000439", "fornecedor":"HOTELARIA ACCOR PDB LTDA", 
+                            "documento":"140013", "data":"2013-09-29", "detalhamento":"O VALOR DE R$ 546,96, REFERE-SE AO PAGAMENTO DE DESPESA COM HOSPEDAGEM", 
+                            "valorReembolsado":"546.96", "codDocumento":"830033"}, {"ano":"2013", "mes":"9", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"05382514000172", "fornecedor":"FADEL TAXI", 
+                            "documento":"null", "data":"2013-09-13", "detalhamento":"O VALOR DE R$ 44,00, REFERE-SE AO PAGAMENTO DE DESPESA COM DESLOCAMENTO", 
+                            "valorReembolsado":"44.0", "codDocumento":"818289"}, {"ano":"2013", "mes":"9", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"30042097000166", "fornecedor":"COOPERATIVA MISTA DE TRAB DE MOT AUT DE TAXI ESPECIAL DO RIO DE JANEIRO", 
+                            "documento":"null", "data":"2013-09-13", "detalhamento":"O VALOR DE R$ 124,00, REFERE-SE AO PAGAMENTO DE DESPESA COM DESLOCAMENTO", 
+                            "valorReembolsado":"124.0", "codDocumento":"818288"}, {"ano":"2013", "mes":"9", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"07384726000114", "fornecedor":"COOPERATIVA DE TAXISTAS AUTONOMOS VALE TAXI", 
+                            "documento":"null", "data":"2013-09-13", "detalhamento":"O VALOR DE R$ 22,00, REFERE-SE AO PAGAMENTO DE DESPESA COM DESLOCAMENTO.", 
+                            "valorReembolsado":"22.0", "codDocumento":"818290"}, {"ano":"2013", "mes":"9", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"04145589001068", "fornecedor":"ARARA AZUL REDE DE POSTOS LTDA", 
+                            "documento":"109000293115", "data":"2013-09-04", "detalhamento":"O VALOR DE R$ 719,32, REFERE-SE AOS SEGUINTES ABASTECIMENTOS:
+04/09/2013 - R$ 135,72, VEÍCULO COROLA, PLACA MTZ - 0354
+12/09/2013 - R$ 58,60, VEÍCULO COROLA, PLACA MTZ - 0354
+18/09/2013 - R$ 143,90, VEÍCULO SANDERO, PLACA MPJ - 0195
+20/09/2013 - R$ 115,31, VEÍCULO SANDERO, PLACA MPJ - 0195
+23/09/2013 - R$ 76,15, VEÍCULO COROLA, PLACA MTZ - 0354
+26/09/2013 - R$ 97,73, VEÍCULO SANDERO, PLACA MPJ - 0195
+27/09/2013 - R$ 91,91, VEÍCULO COROLA, PLACA MTZ - 0354", 
+                            "valorReembolsado":"719.32", "codDocumento":"830034"}, {"ano":"2013", "mes":"9", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"06283146000178", "fornecedor":"FOUR COLORS COMERCIO E SERVICOS DE INFORMATICA LTDA-ME", 
+                            "documento":"00839", "data":"2013-09-19", "detalhamento":"O VALOR DE R$ 341,00, REFERE-SE AO PAGAMENTO E DESPESA COM MATERIAL DE INFORMÁTICA ( CARTUCHO ORIGINAL 950 PRETO; RECARGA DE CARTUCHO HP 950 PRETO; CARTUCHO ORIGINAL HP 951 CIANO E CARTUCHO ORIGINAL HP 951 AMARELO)", 
+                            "valorReembolsado":"341.0", "codDocumento":"818293"}, {"ano":"2013", "mes":"9", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"32398877000179", "fornecedor":"ECT - EMPRESA DE CORREIOS E TELEGRAFOS", 
+                            "documento":"035", "data":"2013-09-20", "detalhamento":"O VALOR DE R$ 37,20, REFERE-SE AO PAGAMENTO DE  DESPESAS POSTAIS", 
+                            "valorReembolsado":"37.2", "codDocumento":"830036"}, {"ano":"2013", "mes":"9", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"32398877000179", "fornecedor":"ECT - EMP. BRAS. DE CORREIOS E TELEGRAFOS", 
+                            "documento":"035", "data":"2013-09-26", "detalhamento":"O VALOR DE R$ 37,20, REFERE-SE AO PAGAMENTO DE DESPESAS POSTAIS", 
+                            "valorReembolsado":"37.2", "codDocumento":"830038"}, {"ano":"2013", "mes":"9", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"32398877000179", "fornecedor":"ECT - EMP. BRAS. DE CORREIOS E TELEGRAFOS", 
+                            "documento":"037", "data":"2013-09-26", "detalhamento":"O VALOR DE R$ 18,20, REFERE-SE AO PAGAMENTO DE DESPESAS POSTAIS", 
+                            "valorReembolsado":"18.2", "codDocumento":"830037"}, {"ano":"2013", "mes":"9", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"02558157000162", "fornecedor":"VIVO", 
+                            "documento":"000369860092013", "data":"2013-09-10", "detalhamento":"O VALOR DE R$ 323,48, REFERE-SE AO PAGAMENTO DE DESPESA COM LINHA TELEFÔNICA DISPONIBILIZADA PARA ATENDER AO ESCRITÓRIO DE APOIO, SITUADO NA AV. NOSSA SENHORA DOS NAVEGANTES, 451 -ED. PETRO TOWER BUSINESS, SALAS 1603 E 1604 - ENSEADA DO SUÁ", 
+                            "valorReembolsado":"323.48", "codDocumento":"830035"}, {"ano":"2013", "mes":"9", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"00108786014549", "fornecedor":"NET", 
+                            "documento":"null", "data":"2013-09-30", "detalhamento":"O VALOR DE R$ 845,37, REFERE-SE AO PAGAMENTO DA NET QUE ATENDE AO ESCRITÓRIO DE APOIO", 
+                            "valorReembolsado":"845.37", "codDocumento":"830039"}, {"ano":"2013", "mes":"9", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"16490701000196", "fornecedor":"HERBEST LOCACOES E SERVICOS LTDA ME", 
+                            "documento":"40", "data":"2013-09-16", "detalhamento":"O VALOR DE R$ 4.200,00, REFERE-SE AO PAGAMENTO DE DESPESA COM LOCAÇÃO DE VEÍCULO COROLA, PLACA MTZ-0354, PARA ATENDER AO ESCRITÓRIO DE APOIO", 
+                            "valorReembolsado":"4200.0", "codDocumento":"818291"}, {"ano":"2013", "mes":"9", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"16490701000196", "fornecedor":"HERBEST LOCACOES E SERVICOS LTDA ME", 
+                            "documento":"41", "data":"2013-09-16", "detalhamento":"O VALOR DE R$ 2.500,00, REFERE-SE AO PAGAMENTO DE ALUGUEL DO CARRO RENAULT SANDERO, PLACA MPJ 9105, QUE ATENDE AO ESCRITÓRIO DE APOIO.", 
+                            "valorReembolsado":"2500.0", "codDocumento":"818292"}, {"ano":"2013", "mes":"9", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"06788256000191", "fornecedor":"COND. ED. PETRO TOWER BUSINESS", 
+                            "documento":"88480", "data":"2013-09-05", "detalhamento":"O VALOR DE R$ 321,37, REFERE-SE AO PAGAMENTO DO ALUGUEL DA SALA 1604, QUE ATENDE AO ESCRITÓRIO DE APOIO EM VITÓRIA.", 
+                            "valorReembolsado":"321.37", "codDocumento":"818287"}, {"ano":"2013", "mes":"9", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"06788256000191", "fornecedor":"COND. ED. PETRO TOWER BUSINESS", 
+                            "documento":"88471", "data":"2013-09-05", "detalhamento":"O VALOR DE R$ 314,63, REFERE-SE AO PAGAMENTO DO ALUGUEL DA SALA 1603, QUE ATENDE AO ESCRITÓRIO DE REPRESENTAÇÃO EM VITÓRIA.", 
+                            "valorReembolsado":"314.63", "codDocumento":"818286"}, {"ano":"2013", "mes":"9", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"07661480000180", "fornecedor":"BOUSQUET 2005 PARTICIPAÇÕES E INVESTIMENTOS LTDA", 
+                            "documento":"null", "data":"2013-09-23", "detalhamento":"O VALOR DE R$ 4.300,80, REFERE-SE AO PAGAMENTO DO ALUGUEL DO MÊS DE SETEMBRO/2013, DO IMOVEL SITUADO NA AV. NOSSA SENHORA DOS NAVEGANTES, 451, SALAS 1603 E 1604, ENSEADA DO SUÁ - VITÓRIA", 
+                            "valorReembolsado":"4300.8", "codDocumento":"818294"}, {"ano":"2013", "mes":"8", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572474384570", "data":"2013-08-27", "detalhamento":"CNPJ: 02.012.862/0001-60
+FORNECEDOR: TAM
+DOCUMENTO: 957-2474384570
+PASSAGEIRO/TRECHO: RICARDO FERRAÇO - VIX x BSB - 27/08/2013
+VALOR REEMBOLSADO: R$ 803,45", 
+                            "valorReembolsado":"803.45", "codDocumento":"803567"}, {"ano":"2013", "mes":"8", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572474384526", "data":"2013-08-22", "detalhamento":"CNPJ: 02.012.862/0001-60
+FORNECEDOR: TAM
+DOCUMENTO: 957-2474384526
+PASSAGEIRO/TRECHO: RICARDO FERRAÇO - BSB x SDU - 22/08/2013
+VALOR REEMBOLSADO: R$ 704,55", 
+                            "valorReembolsado":"704.55", "codDocumento":"803565"}, {"ano":"2013", "mes":"8", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572474027721", "data":"2013-08-20", "detalhamento":"CNPJ: 02.012.862/0001-60
+FORNECEDOR: TAM
+DOCUMENTO: 957-2474027721
+PASSAGEIRO/TRECHO: RICARDO FERRAÇO - VIX x BSB - 20/08/2013
+VALOR REEMBOLSADO: R$ 803,45", 
+                            "valorReembolsado":"803.45", "codDocumento":"803564"}, {"ano":"2013", "mes":"8", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"957-2473571587", "data":"2013-08-13", "detalhamento":"CNPJ: 02.012.862/0001-60
+FORNECEDOR: TAM
+DOCUMENTO: 957-2473571587
+PASSAGEIRO/TRECHO: RICARDO FERRAÇO - VIX x BSB - 13/08/2013
+VALOR REEMBOLSADO: R$ 772,65", 
+                            "valorReembolsado":"772.65", "codDocumento":"803562"}, {"ano":"2013", "mes":"8", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"957-2473240977", "data":"2013-08-05", "detalhamento":"CNPJ: 02.012.862/0001-60
+FORNECEDOR: TAM
+DOCUMENTO: 957-2473240977
+PASSAGEIRO/TRECHO: RICARDO FERRAÇO - VIX x BSB (05/08/2013)
+VALOR REEMBOLSADO: R$ 2.058,55", 
+                            "valorReembolsado":"2058.55", "codDocumento":"803560"}, {"ano":"2013", "mes":"8", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572473240905", "data":"2013-08-01", "detalhamento":"CNPJ: 02.012.862/0001-60
+FORNECEDOR: TAM
+DOCUMENTO: 957-2473240905
+PASSAGEIRO/TRECHO: RICARDO FERRAÇO - BSB x VIX - 01/08/2013
+VALOR REEMBOLSADO: R$ 792,23", 
+                            "valorReembolsado":"792.23", "codDocumento":"803558"}, {"ano":"2013", "mes":"8", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"957-2473020076", "data":"2013-08-01", "detalhamento":"CNPJ: 02.012.862/0001-60
+FORNECEDOR: TAM
+DOCUMENTO: 957-2473020076
+PASSAGEIRO/TRECHO: RICARDO FERRAÇO -VIX x BSB - 01/08/2013
+VALOR REEMBOLSADO: R$ 788,05", 
+                            "valorReembolsado":"788.05", "codDocumento":"803557"}, {"ano":"2013", "mes":"8", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL", 
+                            "documento":"969-0001583940", "data":"2013-08-03", "detalhamento":"CNPJ: 07.575.651/0001-59
+FORNECEDOR: GOL
+DOCUMENTO: 969-0001583940
+PASSAGEIRO/TRECHO: KALIANA KALACHE - CWB x BSB - 03/082013
+MATRÍCULA/CARGO: 253938/ SF1
+VALOR REEMBOLSADO: R$ 221,47", 
+                            "valorReembolsado":"221.47", "codDocumento":"803559"}, {"ano":"2013", "mes":"8", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"09296295000160", "fornecedor":"AZUL", 
+                            "documento":"2220005320510", "data":"2013-08-29", "detalhamento":"CNPJ: 09.296.295/0001-60
+FORNECEDOR: AZUL
+DOCUMENTO: 222-0005320510
+PASSAGEIRO/TRECHO: RICARDO FERRAÇO - BSB x CNF - CNF x VIX - 29/08/2013
+VALOR SOLICITADO:
+*DESCRIÇÃO DO VALOR: O BILHETE DA PASSAGEM AÉREA E-TICKET: 222-0005320071 FOI EMITIDO, INICIALMENTE PARA O VÔO DO DIA 22/09/2013, TRECHO BSB x CNF - CNF x VIX
+TARIFA AÉREA: R$ 503,40
+TAXA DE EMBARQUE: R$ 22,55
+TAXA DE DU: R$ 50,34
+VALOR TOTAL: R$ 576,29
+FOI REEMITIDO PARA O DIA 29/08/2013, TRECHO BSB x CNF - CNF x VIX
+DIFERENÇA TARIFA AÉREA: R$ 1757,50
+TAXA DU: R$ 175,75
+VALOR TOTAL: R$ 1933,25
+VALOR TOTAL DA PASSAGEM: R$ 576,29   R$ 1933,25 = R$ 2509,54", 
+                            "valorReembolsado":"2509.54", "codDocumento":"805824"}, {"ano":"2013", "mes":"8", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"09296295000160", "fornecedor":"AZUL", 
+                            "documento":"2220005317119", "data":"2013-08-23", "detalhamento":"CNPJ: 09.296.295/0001-60
+FORNECEDOR: AZUL
+DOCUMENTO: 222-0005317119
+PASSAGEIRO/TRECHO: RICARDO FERRAÇO - SDU x VIX - 23/08/2013
+VALOR REEMBOLSADO: R$ 391,84", 
+                            "valorReembolsado":"391.84", "codDocumento":"803566"}, {"ano":"2013", "mes":"8", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"09296295000160", "fornecedor":"AZUL", 
+                            "documento":"2220005314159", "data":"2013-08-15", "detalhamento":"CNPJ: 09.296.295/0001-60
+FORNECEDOR: AZUL
+DOCUMENTO: 222-0005314159
+PASSAGEIRO/TRECHO: RICARDO FERRAÇO - BSB X VIX - 15/08/2013
+VALOR REEMBOLSADO: R$ 1.985,62", 
+                            "valorReembolsado":"1985.62", "codDocumento":"803563"}, {"ano":"2013", "mes":"8", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"09296295000160", "fornecedor":"AZUL", 
+                            "documento":"222-0005306570", "data":"2013-08-08", "detalhamento":"CNPJ:09.296.295/0001-60
+FORNECEDOR: AZUL
+DOCUMENTO: 222-0005306570
+PASSAGEIRO/TRECHO: RICARDO FERRAÇO - BSB x CNF - CNF x VIX - 08/08/2013
+VALOR REEMBOLSADO: R$ 1.209,12
+DESCRIÇÃO DO VALOR: O BILHETE DA PASSAGEM AÉREA E-TICKET: 222-0005306570 foi emitido, inicialmente, para o vôo do dia 01/08/2013, trecho BSB x CNF – CNF x VIX
+
+Tarifa Aérea R$ 750,40
+Taxas de Embarque R$ 28,13
+Taxa DU	R$ 75,04
+Valor Total R$ 853,57
+
+Foi reemitido para o dia 08/08/2013, trecho VIX x BSB
+
+Diferença Tarifa Aérea R$ 118,01
+Taxa DU	R$ 87,54
+Multa R$ 150,00
+Valor Total R$ 355,55
+
+
+Valor Total: R$ 1.209,12
+
+", 
+                            "valorReembolsado":"1209.12", "codDocumento":"803561"}, {"ano":"2013", "mes":"8", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"06325665000151", "fornecedor":"PROMENADE APART HOTEIS LTDA", 
+                            "documento":"00287137", "data":"2013-08-26", "detalhamento":"O VALOR DE R$ 457,80, REFERE-SE AO PAGAMENTO DE DIÁRIA DO SENADOR RICARDO FERRAÇO", 
+                            "valorReembolsado":"457.8", "codDocumento":"805825"}, {"ano":"2013", "mes":"8", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"77488040791", "fornecedor":"ARARA AZUL REDE DE POSTOS LTDA", 
+                            "documento":"109000289519", "data":"2013-08-01", "detalhamento":"O VALOR DE R$ 871,56, REFRERE-SE AO PAGAMENTO DOS SEGUINTES ABASTECIMENTOS:
+01/08/2013 - VEÍCULO RENAULT SANDERO, PLACA MPJ-9105 -R$ 55,03
+01/08/2013 - VEÍCULO COROLA, PLACA MTZ-0354 - R$ 89,26
+02/08/2013 - VEÍCULO RENAULT SANDERO, PLACA MPJ -9105 - R$ 106,68
+13/08/2013 -  VEÍCULO COROLA, PLACA MTZ-0354 - R$ 140,00
+19/08/2013 - VEÍCULO RENAULT SANDERO, PLACA MPJ -9105 - R$ 110,00
+20/08/2013-  VEÍCULO COROLA, PLACA MTZ-0354 - R$ 130,02
+22/08/2013  -VEÍCULO RENAULT SANDERO, PLACA MPJ -9105 - R$ 101,57
+27/08/2013 - VEÍCULO RENAULT SANDERO, PLACA MPJ -9105 - R$ 41,15
+29/08/2013 - VEÍCULO COROLA, PLACA MTZ-0354 - R$ 97,85
+
+ 
+", 
+                            "valorReembolsado":"871.56", "codDocumento":"818273"}, {"ano":"2013", "mes":"8", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"01298772000114", "fornecedor":"AEROSDUMONT", 
+                            "documento":"286037", "data":"2013-08-21", "detalhamento":"O VALOR DE R$ 31,00, REFERE-SE AO PAGAMENTO DE DESPESA COM DESLOCAMENTO DO SENADOR RICARDO FERRAÇO", 
+                            "valorReembolsado":"31.0", "codDocumento":"805826"}, {"ano":"2013", "mes":"8", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"01105988000116", "fornecedor":"VIDEOPRESS PRODUÇÕES E JORNALISMO LTDA", 
+                            "documento":"0395", "data":"2013-08-16", "detalhamento":"O VALOR DE R$ 1.800,00, REFERE-SE AO PAGAMENTO DE SERVIÇOS DE FILMAGENS PARA DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR", 
+                            "valorReembolsado":"1800.0", "codDocumento":"803572"}, {"ano":"2013", "mes":"8", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"10484680000110", "fornecedor":"JET COMERCIO DE ARTIGOS DE PAPELARIA LTDA ME", 
+                            "documento":"000003849", "data":"2013-08-23", "detalhamento":"O VALOR DE R$ 27,00, REFERE-SE À COMPRA DE MATERIAL DE CONSUMO: 2 RESMAS DE PAPEL AQ-4 75GR C/500 CHAMEX RINO PARA UTILIZAÇÃO NO ESCRITÓRIO DE APOIO ", 
+                            "valorReembolsado":"27.0", "codDocumento":"818275"}, {"ano":"2013", "mes":"8", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"16490701000196", "fornecedor":"HERBST LOCAÇÕES E SERVIÇOS LTDA ME", 
+                            "documento":"35", "data":"2013-08-15", "detalhamento":"O VALOR DE R$ 4.200,00 REFERE-SE AO ALUGUEL DO VEÍCULO COROLA, PLACA MTZ - 0354", 
+                            "valorReembolsado":"4200.0", "codDocumento":"803571"}, {"ano":"2013", "mes":"8", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"16490701000196", "fornecedor":"HERBST LOCAÇÕES E SERVIÇOS LTDA ME", 
+                            "documento":"36", "data":"2013-08-15", "detalhamento":"O VALOR DE R$ 2.500,00, REFERE-SE À LOCAÇÃO DE VEÍCULO RENAULT SANDERO, PLACA MPJ - 9105, ANO/MODELO - 2013", 
+                            "valorReembolsado":"2500.0", "codDocumento":"803570"}, {"ano":"2013", "mes":"8", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"32398877000179", "fornecedor":"ECT - EMPRESA BRASILEIRA DE CORREIOS E TELEGRAFOS", 
+                            "documento":"040", "data":"2013-08-21", "detalhamento":"O VALOR DE R$ 38,00, REFERE-SE AO PAGAMENTO DE DESPESAS POSTAIS", 
+                            "valorReembolsado":"38.0", "codDocumento":"818274"}, {"ano":"2013", "mes":"8", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"02558157000324", "fornecedor":"TELEFONICA BRASIL S.A", 
+                            "documento":"000413596082013", "data":"2013-08-20", "detalhamento":"O VALOR DE R$ 323,67, REFERE-SE AO PAGAMENTO DE LINHA TELEFONICA QUE ATENDE AO ESCRITORIO DE APOIO.", 
+                            "valorReembolsado":"323.67", "codDocumento":"818277"}, {"ano":"2013", "mes":"8", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"00108786014549", "fornecedor":"NET", 
+                            "documento":"null", "data":"2013-08-31", "detalhamento":"O VALOR DE R$ 825,13, REFERE-SE AO PAGAMENTO DA FATURA DA NET QUE ATENDE AO ESCRITORIO DE APOIO.", 
+                            "valorReembolsado":"820.39", "codDocumento":"818278"}, {"ano":"2013", "mes":"8", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"28152650000171", "fornecedor":"ESPIRITO SANTO CENTRAIS ELETRICAS S.A", 
+                            "documento":"001115601", "data":"2013-08-25", "detalhamento":"O VALOR DE R$ 291,93, REFERE-SE AO PAGAMENTO DA CONTA DE ENERGIA ELETICA DO ESCRITÓRIO DE APOIO, SITUADO NA AV. NOSSA SENHORA DOS NAVEGANTES, 451, ED. PETRO TOWER BUSINESS, SALAS 1603 E 1604- ENSEADA DO SUÁ", 
+                            "valorReembolsado":"286.39", "codDocumento":"818276"}, {"ano":"2013", "mes":"8", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"06788256000191", "fornecedor":"Cond. Ed. Petro Tower Business", 
+                            "documento":"60208", "data":"2013-08-05", "detalhamento":"O VALOR DE R$ 321,37, RERERE-SE AO PAGAMENTO DE ALUGUEL DA SALA 1604, DO ESCRITÓRIO DE APOIO", 
+                            "valorReembolsado":"321.37", "codDocumento":"803568"}, {"ano":"2013", "mes":"8", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"06788256000191", "fornecedor":"COND. ED. PETRO TOWER BUSINESS", 
+                            "documento":"60194", "data":"2013-08-05", "detalhamento":"O VALOR DE R$ 314,63 REFERE-SE AO PAGAMENTO DO ALUGEL DA SALA 1603, DO ESCRITÓRIO DE APOIO", 
+                            "valorReembolsado":"314.63", "codDocumento":"803569"}, {"ano":"2013", "mes":"8", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"07661480000180", "fornecedor":"BOUSQUET 2005 PARTICIPAÇÕES E INVESTIMENTOS LTDA", 
+                            "documento":"null", "data":"2013-08-23", "detalhamento":"O VALOR DE R$ 4.300,80, REFERE-SE AO PAGAMENTO DO ALUGUEL DO IMÓVEL, SITUADO NA AV. NOSSA SENHORA DOS NAVEGANTES, 451, SALAS 1603 E 1604, ENSEADA DO SUÁ - VITÓRIA/ES", 
+                            "valorReembolsado":"4300.8", "codDocumento":"803573"}, {"ano":"2013", "mes":"7", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"957-2472417833", "data":"2013-07-29", "detalhamento":"FORNECEDOR: TAM
+DOCUMENTO: 957- 2472417833
+PASSAGEIRO/TRECHO: KALIANA KALACHE - BSB x CGH - CGH x CWB - 29/07/2013
+MATRÍCULA/CARGO: 253938 / SF1
+VALOR REEMBOLSADO: R$ 516,13", 
+                            "valorReembolsado":"516.13", "codDocumento":"785478"}, {"ano":"2013", "mes":"7", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572472584729", "data":"2013-07-22", "detalhamento":"CNPJ: 02.012.862/0001-60
+FORNECEDOR: TAM
+DOCUMENTO: 957-2472584729
+PASSAGEIRO/TRECHO: RICARDO FERRÇO - SDU x VIX - 22/07/2013
+VALOR REEMBOLSADO: R$ 427,57", 
+                            "valorReembolsado":"427.57", "codDocumento":"785480"}, {"ano":"2013", "mes":"7", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572472082702", "data":"2013-07-17", "detalhamento":"FORNECEDOR: TAM
+DOCUMENTO: 957- 2472082702
+PASSAGEIRO/TRECHO: RICARDO FERRAÇO - BSB x VIX - 17/07/2013
+VALOR REEMBOLSADO: R$ 674,53", 
+                            "valorReembolsado":"674.53", "codDocumento":"785477"}, {"ano":"2013", "mes":"7", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572472082773", "data":"2013-07-11", "detalhamento":"CNPJ: 02.012.862/0001-60
+FORNECEDOR:TAM
+DOCUMENTO: 957- 2472082773
+PASSAGEIRO/TRECHO: RICARDO FERRAÇO - BSB/ VIX - 11/07/2013
+VALOR REEMBOLSADO: R$ 2.713,93", 
+                            "valorReembolsado":"2713.93", "codDocumento":"781032"}, {"ano":"2013", "mes":"7", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572471747721", "data":"2013-07-08", "detalhamento":"CNPJ: 02.012.862/0001-60
+FORNECEDOR: TAM
+DOCUMENTO: 957-2471747721
+PASSAGEIRO/TRECHO: RICARDO FERRAÇO - VIX / BSB - 08/07/2013
+VALOR REEMBOLSADO:R$ 1.114,35
+*DESCRIÇÃO DO VALOR: O BILHETE DA PASSAGEM AÉREA E-TICKET: 957-2471351106 foi emitido, inicialmente, para o vôo do dia 02/07/2013, trecho VIX x BSB
+
+Tarifa Aérea R$ 684,00
+Taxas de Embarque R$ 16,95
+Taxa DU	R$ 68,40
+Valor Total R$ 769,35
+
+Foi reemitido para o dia 08/07/2013, trecho VIX x BSB
+
+Diferença Tarifa Aérea R$ 205,00
+Taxa DU	R$ 40,00
+Multa R$ 100,00
+Valor Total R$ 345,00
+
+", 
+                            "valorReembolsado":"1114.35", "codDocumento":"781031"}, {"ano":"2013", "mes":"7", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572469730973", "data":"2013-07-03", "detalhamento":"CNPJ: 02.012.862/0001-60
+FORNECEDOR: TAM
+DOCUMENTO: 957- 2469730973
+PASSAGEIRO/TRECHO: JARDEL BONELI - VIX/ CGH (03/07/2013)  - CGH/ VIX (04/07/2013) 
+MATRÍCULA: 238780 - AP 03
+VALOR REEMBOLSADO: R$ 408,52", 
+                            "valorReembolsado":"408.52", "codDocumento":"781029"}, {"ano":"2013", "mes":"7", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL", 
+                            "documento":"9690001585965", "data":"2013-07-19", "detalhamento":"CNPJ: 07.575.651/0001-59
+FORNECEDOR: GOL
+DOCUMENTO: 969-0001585965
+PASSAGEIRO/TRECHO: RICARDO FERRAÇO - VIX x SDU - 19/07/2013
+VALOR REEMBOLSADO: R$ 579,70
+
+*DESCRIÇÃO DO VALOR: O BILHETE DA PASSAGEM AÉREA E-TICKET: 127-0001482657 foi emitido, inicialmente, para o vôo do dia 18/02/2013, trecho VIX x SDU
+
+Tarifa Aérea R$ 97,90
+Taxas de Embarque R$ 16,95
+Taxa DU	R$ 40,00
+Valor Total R$ 154,85
+
+Foi reemitido para o dia 19/07/2013, trecho VIX x SDU
+
+Tarifa Aérea R$ 270,00
+Taxas de Embarque R$ 114,85
+Taxa DU	R$ 40,00
+Valor Total R$ 424,85
+
+Valor Total: R$ 579,70
+", 
+                            "valorReembolsado":"579.7", "codDocumento":"785479"}, {"ano":"2013", "mes":"7", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL", 
+                            "documento":"1270001630164", "data":"2013-07-01", "detalhamento":"PASSAGEIRO/TRECHO: RICARDO FERRAÇO - SDU/VIX - 01/07/2013
+", 
+                            "valorReembolsado":"667.16", "codDocumento":"781028"}, {"ano":"2013", "mes":"7", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"09296295000160", "fornecedor":"AZUL", 
+                            "documento":"2220005296435", "data":"2013-07-15", "detalhamento":"CNPJ: 09.296.295/0001-60
+FORNECEDOR: AZUL
+DOCUMENTO: 222-0005296435
+PASSAGEIRO/TRECHO: RICARDO FERRAÇO - VIX/ BSB - 15/07/2013
+VALOR REEMBOLSADO: R$ 790,14", 
+                            "valorReembolsado":"790.14", "codDocumento":"781033"}, {"ano":"2013", "mes":"7", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"09296295000160", "fornecedor":"AZUL", 
+                            "documento":"2220005293274", "data":"2013-07-05", "detalhamento":"CNPJ: 09.296.295/0001-60
+FORNECEDOR: AZUL
+DOCUMENTO: 222-0005293274
+PASSAGEIRO/TRECHO: RICARDO FERRAÇO - BSB/ VIX - 05/07/2013
+VALOR SOLICITADO: R$ 1.745,27", 
+                            "valorReembolsado":"1745.27", "codDocumento":"781030"}, {"ano":"2013", "mes":"7", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"09967852010866", "fornecedor":"HOTELARIA ACCOR BRASIL S/A", 
+                            "documento":"292633", "data":"2013-07-05", "detalhamento":"O VALOR DE R$ 315,00 REFERE-SE A DESPESA COM HOSPEDAGEM DO SERVIDOR JARDEL BONELI, MATRÍCULA 238780 - APSF05", 
+                            "valorReembolsado":"315.0", "codDocumento":"803549"}, {"ano":"2013", "mes":"7", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"16490701000196", "fornecedor":"HERBEST LOCAÇÕES E SERVIÇOS LTDA ME", 
+                            "documento":"30", "data":"2013-07-09", "detalhamento":"O VALOR DE R$ 4.200,00, REFERE-SE AO PAGAMENTO DE  LOCAÇÃO DE UM VEÍCULO EXECUTIVO, COROLA, PLACA MTZ-0354.", 
+                            "valorReembolsado":"4200.0", "codDocumento":"781036"}, {"ano":"2013", "mes":"7", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"16490701000196", "fornecedor":"HERBEST LOCAÇÕES E SERVIÇOS LTDA ME", 
+                            "documento":"31", "data":"2013-07-09", "detalhamento":"O VALOR DE R$ 2.500,00, REFERE-SE AO PAGAMENTO DE LOCAÇÃO DE UM VEÍCULO RENAULT SANDERO, 1.6, PLACA MPJ-9105", 
+                            "valorReembolsado":"2500.0", "codDocumento":"781037"}, {"ano":"2013", "mes":"7", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"04145589000177", "fornecedor":"ARARA AZUL REDE DE POSTOS LTDA", 
+                            "documento":"4460", "data":"2013-07-26", "detalhamento":"O VALOR DE R$ 378,65, REFERE-SE AO PAGAMENTO DOS SEGUINTES ABASTECIMENTOS:
+05/07/2013 - R$ 90,36 - COROLA PLACA MTZ 0354
+17/07/2013 - R$ 78,46 - COROLA PLACA MTZ 0354
+25/07/2013 - R$ 96,10 - COROLA PLACA MTZ 0354
+26/07/2013 - R$ 113,73 - COROLA PLACA MTZ 0354", 
+                            "valorReembolsado":"378.65", "codDocumento":"803554"}, {"ano":"2013", "mes":"7", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"04145589001068", "fornecedor":"ARARA AZUL REDE DE POSTOS LTDA", 
+                            "documento":"000004738", "data":"2013-07-26", "detalhamento":"O VALOR DE R$ 310,59, REFERE-SE AOS SEGUINTES ABASTECIMENTOS:
+01/07/2013 - R$ 103,55 - VEÍCULO SANDERO, PLACA MPJ - 9105
+12/07/2013 - R$ 107,01 - VEÍCULO SANDERO, PLACA MPJ - 9105
+22/07/2013 - R$ 100,03 - VEÍCULO SANDERO, PLACA MPJ - 9105", 
+                            "valorReembolsado":"310.59", "codDocumento":"803553"}, {"ano":"2013", "mes":"7", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"10484680000110", "fornecedor":"JET COMERCIO DE ARTIGOS DE PAPELARIA LTDA ME", 
+                            "documento":"3750", "data":"2013-07-16", "detalhamento":"O VALOR DE R$ 13,50 REFERE-SE A DESPESA COM COMPRA DE MATERIAL (PAPEL A-4) PARA ESCRITÓRIO DE APOIO", 
+                            "valorReembolsado":"13.5", "codDocumento":"803550"}, {"ano":"2013", "mes":"7", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"06283146000178", "fornecedor":"FOUR COLORS COMERCIO E SERVIÇOS DE INFORMÁTICA LTDA - ME", 
+                            "documento":"747", "data":"2013-07-09", "detalhamento":"O VALOR DE R$ 70,00, REFERE-SE AO PAGAMENTO DA RECARGA DE CARTUCHO DE TONER HP85A PARA IMPRESSORA MFP1132, QUE ATENDE AO ESCRITÓRIO DE APOIO, SITUADO NA AV. NOSSA SENHORA DOS NAVEGANTES, 451, SALAS 1603 E 1604 - ED. PETRO TOWER BUSINESS, ENSEADA DO SUÁ - VITÓRIA/ES", 
+                            "valorReembolsado":"70.0", "codDocumento":"781039"}, {"ano":"2013", "mes":"7", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"77488040791", "fornecedor":"ECT- EMP. BRAS. DE CORREIOS E TELEGRAFOS", 
+                            "documento":"034", "data":"2013-07-12", "detalhamento":"O VALOR DE R$ 37,20, REFERE-SE A PAGAMENTO COM DESPESAS POSTAIS", 
+                            "valorReembolsado":"37.2", "codDocumento":"803551"}, {"ano":"2013", "mes":"7", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"02558157000162", "fornecedor":"VIVO S.A", 
+                            "documento":"2075351569", "data":"2013-07-22", "detalhamento":"O VALOR DE R$ 336,01, REFERE-SE AO PAGAMETO DE CONTA TELEFÔNICA PARA ATENDER AO ESCRITÓRIO DE APOIO, SITUADO NA AV. NOSSA SENHORA DOS NAVEGANTES, 451, SALAS 1603 E 1604 - ED. PETRO TOWER BUSINESS - VITÓRIA/ES", 
+                            "valorReembolsado":"336.01", "codDocumento":"803552"}, {"ano":"2013", "mes":"7", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"00108786014549", "fornecedor":"NET", 
+                            "documento":"null", "data":"2013-07-31", "detalhamento":"O VALOR DE R$ REFERE-SE AO PAGAMENTO DA CONTA DE INTERNET DO ESCRITÓRIO DE APOIO.", 
+                            "valorReembolsado":"632.81", "codDocumento":"803556"}, {"ano":"2013", "mes":"7", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"28152650000171", "fornecedor":"ESPÍRITO SANTO CENTRAIS ELETRICAS S.A", 
+                            "documento":"001123381", "data":"2013-07-27", "detalhamento":"O VALOR DE R$ 302,80, REFERE-SE AO PAGAMENTO DE CONTA DE ENERGIA DO ESCRITÓRIO DE APOIO, LOCALIZADO NA AV. NOSSA SENHORA DOS NAVEGANTES, 451, SALAS 1603 E 1604 - ED. PETRO TOWER BUSINESS", 
+                            "valorReembolsado":"302.8", "codDocumento":"803555"}, {"ano":"2013", "mes":"7", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"06788256000191", "fornecedor":"CONDOMÍNIO DO EDIFÍCIO PETRO TOWER", 
+                            "documento":"12840", "data":"2013-07-05", "detalhamento":"O VALOR DE R$ 321,37, REFERE-SE AO PAGAMENTO DO ALUGUEL DA SALA 1604, REFERENTE AO ESCRITÓRIO DE APOIO SITUADO NA AV. NOSSA SENHORA DOS NAVEGANTES, 451 - ED. PETRO TOWER BUSINESS, ONDE FUNCIONA O ESCRITÓRIO DE APOIO - CONDOMINIO", 
+                            "valorReembolsado":"321.37", "codDocumento":"781034"}, {"ano":"2013", "mes":"7", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"06788256000191", "fornecedor":"CONDOMÍNIO DO ED. PETRO TOWER", 
+                            "documento":"12839", "data":"2013-07-05", "detalhamento":"O VALOR DE R$ 314,63, REFERE-SE AO PAGAMENTO DO  ALUGUEL DA SALA 1603, SITUADA NA AV. NOSSA SENHORA DOS NAVEGANTES, 451, SALA 1603 - ED. PETRO TOWER BUSINESS, ONDE FUNCIONA O ESCRITÓRIO DE APOIO. - CONDOMINIO", 
+                            "valorReembolsado":"314.63", "codDocumento":"781035"}, {"ano":"2013", "mes":"7", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"07661480000180", "fornecedor":"BOUSQUET 2005 PARTICIPAÇÕES E INVESTIMENTOS LTDA", 
+                            "documento":"null", "data":"2013-07-23", "detalhamento":"O VALOR DE R$ 4.300,80, REFERE-SE AO PAGAMENTO DO ALUGUEL DO MÊS DE JULHO, DO IMÓVEL SITUADO NA AV. NOSSA SENHORA DOS NAVEGANTES, 451, SALAS 1603 E 1604, ENSEADA DO SUÁ, VITÓRIA/ES, ONDE FUNCIONA O ESCRITÓRIO DE APOIO.", 
+                            "valorReembolsado":"4300.8", "codDocumento":"781038"}, {"ano":"2013", "mes":"6", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572471066533", "data":"2013-06-24", "detalhamento":"CNPJ: 02.012.862/0001-60
+FORNECEDOR: TAM
+DOCUMENTO: 957-2471066533
+PASSAGEIRO/TRECHO: RICARDO FERRAÇO - VIX x BSB - 24/06/2013
+VALOR REEMBOLSADO: R$ 956,35", 
+                            "valorReembolsado":"956.35", "codDocumento":"766600"}, {"ano":"2013", "mes":"6", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572470897131", "data":"2013-06-19", "detalhamento":"CNPJ: 02.012.862/0001-60
+FORNECEDOR: TAM
+DOCUMENTO: 957-2470897131
+PASSAGEIRO/TRECHO: RICARDO FERRAÇO - BSB x CGH - CGH x BSB - 19/06/2013
+* DESCRIÇÃO DO VALOR: O BILHETE DA PASSAGEM AÉREA E-TICKET: 957- 2469239985 foi emitido, inicialmente, para o vôo do dia 24/05/2013, trecho CGH x VIX
+
+Tarifa Aérea R$ 876,00
+Taxas de Embarque R$ 21,57
+Taxa DU	R$ 87,60
+Valor Total R$ 985,17
+
+Foi reemitido para o dia 19/06/2013, trecho BSB x CGH – CGH x BSB
+
+Diferença Tarifa Aérea R$ 396,00
+Diferença taxas de embarque R$ 21,13
+Taxa DU	R$ 40,00
+Multa R$ 150,00
+Valor Total R$ 607,13
+
+VALOR TOTAL: R$ 1.592,30
+", 
+                            "valorReembolsado":"1592.3", "codDocumento":"766589"}, {"ano":"2013", "mes":"6", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572470493945", "data":"2013-06-18", "detalhamento":"CNPJ: 02.012.862/0001-60
+FORNECEDOR: TAM
+PASSAGEIRO/TRECHO: RICARDO FERRAÇO - VIX x BSB - 18/06/2013
+VALOR SOLICITADO: R$ 522,95", 
+                            "valorReembolsado":"522.95", "codDocumento":"766588"}, {"ano":"2013", "mes":"6", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572469353550", "data":"2013-06-03", "detalhamento":"CNPJ: 02.012.862/0001-60
+FORNECEDOR: TAM
+DOCUMENTO: 9572469353550
+PASSAGEIRO/TRECHO: RICARDO FERRAÇO - VIX x BSB - 03/06/2013
+VALOR REEMBOLSADO: R$ 2059,45
+* DESCRIÇÃO DO VALOR: O BILHETE DA PASSAGEM AÉREA E-TICKET: 957- 2468836879, FOI EMITIDO, INICIALMENTE, PARA O VÔO DO DIA 28/05/2013, TRECHO VIX x BSB
+TARIFA AÉREA: R$ 478,00
+TX DE EMBARQUE: R$ 16,95
+TX DE DU: R$ 47,80
+VALOR TOTAL: R$ 542,75
+FOI REEMITIDO PARA O DIA 28/05/2013, TRECHO VIX x CGH
+DIFERENÇA DE TARIFA AÉREA: R$ 0,00
+TX DE DU: R$ 40,00
+MULTA: R$ 100,00
+VALOR TOTAL: R$ 140,00
+FOI REEMITIDO PARA O DIA 03/06/2013, TRECHO VIX x BSB
+DIFERENÇA DE TARIFA AÉREA: R$ 0,00
+TX DU: R$ 40,00
+MULTA: R$ 80,00
+VALOR TOTAL: R$ 120,00
+FOI REEMITIDO PARA O DIA 04/06/2013, TRECHO VIX x BSB
+TARIFA AÉREA: R$ 0,00
+TX DU: R$ 0,00
+MULTA: R$ 80,00
+VALOR TOTAL: R$ 80,00
+FOI REEMITIDO PARA O DIA 03/06/2013, TRECHO VIX x BSB
+DIFERENÇA DE TARIFA AÉREA: R$ 997,00
+TX DU: R$ 99,70
+MULTA: R$ 80,00
+VALOR TOTAL: R$ 1.176,70
+A SOMA DE TODOS OS BILHETES TOTALIZOU: R$ 2.059,45", 
+                            "valorReembolsado":"2059.45", "codDocumento":"766586"}, {"ano":"2013", "mes":"12", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"957-2481018350", "data":"2013-12-16", "detalhamento":"PASSAGEIRO/TRECHO: RICARDO FERRAÇO - VIX x BSB - 16/12/2013
+VALOR REEMBOLSADO: R$ 1.681,45", 
+                            "valorReembolsado":"1681.45", "codDocumento":"857772"}, {"ano":"2013", "mes":"12", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL", 
+                            "documento":"969-0001682654", "data":"2013-12-15", "detalhamento":"PASSAGEIRO/TRECHO: EDUARDO CHUAIRI - BSB x GIG - 15/12/2013
+MATRÍCULA/CARGO: 263774/APSF06
+VALOR REEMBOLSADO: R$ 489,02", 
+                            "valorReembolsado":"489.02", "codDocumento":"857779"}, {"ano":"2013", "mes":"12", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"09296295000160", "fornecedor":"AZUL", 
+                            "documento":"222-0005369340", "data":"2013-12-12", "detalhamento":"PASSAGEIRO/TRECHO: RICARDO FERRAÇO - BSB X CNF - CNF X VIX - 12/12/2013
+VALOR REEMBOLSADO: R$ 2.545,41", 
+                            "valorReembolsado":"2545.41", "codDocumento":"857771"}, {"ano":"2013", "mes":"6", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"09296295000160", "fornecedor":"AZUL", 
+                            "documento":"I9B9HG", "data":"2013-06-20", "detalhamento":"CNPJ: 09.296.295/0001-60
+FORNECEDOR: AZUL
+DOCUMENTO:I9B9HG
+PASSAGEIRO/TRECHO: RICARDO FERRAÇO - BSB x CNF - CNF x VIX - (20/06/2013)
+
+* DESCRIÇÃO DO VALOR: O BILHETE DA PASSAGEM AÉREA E-TICKET: 661- 2104085129 foi emitido, inicialmente, para o vôo do dia 29/10/2012, trecho VIX x SDU
+Tarifa Aérea R$ 931,80
+Taxas de Embarque R$ 16,95
+Taxa DU	R$ 93,18
+Valor Total R$ 1.041,93
+
+Foi reemitido para o dia 19/06/2013, trecho BSB x CNF – CNF x VIX
+Diferença Tarifa Aérea R$ 40,84
+Diferença taxas de embarque R$ 0,00
+Taxa DU	R$ 0,00
+Multa R$ 0,00
+Valor Total R$ 40,84
+
+VALOR SOLICITADO: R$ 1.082,77", 
+                            "valorReembolsado":"1082.77", "codDocumento":"766597"}, {"ano":"2013", "mes":"6", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"09296295000160", "fornecedor":"AZUL", 
+                            "documento":"2220005260050", "data":"2013-06-13", "detalhamento":"CNPJ: 09.296.295/0001-60
+FORNECEDOR: AZUL
+DOCUMENTO: 222-0005260050
+PASSAGEIRO/TRECHO: RICARDO FERRAÇO - BSB X VIX - 13/06/2013
+* DESCRIÇÃO DO VALOR: DESCRIÇÃO DO VALOR: O BILHETE DA PASSAGEM AÉREA E-TICKET: 222-0005260050 foi emitido, inicialmente, para o vôo do dia 09/05/2013, trecho BSB x VIX
+Tarifa Aérea R$ 526,91
+Taxas de Embarque R$ 21,13
+Taxa DU	R$ 52,69
+Valor Total R$ 600,73
+
+Foi reemitido para o dia 13/06/2013, trecho BSB x VIX
+
+Diferença Tarifa Aérea R$ 78,54
+Taxa DU R$ 0,00
+Multa R$ 0,00
+Valor Total R$ 78,54
+
+VALOR TOTAL: R$ 679,27
+", 
+                            "valorReembolsado":"679.27", "codDocumento":"766587"}, {"ano":"2013", "mes":"6", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02575829000148", "fornecedor":"AVIANCA", 
+                            "documento":"0230126053010", "data":"2013-06-23", "detalhamento":"CNPJ: 02.575.829/0001-48
+FORNECEDOR: AVIANCA
+DOCUMENTO: 023-0126053010
+PASSAGEIRO/TRECHO: KALIANA KALACHE - CWB x BSB - (23/06/2013)
+MATRÍCULA: 253938/ SF1
+VALOR REEMBOLSADO: R$ 284,17", 
+                            "valorReembolsado":"284.17", "codDocumento":"766599"}, {"ano":"2013", "mes":"6", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02575829000148", "fornecedor":"AVIANCA", 
+                            "documento":"0230126052887", "data":"2013-06-20", "detalhamento":"CNPJ: 02.575.829/0001-48
+FORNECEDOR: AVIANCA
+DOCUMENTO: 023-0126052887
+PASSAGEIRO/TRECHO: KALIANA KALACHE - BSB x CWB - (20/06/2013)
+MATRICULA: 253938/ SF1
+VALOR REEMBOLSADO: R$ 325,73", 
+                            "valorReembolsado":"325.73", "codDocumento":"766598"}, {"ano":"2013", "mes":"6", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"04145589001068", "fornecedor":"ARARA AZUL REDE DE POSTOS LTDA", 
+                            "documento":"109000282522", "data":"2013-06-17", "detalhamento":"O VALOR DE R$ 235,01, REFERE-SE AO PAGAMENTO DE ABASTECIMENTO DOS SEGUINTES DIAS: 
+17/06/2013 - R$ 95,01,  REFERENTE AO VEÍCULO SANDERO, PLACA MPJ-9105
+28/06/2013 - R$ 140,00, REFERENTE AO VEÍCULO COROLA, PLACA MTZ-0354", 
+                            "valorReembolsado":"235.01", "codDocumento":"781023"}, {"ano":"2013", "mes":"6", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"04145589001068", "fornecedor":"ARARA AZUL REDE DE POSTOS LTDA", 
+                            "documento":"109000280757", "data":"2013-06-04", "detalhamento":"O VALOR DE R$ 220,19, REFERE-SE AO PAGAMENTO DOS ABASTECIMENTOS DOS SEGUINTES DIAS:
+04/06/2013  - NO VALOR DE R$ 107,09, VEÍCULO COROLA, PLACA MTZ- 0354
+13/06/2013 - NO VALOR DE R$ 113,10, VEÍCULO COROLA, PLACA MTZ- 0354", 
+                            "valorReembolsado":"220.19", "codDocumento":"781022"}, {"ano":"2013", "mes":"12", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"09296295000160", "fornecedor":"AZUL", 
+                            "documento":"222-0005367085", "data":"2013-12-05", "detalhamento":"PASSAGEIRO/TRECHO: EDUARDO CHUAIRI - BSB X GRU - 05/12/2013
+MATRÍCULA/CARGO: 263774/ APSF06
+VALOR REEMBOLSADO: R$ 294,95", 
+                            "valorReembolsado":"294.95", "codDocumento":"857769"}, {"ano":"2013", "mes":"12", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"09296295000160", "fornecedor":"AZUL", 
+                            "documento":"2220005363720", "data":"2013-12-01", "detalhamento":"PASSAGEIRO/TRECHO: RICARDO FERRAÇO - VIX x VCP - VCP x BSB - 01/12/2013
+VALOR REEMBOLSADO: R$ 1164,59", 
+                            "valorReembolsado":"1164.59", "codDocumento":"857768"}, {"ano":"2013", "mes":"12", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02575829000148", "fornecedor":"AVIANCA", 
+                            "documento":"0230128810449", "data":"2013-12-19", "detalhamento":"PASSAGEIRO/TRECHO: KALIANA KALACHE - BSB x CWB - 19/12/2013
+MATRÍCULA/CARGO: 253938/SF1
+VALOR REEMBOLSADO: R$ 331,55", 
+                            "valorReembolsado":"331.55", "codDocumento":"867393"}, {"ano":"2013", "mes":"12", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02575829000148", "fornecedor":"AVIANCA", 
+                            "documento":"023-0129141445", "data":"2013-12-09", "detalhamento":"PASSAGEIRO/TRECHO: EDUARDO CHUAIRI - GIG x BSB - 09/12/2013
+MATRÍCULA/CARGO: 263774/ APSF06
+VALOR REEMBOLSADO: R$ 426,57", 
+                            "valorReembolsado":"426.57", "codDocumento":"857770"}, {"ano":"2013", "mes":"12", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"04145589000177", "fornecedor":"ARARA AZUL REDE DE POSTOS LTDA", 
+                            "documento":"109000303807", "data":"2013-12-03", "detalhamento":"O VALOR DE R$ 369,16, REFERE-SE AOS SEGUINTES ABASTECIMETNOS:
+03/12/2013 -R$ 148,17 -  VEÍCULO RENAULT SANDERO, PLACA MPJ9105 - MOTORISTA WALDEVINO
+12/12/2013 -R$ 115,97 -VEÍCULO RENAULT SANDERO, PLACA MPJ9105 - MOTORISTA WALDEVINO
+19/12/2013 - R$ 105,02 - VEÍCULO , PLACA ODT5294 - MOTORISTA WALDEVINO", 
+                            "valorReembolsado":"369.16", "codDocumento":"867394"}, {"ano":"2013", "mes":"12", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Divulgação da atividade parlamentar", "cnpjCpf":"13663061000180", "fornecedor":"GRAFICA E EDITORA SUDOESTE", 
+                            "documento":"0989", "data":"2013-12-10", "detalhamento":"O VALOR DE R$ 1.400,00, REFERE-SE AO PAGAMENTO DE SERVIÇO DE DIAGRAMAÇÃO E EDITORAÇÃO ELETRONICA DE INFORMATIVO PARA DIVULGAÇÃO DE ATIVIDADE PARLAMENTAR", 
+                            "valorReembolsado":"1400.0", "codDocumento":"867399"}, {"ano":"2013", "mes":"12", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"32398877000179", "fornecedor":"ECT - EMPRESA DE CORREIOS E TELEGRAFOS", 
+                            "documento":"030", "data":"2013-12-20", "detalhamento":"O VALOR DE R$ 49,90, REFERE-SE AO PAGAMENTO DE DESPESAS POSTAIS", 
+                            "valorReembolsado":"49.9", "codDocumento":"867396"}, {"ano":"2013", "mes":"12", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"32398877000179", "fornecedor":"ECT - EMPRESA BRASILEIRA DE CORREIOS E TELEGRAFOS", 
+                            "documento":"010", "data":"2013-12-10", "detalhamento":"O VALOR DE R$ 49,90, REFERE-SE AO PAGAMENTO DE DEPESAS POSTAIS", 
+                            "valorReembolsado":"49.9", "codDocumento":"867395"}, {"ano":"2013", "mes":"12", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"02558157000162", "fornecedor":"TELEFONICA BRASIL S.A", 
+                            "documento":"null", "data":"2013-12-25", "detalhamento":"O VALOR DE R$ 330,42, REFERE-SE AO PAGAMENTO DE CONTA TELEFÔNCIA QUE ATENDE AO ESCRITÓRIO DE APOIO.", 
+                            "valorReembolsado":"330.42", "codDocumento":"867398"}, {"ano":"2013", "mes":"12", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"00108786014549", "fornecedor":"NET", 
+                            "documento":"null", "data":"2013-12-31", "detalhamento":"O VALOR DE R$ 513,35, REFERE-SE AO PAGAMENTO DA NET QUE ATENDE AO ESCRITÓRIO DE APOIO, SITUADO À AV. NOSSA SENHORA DOS NAVEGANTES, 451 - ED.PETRO TOWER BUSINESS - SALAS 1603 E 1604 - ENSEADA DO SUÁ", 
+                            "valorReembolsado":"513.35", "codDocumento":"867397"}, {"ano":"2013", "mes":"12", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"16490701000196", "fornecedor":"HERBEST LOCAÇÕES E SERVIÇOS LTDA ME", 
+                            "documento":"51", "data":"2013-12-09", "detalhamento":"O VALOR DE R$ 4.200,00, REFERE-SE AO PAGAMENTO DE LOACAÇÃO DE VEÍCULO COROLA, QUE ATENDE AO ESCRITÓRIO DE APOIO.", 
+                            "valorReembolsado":"4200.0", "codDocumento":"857776"}, {"ano":"2013", "mes":"5", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"06788256000191", "fornecedor":"COND. ED. PETRO TOWER", 
+                            "documento":"12295", "data":"2013-05-05", "detalhamento":"O VALOR DE R$ 314,63, REFERE-SE AO PAGAMENTO DO CONDOMÍNIO, REFERENTE À SALA 1603, DO ESCRITÓRIO DE APOIO EM VITÓRIA, SITUADO NA AV. NOSSA SENHORA DOS NAVEGANTES, 451, ED. PETRO TOWER BUSINESS.", 
+                            "valorReembolsado":"314.63", "codDocumento":"749853"}, {"ano":"2013", "mes":"5", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"07661480000180", "fornecedor":"BOUSQUET 2005 PARTÇOES E INVESTIMENTOS LTDA", 
+                            "documento":"null", "data":"2013-05-23", "detalhamento":"BOUSQUET 2005 PARTICIPAÇOES E INVESTIMENTOS LTDA
+CNPJ: 07.661.480/0001-80
+R$ 4.300,80, REFERENTE AO ALUGUEL DE MAIO/2013, DO IMÓVEL SITUADO NA AV. NOSSA SENHORA DOS NAVEGANTES, 451, SALAS 1603 E 1604, ENSEADA DO SUÁ, VITÓRIA/ES", 
+                            "valorReembolsado":"4300.8", "codDocumento":"749858"}, {"ano":"2013", "mes":"5", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"04145589000177", "fornecedor":"ARARA AZUL REDE DE POSTOS LTDA", 
+                            "documento":"3950", "data":"2013-05-02", "detalhamento":"O VALOR DE R$ 394,23 REFERE-SE AO PAGAMENTO DE ABASTECIMENTO DO VEÍCULO EXECUTIVO COROLA, PLACA MTZ-0354, NA ARARA AZUL REDE DE POSTOS LTDA, NOS DIAS QUE SEGUEM ABAIXO:
+11/04/2013 - R$ 119,07
+18/04/2013 - R$ 91,76
+23/04/2013 - R$ 83,37
+26/04/2013 - R$ 100,03
+", 
+                            "valorReembolsado":"394.23", "codDocumento":"756225"}, {"ano":"2013", "mes":"4", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572467319185", "data":"2013-04-30", "detalhamento":"CNPJ: 02.012.862/0001-60
+FORNECEDOR:TAM
+DOCUMENTO: 957-2467319185
+PASSAGEIRO/TRECHO: ANA PAULA VESCOVE - BSB x VIX - 30/04/2013
+MATRÍCULA: 250597 - CARGO: SF1
+VALOR REEMBOLSADO: R$ 605,23", 
+                            "valorReembolsado":"605.23", "codDocumento":"733611"}, {"ano":"2013", "mes":"4", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572466871106", "data":"2013-04-30", "detalhamento":"CNPJ: 02.012.862/0001-60
+FORNECEDOR: TAM
+DOCUMENTO: 957- 2466871106
+PASSAGEIRO/TRECHO: RICARDO FERRAÇO - BSB X VIX - 30/04/2013
+VALOR REEMBOLSADO: R$ 527,13", 
+                            "valorReembolsado":"527.13", "codDocumento":"733609"}, {"ano":"2013", "mes":"4", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572467319186", "data":"2013-04-29", "detalhamento":"CNPJ: 02.012.862/0001-60
+FORNECEDOR:TAM
+DOCUMENTO: 957- 2467319186
+PASSAGEIRO/TRECHO: ANA PAULA VESCOVE - VIX x BSB - 29/04/2013
+MATRÍCULA: 250597 - CARGO: SF1
+VALOR REEMBOLSADO: R$ 953,05", 
+                            "valorReembolsado":"953.05", "codDocumento":"733610"}, {"ano":"2013", "mes":"4", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572466871105", "data":"2013-04-29", "detalhamento":"CNPJ: 02.012.862/0001-60
+FORNECEDOR: TAM
+DOCUMENTO: 957-2466871105
+PASSAGEIRO/TRECHO: RICARDO FERRAÇO - VIX X BSB - 29/04/2013
+VALOR REEMBOLSADO: R$ 609,85", 
+                            "valorReembolsado":"609.85", "codDocumento":"733608"}, {"ano":"2013", "mes":"4", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572466464724", "data":"2013-04-28", "detalhamento":"CNPJ: 02.012.862/0001-60
+FORNECEDOR: TAM
+DOCUMENTO: 957-2466464724
+PASSAGEIRO/TRECHO: KALIANA KALACHE - CWB x BSB - 28/04/2013
+MATRÍCULA: 253938 - CARGO: SF1
+VALOR REEMBOLSADO: R$ 500,07", 
+                            "valorReembolsado":"500.07", "codDocumento":"733607"}, {"ano":"2013", "mes":"4", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572466355223", "data":"2013-04-16", "detalhamento":"CNPJ: 02.012.862/0001-60
+FORNECEDOR: TAM
+DOCUMENTO: 957- 2466355223
+PASSAGEIRO/TRECHO: RICARDO FERRAÇO - VIX x BSB - 16/04/2013
+VALOR REEMBOLSADO: R$ 522,95", 
+                            "valorReembolsado":"522.95", "codDocumento":"731566"}, {"ano":"2013", "mes":"4", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572466355225", "data":"2013-04-11", "detalhamento":"CNPJ: 02.012.862/0001-60
+FORNECEDOR: TAM
+DOCUMENTO: 957-2466355225
+PASSAGEIRO/TRECHO: RICARDO FERRAÇO - BSB x CGH - 11/04/2013
+VALOR REEMBOLSADO: R$ 714,13", 
+                            "valorReembolsado":"714.13", "codDocumento":"731564"}, {"ano":"2013", "mes":"4", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"957-2466355226", "data":"2013-04-11", "detalhamento":"CNPJ: 02.012.862/0001-60
+FORNECEDOR: TAM
+DOCUMENTO: 957- 2466355226
+PASSAGEIRO/TRECHO: RICARDO FERRAÇO - CGH x VIX - 11/04/2013
+VALOR REEMBOLSADO: R$ 641,97", 
+                            "valorReembolsado":"641.97", "codDocumento":"731565"}, {"ano":"2013", "mes":"4", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572378939763", "data":"2013-04-08", "detalhamento":"CNPJ: 02.012.862/0001-60
+FORNECEDOR: TAM
+DOCUMENTO: 957- 2378939763
+PASSAGEIRO/TRECHO: RICARDO FERRAÇO - CGH x BSB  - 08/04/2013
+VALOR REEMBOLSADO: R$ 1827,77", 
+                            "valorReembolsado":"1827.77", "codDocumento":"731563"}, {"ano":"2013", "mes":"4", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572465900494", "data":"2013-04-05", "detalhamento":"CNPJ: 02.012.862/0001-60
+FORNECEDOR: TAM
+DOCUMENTO: 957- 2465900494
+PASSAGEIRO/TRECHO: RICARDO FERRAÇO - BSB X CGH - 05/04/2013
+VALOR REEMBOLSADO: R$ 714,13", 
+                            "valorReembolsado":"714.13", "codDocumento":"731562"}, {"ano":"2013", "mes":"4", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572465239548", "data":"2013-04-01", "detalhamento":"CNPJ: 02.012.862/0001-60
+FORNECEDOR: TAM
+DOCUMENTO: 957-2465239548
+PASSAGEIRO/TRECHO: RICARDO FERRAÇO - VIX X BSB - 01/04/2013
+VALOR REEMBOLSADO: R$ 1.625,15", 
+                            "valorReembolsado":"1625.15", "codDocumento":"731561"}, {"ano":"2013", "mes":"4", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL", 
+                            "documento":"1270001582841", "data":"2013-04-22", "detalhamento":"CNPJ: 07.575.651/0001-59
+FORNECEDOR: GOL
+DOCUMENTO: 127-0001582841
+DATA: 22/04/2013
+PASSAGEIRO/TRECHO: RICARDO FERRAÇO - VIX x BSB - 22/04/013
+VALOR REEMBOLSADO: R$ 570,14", 
+                            "valorReembolsado":"570.14", "codDocumento":"731575"}, {"ano":"2013", "mes":"4", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL", 
+                            "documento":"1270001581482", "data":"2013-04-18", "detalhamento":"CNPJ: 07.575.651/0001-59
+FORNECEDOR: GOL
+DOCUMENTO: 127-0001581482
+PASSAGEIRO/TRECHO: RICARDO FERRAÇO - GRU x VIX - 18/04/2013
+VALOR REEMBOLSADO: R$ 545,72", 
+                            "valorReembolsado":"545.72", "codDocumento":"731567"}, {"ano":"2013", "mes":"4", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"09296295000160", "fornecedor":"AZUL", 
+                            "documento":"2220005253131", "data":"2013-04-26", "detalhamento":"CNPJ: 09.296.295-0001/60
+FORNECEDOR: AZUL
+DOCUMENTO: 222-0005253131
+PASSAGEIRO/TRECHO: RICARDO FERRAÇO - BSB x VIX - 26/04/2013
+VALOR REEMBOLSADO: R$ 982,65", 
+                            "valorReembolsado":"982.65", "codDocumento":"733606"}, {"ano":"2013", "mes":"4", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02575829000148", "fornecedor":"AVIANCA", 
+                            "documento":"2470125056470", "data":"2013-04-25", "detalhamento":"CNPJ: 02.575.829/0001-48
+FORNECEDOR: AVIANCA
+DOCUMENTO: 247-0125056470
+PASSAGEIRO/TRECHO: KALIANA KALACHE - BSB 
+x CWB - 25/04/2013
+MATRÍCULA: 253938 - CARGO: SF1 
+VALOR REEMBOLSADO: R$ 420,13", 
+                            "valorReembolsado":"420.13", "codDocumento":"733605"}, {"ano":"2013", "mes":"4", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"16490701000196", "fornecedor":"HERBST LOCAÇÕES E SERVIÇOS LTDA ME", 
+                            "documento":"17", "data":"2013-04-15", "detalhamento":"null", 
+                            "valorReembolsado":"4200.0", "codDocumento":"731573"}, {"ano":"2013", "mes":"4", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"04145589001149", "fornecedor":"ARARA AZUL REDE DE POSTOS LTDA", 
+                            "documento":"2802", "data":"2013-04-01", "detalhamento":"null", 
+                            "valorReembolsado":"62.0", "codDocumento":"731569"}, {"ano":"2013", "mes":"4", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"04145589000177", "fornecedor":"ARARA AZUL REDE DE POSTOS LTDA", 
+                            "documento":"3788", "data":"2013-04-01", "detalhamento":"null", 
+                            "valorReembolsado":"387.0", "codDocumento":"731568"}, {"ano":"2013", "mes":"4", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"04145589000681", "fornecedor":"ARARA AZUL REDE DE POSTOS LTDA", 
+                            "documento":"4120", "data":"2013-04-01", "detalhamento":"null", 
+                            "valorReembolsado":"342.23", "codDocumento":"731570"}, {"ano":"2013", "mes":"4", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"34028316839197", "fornecedor":"ECT - EMP. BRAS. DE CORREIOS E TELEGRAFOS", 
+                            "documento":"066", "data":"2013-04-17", "detalhamento":"ECT - EMP. BRAS. DE CORREIOS E TELEGRAFOS
+AG: 60831 -AC PRAIA DO SUÁ
+CNPJ: 34028316839197
+DATA: 17/04/2013
+VALOR: R$ 50,79 REFERENTE À DESPESA POSTAL", 
+                            "valorReembolsado":"50.79", "codDocumento":"749847"}, {"ano":"2013", "mes":"4", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"02449992008149", "fornecedor":"VIVO S.A", 
+                            "documento":"null", "data":"2013-04-20", "detalhamento":"VIVO S.A - 
+Nº NFST: 000.322.065/04/2013
+MES DE REFERENCIA: 04/2013
+VALOR: R$ 321,33
+FATURA REFERENTE À DESPESA COM LINHA TELEFÔNICA (27) 9840-6600, DISPONIBILIZADA PARA ATENDER ESCRITÓRIO DE APOIO EM VITÓRIA", 
+                            "valorReembolsado":"321.33", "codDocumento":"749848"}, {"ano":"2013", "mes":"4", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"00108786014549", "fornecedor":"NET", 
+                            "documento":"508002142221", "data":"2013-04-30", "detalhamento":"NET
+CNPJ: 00.108.786/0145-49
+MÊS DE REFERÊNCIA: ABRIL/2013
+CÓDIGO NET: 508/002142221
+VALOR: R$ 496,07,  REFERENTE À DESPESA COM  INTERNET PARA ESCRITÓRIO DE APOIO, SITUADO À AV. NOSSA SENHORA DOS NAVEGANTES, 451, ED. PETRO TOWER BUSINESS, SALAS 16/03 E 1604.", 
+                            "valorReembolsado":"496.07", "codDocumento":"749849"}, {"ano":"2013", "mes":"4", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"06788256000191", "fornecedor":"COND. ED. PETRO TOWER", 
+                            "documento":"12024", "data":"2013-04-05", "detalhamento":"null", 
+                            "valorReembolsado":"321.37", "codDocumento":"731572"}, {"ano":"2013", "mes":"4", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"06788256000191", "fornecedor":"COND. ED. PETRO TOWER", 
+                            "documento":"12023", "data":"2013-04-05", "detalhamento":"null", 
+                            "valorReembolsado":"314.63", "codDocumento":"731571"}, {"ano":"2013", "mes":"4", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"07661480000180", "fornecedor":"BOUSQUET 2005 PARTICIPAÇÕES", 
+                            "documento":"null", "data":"2013-04-23", "detalhamento":"null", 
+                            "valorReembolsado":"4300.8", "codDocumento":"731574"}, {"ano":"2013", "mes":"3", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572465561658", "data":"2013-03-30", "detalhamento":"CNPJ: 02.012.862/0001-60
+FORNECEDOR:TAM
+DOCUMENTO: 957-2465561658
+PASSAGEIRO/TRECHO: RICARDO FERRAÇO - VIX x CGH - CGH x VIX - 30/03/2013
+VALOR REEMBOLSADO: R$ 562,12", 
+                            "valorReembolsado":"562.12", "codDocumento":"718923"}, {"ano":"2013", "mes":"3", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572465239546", "data":"2013-03-25", "detalhamento":"CNPJ: 02.012.862/0001-60
+FORNECEDOR: TAM
+DOCUMENTO: 957-2465239546
+PASSAGEIRO/TRECHO: RICARDO FERRAÇO - VIX x BSB - 25/03/2013
+DESCRIÇAO DO VALOR: O BILHETE DA PASSAGEM AÉREA E-TICKET Nº 957-2464738404 FOI EMITIDO, INICIALMENTE, PAR O VÔO DO DIA 19/03/2013, TRECHO VIX x BSB
+TARIFA AÉREA: R$ 394,40
+TAXA DE EMBARQUE: R$ 16,95
+TAXA DU: R$ 40,00
+VALOR TOTAL: R$ 451,35
+FOI REEMITIDO PARA O DIA 25/03/2013 - E-TICKET: 957-2465239546, TRECHO VIX x BSB, COM AS SEGUINTES TAXAS:
+ADICIONAL TARIFA AÉREA: R$ 335,60
+MULTA: R$ 100,00
+TAXA DU: R$ 40,00
+VALOR TOTAL: R$ 475,60
+VALOR REEMBOLSADO:R$ 451,35   R$ 475,60 = R$ 926,95", 
+                            "valorReembolsado":"926.95", "codDocumento":"714255"}, {"ano":"2013", "mes":"3", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572465062011", "data":"2013-03-21", "detalhamento":"CNPJ: 02.012.862/0001-60
+FORNECEDOR: TAM
+DOCUMENTO: 957-2465062011
+PASSAGEIRO/TRECHO: RICARDO FERRAÇO - BSB x VIX - 21/03/2013
+* DESCRIÇÃO DO VALOR: O BILHETE DA PASSAGEM AÉREA E-TICKET; Nº 957-2464793384 FOI EMITIDO, INICIALMENTE, PARA O VÔO DO DIA 15/03/2013, TRECHO CGH x VIX
+TARIFA AÉREA: R$ 765,00
+TAXA DE EMBARQUE: R$ 21,57
+TAXA DU: R$ 76,50
+VALOR TOTAL: R$ 863,07
+FOI REEMITIDO PARA O DIA 21/03/2013- E-TICKET: 957-2465062011, TRECHO BSB x VIX, COM AS SEGUINTES TAXAS:
+ADICIONAL DE TARIFA AÉREA:R$ 0,00
+MULTA: R$ 130,00
+TAXA DE DU: R$ 40,00
+VALOR TOTAL: R$ 170,00
+VALOR REEMBOLSADO:R$ 863,07   R$ 170,00 =  R$ 1.033,07", 
+                            "valorReembolsado":"1033.07", "codDocumento":"714254"}, {"ano":"2013", "mes":"3", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572464677744", "data":"2013-03-20", "detalhamento":"CNPJ: 02.013.862/0001-60
+FORNECEDOR: TAM
+DOCUMENTO: 957-2464677744
+PASSAGEIRO/TRECHO:KALIANA KALACHE- BSB x VIX (20/03/2013) - VIX xBSB(23/03/2013)
+*DESCRIÇÃO DO VALOR: O BILHETE DA PASSAGEM AÉREA E-TICKET Nº 957-2463952361 FOI EMITIDO, INICIALMENTE, PARA O VÔO DO DIA 27/02/2013, TRECHO BSB x VIX - VIX x BSB
+TARIFA AÉREA: R$ 984,30
+TX DE EMBARQUE: R$ 38,08
+TX DU: R$ 98,43
+VALOR TOTAL: R$ 1.120,81
+FOI REEMITIDO PARA O DIA 13/03/2013- E-TICKET: 957-2464637025, TRECHO BSB x VIX - VIX x BSB, COM AS SEGUINTES TAXAS; 
+ADICIONAL DE TARIFA AÉREA: R$ 173,70
+MULTA: R$ 150,00
+TX DU: R$ 40,00
+VALOR TOTAL: R$ 363,70
+FOI REEMITIDO PARA O DIA 20/03/2013 - E-TICKET: 957-2464677744, TRECHO BSB X VIX - VIX x BSB, COM AS SEGUINTES TAXAS:
+ADICIONAL TARIRFA AÉREA: R$ 0,00
+TX EMBARQUE: R$ 0,00
+TX DU: R$ 0,00
+VALOR TOTAL: R$ 0,00
+MATRÍCULA: 253938
+VALOR REEMBOLSADO:R$ 1.120,81   R$ 363,70   R$ 0,00 =  R$ 1.484,51", 
+                            "valorReembolsado":"1484.51", "codDocumento":"714253"}, {"ano":"2013", "mes":"3", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572464677800", "data":"2013-03-17", "detalhamento":"CNPJ: 02.012.862/0001-60
+FORNECEDOR: TAM
+DOCUMENTO: 957-2464677800
+PASSAGEIRO/TRECHO: RICARDO FERRAÇO - SDU X VIX - 17/03/2013
+VALOR REEMBOLSADO: R$ 255,57", 
+                            "valorReembolsado":"255.57", "codDocumento":"714252"}, {"ano":"2013", "mes":"3", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572464738499", "data":"2013-03-14", "detalhamento":"CNPJ: 02.012.862/0001/60
+FORNECEDOR: TAM
+DOCUMENTO: 957-2464738499
+PASSAGEIRO/TRECHO: RICARDO FERRAÇO - BSB x CGH - 14/03/2013
+* DESCRIÇÃO DO VALOR: O BILHETE DA PASSAGEM AÉREA E-TICKET Nº 957-2459561967 FOI EMITIDO, INICIALMENTE, PARA O VÔO DO DIA 28/11/2012, TRECHO BSB X BIX
+TARIFA AÉREA: R$ 481,00
+TX EMBARQUE: R$ 21,13
+TX DU: R$ 48,10
+VALOR TOTAL: R$ 550,23
+FOI REEMITIDO PARA O DIA 15/02/2013 - E-TICKET: Nº 957-2463035095, TRECHO VIX x CGH
+ADICIONAL DE TARIFA AÉREA: R$ 119,18
+MULTA: R$ 150,00
+TX DU: R$ 40,00
+VALOR TOTAL: R$ 309,18
+FOI REEMITIDO, NOVAMENTE, PARA O DIA 14/03/2013, E-TICKET: 957- 2464738499, TRECHO BSB X CGH, COM AS SEGUINTES TAXAS:
+ADICIONAL DE TARIFA AÉREA: R$ 138,18
+MULTA: R$ 150,00
+TX DU: R$ 40,00
+VALOR TOTAL: R$ 328,18
+VALOR REEMBOLSADO:R$ 550,23   R$ 309,18   R$ 328,18 = R$ 1.187,59", 
+                            "valorReembolsado":"1187.59", "codDocumento":"714251"}, {"ano":"2013", "mes":"3", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL", 
+                            "documento":"1270001490799", "data":"2013-03-14", "detalhamento":"CNPJ: 07.575.651/0001-59
+FORNECEDOR: GOL
+DOCUMENTO: 127-0001490799
+PASSAGEIRO/TRECHO: KALIANA KALACHE - BSB xCWB - 14/03/2013 - CWB x BSB - 18/03/2013
+MATRÍCULA: 253938
+VALOR REEMBOLSADO: R$ 693,92", 
+                            "valorReembolsado":"693.92", "codDocumento":"714250"}, {"ano":"2013", "mes":"3", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"09296295000160", "fornecedor":"AZUL", 
+                            "documento":"2220005235304", "data":"2013-03-27", "detalhamento":"CNPJ: 09.296.295/0001-60
+DOCUMENTO: 222-0005235304
+FORNECEDOR: AZUL
+PASSAGEIRO/TRECHO: RICARDO FERRAÇO - BSB x CNF - CNF x VIX - 27/03/2013
+VALOR REEMBOLSADO: R$ 972,42", 
+                            "valorReembolsado":"972.42", "codDocumento":"718922"}, {"ano":"2013", "mes":"3", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"09296295000160", "fornecedor":"AZUL", 
+                            "documento":"2220005225251", "data":"2013-03-07", "detalhamento":"CNPJ: 09.296.295/0001-60
+FORNECEDOR: AZUL
+DOCUMENTO: 222-0005225251
+PASSAGEIRO/TRECHO: RICARDO FERRAÇO - BSB x CNF - CNF X VIX - 07/03/2013
+VALOR REEMBOLSADO: R$ 491,61", 
+                            "valorReembolsado":"491.61", "codDocumento":"714249"}, {"ano":"2013", "mes":"3", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"16490701000196", "fornecedor":"HERBST LOCAÇÕES E SERVIÇOS LTDA ME", 
+                            "documento":"13", "data":"2013-03-19", "detalhamento":"null", 
+                            "valorReembolsado":"4200.0", "codDocumento":"714263"}, {"ano":"2013", "mes":"3", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"04145589000681", "fornecedor":"Arara Azul Rede de Postos Ltda", 
+                            "documento":"3977", "data":"2013-03-01", "detalhamento":"null", 
+                            "valorReembolsado":"500.3", "codDocumento":"714256"}, {"ano":"2013", "mes":"3", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"04145589000177", "fornecedor":"Arara Azul Rede de Postos Ltda", 
+                            "documento":"3628", "data":"2013-03-01", "detalhamento":"null", 
+                            "valorReembolsado":"120.0", "codDocumento":"714257"}, {"ano":"2013", "mes":"3", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"77488040791", "fornecedor":"ECT- EMP. BRAS. DE CORREIOS E TELEGRAFOS", 
+                            "documento":"014", "data":"2013-03-19", "detalhamento":"O VALOR DE R$ 34,80, REFERE-SE À DESPESA POSTAL, NO DIA 19/03/2013, CUJO CEP DE DESTINO É : 70.165-900 (DF)
+DESCRIÇÃO DO SERVIÇO: SEDEX 10", 
+                            "valorReembolsado":"34.8", "codDocumento":"731557"}, {"ano":"2013", "mes":"3", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"32398877000179", "fornecedor":"ECT- EMP. BRAS. DE CORREIOS E TELEGRAFOS", 
+                            "documento":"042", "data":"2013-03-01", "detalhamento":"null", 
+                            "valorReembolsado":"37.45", "codDocumento":"714258"}, {"ano":"2013", "mes":"3", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"32398877000179", "fornecedor":"ECT - EMP. DE CORREIOS E TELEGRAFOS", 
+                            "documento":"039", "data":"2013-03-06", "detalhamento":"null", 
+                            "valorReembolsado":"34.8", "codDocumento":"714261"}, {"ano":"2013", "mes":"3", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"02449992008149", "fornecedor":"VIVO S.A", 
+                            "documento":"null", "data":"2013-03-28", "detalhamento":"O VALOR DE R$ 345,31, REFERE-SE A DESPESA COM LINHA TELEFONICA, DA OPERADORA VIVO, NÚMERO (27) 9840-6600", 
+                            "valorReembolsado":"345.31", "codDocumento":"731558"}, {"ano":"2013", "mes":"3", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"02449992008149", "fornecedor":"VIVO S.A", 
+                            "documento":"null", "data":"2013-03-06", "detalhamento":"null", 
+                            "valorReembolsado":"318.04", "codDocumento":"714262"}, {"ano":"2013", "mes":"3", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"00108786014549", "fornecedor":"NET", 
+                            "documento":"null", "data":"2013-03-31", "detalhamento":"O VALOR DE R$ 646,48, REFERE-SE À ASSINATURA DA NET PARA ATENDER AO ESCRITÓRIO DE APOIO, LOCALIZADO NA AV. NOSSA SENHORA DOS NAVEGANTES, 451, ENSEADA DO SUÁ - VITÓRIA -ES", 
+                            "valorReembolsado":"646.48", "codDocumento":"731560"}, {"ano":"2013", "mes":"3", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"28152650000171", "fornecedor":"ESPÍRITO SANTO CENTRAIS ELETRICAS S.A", 
+                            "documento":"001094230", "data":"2013-03-30", "detalhamento":"O VALOR DE R$ 421,71, REFERE-SE AO PAGAMENTO DO CONSUMO DE ENERGIA ELÉTRICA DO ESCRITÓRIO DE APOIO, LOCALIZADO NA AV. NOSSA SENHORA DOS NAVEGANTES, 451, ENSEADA DO SUÁ - VITÓRIA -ES.", 
+                            "valorReembolsado":"421.71", "codDocumento":"731559"}, {"ano":"2013", "mes":"3", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"06788256000191", "fornecedor":"Cond. Ed. Petro Tower", 
+                            "documento":"11755", "data":"2013-03-05", "detalhamento":"null", 
+                            "valorReembolsado":"321.37", "codDocumento":"714260"}, {"ano":"2013", "mes":"3", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"06788256000191", "fornecedor":"Cond. Ed. Petro Tower", 
+                            "documento":"11754", "data":"2013-03-05", "detalhamento":"null", 
+                            "valorReembolsado":"314.63", "codDocumento":"714259"}, {"ano":"2013", "mes":"3", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"07661480000180", "fornecedor":"BOUSQUET 2005 PARTICIPAÇÕES E INVESTIMENTOS LTDA", 
+                            "documento":"null", "data":"2013-03-23", "detalhamento":"null", 
+                            "valorReembolsado":"4300.8", "codDocumento":"714265"}, {"ano":"2013", "mes":"2", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572463694213", "data":"2013-02-26", "detalhamento":"CNPJ: 02.012.862/0001-60
+FORNECEDOR: TAM
+DOCUMENTO: 957- 2463694213
+PASSAGEIRO/TRECHO: RICARDO FERRAÇO - VIX x BSB - 26/02/2013
+VALOR REEMBOLSADO: R$ 493,80", 
+                            "valorReembolsado":"493.8", "codDocumento":"698989"}, {"ano":"2013", "mes":"2", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"957-2463147525", "data":"2013-02-18", "detalhamento":"CNPJ: 02.012.862/0001-60
+FORNECEDOR: TAM
+DOCUMENTO: 957-2463147525
+PASSAGEIRO/TRECHO: RICARDO FERRAÇO/ VIX x BSB - 18/02/2013
+VALOR REEMBOLSADO: R$ 645,05", 
+                            "valorReembolsado":"645.05", "codDocumento":"698987"}, {"ano":"2013", "mes":"2", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572463035087", "data":"2013-02-15", "detalhamento":"CNPJ: 02.012.862/0001-60
+FORNECEDOR: TAM
+DOCUMENTO: 957-2463035087
+PASSAGEIRO/TRECHO: RICARDO FERRAÇO/ CGH x VIX - 15/02/2013
+VALOR REEMBOLSADO: R$ 282,57", 
+                            "valorReembolsado":"282.57", "codDocumento":"698986"}, {"ano":"2013", "mes":"2", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"957-2462933246", "data":"2013-02-11", "detalhamento":"CNPJ: 02.012.862/0001-60
+FORNECEDOR: TAM
+DOCUMENTO: 957-2462933246
+PASSAGEIRO/TRECHO: RICARDO FERRAÇO/ VIX x SDU - 11/02/2013
+VALOR REEMBOLSADO: R$ 158,95", 
+                            "valorReembolsado":"158.95", "codDocumento":"698984"}, {"ano":"2013", "mes":"2", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572463035025", "data":"2013-02-05", "detalhamento":"CNPJ: 02.012.862/0001-60
+FORNECEDOR: TAM
+DOCUMENTO: 957- 2463035025
+PASSAGEIRO/TRECHO: RICARDO FERRAÇO/ BSB x VIX - 07/02/2013 (T-TICHET) - 957-2462736370.
+VALOR REEMBOLSADO: R$ 1.483,33
+* DESCRIÇÃO DO VALOR: O BILHETE DA PASSAGEM AÉREA E-TICKET Nº 957-2462736370 FOI EMITIDO, INICIALMENTE, PARA O VÔO DO DIA 07/02/2013, TRECHO BSB x VIX
+TARIFA AÉREA: R$ 1202,00
+TX EMBARQUE; R$ 21,13
+TX DU: R$ 120,20
+VALOR TOTAL: R$ 1343,33
+FOI REEMITIDO PARA O DIA 05/02/2013 - E-TICKET Nº 957-2463035025, TRECHO BSB x VIX, COM AS SEGUINTES TAXAS:
+ADICIONAL DE TARIFA AÉREA: R$ 0,00
+MULTA: R$ 100,00
+TX DU: R$ 40,00
+VALOR TOTAL: R$ 140,00
+VALOR FINAL = R$ 1.343,33   R$ 140,00 = R$ 1.483,33", 
+                            "valorReembolsado":"1483.33", "codDocumento":"698983"}, {"ano":"2013", "mes":"2", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572462859757", "data":"2013-02-04", "detalhamento":"CNPJ: 02.012.862/0001-60
+FORNECEDOR: TAM
+DOCUMENTO: 957-2462859757
+PASSAGEIRO/TRECHO: RICARDO FERRAÇO/ VIX x BSB - 04/02/2013
+VALOR REEMBOLSADO: R$ 1675,55
+* DESCRIÇÃO DO VALOR: O BILHETE DA PASSAGEM AÉREA E-TICKET Nº 957-2461514754 FOI EMITIDO, INICIALMENTE, PARA O VÔO DO DIA 24/01/2013, TRECHO VIX x SDU
+TARIFA AÉREA: R$ 133,00
+TX DE EMBARQUE: R$ 16,95
+TX DU: R$ 40,00
+VALOR TOTAL: R$ 189,95
+FOI REEMITIDO PARA O DIA 05/02/2013 - E-TICKET Nº 957-2462736358, TRECHO VIX x BSB, COM AS SEGUINTES TAXAS:
+ADICIONAL DE TARIFA AÉREA: R$ 331,00
+MULTA: R$ 150,00
+TAXA DU: R$ 46,40
+VALOR TOTAL: R$ 527,40
+FOI REEMITIDO PARA O DIA 04/02/2013- E-TICKET Nº 957-2462859757, TRECHO VIX x BSB, COM AS SEGUINTES TAXAS;
+ADICIONAL DE TARIFA AÉREA; R$ 738,00
+MULTA: R$ 100,00
+TX DU: R4 120,20
+VALOR TOTAL: R$ 958,20
+VALOR FINAL = R$ 189,95   R$ 527,40   R$958,20 = R$ 1.675,55", 
+                            "valorReembolsado":"1675.55", "codDocumento":"698982"}, {"ano":"2013", "mes":"2", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL", 
+                            "documento":"1270001482269", "data":"2013-02-12", "detalhamento":"CNPJ: 07.575.651/0001-59
+FORNECEDOR: GOL
+DOCUMENTO: 127-0001482269
+PASSAGEIRO/TRECHO: RICARDO FERRAÇO/ SDU x VIX - 12/02/2013
+VALOR REEMBOLSADO: R$ 255,47", 
+                            "valorReembolsado":"255.47", "codDocumento":"698985"}, {"ano":"2013", "mes":"2", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"09296295000160", "fornecedor":"AZUL", 
+                            "documento":"2220005219042", "data":"2013-02-21", "detalhamento":"CNPJ: 09.296.295/0001-60
+FORNECEDOR: AZUL
+DOCUMENTO: 222-0005219042
+PASSSAGEIRO/TRECHO: RICARDO FERRAÇO - BSB X CNF - CNF xVIX  - 21/02/2013
+VALOR REEMBOLSADO: R$ 491,61", 
+                            "valorReembolsado":"491.61", "codDocumento":"698988"}, {"ano":"2013", "mes":"2", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02575829000148", "fornecedor":"AVIANCA", 
+                            "documento":"0230123734544", "data":"2013-02-05", "detalhamento":"CNPJ: 02.575.829/0001-48
+FORNECEDOR: AVIANACA
+DOCUMENTO: 023-0123734544
+PASSSAGEIRO/TRECHO: KALIANA KALCHE/ CWB x BSB - 05/02/2013
+MATRÍCULA: 253938
+VALOR REEMBOLSADO: R$ 280,07", 
+                            "valorReembolsado":"280.07", "codDocumento":"698981"}, {"ano":"2013", "mes":"2", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02575829000148", "fornecedor":"AVIANCA", 
+                            "documento":"0230123734543", "data":"2013-02-01", "detalhamento":"CNPJ: 02.575.829/0001-48
+FORNECEDOR: AVIANCA
+DOCUMENTO: 023-0123734543
+PASSAGEIRO/TRECHO: KALIANA KALACHE/ BSB x CWB - 01/02/2013
+MATRÍCULA: 253938
+VALOR REEMBOLSADO: R$ 345,63", 
+                            "valorReembolsado":"345.63", "codDocumento":"698980"}, {"ano":"2013", "mes":"2", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"04145589001149", "fornecedor":"Arara Azul Rede de Postos Ltda", 
+                            "documento":"109/00026447-0", "data":"2013-02-06", "detalhamento":"null", 
+                            "valorReembolsado":"414.84", "codDocumento":"698992"}, {"ano":"2013", "mes":"2", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"10528947000123", "fornecedor":"RPR - LOCAÇÕES E SERVIÇOS LTDA", 
+                            "documento":"00041", "data":"2013-02-21", "detalhamento":"null", 
+                            "valorReembolsado":"3500.0", "codDocumento":"698998"}, {"ano":"2013", "mes":"2", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"32398877000179", "fornecedor":"ECT- Emp. Correios e Telegrafos", 
+                            "documento":"036", "data":"2013-02-14", "detalhamento":"null", 
+                            "valorReembolsado":"34.8", "codDocumento":"698997"}, {"ano":"2013", "mes":"2", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"32398877000179", "fornecedor":"ECT- Emp. Bras. de Correios e Telegrafos", 
+                            "documento":"030", "data":"2013-02-08", "detalhamento":"null", 
+                            "valorReembolsado":"46.54", "codDocumento":"698995"}, {"ano":"2013", "mes":"2", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"32398877000179", "fornecedor":"ECT- Emp. Bras. de Correios e Telegrafos", 
+                            "documento":"029", "data":"2013-02-08", "detalhamento":"null", 
+                            "valorReembolsado":"37.35", "codDocumento":"698996"}, {"ano":"2013", "mes":"2", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"77488040791", "fornecedor":"ECT- EMP. BRAS. DE CORREIOS E TELEGRAFOS", 
+                            "documento":"031", "data":"2013-02-22", "detalhamento":"null", 
+                            "valorReembolsado":"34.8", "codDocumento":"714201"}, {"ano":"2013", "mes":"2", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"32398877000179", "fornecedor":"ECT - Emp. Bras. de Correios e Telégrafos", 
+                            "documento":"002", "data":"2013-02-06", "detalhamento":"null", 
+                            "valorReembolsado":"18.6", "codDocumento":"698994"}, {"ano":"2013", "mes":"2", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"02449992008149", "fornecedor":"VIVO", 
+                            "documento":"null", "data":"2013-02-06", "detalhamento":"null", 
+                            "valorReembolsado":"364.61", "codDocumento":"698993"}, {"ano":"2013", "mes":"2", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"00108786014549", "fornecedor":"NET", 
+                            "documento":"null", "data":"2013-02-28", "detalhamento":"null", 
+                            "valorReembolsado":"599.08", "codDocumento":"714202"}, {"ano":"2013", "mes":"2", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"28152650000171", "fornecedor":"Espírito Santo Centrais Eletricas S.A.", 
+                            "documento":"001082327", "data":"2013-02-28", "detalhamento":"null", 
+                            "valorReembolsado":"330.5", "codDocumento":"714203"}, {"ano":"2013", "mes":"2", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"06788256000191", "fornecedor":"Condomínio do Edifício Petro Tower", 
+                            "documento":"11294", "data":"2013-02-05", "detalhamento":"null", 
+                            "valorReembolsado":"321.37", "codDocumento":"698991"}, {"ano":"2013", "mes":"2", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"06788256000191", "fornecedor":"Condomínio do Edifício Petro Tower", 
+                            "documento":"11293", "data":"2013-02-05", "detalhamento":"null", 
+                            "valorReembolsado":"314.63", "codDocumento":"698990"}, {"ano":"2013", "mes":"2", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"07661480000180", "fornecedor":"Bousquet 2005 Participações e Investimentos Ltda", 
+                            "documento":"null", "data":"2013-02-23", "detalhamento":"null", 
+                            "valorReembolsado":"4300.8", "codDocumento":"698999"}, {"ano":"2013", "mes":"1", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572462736377", "data":"2013-01-30", "detalhamento":"CNPJ: 02.012.862/0001-60
+FORNECEDOR: TAM
+DOCUMENTO: 957-2462736377
+PASSAGEIRO/TRECHO: JOSE LIMA/ BSB x VIX - 30/01/2013
+MATRÍCULA: 238843
+VALOR REEMBOLSADO: R$ 1.343,33", 
+                            "valorReembolsado":"1343.33", "codDocumento":"689653"}, {"ano":"2013", "mes":"1", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572462565138", "data":"2013-01-29", "detalhamento":"CNPJ: 02.012.862/0001-60
+FORNECEDOR: TAM
+DOCUMENTO: 957-2462565138
+PASSAGEIRO/TRECHO: RICARDO FERRAÇO/ VIX x BSB - 29/01/2013
+VALOR REEMBOLSADO: R$ 1.479,15
+DESCRIÇÃO DO VALOR: O BILHETE DA PASSAGEM E-TICKET Nº 957-2461981018 FOI EMITIDO, INICIALMENTE, PARA O VÔO DO DIA 30/01/2013, TRECHO VIX x BSB
+TARIFA AÉREA: R$ 323,00
+TX DE EMBARQUE: R$ 16,95
+TX DU: R$ 40,00
+VALOR TOTAL: R$ 379,95
+FOI REEMITIDO PARA O DIA 29/01/2013 - E-TICKET Nº 957-2462565138, TRECHO VIX x BSB, COM AS SEGUINTES TAXAS:
+ADICIONAL DE TARIFA AÉREA: R$ 879,00
+MULTA: R$ 100,00
+TX DU: R$ 120,20
+VALOR: R$ 1099,20
+VALOR TOTAL = R$ 379,95   R$ 1.099,20 = R$ 1479,15", 
+                            "valorReembolsado":"1479.15", "codDocumento":"689652"}, {"ano":"2013", "mes":"1", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572459555734", "data":"2013-01-08", "detalhamento":"CNPJ: 02.012.862/0001-60
+FORNECEDOR: TAM
+DOCUMENTO: 957- 2459555734
+PASSAGEIRO/TRECHO: KALIANA KALACHE - CWB x BSB - 08/01/2013
+MATRÍCULA: 253938
+VALOR REEMBOLSADO: R$ 284,57", 
+                            "valorReembolsado":"284.57", "codDocumento":"689646"}, {"ano":"2013", "mes":"1", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL", 
+                            "documento":"1270001478005", "data":"2013-01-28", "detalhamento":"CNPJ: 07.575.651/0001-59
+FORNECEDOR: GOL
+DOCUMENTO: 127-0001478005
+PASSAGEIRO/TRECHO: JOSE LIMA/ VIX x BSB - 28/01/2013
+MATRÍCULA: 238843
+VALOR REEMBOLSADO: R$ 1.047,57", 
+                            "valorReembolsado":"1047.57", "codDocumento":"689651"}, {"ano":"2013", "mes":"1", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL", 
+                            "documento":"1270001466333", "data":"2013-01-27", "detalhamento":"CNPJ: 07.575.651/0001-59
+FORNECEDOR: GOL
+DOCUMENTO: 127-0001466333
+PASSAGEIRO/TRECHO: RICARDO FERRAÇO/ SDU x VIX - 27/01/2013
+VALOR REEMBOLSADO: R$ 278,47", 
+                            "valorReembolsado":"278.47", "codDocumento":"689650"}, {"ano":"2013", "mes":"1", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL", 
+                            "documento":"1270001472301", "data":"2013-01-23", "detalhamento":"CNPJ: 07.575.651/0001-59
+FORNECEDOR: GOL
+DOCUMENTO: 127-0001472301
+PASSAGEIRO/TRECHO: RICARDO FERRAÇO/ SDU x VIX - 23/01/2013
+VALOR REEMBOLSADO: R$ 298,47", 
+                            "valorReembolsado":"298.47", "codDocumento":"689654"}, {"ano":"2013", "mes":"1", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL", 
+                            "documento":"1270001472291", "data":"2013-01-23", "detalhamento":"CNPJ: 07.575.651/0001-59
+FORNECEDOR: GOL
+DOCUMENTO: 127-0001472291
+PASSAGEIRO/TRECHO: RICARDO FERRAÇO/ VIX x SDU - 23/01/2013
+VALOR REEMBOLSADO: R$ 271,85", 
+                            "valorReembolsado":"271.85", "codDocumento":"689649"}, {"ano":"2013", "mes":"1", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL", 
+                            "documento":"1270001471384", "data":"2013-01-21", "detalhamento":"CNPJ: 07.575.651/0001-59
+FORNECEDOR: GOL
+DOCUMENTO: 127/0001471384
+PASSAGEIRO/TRECHO: KALIANA KALACHE/ VIX x BSB - 21/01/2013
+MATRÍCULA: 253938
+VALOR REEMBOLSADO: R$ 707,64", 
+                            "valorReembolsado":"707.64", "codDocumento":"689648"}, {"ano":"2013", "mes":"1", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL", 
+                            "documento":"1270001471355", "data":"2013-01-21", "detalhamento":"CNPJ: 07.575.651/0001-59
+FORNECEDOR: GOL
+DOCUMENTO: 127-0001471355
+PASSAGEIRO/TRECHO: KALIANA KALACHE - BSB x VIX - 21/01/2013
+MATRÍCULA: 253938
+VALOR REEMBOLSADO: R$ 620,52", 
+                            "valorReembolsado":"620.52", "codDocumento":"689647"}, {"ano":"2013", "mes":"1", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"10528947000123", "fornecedor":"RPR LOCAÇÕES E SERVIÇOS LTDA", 
+                            "documento":"00034", "data":"2013-01-07", "detalhamento":"null", 
+                            "valorReembolsado":"3500.0", "codDocumento":"683495"}, {"ano":"2013", "mes":"1", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"04145589000681", "fornecedor":"ARARA AZUL REDE DE POSTOS LTDA", 
+                            "documento":"000003731", "data":"2013-01-07", "detalhamento":"null", 
+                            "valorReembolsado":"120.0", "codDocumento":"698975"}, {"ano":"2013", "mes":"1", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"32398877000179", "fornecedor":"ECT- EMP. BRAS. DE CORREIOS E TELEGRAFOS", 
+                            "documento":"032", "data":"2013-01-17", "detalhamento":"null", 
+                            "valorReembolsado":"30.7", "codDocumento":"698977"}, {"ano":"2013", "mes":"1", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"77488040791", "fornecedor":"ECT - EMP. BRAS. DE CORREIOS E TELEGRAFOS", 
+                            "documento":"030", "data":"2013-01-11", "detalhamento":"null", 
+                            "valorReembolsado":"38.2", "codDocumento":"698976"}, {"ano":"2013", "mes":"1", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"00108786014549", "fornecedor":"NET", 
+                            "documento":"null", "data":"2013-01-31", "detalhamento":"null", 
+                            "valorReembolsado":"475.45", "codDocumento":"698979"}, {"ano":"2013", "mes":"1", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"28152650000171", "fornecedor":"EDP - ESCELSA", 
+                            "documento":"001280358", "data":"2013-01-30", "detalhamento":"null", 
+                            "valorReembolsado":"374.18", "codDocumento":"698978"}, {"ano":"2013", "mes":"1", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"07661480000180", "fornecedor":"Bousquet 2005 Participações e Investimentos Ltda", 
+                            "documento":"null", "data":"2013-01-23", "detalhamento":"null", 
+                            "valorReembolsado":"4300.8", "codDocumento":"683494"}, {"ano":"2013", "mes":"6", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"16490701000196", "fornecedor":"HERBST LOCAÇÕES E SERVIÇOS LTDA ME", 
+                            "documento":"LTSVBMYJ", "data":"2013-06-13", "detalhamento":"DISCRIMINAÇÃO DO SERVIÇO: LOCAÇÃO DE VEÍCULO AUTOMOTOR, MODELO COROLA, PLACA MTZ-0354, NO VALOR DE R$ 4.200,00", 
+                            "valorReembolsado":"4200.0", "codDocumento":"766594"}, {"ano":"2013", "mes":"6", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"16490701000196", "fornecedor":"HERBST LOCAÇÕES E SERVIÇOS LTDA ME", 
+                            "documento":"GRIEKXJU", "data":"2013-06-13", "detalhamento":"DISCRIMINAÇÃO DO SERVIÇO: LOCAÇÃO DE VEÍCULO AUTOMOTOR 1.6 RENAULT SANDERO, PLACA MPJ 9105, ANO/MODELO 2013, NO VALOR DE R$ 2.500,00", 
+                            "valorReembolsado":"2500.0", "codDocumento":"766595"}, {"ano":"2013", "mes":"6", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"32398877000179", "fornecedor":"ECT- EMPRESA DE CORREIOS E TELÉGRAFOS", 
+                            "documento":"26", "data":"2013-06-14", "detalhamento":"O VALOR DE R$ 37,20, REFERE-SE AO PAGAMENTO DE DESPESAS POSTAIS", 
+                            "valorReembolsado":"37.2", "codDocumento":"781024"}, {"ano":"2013", "mes":"6", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"02449992008149", "fornecedor":"VIVO S.A", 
+                            "documento":"null", "data":"2013-06-30", "detalhamento":"O VALOR DE R$ 362,98, REFERE-SE AO PAGAMENTO DE CONTA TELEFÔNICA, CUJO NÚMERO (27) 9840-6600, ATENDE AO ESCRITÓRIO DE APOIO, SITUADO NA AVENIDA NOSSA SENHORA DOS NAVEGANTES, 451, SALAS 1603 E 1604 - ENSEADA DO SUÁ - VITÓRIA/ES", 
+                            "valorReembolsado":"362.98", "codDocumento":"781025"}, {"ano":"2013", "mes":"6", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"00108786014549", "fornecedor":"NET", 
+                            "documento":"508002142221", "data":"2013-06-30", "detalhamento":"O VALOR DE R$ 755,72, REFERE-SE AO PAGAMENTO DA FATURA DA  NET, DO MÊS DE JUNHO, QUE ATENDE AO ESCRITÓRIO DE APOIO SITUADO NA AVENIDA NOSSA SENHORA DOS NAVEGANTES, 451, SALAS 1603 E 1604 - ED. PETRO TOWER BUSINESS - ENSEADA DO SUÁ - VITÓRIA/ES", 
+                            "valorReembolsado":"755.72", "codDocumento":"781027"}, {"ano":"2013", "mes":"6", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"28152650000171", "fornecedor":"ESPÍRITO SANTO CENTRAIS ELETRICAS S.A", 
+                            "documento":"null", "data":"2013-06-11", "detalhamento":"O VALOR DE R$ 297,79 REFERE-SE AO PAGAMENTO DA CONTA DE ENERGIA REFERENTE AO CONSUMO DO ESCRITÓRIO DE APOIO, SITUADO NA AV. NOSSA SENHORA DOS NAVEGANTES, 451, SALAS 1603 E 1604 - ED. PETRO TOWER BUSINESS.", 
+                            "valorReembolsado":"297.79", "codDocumento":"766593"}, {"ano":"2013", "mes":"6", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"28152650000171", "fornecedor":"ESPIRITO SANTO CENTRAIS ELETRICAS S.A", 
+                            "documento":"null", "data":"2013-06-30", "detalhamento":"O VALOR DE R$ 280,02, REFERE-SE AO PAGAMENTO DA CONTA DE ENERGIA, DO MÊS DE JUNHO, DO ESCRITÓRIO DE APOIO, SITUADO NA AVENIDA NOSSA SENHORA DOS NAVEGANTES, 451, SALAS 1603 E 1604 - ED. PETRO TOWER BUSINESS - ENSEADA DO SUÁ- VITÓRIA/ES", 
+                            "valorReembolsado":"280.02", "codDocumento":"781026"}, {"ano":"2013", "mes":"6", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"06788256000191", "fornecedor":"CONDOMÍNIO DO EDIFÍCIO PETRO TOWER", 
+                            "documento":"12564", "data":"2013-06-05", "detalhamento":"O VALOR DE R$ 314,63 REFERE-SE AO PAGAMENTO DO CONDOMÍNIO DA SALA 1603 DO ESCRITÓRIO DE APOIO, SITUADO NA AV. NOSSA SENHORA DOS NAVEGANTES, 451- ED. PETRO TOWER BUSINESS.", 
+                            "valorReembolsado":"314.63", "codDocumento":"766591"}, {"ano":"2013", "mes":"6", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"06788256000191", "fornecedor":"CONDOMÍNIO DO EDIFÍCIO PETRO TOWER", 
+                            "documento":"12565", "data":"2013-06-03", "detalhamento":"O VALOR DE R$ 321,37, REFERE-SE AO PAGAMENTO DO CONDOMÍNIO DA SALA 1604 DO ESCRITÓRIO DE APOIO SITUADO NA AV. NOSSA SENHORA DOS NAVEGANTES, 451- ED. PETRO TOWER BUSINESS", 
+                            "valorReembolsado":"321.37", "codDocumento":"766590"}, {"ano":"2013", "mes":"6", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"07661480000180", "fornecedor":"BOUSQUET 2005 PARTICIPAÇÕES E INVESTIMENTOS LTDA", 
+                            "documento":"null", "data":"2013-06-23", "detalhamento":"O VALOR DE R$ 4.300,80 REFERE-SE AO PAGAMENTO DO ALUGUEL DO IMÓVEL, ONDE FUNCIONA O ESCRITÓRIO DE APOIO, SITUADO NA AV. NOSSA SENHORA DOS NAVEGANTES, 451, SALAS 1603 E 1604- ENSEADA DO SUÁ.", 
+                            "valorReembolsado":"4300.8", "codDocumento":"766596"}, {"ano":"2013", "mes":"5", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572379267611", "data":"2013-05-24", "detalhamento":"CNPJ: 02.012.862/0001-60
+FORNECEDODR: TAM
+DOCUMENTO: 957-2379267611
+PASSAGEIRO/TRECHO: RICARDO FERRAÇO - CGH x VIX - 24/05/2013
+VALOR SOLICITADO: R$ 985,17", 
+                            "valorReembolsado":"985.17", "codDocumento":"756227"}, {"ano":"2013", "mes":"5", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572469353530", "data":"2013-05-24", "detalhamento":"CNPJ: 02.012.862/0001-60
+FORNECEDOR: TAM
+DOCUMENTO: 957-2469353530
+PASSAGEIRO/TRECHO: RICARDO FERRAÇO - BSB x CGH - 24/05/2013
+VALOR REEMBOLSADO: R$ 917,83
+* DESCRIÇÃO DO VALOR: O BILHETE DA PASSAGEM AÉREA E-TICKET: 957-2469239962 FOI EMITIDO, INIICALMENTE, PARA O VÔO DO DIA 24/05/2013 - 09:17 x 10:57 - TRECHO BSB x CGH
+TARIFA AÉREA: R$ 647,00
+TAXA DE EMBARQUE: R$ 21,13
+TAXA DU: R$ 64,70
+VALOR TOTAL: R$ 732,83
+FOI REEMITIDO PARA O DIA 24/05/2013, TRECHO BSB x CGH - 07:20 x 08:57
+DIFERENÇA DE TARIFA AÉREA: R$ 65,00
+TAXA DE DU: R$ 40,00
+MULTA: R$ 80,00
+VALOR TOTAL: R$ 185,00
+A SOMA DOS BILHETES TOTALIZOU R$ 917,83", 
+                            "valorReembolsado":"917.83", "codDocumento":"756226"}, {"ano":"2013", "mes":"5", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572468836890", "data":"2013-05-21", "detalhamento":"CNPJ: 02.012.862/0001-60
+FORNECEDOR: TAM
+DOCUMENTO: 957- 2468836890
+PASSAGEIRO/TRECHO: RICARDO FERRAÇO - VIX X BSB - 21/05/2013
+VALOR REEMBOLSADO: R$ 595,55", 
+                            "valorReembolsado":"595.55", "codDocumento":"749852"}, {"ano":"2013", "mes":"5", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572468836878", "data":"2013-05-16", "detalhamento":"CNPJ: 02.012.862/0001-60
+FORNECEDOR:TAM
+DOCUMENTO: 957- 2468836878
+PASSAGEIRO/TRECHO: RICARDO FERRAÇO - BSB x VIX - 16/05/2013
+VALOR REEMBOLSADO: R$ 729,53", 
+                            "valorReembolsado":"729.53", "codDocumento":"749851"}, {"ano":"2013", "mes":"5", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572468543426", "data":"2013-05-14", "detalhamento":"CNPJ: 02.012.862/0001-60
+FORNECEDOR: TAM
+DOCUMENTO: 957- 2468543426
+PASSAGEIRO/TRECHO: RICARDO FERRAÇO - VIX x BSB - 14/5/2013
+VALOR REEMBOLSADO: R$ 554,57", 
+                            "valorReembolsado":"554.57", "codDocumento":"749850"}, {"ano":"2013", "mes":"5", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"04145589001149", "fornecedor":"ARARA AZUL REDE DE POSTOS LTDA", 
+                            "documento":"109000279007", "data":"2013-05-31", "detalhamento":"O VALOR DE R$ 441,03, REFERE-SE AOS SEGUINTES ABASTECIMENTOS:
+09/05/2013 - R$ 11,81, referente ao abastecimento do veículo de placa MTZ - 0354 COROLA
+16/05/2013 - R$ 130,00, referente ao abastecimento do veículo de placa MTZ - 0354 COROLA
+23/05/2013 - R$ 91,82 , referente ao abastecimento do veículo de placa MTZ - 0354 COROLA
+25/05/2013 - R$ 107,40, referente ao abastecimento do veículo de placa MTZ - 0354 COROLA", 
+                            "valorReembolsado":"441.03", "codDocumento":"773994"}, {"ano":"2013", "mes":"5", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"16490701000196", "fornecedor":"HERBST LOCACOES E SERVICOS LTDA ME", 
+                            "documento":"21", "data":"2013-05-13", "detalhamento":"HERBST LOCAÇOES E SERVIÇOS LTDA ME
+Nº NOTA FISCAL: 21
+CNPJ: 16490701000196
+VALOR SOLICITADO: R$ 4.200,00 REFERENTE A LOCAÇÃO DE 1 VEÍCULO EXECUTIVO SEM MOTORISTA (COROLA, PLACA MT- 0354", 
+                            "valorReembolsado":"4200.0", "codDocumento":"749857"}, {"ano":"2013", "mes":"5", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"32398877000179", "fornecedor":"EMP. BRAS. DE CORREIOS E TELEGRAFOS", 
+                            "documento":"046", "data":"2013-05-15", "detalhamento":"O VALOR DE R$ 34,80, REFERE-SE À DESPESA POSTAL DO ESCRITÓRIO DE APOIO SITUADO NA AVENIDA NOSSA SENHORA DOS NAVEGANTES, 451, SALAS 1603 E 1604 - ED. PETRO TOWER BUSINESS.", 
+                            "valorReembolsado":"34.8", "codDocumento":"764900"}, {"ano":"2013", "mes":"5", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"02449992008149", "fornecedor":"VIVO S.A", 
+                            "documento":"null", "data":"2013-05-20", "detalhamento":"O VALOR DE R$ 313,70, REFERE-SE A PAGAMENTO DE FATURA DA LINHA TELEFÔNICA DISPONIBILIZADA PARA O ESCRITÓRIO DE APOIO, SITUADO NA AV. NOSSA SENHORA DOS NAVEGANTES, 451, SALAS 1603 E 1604 - ED. PETRO TOWER BUSINESS.", 
+                            "valorReembolsado":"313.7", "codDocumento":"764901"}, {"ano":"2013", "mes":"5", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"00108786014549", "fornecedor":"NET", 
+                            "documento":"null", "data":"2013-05-31", "detalhamento":"O VALOR DE R$ 594,34, REFERE-SE A PAGAMENTO DE FATURA DA NET, DISPONIBILIZADA PARA O ESCRITÓRIO DE APOIO, SITUADO NA AVENIDA NOSSA SENHORA DOS NAVEGANTES, 451, SALAS 1603 E 1604- ED. PETRO TOWER BUSINESS.", 
+                            "valorReembolsado":"594.34", "codDocumento":"764902"}, {"ano":"2013", "mes":"5", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"06283146000178", "fornecedor":"FOUR COLORS COMERCIO E SERVIÇOS DE INFORMATICA LTDA - ME", 
+                            "documento":"673", "data":"2013-05-08", "detalhamento":"FOUR COLORS COMERCIO E SERVIÇOS DE INFORMÁTICA LTDA - ME
+NOTA FISCAL Nº 673
+EMISSÃO NOTA FISCAL:  08/05/2013
+VALOR: R$ 384,00 - DESCRIÇÃO DO SERVIÇO: R$ 30,00 (1 UN RECARGA DE CARTUCHO HP 950); R$ 225,00 (3 UN CARTUCHO COMPATÍVEL CIANO, MARJENTA E AMARELO HP 951) E R$ 129,00 ( 1 UN TONER COMPATIVEL HP 3010)
+O VALOR ACIMA CITADO, FOI REALIZADO PARA TROCA DE TONER E  RECARGA DE CARTUCHO PARA IMPRESSORA QUE SERVE AO ESCRITÓRIO DE APOIO QUE FICA SITUADO NA AV. NOSSA DOS NAVEGANTES,451, ED. PETRO TOWER BUSINESS.", 
+                            "valorReembolsado":"384.0", "codDocumento":"749855"}, {"ano":"2013", "mes":"5", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"28152650000171", "fornecedor":"ESPÍRITO SANTO CENTRAIS ELETRICAS S.A", 
+                            "documento":"001278565", "data":"2013-05-10", "detalhamento":"ESPÍRITO SANTO CENTRAIS ELETRICAS S.A
+NOTA FISCAL SÉRIE UNICA Nº 001.278.565
+VALOR: R$ 324,99, REFERENTE A PAGAMENTO DE ENERGIA ELETRICA DO ESCRITÓRIO DE APOIO, SITUADO NA AV. NOSSA SENHORA DOS NAVEGANTES, 451, ENSEADA DO SUÁ, VITÓRIA/ES", 
+                            "valorReembolsado":"324.99", "codDocumento":"749859"}, {"ano":"2013", "mes":"5", "senador":"RICARDO FERRAÇO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"06788256000191", "fornecedor":"CONDOMÍNIO DO EDIFÍCIO PETRO TOWER", 
+                            "documento":"12296", "data":"2013-05-05", "detalhamento":"O VALOR DE R$ 321,37, REFERE-SE AO PAGAMENTO DO CONDOMÍNIO, REFERENTE À SALA 1604, DO ESCRITÓRIO DE APOIO EM VITÓRIA, SITUADO NA AV. NOSSA SENHORA DOS NAVEGANTES, 451, ED. PETRO TOWER BUSINESS.", 
+                            "valorReembolsado":"321.37", "codDocumento":"749854"}]}

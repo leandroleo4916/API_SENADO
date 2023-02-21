@@ -1,0 +1,13 @@
+{"gastosSenador": [{"ano":"2013", "mes":"3", "senador":"JOSÉ SARNEY", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"VRG Linhas Aéreas S.A.", 
+                            "documento":"12700207057772", "data":"2013-03-19", "detalhamento":"Aquisição de passagem aérea para o Senador José Sarney no trecho Brasília-DF/São Paulo-SP (Congonhas). Data da viagem: 22 Mar 2013.", 
+                            "valorReembolsado":"629.03", "codDocumento":"711122"}, {"ano":"2013", "mes":"3", "senador":"JOSÉ SARNEY", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS S/A", 
+                            "documento":"957-2465628888", "data":"2013-03-30", "detalhamento":"Aquisição de passagem aérea para o Senador José Sarney no trecho São Paulo (CGH) - Brasília (BSB). Data da viagem: 01 Abr 2013", 
+                            "valorReembolsado":"1806.2", "codDocumento":"717216"}, {"ano":"2013", "mes":"3", "senador":"JOSÉ SARNEY", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS S/A", 
+                            "documento":"957-2465536876", "data":"2013-03-27", "detalhamento":"Aquisição de passagem aérea para o Senador José Sarney no trecho Brasília (BSB) - São Paulo (CGH). Data da viagem: 01 Abr 2013.", 
+                            "valorReembolsado":"642.13", "codDocumento":"717215"}, {"ano":"2013", "mes":"3", "senador":"JOSÉ SARNEY", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS S/A", 
+                            "documento":"9572465128132", "data":"2013-03-19", "detalhamento":"Aquisição de passagem aérea para o Senador José Sarney no trecho São Paulo-SP (Congonhas)/Brasília-DF. Data da viagem: 22 Mar 2013.", 
+                            "valorReembolsado":"682.57", "codDocumento":"714200"}]}
