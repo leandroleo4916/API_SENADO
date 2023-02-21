@@ -1,0 +1,13 @@
+{"gastosSenador": [{"ano":"2011", "mes":"1", "senador":"AUGUSTO BOTELHO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"22551301220", "fornecedor":"Heleno Gomes Coutinho", 
+                            "documento":"null", "data":"2011-01-25", "detalhamento":"null", 
+                            "valorReembolsado":"1600.0", "codDocumento":"329017"}, {"ano":"2011", "mes":"1", "senador":"AUGUSTO BOTELHO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"84057447000197", "fornecedor":"Gomes e Gontijo Ltda", 
+                            "documento":"1307", "data":"2011-01-24", "detalhamento":"null", 
+                            "valorReembolsado":"9900.0", "codDocumento":"329019"}, {"ano":"2011", "mes":"1", "senador":"AUGUSTO BOTELHO", 
+                            "tipoDespesa":"Divulgação da atividade parlamentar", "cnpjCpf":"03495678000180", "fornecedor":"Rede Tropical de Comunicão Ltda", 
+                            "documento":"12859", "data":"2011-01-17", "detalhamento":"null", 
+                            "valorReembolsado":"1800.0", "codDocumento":"329018"}, {"ano":"2011", "mes":"1", "senador":"AUGUSTO BOTELHO", 
+                            "tipoDespesa":"Divulgação da atividade parlamentar", "cnpjCpf":"04957192000180", "fornecedor":"Alto Astral Produções Ltda", 
+                            "documento":"951", "data":"2011-01-17", "detalhamento":"null", 
+                            "valorReembolsado":"1400.0", "codDocumento":"329016"}]}

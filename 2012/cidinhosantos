@@ -1,0 +1,548 @@
+{"gastosSenador": [{"ano":"2012", "mes":"12", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas", 
+                            "documento":"957 2460563403", "data":"2012-12-11", "detalhamento":"Tam Linhas Aéreas
+Senador José Aparecido
+Brasília/Cuiabá - 13/12/2012", 
+                            "valorReembolsado":"614.03", "codDocumento":"672585"}, {"ano":"2012", "mes":"12", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas", 
+                            "documento":"957 2460458630", "data":"2012-12-10", "detalhamento":"Tam Linhas Aéreas
+Senador José Aparecido
+Cuiabá/Brasília - 10/12/2012", 
+                            "valorReembolsado":"772.65", "codDocumento":"672583"}, {"ano":"2012", "mes":"12", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas", 
+                            "documento":"957 2460305066", "data":"2012-12-06", "detalhamento":"Tam Linhas Aéreas
+Senador José Aparecido
+Brasília/Cuiabá - 06/12/2012", 
+                            "valorReembolsado":"748.23", "codDocumento":"672584"}, {"ano":"2012", "mes":"12", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas", 
+                            "documento":"957 2460073174", "data":"2012-12-03", "detalhamento":"Tam Linhas Aéreas
+Senador José Aparecido
+Cuiabá/Brasília - 04/12/2012", 
+                            "valorReembolsado":"1674.75", "codDocumento":"672586"}, {"ano":"2012", "mes":"12", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas", 
+                            "documento":"957 2460164019", "data":"2012-12-03", "detalhamento":"Tam Linhas Aéreas
+Eumar Novacki - Mat:234373
+Cuiabá/Brasília - 11/12/2012
+Brasília/Cuiabá - 13/12/2012", 
+                            "valorReembolsado":"765.18", "codDocumento":"672581"}, {"ano":"2012", "mes":"12", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas", 
+                            "documento":"957 2460164015", "data":"2012-12-03", "detalhamento":"Tam Linhas Aeréas
+Eumar Novacki - Mat: 234373
+Brasília/Cuiabá - 06/12/2012", 
+                            "valorReembolsado":"585.43", "codDocumento":"672580"}, {"ano":"2012", "mes":"12", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas", 
+                            "documento":"957 2459897387", "data":"2012-11-29", "detalhamento":"Tam Linhas Aéreas
+Eumar Novacki - Mat: 234373
+Cuiabá/Brasília - 04/12/2012", 
+                            "valorReembolsado":"411.95", "codDocumento":"672579"}, {"ano":"2012", "mes":"12", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas", 
+                            "documento":"957 2459765973", "data":"2012-11-27", "detalhamento":"Tam Linhas Aéreas
+Coaraci Castilho - Mat: 157640
+Brasília/Cuiabá - 02/12/2012
+Cuiabá/Brasília - 05/12/2012", 
+                            "valorReembolsado":"749.78", "codDocumento":"672582"}, {"ano":"2012", "mes":"12", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas", 
+                            "documento":"957 2458405116", "data":"2012-11-06", "detalhamento":"Tam Linhas Aéreas
+Walter Pereira - Mat: 240336
+Brasília/Cuiabá - 14/12/2012
+Cuiabá/Brasília - 17/12/2012", 
+                            "valorReembolsado":"502.49", "codDocumento":"675325"}, {"ano":"2012", "mes":"12", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"09296295000160", "fornecedor":"Azul Linhas Aéreas Brasileiras", 
+                            "documento":"222 0005175736", "data":"2012-12-06", "detalhamento":"Azul Linhas Aéreas Brasileiras
+Senador José Aparecido
+São Paulo/Cuiabá - 07/12/2012", 
+                            "valorReembolsado":"640.97", "codDocumento":"672587"}, {"ano":"2012", "mes":"12", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"04473193000159", "fornecedor":"Posto da Torre Ltda", 
+                            "documento":"674106", "data":"2012-12-11", "detalhamento":"null", 
+                            "valorReembolsado":"143.0", "codDocumento":"672571"}, {"ano":"2012", "mes":"12", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"09054158000119", "fornecedor":"PBJM Comércio de Gêneros Alimentícios Ltda", 
+                            "documento":"26702", "data":"2012-12-12", "detalhamento":"null", 
+                            "valorReembolsado":"156.42", "codDocumento":"672573"}, {"ano":"2012", "mes":"12", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"01019348000193", "fornecedor":"Minuta Recepções e Serviços de Buffet Ltda - ME", 
+                            "documento":"41128", "data":"2012-12-13", "detalhamento":"null", 
+                            "valorReembolsado":"220.0", "codDocumento":"675324"}, {"ano":"2012", "mes":"12", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"01019348000193", "fornecedor":"Minuta Recepções e Serviços de Buffet Ltda - ME", 
+                            "documento":"40972", "data":"2012-12-04", "detalhamento":"null", 
+                            "valorReembolsado":"64.0", "codDocumento":"672567"}, {"ano":"2012", "mes":"12", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"07839480000128", "fornecedor":"Mari e Ana restaurante Ltda", 
+                            "documento":"15497", "data":"2012-12-06", "detalhamento":"null", 
+                            "valorReembolsado":"234.8", "codDocumento":"672572"}, {"ano":"2012", "mes":"12", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"07056370000190", "fornecedor":"L & C Alimentação e entrenimento Ltda", 
+                            "documento":"4590", "data":"2012-12-06", "detalhamento":"null", 
+                            "valorReembolsado":"122.7", "codDocumento":"672568"}, {"ano":"2012", "mes":"12", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"00038505000730", "fornecedor":"Conver Combustiveis Automotivos Ltda", 
+                            "documento":"91697", "data":"2012-12-05", "detalhamento":"null", 
+                            "valorReembolsado":"150.0", "codDocumento":"672569"}, {"ano":"2012", "mes":"12", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"04777798001024", "fornecedor":"Brasil 21 Gastronomia e Serviços Ltda", 
+                            "documento":"0510", "data":"2012-12-04", "detalhamento":"null", 
+                            "valorReembolsado":"176.5", "codDocumento":"672570"}, {"ano":"2012", "mes":"12", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"08796076000268", "fornecedor":"Brasil 21 Eventos e Hotelaria Ltda", 
+                            "documento":"028681", "data":"2012-12-06", "detalhamento":"null", 
+                            "valorReembolsado":"918.7", "codDocumento":"672574"}, {"ano":"2012", "mes":"12", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"08796076000268", "fornecedor":"Brasil 21 Eventos e Hotelaria Ltda", 
+                            "documento":"029346", "data":"2012-11-13", "detalhamento":"null", 
+                            "valorReembolsado":"935.8", "codDocumento":"675323"}, {"ano":"2012", "mes":"12", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"05774463000124", "fornecedor":"Original Papelaria e Serviços PP", 
+                            "documento":"000.000.441", "data":"2012-12-12", "detalhamento":"null", 
+                            "valorReembolsado":"171.0", "codDocumento":"672578"}, {"ano":"2012", "mes":"12", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"03934759000130", "fornecedor":"Solucao Empreendimentos I Ltda", 
+                            "documento":"04/04", "data":"2012-12-10", "detalhamento":"null", 
+                            "valorReembolsado":"2902.0", "codDocumento":"672576"}, {"ano":"2012", "mes":"12", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"03420926000710", "fornecedor":"Global Village Telecom Ltda", 
+                            "documento":"0129035498-0", "data":"2012-12-05", "detalhamento":"null", 
+                            "valorReembolsado":"1383.38", "codDocumento":"672577"}, {"ano":"2012", "mes":"12", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"08626278000180", "fornecedor":"Condomínio Ed. Empresarial Santa Rosa", 
+                            "documento":"1303/304/064", "data":"2012-12-10", "detalhamento":"null", 
+                            "valorReembolsado":"795.84", "codDocumento":"672575"}, {"ano":"2012", "mes":"11", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02575829000148", "fornecedor":"Viação Avianca", 
+                            "documento":"023 0122750649", "data":"2012-11-16", "detalhamento":"Viação Avianca
+Senador José Aparecido
+Brasília/Cuiabá - 16/11/2012", 
+                            "valorReembolsado":"446.13", "codDocumento":"664914"}, {"ano":"2012", "mes":"11", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas", 
+                            "documento":"957 2459045074", "data":"2012-11-14", "detalhamento":"Tam Linhas Aéreas
+Eumar Novacki - Mat: 234373
+Cuiabá/Brasília - 20/11/2012", 
+                            "valorReembolsado":"378.95", "codDocumento":"664916"}, {"ano":"2012", "mes":"11", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2459666858", "data":"2012-11-26", "detalhamento":"Tam Linhas Aéreas
+Senador Cidinho Santos
+Cuiabá/Brasília - 27/11/2012", 
+                            "valorReembolsado":"431.35", "codDocumento":"664913"}, {"ano":"2012", "mes":"11", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2459336432", "data":"2012-11-20", "detalhamento":"Tam Linhas Aéreas
+Eumar Novacki - Mat: 234373
+Brasília/Cuiabá - 22/11/2012", 
+                            "valorReembolsado":"435.53", "codDocumento":"664915"}, {"ano":"2012", "mes":"11", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2458405103", "data":"2012-11-06", "detalhamento":"Tam Linhas Aéreas
+Eumar Novacki: Mat: 234373
+Cuiabá/Brasília - 12/11/2012
+Brasília/Cuiabá - 14/11/2012", 
+                            "valorReembolsado":"786.08", "codDocumento":"664907"}, {"ano":"2012", "mes":"11", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2458405143", "data":"2012-11-06", "detalhamento":"Tam Linhas Aéreas
+Walter Pereira: Mat. 240336
+Cuiabá/Brasília - 26/11/2012.", 
+                            "valorReembolsado":"286.95", "codDocumento":"664912"}, {"ano":"2012", "mes":"11", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2458405136", "data":"2012-11-06", "detalhamento":"TAM LINHAS AÉREAS
+Walter Pereira: Mat. 240336
+Brasília/Cuiabá - 08/11/2012
+", 
+                            "valorReembolsado":"529.33", "codDocumento":"664908"}, {"ano":"2012", "mes":"11", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2458259879", "data":"2012-11-05", "detalhamento":"TAM LINHAS AÉREAS
+Senador José aparecido
+Cuiabá/Brasília - 05/11/2012
+", 
+                            "valorReembolsado":"434.95", "codDocumento":"664909"}, {"ano":"2012", "mes":"11", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"04473193000159", "fornecedor":"Posto da Torre Ltda", 
+                            "documento":"678295", "data":"2012-11-29", "detalhamento":"null", 
+                            "valorReembolsado":"150.0", "codDocumento":"664895"}, {"ano":"2012", "mes":"11", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"04473193000159", "fornecedor":"Posto da Torre Ltda", 
+                            "documento":"674539", "data":"2012-11-14", "detalhamento":"null", 
+                            "valorReembolsado":"136.69", "codDocumento":"664894"}, {"ano":"2012", "mes":"11", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"01019348000193", "fornecedor":"Minuta recepções e Serviços de Buffet Ltda - ME", 
+                            "documento":"40813", "data":"2012-11-21", "detalhamento":"null", 
+                            "valorReembolsado":"126.5", "codDocumento":"664889"}, {"ano":"2012", "mes":"11", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"01019348000193", "fornecedor":"Minuta Recepções e Serviços de Buffet Ltda - ME", 
+                            "documento":"40786", "data":"2012-11-14", "detalhamento":"null", 
+                            "valorReembolsado":"102.0", "codDocumento":"664893"}, {"ano":"2012", "mes":"11", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"01019348000193", "fornecedor":"Minuta Recepções e Serviços de Buffet Ltda - ME", 
+                            "documento":"40663", "data":"2012-11-07", "detalhamento":"null", 
+                            "valorReembolsado":"154.0", "codDocumento":"664890"}, {"ano":"2012", "mes":"11", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"03327191000199", "fornecedor":"Dom Francisco Restaurante Ltda", 
+                            "documento":"62261", "data":"2012-11-22", "detalhamento":"null", 
+                            "valorReembolsado":"370.04", "codDocumento":"664896"}, {"ano":"2012", "mes":"11", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"00038505000730", "fornecedor":"Conver Combustíveis Automimotivos Ltda", 
+                            "documento":"91388", "data":"2012-11-19", "detalhamento":"null", 
+                            "valorReembolsado":"147.42", "codDocumento":"664886"}, {"ano":"2012", "mes":"11", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"11903789000107", "fornecedor":"C.B. Brasília Comércio de Alimentos Ltda", 
+                            "documento":"36342", "data":"2012-11-19", "detalhamento":"null", 
+                            "valorReembolsado":"249.29", "codDocumento":"664887"}, {"ano":"2012", "mes":"11", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"04777798001024", "fornecedor":"Brasil 21 Gastronomia e Serviços Ltda", 
+                            "documento":"0473", "data":"2012-11-05", "detalhamento":"null", 
+                            "valorReembolsado":"58.0", "codDocumento":"664891"}, {"ano":"2012", "mes":"11", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"08796076000268", "fornecedor":"Brasil 21 Eventos e Hotelaria Ltda", 
+                            "documento":"027270", "data":"2012-11-22", "detalhamento":"null", 
+                            "valorReembolsado":"1514.95", "codDocumento":"664902"}, {"ano":"2012", "mes":"11", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"08796076000268", "fornecedor":"Brasil 21 Eventos e Hotelaria Ltda", 
+                            "documento":"026619", "data":"2012-11-14", "detalhamento":"null", 
+                            "valorReembolsado":"985.52", "codDocumento":"664900"}, {"ano":"2012", "mes":"11", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"08796076000268", "fornecedor":"Brasil 21 Eventos e Hotelaria Ltda", 
+                            "documento":"025634", "data":"2012-11-01", "detalhamento":"null", 
+                            "valorReembolsado":"887.4", "codDocumento":"664901"}, {"ano":"2012", "mes":"11", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"02551867000160", "fornecedor":"Auto Posto Esquina Ltda", 
+                            "documento":"254140", "data":"2012-11-26", "detalhamento":"null", 
+                            "valorReembolsado":"150.0", "codDocumento":"664888"}, {"ano":"2012", "mes":"11", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"08202116000115", "fornecedor":"Auto Posto Aeroporto Ltda", 
+                            "documento":"38397", "data":"2012-11-07", "detalhamento":"null", 
+                            "valorReembolsado":"150.0", "codDocumento":"664892"}, {"ano":"2012", "mes":"11", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"05559973000189", "fornecedor":"H M Mesquita Comunicação ME", 
+                            "documento":"1179", "data":"2012-11-16", "detalhamento":"null", 
+                            "valorReembolsado":"2000.0", "codDocumento":"664905"}, {"ano":"2012", "mes":"11", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"06128710000188", "fornecedor":"JVM Copiadoras e Informatica Ltda - EPP", 
+                            "documento":"000181", "data":"2012-12-05", "detalhamento":"null", 
+                            "valorReembolsado":"250.0", "codDocumento":"673088"}, {"ano":"2012", "mes":"11", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"03934759000130", "fornecedor":"Solucao Empreendimentos I Ltda", 
+                            "documento":"03/04", "data":"2012-11-10", "detalhamento":"null", 
+                            "valorReembolsado":"2902.0", "codDocumento":"664904"}, {"ano":"2012", "mes":"11", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"03420926000710", "fornecedor":"Global Village Telecom Ltda", 
+                            "documento":"0126073922-0", "data":"2012-11-05", "detalhamento":"null", 
+                            "valorReembolsado":"1921.78", "codDocumento":"664906"}, {"ano":"2012", "mes":"11", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"08626278000180", "fornecedor":"Condominio Ed. Empresarial Santa Rosa Tower", 
+                            "documento":"1303/304/064", "data":"2012-11-10", "detalhamento":"null", 
+                            "valorReembolsado":"805.79", "codDocumento":"664903"}, {"ano":"2012", "mes":"11", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"03467321000199", "fornecedor":"Centrais Elétricas Matogrossenses S.A.", 
+                            "documento":"000.182.103", "data":"2012-11-16", "detalhamento":"null", 
+                            "valorReembolsado":"411.76", "codDocumento":"664899"}, {"ano":"2012", "mes":"11", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"03467321000199", "fornecedor":"Centrais Elétricas Matogrossenses S.A.", 
+                            "documento":"000.182.097", "data":"2012-11-16", "detalhamento":"null", 
+                            "valorReembolsado":"265.5", "codDocumento":"664898"}, {"ano":"2012", "mes":"10", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2457118723", "data":"2012-10-17", "detalhamento":"TAM LINHAS AÉREAS
+Senador José Aparecido
+Brasília/Cuiabá - 18/10/2012", 
+                            "valorReembolsado":"616.23", "codDocumento":"645433"}, {"ano":"2012", "mes":"10", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2456819047", "data":"2012-10-15", "detalhamento":"TAM LINHAS AÉREAS
+Senador José Aparecido
+Cuiabá/Brasília - 16/10/2012", 
+                            "valorReembolsado":"615.35", "codDocumento":"645434"}, {"ano":"2012", "mes":"10", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2456644549", "data":"2012-10-10", "detalhamento":"TAM LINHAS AÉREAS
+Eumar Novacki - Mat: 234373
+Cuiabá/Brasília - 15/10/2012", 
+                            "valorReembolsado":"763.85", "codDocumento":"645439"}, {"ano":"2012", "mes":"10", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2456644527", "data":"2012-10-10", "detalhamento":"TAM LINHAS AÉREAS
+Walter Pereira - Mat: 240336
+Brasília/Cuiabá - 18/10/2012
+Cuiabá/Brasília - 23/10/2012
+", 
+                            "valorReembolsado":"517.53", "codDocumento":"645441"}, {"ano":"2012", "mes":"10", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2456353688", "data":"2012-10-08", "detalhamento":"TAM LINHA AÉREAS
+Eumar Novacki - Mat: 234373
+Brasília/Cuiabá - 11/10/2012", 
+                            "valorReembolsado":"768.03", "codDocumento":"645438"}, {"ano":"2012", "mes":"10", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2456353650", "data":"2012-10-06", "detalhamento":"TAM LINHAS AÉREAS
+Senador José Aparecido
+São Paulo/Brasília - 09/10/2012", 
+                            "valorReembolsado":"536.37", "codDocumento":"645435"}, {"ano":"2012", "mes":"10", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2456212303", "data":"2012-10-04", "detalhamento":"TAM LINHAS AÉREAS
+Eumar Novacki - Mat: 234373
+Cuiabá/Brasília - 09/10/2012", 
+                            "valorReembolsado":"436.95", "codDocumento":"645437"}, {"ano":"2012", "mes":"10", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2455655760", "data":"2012-09-26", "detalhamento":"TAM LINHAS AÉREAS
+Eumar Novacki - Mat: 234373
+Cuiabá/Brasília - 02/10/2012
+Brasília/Cuiabá - 04/10/2012", 
+                            "valorReembolsado":"726.08", "codDocumento":"645440"}, {"ano":"2012", "mes":"10", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2453803539", "data":"2012-08-28", "detalhamento":"TAM LINHAS AÉREAS
+Eumar Novacki - Mat: 234373
+Brasília/São Paulo - 17/10/2012", 
+                            "valorReembolsado":"261.13", "codDocumento":"645436"}, {"ano":"2012", "mes":"10", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"LINHAS AÉREAS GOL", 
+                            "documento":"127 0001423022", "data":"2012-10-22", "detalhamento":"LINHAS AÉREAS GOL
+Luiz Fernando Caldart - Mat: 243143
+Brasília/Cuiabá - 22/10/2012", 
+                            "valorReembolsado":"447.14", "codDocumento":"645443"}, {"ano":"2012", "mes":"10", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"LINHAS AÉREAS GOL", 
+                            "documento":"127 0001423367", "data":"2012-10-18", "detalhamento":"LINHAS AÉREAS GOL
+Luiz Fernando Caldart - Mat: 243143
+Cuiabá/Brasília - 22/10/2012", 
+                            "valorReembolsado":"445.75", "codDocumento":"645442"}, {"ano":"2012", "mes":"10", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"04473193000159", "fornecedor":"Posto da Torre Ltda", 
+                            "documento":"676789", "data":"2012-10-22", "detalhamento":"null", 
+                            "valorReembolsado":"150.0", "codDocumento":"645423"}, {"ano":"2012", "mes":"10", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"04473193000159", "fornecedor":"Posto da Torre Ltda", 
+                            "documento":"672855", "data":"2012-10-15", "detalhamento":"null", 
+                            "valorReembolsado":"150.0", "codDocumento":"645420"}, {"ano":"2012", "mes":"10", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"01019348000193", "fornecedor":"Minuta Recepções e Serviços de Buffet Ltda ME", 
+                            "documento":"40555", "data":"2012-10-30", "detalhamento":"null", 
+                            "valorReembolsado":"129.8", "codDocumento":"645444"}, {"ano":"2012", "mes":"10", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"01019348000193", "fornecedor":"Minuta Recepções e Serviços de Buffet Ltda", 
+                            "documento":"40522", "data":"2012-10-24", "detalhamento":"null", 
+                            "valorReembolsado":"90.0", "codDocumento":"645418"}, {"ano":"2012", "mes":"10", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"00038505000730", "fornecedor":"Conver Combustíveis Automotivos Ltda", 
+                            "documento":"90808", "data":"2012-10-09", "detalhamento":"null", 
+                            "valorReembolsado":"150.0", "codDocumento":"645417"}, {"ano":"2012", "mes":"10", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"10542662000147", "fornecedor":"Coco Bambú Lago Sul Comércio de Alimentos Ltda", 
+                            "documento":"44749", "data":"2012-10-04", "detalhamento":"null", 
+                            "valorReembolsado":"180.0", "codDocumento":"645422"}, {"ano":"2012", "mes":"10", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"08796076000268", "fornecedor":"Brasil 21 Eventos e Hotelaria Ltda", 
+                            "documento":"024539", "data":"2012-10-17", "detalhamento":"null", 
+                            "valorReembolsado":"925.0", "codDocumento":"645427"}, {"ano":"2012", "mes":"10", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"08796076000268", "fornecedor":"Brasil 21 Eventos e Hotelaria Ltda", 
+                            "documento":"024050", "data":"2012-10-11", "detalhamento":"null", 
+                            "valorReembolsado":"939.1", "codDocumento":"645426"}, {"ano":"2012", "mes":"10", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"08796076000268", "fornecedor":"Brasil 21 Eventos e Hotelaria Ltda", 
+                            "documento":"023717", "data":"2012-10-04", "detalhamento":"null", 
+                            "valorReembolsado":"1068.0", "codDocumento":"645428"}, {"ano":"2012", "mes":"10", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"14216707000144", "fornecedor":"BBM RESTAURANTE LTDA", 
+                            "documento":"0449", "data":"2012-10-11", "detalhamento":"null", 
+                            "valorReembolsado":"287.1", "codDocumento":"645421"}, {"ano":"2012", "mes":"10", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"08202116000115", "fornecedor":"Auto Posto Aeroporto Ltda", 
+                            "documento":"38279", "data":"2012-10-30", "detalhamento":"null", 
+                            "valorReembolsado":"150.0", "codDocumento":"645419"}, {"ano":"2012", "mes":"10", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"05559973000189", "fornecedor":"H M Mesquita Comunicação ME", 
+                            "documento":"1156", "data":"2012-10-17", "detalhamento":"null", 
+                            "valorReembolsado":"2000.0", "codDocumento":"645432"}, {"ano":"2012", "mes":"10", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"06128710000188", "fornecedor":"JVM Copiadoras e Informatica Ltda - EPP", 
+                            "documento":"000163", "data":"2012-11-27", "detalhamento":"null", 
+                            "valorReembolsado":"250.0", "codDocumento":"673087"}, {"ano":"2012", "mes":"10", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"06128710000188", "fornecedor":"JVM Copiadoras e Informática Ltda", 
+                            "documento":"000136N1", "data":"2012-10-19", "detalhamento":"null", 
+                            "valorReembolsado":"250.0", "codDocumento":"650713"}, {"ano":"2012", "mes":"10", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"03934759000130", "fornecedor":"Solução Empreendimentos I Ltda", 
+                            "documento":"02/04", "data":"2012-10-10", "detalhamento":"null", 
+                            "valorReembolsado":"2902.0", "codDocumento":"650715"}, {"ano":"2012", "mes":"10", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"03420926000710", "fornecedor":"Global Village Telecom Ltda", 
+                            "documento":"0123480546-0", "data":"2012-10-05", "detalhamento":"null", 
+                            "valorReembolsado":"1495.26", "codDocumento":"645430"}, {"ano":"2012", "mes":"10", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"08626278000180", "fornecedor":"Condomínio Ed. Empresarial Santa Rosa Tower", 
+                            "documento":"1303/304/064", "data":"2012-10-10", "detalhamento":"null", 
+                            "valorReembolsado":"838.15", "codDocumento":"650714"}, {"ano":"2012", "mes":"10", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"03467321000199", "fornecedor":"Centrais Elétricas Matogrossenses S.A.", 
+                            "documento":"000.160.317", "data":"2012-10-17", "detalhamento":"null", 
+                            "valorReembolsado":"362.04", "codDocumento":"645424"}, {"ano":"2012", "mes":"10", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"03467321000199", "fornecedor":"Centrais Elétricas Matogrossenses S.A.", 
+                            "documento":"000.160.311", "data":"2012-10-17", "detalhamento":"null", 
+                            "valorReembolsado":"226.52", "codDocumento":"645425"}, {"ano":"2012", "mes":"9", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2455655753", "data":"2012-09-26", "detalhamento":"TAM LINHAS AÉREAS
+Senador José Aparecido
+Brasília/Cuiabá - 26/09/2012", 
+                            "valorReembolsado":"539.13", "codDocumento":"625815"}, {"ano":"2012", "mes":"9", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2455370553", "data":"2012-09-21", "detalhamento":"TAM LINHAS AÉREAS
+Senador José Aparecido
+Cuiabá/Brasília - 25/09/2012", 
+                            "valorReembolsado":"814.13", "codDocumento":"625814"}, {"ano":"2012", "mes":"9", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2455123492", "data":"2012-09-17", "detalhamento":"TAM LINHAS AÉREAS
+Senador José Aparecido
+São Paulo/Brasília - 18/09/2012", 
+                            "valorReembolsado":"467.57", "codDocumento":"625813"}, {"ano":"2012", "mes":"9", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2454847871", "data":"2012-09-13", "detalhamento":"TAM LINHAS AÉREAS
+Eumar Novacki - Mat: 234373
+Cuiabá/Brasília - 17/09/2012
+Brasília/Cuiabá - 18/09/2012", 
+                            "valorReembolsado":"957.08", "codDocumento":"625811"}, {"ano":"2012", "mes":"9", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2454445564", "data":"2012-09-06", "detalhamento":"TAM LINHAS AÉREAS
+Eumar Novacki - Mat: 234373
+Cuiabá/Brasília - 11/09/2012
+Brasília/Cuiabá - 13/09/2012", 
+                            "valorReembolsado":"802.08", "codDocumento":"625810"}, {"ano":"2012", "mes":"9", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2454445565", "data":"2012-09-06", "detalhamento":"TAM LINHAS AÉREAS
+Senador José Aparecido
+Cuiabá/Brasília - 11/09/2012", 
+                            "valorReembolsado":"425.95", "codDocumento":"625806"}, {"ano":"2012", "mes":"9", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2454165609", "data":"2012-09-04", "detalhamento":"TAM LINHAS AÉREAS
+Eumar Novacki - Mat: 234373
+Cuiabá/Brasília - 04/09/2012
+Brasília/Cuiabá - 06/09/2012", 
+                            "valorReembolsado":"916.08", "codDocumento":"625809"}, {"ano":"2012", "mes":"9", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2454165670", "data":"2012-09-04", "detalhamento":"TAM LINHAS AÉREAS
+Senador José Aparecido
+Cuiabá/Brasília - 04/09/2012", 
+                            "valorReembolsado":"485.95", "codDocumento":"625808"}, {"ano":"2012", "mes":"9", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2454264410", "data":"2012-09-03", "detalhamento":"TAM LINHAS AÉREAS
+Sen José Aparecido
+Brasília/Cuiabá - 06/09/2012", 
+                            "valorReembolsado":"490.13", "codDocumento":"625805"}, {"ano":"2012", "mes":"9", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2447882182", "data":"2012-05-22", "detalhamento":"TAM LINHAS AÉREAS
+Walter Pereira - Mat: 240336
+Cuiabá/Brasília - 11/09/2012", 
+                            "valorReembolsado":"200.95", "codDocumento":"625804"}, {"ano":"2012", "mes":"9", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol Linhas Aéreas Inteligentes", 
+                            "documento":"127 0001404456", "data":"2012-09-14", "detalhamento":"VIAÇÃO GOL
+Senador José Aparecido
+Cuiabá/GRU - 17/09/2012", 
+                            "valorReembolsado":"897.26", "codDocumento":"625812"}, {"ano":"2012", "mes":"9", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol Linhas Aéreas Inteligentes", 
+                            "documento":"127 0001403790", "data":"2012-09-13", "detalhamento":"Viação GOL
+Senador José Aparecido
+Brasília/Cuiabá - 13/09/2012", 
+                            "valorReembolsado":"554.35", "codDocumento":"625807"}, {"ano":"2012", "mes":"9", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"00604538000105", "fornecedor":"Restaurante e Bar Xique Xique Ltda", 
+                            "documento":"52025", "data":"2012-09-20", "detalhamento":"null", 
+                            "valorReembolsado":"322.96", "codDocumento":"625790"}, {"ano":"2012", "mes":"9", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"02169338000105", "fornecedor":"Francisco Pátio Comércio de Alimentos Ltda", 
+                            "documento":"138632", "data":"2012-09-11", "detalhamento":"null", 
+                            "valorReembolsado":"301.4", "codDocumento":"625792"}, {"ano":"2012", "mes":"9", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"03327191000199", "fornecedor":"Dom Francisco Restaurante Ltda", 
+                            "documento":"60971", "data":"2012-09-06", "detalhamento":"null", 
+                            "valorReembolsado":"542.66", "codDocumento":"625789"}, {"ano":"2012", "mes":"9", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"00038505000730", "fornecedor":"Conver Combustíveis Automotivos Ltda", 
+                            "documento":"90656", "data":"2012-09-26", "detalhamento":"null", 
+                            "valorReembolsado":"150.0", "codDocumento":"625788"}, {"ano":"2012", "mes":"9", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"00038505000730", "fornecedor":"Conver Combustíveis Automotivos Ltda", 
+                            "documento":"90459", "data":"2012-09-04", "detalhamento":"null", 
+                            "valorReembolsado":"150.0", "codDocumento":"625787"}, {"ano":"2012", "mes":"9", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"08796076000268", "fornecedor":"Brasil 21 Eventos e Hotelaria Ltda", 
+                            "documento":"022097", "data":"2012-09-13", "detalhamento":"null", 
+                            "valorReembolsado":"1278.3", "codDocumento":"625797"}, {"ano":"2012", "mes":"9", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"08796076000268", "fornecedor":"Brasil 21 Eventos e Hotelaria Ltda", 
+                            "documento":"021664", "data":"2012-09-06", "detalhamento":"null", 
+                            "valorReembolsado":"975.4", "codDocumento":"625796"}, {"ano":"2012", "mes":"9", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"08202116000115", "fornecedor":"Auto posto Aeroporto Ltda", 
+                            "documento":"37308", "data":"2012-09-11", "detalhamento":"null", 
+                            "valorReembolsado":"150.0", "codDocumento":"625791"}, {"ano":"2012", "mes":"9", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"08202116000115", "fornecedor":"Auto Posto Aeroporto Ltda", 
+                            "documento":"074333", "data":"2012-09-17", "detalhamento":"null", 
+                            "valorReembolsado":"150.0", "codDocumento":"625786"}, {"ano":"2012", "mes":"9", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"05559973000189", "fornecedor":"H M Mesquita Comunicações ME", 
+                            "documento":"1133", "data":"2012-09-12", "detalhamento":"null", 
+                            "valorReembolsado":"2000.0", "codDocumento":"625799"}, {"ano":"2012", "mes":"9", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"05559973000189", "fornecedor":"H M Mesquita Comunicação ME", 
+                            "documento":"1138", "data":"2012-09-20", "detalhamento":"null", 
+                            "valorReembolsado":"2000.0", "codDocumento":"642885"}, {"ano":"2012", "mes":"9", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"05774463000124", "fornecedor":"Original Papelaria e Serviços PP", 
+                            "documento":"000.000.394", "data":"2012-09-21", "detalhamento":"null", 
+                            "valorReembolsado":"52.0", "codDocumento":"625803"}, {"ano":"2012", "mes":"9", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"03934759000130", "fornecedor":"Solução Empreendimentos I Ltda", 
+                            "documento":"01/04", "data":"2012-09-10", "detalhamento":"null", 
+                            "valorReembolsado":"2902.0", "codDocumento":"625801"}, {"ano":"2012", "mes":"9", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"06128710000188", "fornecedor":"JVM Copiadoras e Informaticas Ltda", 
+                            "documento":"000111N1", "data":"2012-09-19", "detalhamento":"null", 
+                            "valorReembolsado":"250.0", "codDocumento":"625793"}, {"ano":"2012", "mes":"9", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"03420926000710", "fornecedor":"Global Villagem Telecom Ltda", 
+                            "documento":"0120698149-0", "data":"2012-09-05", "detalhamento":"null", 
+                            "valorReembolsado":"1004.16", "codDocumento":"625798"}, {"ano":"2012", "mes":"9", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"08626278000180", "fornecedor":"Condominio Ed. Empresarial Santa Rosa", 
+                            "documento":"1303/304/064", "data":"2012-09-10", "detalhamento":"null", 
+                            "valorReembolsado":"764.29", "codDocumento":"625800"}, {"ano":"2012", "mes":"9", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"03467321000199", "fornecedor":"Centrais Elétricas Matogrossenses", 
+                            "documento":"000.182.006", "data":"2012-09-14", "detalhamento":"null", 
+                            "valorReembolsado":"275.1", "codDocumento":"625795"}, {"ano":"2012", "mes":"9", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"03467321000199", "fornecedor":"Centrais Elétricas Matogrossenses", 
+                            "documento":"000.182.000", "data":"2012-09-14", "detalhamento":"null", 
+                            "valorReembolsado":"151.02", "codDocumento":"625794"}, {"ano":"2012", "mes":"8", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas", 
+                            "documento":"957 2453931510", "data":"2012-08-29", "detalhamento":"Tam Linhas Aéreas
+Eumar Novacki - 234373
+Brasília/Cuiabá - 30/08/2012", 
+                            "valorReembolsado":"490.13", "codDocumento":"613739"}, {"ano":"2012", "mes":"8", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas", 
+                            "documento":"957 2453883656", "data":"2012-08-29", "detalhamento":"Tam Linhas Aéreas
+Senador José Aparecido
+Brasília/Cuiabá - 30/08/2012", 
+                            "valorReembolsado":"490.13", "codDocumento":"613741"}, {"ano":"2012", "mes":"8", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas", 
+                            "documento":"957 2453173681", "data":"2012-08-17", "detalhamento":"Tam Linhas Aéreas
+Senador José Aparecido
+Cuiabá/Brasília - 21/08/2012", 
+                            "valorReembolsado":"387.95", "codDocumento":"613737"}, {"ano":"2012", "mes":"8", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas", 
+                            "documento":"957 2452652785", "data":"2012-08-14", "detalhamento":"Tam Linhas Aéreas
+Senador José Aparecido
+Cuiabá/Brasília - 14/08/2012", 
+                            "valorReembolsado":"543.95", "codDocumento":"613738"}, {"ano":"2012", "mes":"8", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas", 
+                            "documento":"957 2452652792", "data":"2012-08-10", "detalhamento":"Tam Linhas Aéreas
+Júlio Valmorbida - Mat: 240348
+Cuiabá/Brasília - 14/08/2012", 
+                            "valorReembolsado":"323.0", "codDocumento":"613740"}, {"ano":"2012", "mes":"8", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas", 
+                            "documento":"957 2447882180", "data":"2012-05-22", "detalhamento":"Tam Linhas Aéreas
+Walter Pereira - Mat: 240336
+Cuiabá/Brasília - 14/08/2012", 
+                            "valorReembolsado":"194.85", "codDocumento":"613742"}, {"ano":"2012", "mes":"8", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2453570468", "data":"2012-08-23", "detalhamento":"Tam Linhas Aéreas
+Senador José Aparecido
+Cuiabá/Brasília - 27/08/2012", 
+                            "valorReembolsado":"387.95", "codDocumento":"613734"}, {"ano":"2012", "mes":"8", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2453445799", "data":"2012-08-22", "detalhamento":"Tam Linhas Aéreas
+Senador José Aparecido
+Brasília/Cuiabá - 23/08/2012", 
+                            "valorReembolsado":"447.13", "codDocumento":"613735"}, {"ano":"2012", "mes":"8", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2453253261", "data":"2012-08-20", "detalhamento":"TAM LINHAS AÉREAS
+Eumar Novacki - Mat: 234373
+Cuiabá/Brasília - 21/08/2012
+Brasília/Cuiabá - 24/08/2012", 
+                            "valorReembolsado":"835.08", "codDocumento":"613732"}, {"ano":"2012", "mes":"8", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2452705430", "data":"2012-08-10", "detalhamento":"TAM LINHAS AÉREAS
+Eumar Novacki - Mat: 234373
+Cuiabá/Brasília - 13/08/2012
+Brasília/Cuiabá - 16/08/2012", 
+                            "valorReembolsado":"1379.52", "codDocumento":"613733"}, {"ano":"2012", "mes":"8", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"9572452523469", "data":"2012-08-08", "detalhamento":"Tam Linhas Aéreas
+Senador José Aparecido
+Brasília/Cuiabá - 10/08/2012", 
+                            "valorReembolsado":"354.0", "codDocumento":"613736"}, {"ano":"2012", "mes":"8", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2453685363", "data":"2012-08-26", "detalhamento":"null", 
+                            "valorReembolsado":"442.95", "codDocumento":"613731"}, {"ano":"2012", "mes":"8", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"03956495000115", "fornecedor":"RPS Bar e Restaurante Ltda", 
+                            "documento":"212437", "data":"2012-08-23", "detalhamento":"null", 
+                            "valorReembolsado":"488.84", "codDocumento":"613721"}, {"ano":"2012", "mes":"8", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"04473193000159", "fornecedor":"Posto da Torre Ltda", 
+                            "documento":"680583", "data":"2012-08-29", "detalhamento":"null", 
+                            "valorReembolsado":"150.0", "codDocumento":"613719"}, {"ano":"2012", "mes":"8", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"04473193000159", "fornecedor":"Posto da Torre Ltda", 
+                            "documento":"680018", "data":"2012-08-23", "detalhamento":"null", 
+                            "valorReembolsado":"150.0", "codDocumento":"613722"}, {"ano":"2012", "mes":"8", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"04473193000159", "fornecedor":"Posto da Torre Ltda", 
+                            "documento":"667087", "data":"2012-08-16", "detalhamento":"null", 
+                            "valorReembolsado":"146.82", "codDocumento":"613717"}, {"ano":"2012", "mes":"8", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"01019348000193", "fornecedor":"Minuta Recepções e Serviços de Buffet Ltda ME", 
+                            "documento":"40121", "data":"2012-08-15", "detalhamento":"null", 
+                            "valorReembolsado":"135.3", "codDocumento":"613720"}, {"ano":"2012", "mes":"8", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"02169338000105", "fornecedor":"Francisco Pátio Comércio de Alimentos Ltda", 
+                            "documento":"138389", "data":"2012-08-27", "detalhamento":"null", 
+                            "valorReembolsado":"448.44", "codDocumento":"613718"}, {"ano":"2012", "mes":"8", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"00038505000730", "fornecedor":"Conver Combustíveis Automotivos Ltda", 
+                            "documento":"90189", "data":"2012-08-08", "detalhamento":"null", 
+                            "valorReembolsado":"150.0", "codDocumento":"625749"}, {"ano":"2012", "mes":"8", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"00038505000730", "fornecedor":"Conver Combustiveis Automotivos Ltda", 
+                            "documento":"90235", "data":"2012-08-13", "detalhamento":"null", 
+                            "valorReembolsado":"150.0", "codDocumento":"613716"}, {"ano":"2012", "mes":"8", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"01652106000132", "fornecedor":"Continental Hotelaria e Turismo Ltda", 
+                            "documento":"062635", "data":"2012-08-16", "detalhamento":"null", 
+                            "valorReembolsado":"533.0", "codDocumento":"613729"}, {"ano":"2012", "mes":"8", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"01652106000132", "fornecedor":"Continental Hotelaria e Turismo Ltda", 
+                            "documento":"062304", "data":"2012-08-09", "detalhamento":"null", 
+                            "valorReembolsado":"628.7", "codDocumento":"613728"}, {"ano":"2012", "mes":"8", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"04777798001024", "fornecedor":"Brasil 21 Gastronomia e Serviços Ltda", 
+                            "documento":"0357", "data":"2012-08-21", "detalhamento":"null", 
+                            "valorReembolsado":"138.5", "codDocumento":"613723"}, {"ano":"2012", "mes":"8", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"08796076000268", "fornecedor":"Brasil 21 Eventos e Hotelaria Ltda", 
+                            "documento":"020479", "data":"2012-08-24", "detalhamento":"null", 
+                            "valorReembolsado":"1466.95", "codDocumento":"613727"}, {"ano":"2012", "mes":"8", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"08796076000268", "fornecedor":"Brasil 21 Eventos e Hotelaria Ltda", 
+                            "documento":"019487", "data":"2012-08-09", "detalhamento":"null", 
+                            "valorReembolsado":"837.9", "codDocumento":"613726"}, {"ano":"2012", "mes":"8", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"10591051000199", "fornecedor":"Abastece Combustíveis", 
+                            "documento":"1754", "data":"2012-08-27", "detalhamento":"null", 
+                            "valorReembolsado":"100.0", "codDocumento":"625750"}, {"ano":"2012", "mes":"8", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"70431531000114", "fornecedor":"Sb Grafica e Editora Ltda", 
+                            "documento":"2445", "data":"2012-08-30", "detalhamento":"null", 
+                            "valorReembolsado":"200.0", "codDocumento":"625751"}, {"ano":"2012", "mes":"8", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"05774463000124", "fornecedor":"Original Papelaria e Serviços PP", 
+                            "documento":"000.000.375", "data":"2012-08-16", "detalhamento":"null", 
+                            "valorReembolsado":"538.5", "codDocumento":"613730"}, {"ano":"2012", "mes":"8", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"03467321000199", "fornecedor":"Centrais Elétricas Matogrossenses S.A.", 
+                            "documento":"000180638", "data":"2012-08-15", "detalhamento":"null", 
+                            "valorReembolsado":"118.51", "codDocumento":"613725"}, {"ano":"2012", "mes":"8", "senador":"CIDINHO SANTOS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"03467321000199", "fornecedor":"Centrais Elétricas Matogrossenses", 
+                            "documento":"000.180.632", "data":"2012-08-15", "detalhamento":"null", 
+                            "valorReembolsado":"102.42", "codDocumento":"613724"}]}

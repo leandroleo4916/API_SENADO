@@ -1,0 +1,7 @@
+{"gastosSenador": [{"ano":"2011", "mes":"1", "senador":"GERALDO MESQUITA JÚNIOR", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"09276838000187", "fornecedor":"SERVIÇOS DE HOSPEDAGEM, RESTAURANTE E EVENTOS LTDA", 
+                            "documento":"20848", "data":"2011-01-28", "detalhamento":"null", 
+                            "valorReembolsado":"313.25", "codDocumento":"327985"}, {"ano":"2011", "mes":"1", "senador":"GERALDO MESQUITA JÚNIOR", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"03379076000168", "fornecedor":"M. FREIRE DA COSTA - ME", 
+                            "documento":"12290", "data":"2011-01-30", "detalhamento":"null", 
+                            "valorReembolsado":"480.0", "codDocumento":"327984"}]}
