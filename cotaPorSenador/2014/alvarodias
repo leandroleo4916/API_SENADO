@@ -1,0 +1,351 @@
+{"gastosSenador": [{"ano":"2014", "mes":"2", "senador":"ALVARO DIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas", 
+                            "documento":"9572481238321", "data":"2014-02-10", "detalhamento":"Passageiro: Senador Alvaro Dias
+Trecho: Brasília - Curitiba
+Data da viagem: 13/02/2014", 
+                            "valorReembolsado":"1920.25", "codDocumento":"877088"}, {"ano":"2014", "mes":"2", "senador":"ALVARO DIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas", 
+                            "documento":"9572484823566", "data":"2014-02-20", "detalhamento":"Passageiro: Senador Alvaro Dias
+Trecho: Brasília - Curitiba
+Data da viagem: 21/02/2014", 
+                            "valorReembolsado":"1283.15", "codDocumento":"881941"}, {"ano":"2014", "mes":"2", "senador":"ALVARO DIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas", 
+                            "documento":"9572484938858", "data":"2014-02-24", "detalhamento":"Passageiro: Senador Alvaro Dias
+Trecho: Brasília - Curitiba
+Data da viagem: 27/02/2014", 
+                            "valorReembolsado":"1892.55", "codDocumento":"883621"}, {"ano":"2014", "mes":"3", "senador":"ALVARO DIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"09296295000402", "fornecedor":"Azul Linhas Aéreas", 
+                            "documento":"2220005352673", "data":"2013-11-06", "detalhamento":"Passageiro: Senador Alvaro Dias
+Trecho: Curitiba - Maringá
+Data da viagem: 21/03/2014", 
+                            "valorReembolsado":"790.74", "codDocumento":"891619"}, {"ano":"2014", "mes":"3", "senador":"ALVARO DIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"09296295000402", "fornecedor":"Azul Linhas Aéreas", 
+                            "documento":"2220005415976", "data":"2014-03-24", "detalhamento":"Passageiro: Senador Alvaro Dias
+Trecho: Curitiba - Maringá
+Data da viagem: 30/03/2014", 
+                            "valorReembolsado":"478.42", "codDocumento":"896125"}, {"ano":"2014", "mes":"3", "senador":"ALVARO DIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol Linhas Aéreas", 
+                            "documento":"GFN9RT", "data":"2014-03-18", "detalhamento":"Passageiro: Senador Alvaro Dias
+Trecho: Maringá - Curitiba
+Data da viagem: 22/03/2014", 
+                            "valorReembolsado":"353.41", "codDocumento":"891620"}, {"ano":"2014", "mes":"3", "senador":"ALVARO DIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas", 
+                            "documento":"9572484938859", "data":"2014-02-24", "detalhamento":"Passageiro: Senador Alvaro Dias
+Trecho: Londrina - Curitiba
+Data da viagem: 01/03/2014", 
+                            "valorReembolsado":"412.76", "codDocumento":"883623"}, {"ano":"2014", "mes":"3", "senador":"ALVARO DIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas", 
+                            "documento":"9572485211782", "data":"2014-02-25", "detalhamento":"Passageiro: Senador Alvaro Dias
+Trecho: Curitiba - Brasília
+Data da viagem: 05/03/2014", 
+                            "valorReembolsado":"1171.07", "codDocumento":"883624"}, {"ano":"2014", "mes":"3", "senador":"ALVARO DIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas", 
+                            "documento":"9572485344929", "data":"2014-03-05", "detalhamento":"Passageiro: Senador Alvaro Dias
+Trecho: Brasília - Foz do Iguaçu
+Data da viagem: 07/03/2014", 
+                            "valorReembolsado":"659.45", "codDocumento":"885590"}, {"ano":"2014", "mes":"3", "senador":"ALVARO DIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas", 
+                            "documento":"9572485512702", "data":"2014-03-06", "detalhamento":"Passageiro: Senador Alvaro Dias
+Trecho: Foz do Iguaçu - Brasília
+Data da viagem: 10/03/2014", 
+                            "valorReembolsado":"653.85", "codDocumento":"885591"}, {"ano":"2014", "mes":"3", "senador":"ALVARO DIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas", 
+                            "documento":"9572485771530", "data":"2014-03-11", "detalhamento":"Passageiro: Senador Alvaro Dias
+Trecho: Brasília - Curitiba
+Data da viagem: 13/03/2014", 
+                            "valorReembolsado":"2341.15", "codDocumento":"888771"}, {"ano":"2014", "mes":"3", "senador":"ALVARO DIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas", 
+                            "documento":"9572485868345", "data":"2014-03-13", "detalhamento":"Passageiro: Senador Alvaro Dias
+Trecho: Curitiba - Brasília
+Data da viagem: 15/03/2014", 
+                            "valorReembolsado":"1171.07", "codDocumento":"888772"}, {"ano":"2014", "mes":"3", "senador":"ALVARO DIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas", 
+                            "documento":"9572486129212", "data":"2014-03-17", "detalhamento":"Passageiro: Senador Alvaro Dias
+Trecho: Brasília - Curitiba
+Data da viagem: 20/03/2014", 
+                            "valorReembolsado":"1414.05", "codDocumento":"891618"}, {"ano":"2014", "mes":"3", "senador":"ALVARO DIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas", 
+                            "documento":"9572486129257", "data":"2014-03-18", "detalhamento":"Passageiro: Senador Alvaro Dias
+Trecho: Curitiba - Brasília
+Data da viagem: 23/03/2014", 
+                            "valorReembolsado":"1891.57", "codDocumento":"891621"}, {"ano":"2014", "mes":"3", "senador":"ALVARO DIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas", 
+                            "documento":"9572486431848", "data":"2014-03-24", "detalhamento":"Passageiro: Senador Alvaro Dias
+Trecho: Brasília - Curitiba
+Data da viagem: 27/03/2014", 
+                            "valorReembolsado":"1172.05", "codDocumento":"896124"}, {"ano":"2014", "mes":"1", "senador":"ALVARO DIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"09296295000402", "fornecedor":"Azul Linhas Aéreas", 
+                            "documento":"KY28JG", "data":"2014-01-06", "detalhamento":"Passageiro: Senador Alvaro Dias
+Trecho: Curitiba - Londrina
+Data da viagem: 11/01/2014", 
+                            "valorReembolsado":"223.5", "codDocumento":"869457"}, {"ano":"2014", "mes":"1", "senador":"ALVARO DIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol Linhas Aéreas", 
+                            "documento":"PL7Y4B", "data":"2014-01-02", "detalhamento":"Passageiro: Senador Alvaro Dias
+Trecho: São Paulo - Brasília
+Data da viagem: 03/01/2014", 
+                            "valorReembolsado":"939.04", "codDocumento":"869455"}, {"ano":"2014", "mes":"1", "senador":"ALVARO DIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas", 
+                            "documento":"9572481971276", "data":"2014-01-02", "detalhamento":"Passageiro: Senador Alvaro Dias
+Trecho: Brasília - Curitiba
+Data da viagem: 06/01/2014", 
+                            "valorReembolsado":"821.15", "codDocumento":"869456"}, {"ano":"2014", "mes":"1", "senador":"ALVARO DIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas", 
+                            "documento":"9572482235433", "data":"2014-01-06", "detalhamento":"Passageiro: Senador Alvaro Dias
+Trecho: Londrina - Curitiba
+Data da viagem: 12/01/2014", 
+                            "valorReembolsado":"1089.45", "codDocumento":"869458"}, {"ano":"2014", "mes":"2", "senador":"ALVARO DIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol Linhas Aéreas", 
+                            "documento":"Y7KUFB", "data":"2013-12-09", "detalhamento":"Passageiro: Senador Alvaro Dias
+Trecho: Curitiba - Foz do Iguaçu
+Data da viagem: 22/02/2014", 
+                            "valorReembolsado":"677.58", "codDocumento":"881942"}, {"ano":"2014", "mes":"2", "senador":"ALVARO DIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol Linhas Aéreas", 
+                            "documento":"XC7G5P", "data":"2014-02-24", "detalhamento":"Passageiro: Senador Alvaro Dias
+Trecho: Curitiba - Londrina
+Data da viagem: 28/02/2014", 
+                            "valorReembolsado":"620.6", "codDocumento":"883622"}, {"ano":"2014", "mes":"2", "senador":"ALVARO DIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas", 
+                            "documento":"9572484209442", "data":"2014-02-10", "detalhamento":"Passageiro: Senador Alvaro Dias
+Trecho: Foz do Iguaçu - Brasília
+Data da viagem: 23/02/2014", 
+                            "valorReembolsado":"862.85", "codDocumento":"881943"}, {"ano":"2014", "mes":"2", "senador":"ALVARO DIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas", 
+                            "documento":"9572484209443", "data":"2014-02-10", "detalhamento":"Passageiro: Senador Alvaro Dias
+Trecho: Curitiba - Brasília
+Data da viagem: 17/02/2014", 
+                            "valorReembolsado":"1229.07", "codDocumento":"877089"}, {"ano":"2014", "mes":"4", "senador":"ALVARO DIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"09296295000402", "fornecedor":"Azul Linhas Aéreas", 
+                            "documento":"E5GG5C", "data":"2014-01-21", "detalhamento":"Passageiro: Senador Alvaro Dias
+Trecho: Londrina - Curitiba
+Data da viagem: 13/04/2014", 
+                            "valorReembolsado":"578.05", "codDocumento":"901335"}, {"ano":"2014", "mes":"4", "senador":"ALVARO DIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"09296295000402", "fornecedor":"Azul Linhas Aéreas", 
+                            "documento":"2220005418660", "data":"2014-03-28", "detalhamento":"Passageiro: Senador Alvaro Dias
+Trecho: Maringá - Brasília
+Data da viagem: 01/04/2014", 
+                            "valorReembolsado":"1346.9", "codDocumento":"896126"}, {"ano":"2014", "mes":"4", "senador":"ALVARO DIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"09296295000402", "fornecedor":"Azul Linhas Aéreas", 
+                            "documento":"2220005426017", "data":"2014-04-14", "detalhamento":"Passageiro: Senador Alvaro Dias
+Trecho: São Paulo - Brasília
+Data da viagem: 22/04/2014", 
+                            "valorReembolsado":"1656.3", "codDocumento":"903647"}, {"ano":"2014", "mes":"4", "senador":"ALVARO DIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"09296295000402", "fornecedor":"Azul Linhas Aéreas", 
+                            "documento":"R7EZQC", "data":"2014-04-22", "detalhamento":"Passageiro: Senador Alvaro Dias
+Trecho: Curitiba - Maringá
+Data da viagem: 25/04/2014", 
+                            "valorReembolsado":"484.8", "codDocumento":"907956"}, {"ano":"2014", "mes":"4", "senador":"ALVARO DIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol Linhas Aéreas", 
+                            "documento":"ID73KM", "data":"2014-04-22", "detalhamento":"Passageiro: Senador Alvaro Dias
+Trecho: Maringá - Curitiba
+Data da viagem: 26/04/2014", 
+                            "valorReembolsado":"744.66", "codDocumento":"907957"}, {"ano":"2014", "mes":"4", "senador":"ALVARO DIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas", 
+                            "documento":"9572486958060", "data":"2014-04-01", "detalhamento":"Passageiro: Senador Alvaro Dias
+Trecho: Brasília - Curitiba
+Data da viagem: 03/04/2014", 
+                            "valorReembolsado":"1172.05", "codDocumento":"899249"}, {"ano":"2014", "mes":"4", "senador":"ALVARO DIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas", 
+                            "documento":"9572486958061", "data":"2014-04-01", "detalhamento":"Passageiro: Senador Alvaro Dias
+Trecho: Curitiba - Brasília
+data da viagem: 06/04/2014", 
+                            "valorReembolsado":"1891.57", "codDocumento":"899250"}, {"ano":"2014", "mes":"4", "senador":"ALVARO DIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas", 
+                            "documento":"9572487454641", "data":"2014-04-07", "detalhamento":"Passageiro: Senador Alvaro Dias
+Trecho: Curitiba - Brasília
+Data da viagem: 13/04/2014", 
+                            "valorReembolsado":"1171.07", "codDocumento":"901336"}, {"ano":"2014", "mes":"4", "senador":"ALVARO DIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas", 
+                            "documento":"9572487454621", "data":"2014-04-07", "detalhamento":"Passageiro: Senador Alvaro Dias
+Trecho: Brasília - Curitiba
+Data da viagem: 10/04/2014", 
+                            "valorReembolsado":"1172.05", "codDocumento":"901333"}, {"ano":"2014", "mes":"4", "senador":"ALVARO DIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas", 
+                            "documento":"9572487454652", "data":"2014-04-08", "detalhamento":"Passageiro: Senador Alvaro Dias
+Trecho: Curitiba - Londrina
+Data da viagem: 12/04/2014", 
+                            "valorReembolsado":"249.47", "codDocumento":"901334"}, {"ano":"2014", "mes":"4", "senador":"ALVARO DIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas", 
+                            "documento":"9572488024464", "data":"2014-04-16", "detalhamento":"Passageiro: Senador Alvaro Dias
+Trecho: Rio de Janeiro - Brasília
+Data da viagem: 29/04/2014", 
+                            "valorReembolsado":"1074.27", "codDocumento":"907959"}, {"ano":"2014", "mes":"4", "senador":"ALVARO DIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas", 
+                            "documento":"9572488024462", "data":"2014-04-16", "detalhamento":"Passageiro: Senador Alvaro Dias
+Trecho: Brasília - Curitiba
+Data da viagem: 24/04/2014", 
+                            "valorReembolsado":"1172.05", "codDocumento":"907955"}, {"ano":"2014", "mes":"4", "senador":"ALVARO DIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas", 
+                            "documento":"9572488399338", "data":"2014-04-23", "detalhamento":"Passageiro: Senador Alvaro Dias
+Trecho: Curitiba - Rio de Janeiro
+Data da viagem: 27/04/2014", 
+                            "valorReembolsado":"874.07", "codDocumento":"907958"}, {"ano":"2014", "mes":"5", "senador":"ALVARO DIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"09296295000402", "fornecedor":"Azul Linhas Aéreas", 
+                            "documento":"UBRCUT", "data":"2014-05-05", "detalhamento":"Passageiro: Senador Alvaro Dias
+Trecho: Curitiba - Cascavel
+Data da viagem: 16/05/2014", 
+                            "valorReembolsado":"749.03", "codDocumento":"916462"}, {"ano":"2014", "mes":"5", "senador":"ALVARO DIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas", 
+                            "documento":"9572488484836", "data":"2014-04-24", "detalhamento":"Passageiro: Senador Alvaro Dias
+Trecho: Brasília - Curitiba
+Data da viagem: 01/05/2014", 
+                            "valorReembolsado":"1172.05", "codDocumento":"909425"}, {"ano":"2014", "mes":"5", "senador":"ALVARO DIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas", 
+                            "documento":"9572488568369", "data":"2014-04-28", "detalhamento":"Passageiro: Senador Alvaro Dias
+Trecho: Curitiba - Brasília
+Data da viagem: 04/05/2014", 
+                            "valorReembolsado":"1891.57", "codDocumento":"909426"}, {"ano":"2014", "mes":"5", "senador":"ALVARO DIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas", 
+                            "documento":"9572489117883", "data":"2014-05-05", "detalhamento":"Passageiro: Senador Alvaro Dias
+Trecho: Curitiba - Brasília
+Data da viagem: 11/05/2014", 
+                            "valorReembolsado":"1271.07", "codDocumento":"912857"}, {"ano":"2014", "mes":"5", "senador":"ALVARO DIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas", 
+                            "documento":"9572489407732", "data":"2014-05-08", "detalhamento":"Passageiro: Senador Alvaro Dias
+Trecho: Brasília - Curitiba
+Data da viagem: 09/05/2014", 
+                            "valorReembolsado":"1287.55", "codDocumento":"912856"}, {"ano":"2014", "mes":"5", "senador":"ALVARO DIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas", 
+                            "documento":"9572489495775", "data":"2014-05-12", "detalhamento":"Passageiro: Senador Alvaro Dias
+Trecho: Brasília - Curitiba
+Data da viagem: 15/05/2014", 
+                            "valorReembolsado":"1559.75", "codDocumento":"916461"}, {"ano":"2014", "mes":"5", "senador":"ALVARO DIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas", 
+                            "documento":"9572490053286", "data":"2014-05-20", "detalhamento":"Passageiro: Senador Alvaro Dias
+Trecho: Curitiba - Londrina
+Data da viagem: 23/05/2014", 
+                            "valorReembolsado":"420.57", "codDocumento":"918155"}, {"ano":"2014", "mes":"5", "senador":"ALVARO DIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas", 
+                            "documento":"9572490053287", "data":"2014-05-20", "detalhamento":"Passageiro: Senador Alvaro Dias
+Trecho: Brasília - Curitiba
+Data da viagem: 22/05/2014", 
+                            "valorReembolsado":"1172.05", "codDocumento":"918154"}, {"ano":"2014", "mes":"5", "senador":"ALVARO DIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas", 
+                            "documento":"9572490053289", "data":"2014-05-20", "detalhamento":"Passageiro: Senador Alvaro Dias
+Trecho: Foz do Iguaçu - Brasília
+Data da viagem: 25/05/2014", 
+                            "valorReembolsado":"1658.07", "codDocumento":"918156"}, {"ano":"2014", "mes":"5", "senador":"ALVARO DIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas", 
+                            "documento":"9572490326800", "data":"2014-05-26", "detalhamento":"Passageiro: Senador Alvaro Dias
+Trecho: Curitiba - Brasília
+Data da viagem: 31/05/2014", 
+                            "valorReembolsado":"1891.57", "codDocumento":"920463"}, {"ano":"2014", "mes":"5", "senador":"ALVARO DIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas", 
+                            "documento":"9572490530317", "data":"2014-05-27", "detalhamento":"Passageiro: Senador Alvaro Dias
+Trecho: Brasília - Curitiba
+Data da viagem: 29/05/2014", 
+                            "valorReembolsado":"1271.35", "codDocumento":"920462"}, {"ano":"2014", "mes":"6", "senador":"ALVARO DIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol Linhas Aéreas", 
+                            "documento":"DBPZWC", "data":"2014-06-04", "detalhamento":"Passageiro: Senador Alvaro Dias
+Trecho: Brasília - São Paulo
+Data da viagem: 13/06/2014", 
+                            "valorReembolsado":"284.79", "codDocumento":"925829"}, {"ano":"2014", "mes":"6", "senador":"ALVARO DIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol Linhas Aéreas", 
+                            "documento":"CYZ22S", "data":"2014-06-09", "detalhamento":"Passageiro: Senador Alvaro Dias
+Trecho: São Paulo - Brasília
+Data da viagem: 14/06/2014", 
+                            "valorReembolsado":"1020.92", "codDocumento":"925830"}, {"ano":"2014", "mes":"6", "senador":"ALVARO DIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas", 
+                            "documento":"9572490892811", "data":"2014-06-03", "detalhamento":"Passageiro: Senador Alvaro Dias
+Trecho: Curitiba - Brasília
+Data da viagem: 08/06/2014", 
+                            "valorReembolsado":"1116.07", "codDocumento":"923041"}, {"ano":"2014", "mes":"6", "senador":"ALVARO DIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas", 
+                            "documento":"9572491353293", "data":"2014-06-16", "detalhamento":"Passageiro: Senador Alvaro Dias
+Trecho: Brasília - Curitiba
+Data da viagem: 19/06/2014", 
+                            "valorReembolsado":"975.15", "codDocumento":"929000"}, {"ano":"2014", "mes":"7", "senador":"ALVARO DIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02575829000148", "fornecedor":"Avianca", 
+                            "documento":"247-2411372545", "data":"2014-07-09", "detalhamento":"Sen. Álvaro Dias
+CWB/BSB
+13/07/2014", 
+                            "valorReembolsado":"792.78", "codDocumento":"935519"}, {"ano":"2014", "mes":"7", "senador":"ALVARO DIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol Linhas Aéreas", 
+                            "documento":"KBSPHC", "data":"2014-06-04", "detalhamento":"Passageiro: Senador Alvaro Dias
+Trecho: Curitiba - Brasília
+Data da viagem: 06/07/2014", 
+                            "valorReembolsado":"1176.29", "codDocumento":"931948"}, {"ano":"2014", "mes":"7", "senador":"ALVARO DIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol Linhas Aéreas", 
+                            "documento":"S8F7YB", "data":"2014-07-21", "detalhamento":"Passageiro: Senador Alvaro Dias
+Trecho: Curitiba - São Paulo
+Data da viagem: 23/07/2014", 
+                            "valorReembolsado":"644.06", "codDocumento":"940554"}, {"ano":"2014", "mes":"7", "senador":"ALVARO DIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol Linhas Aéreas", 
+                            "documento":"IFPZ2D", "data":"2014-07-21", "detalhamento":"Passageiro: Senador Alvaro Dias
+Trecho: São Paulo - Curitiba
+Data da viagem: 24/07/2014", 
+                            "valorReembolsado":"644.06", "codDocumento":"940555"}, {"ano":"2014", "mes":"7", "senador":"ALVARO DIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas", 
+                            "documento":"9572491064355", "data":"2014-07-02", "detalhamento":"Passageiro: Senador Alvaro Dias
+Trecho: Brasília - Curitiba
+Data da viagem: 03/07/2014", 
+                            "valorReembolsado":"1239.55", "codDocumento":"931947"}, {"ano":"2014", "mes":"7", "senador":"ALVARO DIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas", 
+                            "documento":"9572492507009", "data":"2014-07-07", "detalhamento":"Passageiro: Senador Alvaro Dias
+Trecho: Brasília - Curitiba
+Data da viagem: 10/07/2014", 
+                            "valorReembolsado":"1437.15", "codDocumento":"935518"}, {"ano":"2014", "mes":"7", "senador":"ALVARO DIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas", 
+                            "documento":"9572492935293", "data":"2014-07-17", "detalhamento":"Passageiro: Senador Alvaro Dias
+Trecho: Brasília - Curitiba
+Data da viagem: 17/07/2014", 
+                            "valorReembolsado":"1451.45", "codDocumento":"940553"}, {"ano":"2014", "mes":"8", "senador":"ALVARO DIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas", 
+                            "documento":"9572493993759", "data":"2014-08-01", "detalhamento":"Passageiro: Senador Alvaro Dias
+Trecho: Curitiba - Brasília
+Data da viagem: 03/08/2014", 
+                            "valorReembolsado":"1750.87", "codDocumento":"940556"}, {"ano":"2014", "mes":"8", "senador":"ALVARO DIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas", 
+                            "documento":"9572494184304", "data":"2014-08-05", "detalhamento":"Passageiro: Senador Alvaro Dias
+Trecho: Brasília - Curitiba
+Data da viagem: 06/08/2014", 
+                            "valorReembolsado":"1368.65", "codDocumento":"948090"}, {"ano":"2014", "mes":"12", "senador":"ALVARO DIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02575829000148", "fornecedor":"Avianca Linhas Aéreas", 
+                            "documento":"2472413488309", "data":"2014-11-21", "detalhamento":"Passageiro: Senador Alvaro Dias
+Trecho: Brasília - Curitiba
+Data da viagem: 04/12/2014", 
+                            "valorReembolsado":"1162.93", "codDocumento":"978255"}, {"ano":"2014", "mes":"12", "senador":"ALVARO DIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02575829000148", "fornecedor":"Avianca Linhas Aéreas", 
+                            "documento":"2472413690495", "data":"2014-12-09", "detalhamento":"Passageiro: Senador Alvaro Dias
+Trecho: Curitiba - Brasília
+Data da viagem: 18/12/2014", 
+                            "valorReembolsado":"610.07", "codDocumento":"987680"}, {"ano":"2014", "mes":"12", "senador":"ALVARO DIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02575829000148", "fornecedor":"Avianca Linhas Aéreas", 
+                            "documento":"2472413950403", "data":"2014-12-19", "detalhamento":"Passageiro: Senador Alvaro Dias
+Trecho: Brasília - Curitiba
+Data da viagem: 22/12/2014", 
+                            "valorReembolsado":"303.03", "codDocumento":"987681"}, {"ano":"2014", "mes":"12", "senador":"ALVARO DIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"09296295000402", "fornecedor":"Azul Linhas Aéreas", 
+                            "documento":"2220005563744", "data":"2014-12-02", "detalhamento":"Passageiro: Senador Alvaro Dias
+Trecho: Curitiba - Maringá
+Data da viagem: 05/12/2014", 
+                            "valorReembolsado":"437.25", "codDocumento":"978256"}, {"ano":"2014", "mes":"12", "senador":"ALVARO DIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"09296295000402", "fornecedor":"Azul Linhas Aéreas", 
+                            "documento":"2220005528052", "data":"2014-12-02", "detalhamento":"Passageiro: Senador Alvaro Dias
+Trecho: Maringá - Curitiba
+Data da viagem: 06/12/2014", 
+                            "valorReembolsado":"660.27", "codDocumento":"978257"}, {"ano":"2014", "mes":"12", "senador":"ALVARO DIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol Linhas Aéreas", 
+                            "documento":"GCYGSS", "data":"2014-12-10", "detalhamento":"Passageiro: Senador Alvaro Dias
+Trecho: São Paulo - Brasília
+Data da viagem: 15/12/2014", 
+                            "valorReembolsado":"1056.56", "codDocumento":"983199"}, {"ano":"2014", "mes":"12", "senador":"ALVARO DIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas", 
+                            "documento":"9572101445902", "data":"2014-12-04", "detalhamento":"Passageiro: Senador Alvaro Dias
+Trecho: Curitiba - Brasília
+Data da viagem: 07/12/2014", 
+                            "valorReembolsado":"2220.47", "codDocumento":"978258"}, {"ano":"2014", "mes":"12", "senador":"ALVARO DIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas", 
+                            "documento":"9572101570860", "data":"2014-12-09", "detalhamento":"Passageiro: Senador Alvaro Dias
+Trecho: Curitiba - São Paulo
+Data da viagem: 14/12/2014", 
+                            "valorReembolsado":"706.76", "codDocumento":"983198"}, {"ano":"2014", "mes":"12", "senador":"ALVARO DIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas", 
+                            "documento":"9572101570842", "data":"2014-12-09", "detalhamento":"Passageiro: Senador Alvaro Dias
+Trecho: Brasília - Curitiba
+Data da viagem: 11/12/2014", 
+                            "valorReembolsado":"1612.23", "codDocumento":"983197"}, {"ano":"2014", "mes":"12", "senador":"ALVARO DIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas", 
+                            "documento":"9572101804506", "data":"2014-12-10", "detalhamento":"Passageiro: Senador Alvaro Dias
+Trecho: Brasília - Curitiba
+Data da viagem: 17/12/2014", 
+                            "valorReembolsado":"705.15", "codDocumento":"987679"}]}
