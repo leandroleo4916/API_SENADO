@@ -1,0 +1,10 @@
+{"gastosSenador": [{"ano":"2019", "mes":"1", "senador":"JOÃO ALBERTO SOUZA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"47468114315", "fornecedor":"Alzira Marlene Serra Souza", 
+                            "documento":"null", "data":"2019-01-21", "detalhamento":"Locação do escritório de apoio parlamentar em São Luís MA.", 
+                            "valorReembolsado":"1000.0", "codDocumento":"2116984"}, {"ano":"2019", "mes":"1", "senador":"JOÃO ALBERTO SOUZA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"22480059000167", "fornecedor":"HORUS SERVIÇOS E CONSULTORIA EIRELI - ME", 
+                            "documento":"00000093", "data":"2019-01-08", "detalhamento":"Serviço de segurança patrimonial .", 
+                            "valorReembolsado":"9600.0", "codDocumento":"2113626"}, {"ano":"2019", "mes":"1", "senador":"JOÃO ALBERTO SOUZA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"16978175000108", "fornecedor":"ADRIA VIAGENS E TURISMO LTDA", 
+                            "documento":"UJZTJP", "data":"2018-11-30", "detalhamento":"Companhia Aérea: GOL, Localizador: UJZTJP. Passageiros: LAIANNA VALERIA DA SILVA SANTOS (Matrícula 317618, COMISSIONADO), Voo: 1732 - BRASILIA / SÃO LUIS - 02/01/19; ", 
+                            "valorReembolsado":"995.28", "codDocumento":"2113624"}]}

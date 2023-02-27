@@ -1,0 +1,13 @@
+{"gastosSenador": [{"ano":"2019", "mes":"1", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"36336386000154", "fornecedor":"Posto Três Coqueiros Ltda", 
+                            "documento":"14400", "data":"2019-01-22", "detalhamento":"Aquisição de combustível para veículos utilizados na atividade parlamentar na primeira quinzena do mês de janeiro", 
+                            "valorReembolsado":"2362.76", "codDocumento":"2113501"}, {"ano":"2019", "mes":"1", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"16978175000108", "fornecedor":"Ádria Viagens e Turismo Ltda", 
+                            "documento":"ULWVEM", "data":"2018-12-20", "detalhamento":"Companhia Aérea: LATAM, Localizador: ULWVEM. Passageiros: HAZENCLEVER LOPES CANÇADO (Matrícula 163263, COMISSIONADO), Voo: 3519 - BRASILIA X VITÓRIA - 03/01/19; ", 
+                            "valorReembolsado":"728.39", "codDocumento":"2113310"}, {"ano":"2019", "mes":"1", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"16978175000108", "fornecedor":"Ádria Viagens e Turismo Ltda", 
+                            "documento":"PFSFMT", "data":"2019-01-15", "detalhamento":"Companhia Aérea: AZUL, Localizador: PFSFMT. Passageiros: EDIMILSON DE ANDRADE PASSOS (Matrícula 163100, COMISSIONADO), Voo: 2558 - BELO HORIZONTE X BRASÍLIA - 16/01/19; EDIMILSON DE ANDRADE PASSOS (Matrícula 163100, COMISSIONADO), Voo: 2525 - VITÓRIA X BELO HORIZONTE - 16/01/19; ", 
+                            "valorReembolsado":"715.36", "codDocumento":"2113316"}, {"ano":"2019", "mes":"1", "senador":"MAGNO MALTA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"16978175000108", "fornecedor":"Ádria Viagens e Turismo Ltda", 
+                            "documento":"BUHQBB", "data":"2019-01-15", "detalhamento":"Companhia Aérea: LATAM, Localizador: BUHQBB. Passageiros: MAGNO PEREIRA MALTA (Matrícula 162143, PARLAMENTAR), Voo: 3519 - BRASILIA X VITÓRIA - 15/01/19; ", 
+                            "valorReembolsado":"919.28", "codDocumento":"2113314"}]}
