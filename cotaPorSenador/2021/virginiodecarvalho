@@ -1,0 +1,10 @@
+{"gastosSenador": [{"ano":"2021", "mes":"7", "senador":"VIRGINIO DE CARVALHO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"13038641000187", "fornecedor":"SERGITUR Sergipe Turismo LTDA", 
+                            "documento":"WEBZNO", "data":"2021-07-23", "detalhamento":"Companhia Aérea: LATAM, Localizador: WEBZNO. Passageiros: VIRGINIO JOSÉ DE CARVALHO NETO (Matrícula 213485, PARLAMENTAR), Voo: 3380 - BRASÍLIA/ARACAJU - 29/07/21; ", 
+                            "valorReembolsado":"1463.36", "codDocumento":"2168021"}, {"ano":"2021", "mes":"7", "senador":"VIRGINIO DE CARVALHO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"13038641000187", "fornecedor":"SERGITUR Sergipe Turismo LTDA", 
+                            "documento":"TNFTYM", "data":"2021-07-23", "detalhamento":"Companhia Aérea: LATAM, Localizador: TNFTYM. Passageiros: VIRGINIO JOSÉ DE CARVALHO NETO (Matrícula 213485, PARLAMENTAR), Voo: 3355 - ARACAJU?BRASÍLIA - 25/07/21; ", 
+                            "valorReembolsado":"1672.6", "codDocumento":"2168017"}, {"ano":"2021", "mes":"7", "senador":"VIRGINIO DE CARVALHO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"09967852006168", "fornecedor":"Hotelaria ACCOR Brasil. S.A.", 
+                            "documento":"299444", "data":"2021-07-30", "detalhamento":"null", 
+                            "valorReembolsado":"2584.6", "codDocumento":"2168012"}]}
