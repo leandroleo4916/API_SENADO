@@ -1,0 +1,657 @@
+{"gastosSenador": [{"ano":"2011", "mes":"8", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"VRG LINHAS AÉREAS S.A", 
+                            "documento":"4443735152", "data":"2011-08-02", "detalhamento":"SENADOR AÉCIO NEVES 
+TRECHO - RIO DE JANEIRO/BRASÍLIA -VOO - 1582
+SAÍDA 11:18 CHEGADA 12:49 02/08", 
+                            "valorReembolsado":"450.56", "codDocumento":"388065"}, {"ano":"2011", "mes":"8", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"VRG LINHAS AÉREAS S/A", 
+                            "documento":"PC1Q7T", "data":"2011-08-15", "detalhamento":"Senador Aécio Neves
+15/08/2011
+voo 1519 - SDU/CGH - partida 10:40 e chegada 11:39.", 
+                            "valorReembolsado":"444.56", "codDocumento":"400075"}, {"ano":"2011", "mes":"8", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"VRG LINHAS AÉREAS S/A", 
+                            "documento":"KE8CKN", "data":"2011-08-16", "detalhamento":"Luiz de Melo Alvarenga Neto
+matrícula 238433  16/08/2011
+cargo Secretário Parlamentar - SF 01
+voo G31334 - CGH/BSB - partida 11:02 e chegada 12:40.", 
+                            "valorReembolsado":"330.56", "codDocumento":"400073"}, {"ano":"2011", "mes":"8", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"VRG LINHAS AÉREAS S/A", 
+                            "documento":"4590916224", "data":"2011-08-16", "detalhamento":"Senador Aécio Neves - voo 1334 - 16/08/2011 - CGH/BSB - partida 11:02 e chegada 12:40.", 
+                            "valorReembolsado":"281.56", "codDocumento":"400072"}, {"ano":"2011", "mes":"8", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"VRG LINHAS AÉREAS S/A", 
+                            "documento":"4551244672", "data":"2011-08-24", "detalhamento":"VOO 1687 - 24AUG2011 
+MARIA HELOISA CARDOSO NEVES - MAT. 239190
+ORIGEM: BRASÍLIA(BSB) DESTINO: BELO HORIZONTE(CNF)
+PARTIDA: 20:44 CHEGADA: 21:53
+LOCALIZADOR NFR36H", 
+                            "valorReembolsado":"292.56", "codDocumento":"403675"}, {"ano":"2011", "mes":"8", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"VRG LINHAS AÉREAS S/A", 
+                            "documento":"4443244416", "data":"2011-08-31", "detalhamento":"Voo 1585 BSB-SDU
+data 31/08/2011
+partida 16:44 chegada 18:26
+", 
+                            "valorReembolsado":"884.56", "codDocumento":"416649"}, {"ano":"2011", "mes":"9", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"03641770000101", "fornecedor":"ACF RODOVIÁRIA BHE - SELOS E COMPANHIA SERVIÇOS LTDA", 
+                            "documento":"5011", "data":"2011-09-01", "detalhamento":"null", 
+                            "valorReembolsado":"333.8", "codDocumento":"411823"}, {"ano":"2011", "mes":"9", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"18007971000129", "fornecedor":"ASAMAR S/A", 
+                            "documento":"050911", "data":"2011-09-05", "detalhamento":"null", 
+                            "valorReembolsado":"635.93", "codDocumento":"411821"}, {"ano":"2011", "mes":"9", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"18007971000129", "fornecedor":"ASAMAR S/A", 
+                            "documento":"13102001", "data":"2011-09-16", "detalhamento":"null", 
+                            "valorReembolsado":"8000.0", "codDocumento":"431489"}, {"ano":"2011", "mes":"9", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"70943345000164", "fornecedor":"CONDOMINIO DO EDIFICIO ASAMAR", 
+                            "documento":"9010092011", "data":"2011-09-02", "detalhamento":"null", 
+                            "valorReembolsado":"2760.39", "codDocumento":"411822"}, {"ano":"2011", "mes":"9", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"70943345000164", "fornecedor":"CONDOMINO DO EDIFÍCIO ASAMAR", 
+                            "documento":"9010092011", "data":"2011-09-13", "detalhamento":"null", 
+                            "valorReembolsado":"836.7", "codDocumento":"418684"}, {"ano":"2011", "mes":"9", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"03420926005789", "fornecedor":"GLOBAL VILLAGE TELECOM LTDA.", 
+                            "documento":"0093656709-0", "data":"2011-09-15", "detalhamento":"null", 
+                            "valorReembolsado":"238.9", "codDocumento":"431491"}, {"ano":"2011", "mes":"9", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"03420926005789", "fornecedor":"GLOBAL VILLAGE TELECOM LTDA.", 
+                            "documento":"0093660111-0", "data":"2011-09-15", "detalhamento":"null", 
+                            "valorReembolsado":"697.75", "codDocumento":"431490"}, {"ano":"2011", "mes":"9", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"04206050007940", "fornecedor":"TIM CELULAR S/A", 
+                            "documento":"000420934AA", "data":"2011-09-19", "detalhamento":"null", 
+                            "valorReembolsado":"754.12", "codDocumento":"431492"}, {"ano":"2011", "mes":"9", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"21450937000139", "fornecedor":"AGÊNCIA STATUS LTDA.", 
+                            "documento":"003333", "data":"2011-09-01", "detalhamento":"null", 
+                            "valorReembolsado":"204.0", "codDocumento":"411820"}, {"ano":"2011", "mes":"9", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AEREAS S/A", 
+                            "documento":"957-2434108058", "data":"2011-09-14", "detalhamento":"LUIZ DE MELO ALVARENGA NETO - ASSESSOR
+MATRÍCULA 238433
+VOO 3029 DATA 15/09/2011 TRECHO BSB/SDU
+PARTIDA 18:18 CHEGADA 20:02
+", 
+                            "valorReembolsado":"560.66", "codDocumento":"416666"}, {"ano":"2011", "mes":"9", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS S/A", 
+                            "documento":"957-2434281184", "data":"2011-09-16", "detalhamento":"LUIZ DE MELO ALVARENGA NETO - ASSESSOR
+MATRÍCULA 238433
+VOO 3754 DATA 16/09/2011 SDU/IBA
+PARTIDA 12:43", 
+                            "valorReembolsado":"633.36", "codDocumento":"416668"}, {"ano":"2011", "mes":"9", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS S/A", 
+                            "documento":"9572434975358", "data":"2011-09-27", "detalhamento":"Vôo 3717 - data 29/09/2011 - BSB/CGH - ´saída 17:20 e chegada 18:52.Senador Aecio Neves", 
+                            "valorReembolsado":"481.66", "codDocumento":"425044"}, {"ano":"2011", "mes":"9", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS S/A", 
+                            "documento":"9572434975363", "data":"2011-09-27", "detalhamento":"Vôo 3717 - BSB/CGH - data 29/09/2011 - saída 17:20 e chegada 18:52.
+Vôo 4726 - CGH/CNF - data 30/09/2011 - saída 17:42 e chegada 18:53.
+Maria Heloisa Cardoso Neves - matrícula 239190
+Assessora Técnica - SF 02
+", 
+                            "valorReembolsado":"1031.32", "codDocumento":"425046"}, {"ano":"2011", "mes":"9", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"VRG LINHAS AÉREAS S/A", 
+                            "documento":"4446369424", "data":"2011-09-14", "detalhamento":"SENADOR AERCIO NEVES
+VOO 1585 BSB/SDU DATA 15/09/2011
+PARTIDA 16:44 CHEGADA 18:26
+", 
+                            "valorReembolsado":"650.56", "codDocumento":"416667"}, {"ano":"2011", "mes":"9", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"VRG LINHAS AÉREAS S/A", 
+                            "documento":"4614209168", "data":"2011-09-22", "detalhamento":"Vôo 1228 - data 28/09/2011 - CNF/BSB - saída 10:54 e chegada 12:08.
+Maria Heloisa Cardoso Neves - matrícula 239190
+Assessora Técnica - SF 02", 
+                            "valorReembolsado":"317.52", "codDocumento":"425047"}, {"ano":"2011", "mes":"9", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"VRG LINHAS AÉREAS S/A", 
+                            "documento":"4547257232", "data":"2011-09-27", "detalhamento":"Vôo 1542 - CGH/SDU - data 30/09/2011 - saída 16:40 e chegada 17:38.SENADOR AECIO NEVES", 
+                            "valorReembolsado":"900.56", "codDocumento":"425045"}, {"ano":"2011", "mes":"10", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"18007971000129", "fornecedor":"ASAMAR S/A", 
+                            "documento":"5102011", "data":"2011-10-03", "detalhamento":"null", 
+                            "valorReembolsado":"635.93", "codDocumento":"431502"}, {"ano":"2011", "mes":"10", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"18007971000129", "fornecedor":"ASAMAR S/A", 
+                            "documento":"12112011", "data":"2011-10-17", "detalhamento":"null", 
+                            "valorReembolsado":"8000.0", "codDocumento":"446452"}, {"ano":"2011", "mes":"10", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"70943345000164", "fornecedor":"CONDOMINIO DO EDIFICIO ASAMAR", 
+                            "documento":"901102011", "data":"2011-10-17", "detalhamento":"null", 
+                            "valorReembolsado":"850.97", "codDocumento":"437426"}, {"ano":"2011", "mes":"10", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"70943345000164", "fornecedor":"CONDOMINIO DO EDIFÍCIO ASAMAR", 
+                            "documento":"901102011", "data":"2011-10-03", "detalhamento":"null", 
+                            "valorReembolsado":"2800.12", "codDocumento":"431501"}, {"ano":"2011", "mes":"10", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"03420926005789", "fornecedor":"GLOBAL VILLAGE TELECOM LTDA", 
+                            "documento":"957909150", "data":"2011-10-15", "detalhamento":"null", 
+                            "valorReembolsado":"238.9", "codDocumento":"446453"}, {"ano":"2011", "mes":"10", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"03420926005789", "fornecedor":"GLOBAL VILLAGE TELECOM LTDA", 
+                            "documento":"958019260", "data":"2011-10-15", "detalhamento":"null", 
+                            "valorReembolsado":"784.14", "codDocumento":"446454"}, {"ano":"2011", "mes":"10", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"04206050007940", "fornecedor":"TIM CELULAR S/A", 
+                            "documento":"000417852AA", "data":"2011-10-19", "detalhamento":"null", 
+                            "valorReembolsado":"777.38", "codDocumento":"459450"}, {"ano":"2011", "mes":"10", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"03641770000101", "fornecedor":"ACF RODOVIARIA BHE-SELOS E COMPANHIA SERVIÇOS LTDA", 
+                            "documento":"5280", "data":"2011-10-10", "detalhamento":"null", 
+                            "valorReembolsado":"193.9", "codDocumento":"431503"}, {"ano":"2011", "mes":"10", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"21450937000139", "fornecedor":"AGENCIA STATUS LTDA", 
+                            "documento":"003342", "data":"2011-10-06", "detalhamento":"null", 
+                            "valorReembolsado":"171.7", "codDocumento":"431504"}, {"ano":"2011", "mes":"10", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS S/A", 
+                            "documento":"9572435725451", "data":"2011-10-11", "detalhamento":"Voo JJ3706 data 11/10/2011 - CGH/BSB
+Senador Aécio Neves", 
+                            "valorReembolsado":"475.66", "codDocumento":"434058"}, {"ano":"2011", "mes":"10", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS S/A", 
+                            "documento":"9572435725450", "data":"2011-10-11", "detalhamento":"Voo JJ3706 data 11/10/2011 - CGC/BSB
+Luiz de Melo Alvarenga Neto
+matrícula 238433
+Assessor de Imprensa", 
+                            "valorReembolsado":"475.66", "codDocumento":"434059"}, {"ano":"2011", "mes":"10", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS S/A", 
+                            "documento":"9572435725472", "data":"2011-10-13", "detalhamento":"Voo JJ3027 - data 13/10/2011 - BSB/RJ
+Senador Aécio Neves", 
+                            "valorReembolsado":"595.66", "codDocumento":"434060"}, {"ano":"2011", "mes":"10", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS S/A", 
+                            "documento":"9572436177114", "data":"2011-10-17", "detalhamento":"Voo JJ3863 - data 19/10/2011 - BSB/CNF
+Maria Heloisa Cardoso Neves
+matrícula 239190", 
+                            "valorReembolsado":"415.66", "codDocumento":"434063"}, {"ano":"2011", "mes":"10", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS S/A", 
+                            "documento":"9572436177113", "data":"2011-10-17", "detalhamento":"Voo JJ3024 - data 18/10/2011 - SDU/BSB
+Senador Aécio Neves", 
+                            "valorReembolsado":"658.66", "codDocumento":"434061"}, {"ano":"2011", "mes":"10", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"VRG LINHAS AÉREAS S/A", 
+                            "documento":"4547361184", "data":"2011-10-17", "detalhamento":"Voo 1228 - data 18/10/2011 - CNF/BSB
+Maria Heloisa Cardoso Neves
+matrícula 239190
+Assessora", 
+                            "valorReembolsado":"317.52", "codDocumento":"434062"}, {"ano":"2011", "mes":"10", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"VRG LINHAS AÉREAS S/A", 
+                            "documento":"4305888160", "data":"2011-10-27", "detalhamento":"SEN. AÉCIO NEVES
+27/10/2011
+VOO G3 1229 - GOL LINHAS AÉREAS
+SAÍDA: BRASÍLIA 12:55
+CHEGADA: BELO HORIZONTE 14:15", 
+                            "valorReembolsado":"318.56", "codDocumento":"455984"}, {"ano":"2011", "mes":"10", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"VRG LINHAS AÉREAS S/A", 
+                            "documento":"4534551456", "data":"2011-10-28", "detalhamento":"SEN. AÉCIO NEVES
+28/10/2011
+VOO 1577 - GOL LINHAS AÉREAS
+SAÍDA: BELO HORIZONTE 19:11
+CHEGADA: RIO DE JANEIRO 20:19", 
+                            "valorReembolsado":"1086.52", "codDocumento":"455985"}, {"ano":"2011", "mes":"11", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"18007971000129", "fornecedor":"ASAMAR S/A", 
+                            "documento":"05112011", "data":"2011-11-05", "detalhamento":"null", 
+                            "valorReembolsado":"635.93", "codDocumento":"446455"}, {"ano":"2011", "mes":"11", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"18007971000129", "fornecedor":"ASAMAR S/A", 
+                            "documento":"12122011", "data":"2011-11-10", "detalhamento":"null", 
+                            "valorReembolsado":"8000.0", "codDocumento":"468580"}, {"ano":"2011", "mes":"11", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"70943345000164", "fornecedor":"CONDOMINIO DO EDIFÍCIO ASAMAR", 
+                            "documento":"901112011", "data":"2011-11-11", "detalhamento":"null", 
+                            "valorReembolsado":"837.19", "codDocumento":"459451"}, {"ano":"2011", "mes":"11", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"70943345000164", "fornecedor":"CONDOMÍNIO DO EDIFÍCIO ASAMAR", 
+                            "documento":"901112011", "data":"2011-11-03", "detalhamento":"null", 
+                            "valorReembolsado":"2798.6", "codDocumento":"446456"}, {"ano":"2011", "mes":"11", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"03420926005789", "fornecedor":"GLOBAL VILLAGE TELECOM LTDA", 
+                            "documento":"0097950131-0", "data":"2011-11-15", "detalhamento":"null", 
+                            "valorReembolsado":"238.9", "codDocumento":"474931"}, {"ano":"2011", "mes":"11", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"03420926005789", "fornecedor":"GLOBAL VILLAGE TELECOM LTDA.", 
+                            "documento":"00979977490", "data":"2011-11-15", "detalhamento":"null", 
+                            "valorReembolsado":"683.69", "codDocumento":"468581"}, {"ano":"2011", "mes":"11", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"04206050007940", "fornecedor":"TIM CELULAR S/A", 
+                            "documento":"000425233AA", "data":"2011-11-19", "detalhamento":"null", 
+                            "valorReembolsado":"649.18", "codDocumento":"474932"}, {"ano":"2011", "mes":"11", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"02449992045427", "fornecedor":"VIVO PARTICIPAÇÕES S/A", 
+                            "documento":"0150291500", "data":"2011-11-22", "detalhamento":"null", 
+                            "valorReembolsado":"1030.87", "codDocumento":"474933"}, {"ano":"2011", "mes":"11", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"03641770000101", "fornecedor":"ACF RODOVIÁRIA BHE - SELOS E COMPANHIA SERVIÇOS LTDA.", 
+                            "documento":"6965", "data":"2011-12-01", "detalhamento":"null", 
+                            "valorReembolsado":"43.7", "codDocumento":"474935"}, {"ano":"2011", "mes":"11", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"21450937000139", "fornecedor":"AGÊNCIA STATUS LTDA", 
+                            "documento":"003344", "data":"2011-11-01", "detalhamento":"null", 
+                            "valorReembolsado":"199.0", "codDocumento":"446457"}, {"ano":"2011", "mes":"11", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"11349474000160", "fornecedor":"F.B. Fortes Comércio e Manutenção de Equipamentos e Suprimentos de Informática", 
+                            "documento":"000011", "data":"2011-11-10", "detalhamento":"null", 
+                            "valorReembolsado":"420.0", "codDocumento":"463480"}, {"ano":"2011", "mes":"11", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"00896242000105", "fornecedor":"FIBRA TELECOMUNICAÇÕES LTDA.", 
+                            "documento":"0018141", "data":"2011-11-18", "detalhamento":"null", 
+                            "valorReembolsado":"150.0", "codDocumento":"468582"}, {"ano":"2011", "mes":"11", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02575829000148", "fornecedor":"OCEANAIR LINHAS AÉREAS S/A - AVIANCA", 
+                            "documento":"115799757", "data":"2011-11-20", "detalhamento":"Luiz de Melo Alvarenga Neto - Assessor de Imprensa
+matrícula 238433
+Trecho Belo Horizonte - Brasília
+Data 21/11/2011", 
+                            "valorReembolsado":"384.62", "codDocumento":"461575"}, {"ano":"2011", "mes":"11", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS S/A", 
+                            "documento":"957 2437585345", "data":"2011-11-10", "detalhamento":"SEN. AÉCIO NEVES - 10/11/2011
+VOO - JJ 3845 - TAM - 10/11/2011
+SAÍDA: BRASÍLIA 12:06 
+CHEGADA: BELO HORIZONTE 13:15", 
+                            "valorReembolsado":"376.66", "codDocumento":"455986"}, {"ano":"2011", "mes":"11", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS S/A", 
+                            "documento":"957 2437585344", "data":"2011-11-10", "detalhamento":"LUIZ DE MELO ALVARENGA NETO - ASSESSOR DE IMPRENSA
+MAT. 238433
+VOO JJ 3845 - TAM - 10/11/2011
+SAÍDA: BRASÍLIA 12:06
+CHEGADA: BELO HORIZONTE 13:15", 
+                            "valorReembolsado":"376.66", "codDocumento":"455987"}, {"ano":"2011", "mes":"11", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS S/A", 
+                            "documento":"9572437585371", "data":"2011-11-11", "detalhamento":"Senador Aécio Neves
+Trecho BSB/RJ
+Data 17/11/2011", 
+                            "valorReembolsado":"399.66", "codDocumento":"461569"}, {"ano":"2011", "mes":"11", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS S/A", 
+                            "documento":"957 2438360940", "data":"2011-11-22", "detalhamento":"MARIA HELOÍSA CARDOSO NEVES - ASSESSORA DE IMPRENSA
+MAT. 239190
+VOO JJ 3856 - TAM - 22/11/2011
+SAÍDA: bELO HORIZONTE 10:30
+CHEGADA: BRASÍLIA 11:43", 
+                            "valorReembolsado":"375.62", "codDocumento":"455988"}, {"ano":"2011", "mes":"11", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS S/A", 
+                            "documento":"957 2438360938", "data":"2011-11-23", "detalhamento":"MARIA HELOÍSA CARDOSO NEVES - ASSESSORA DE IMPRENSA
+MAT. 239190
+VOO JJ 3863 - TAM - 23/11/2011
+SAÍDA: BRASÍLIA 18:46
+CHEGADA: BELO HORIZONTE 19:52", 
+                            "valorReembolsado":"415.66", "codDocumento":"455989"}, {"ano":"2011", "mes":"11", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS S/A", 
+                            "documento":"957 2438642516", "data":"2011-11-24", "detalhamento":"SEN. AÉCIO NEVES
+TAM - VOO JJ 3723
+24/11/2011
+ORIGEM: BRASÍLIA
+DESTINO: SÃO PAULO", 
+                            "valorReembolsado":"525.66", "codDocumento":"468583"}, {"ano":"2011", "mes":"11", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS S/A", 
+                            "documento":"957 2438598393", "data":"2011-11-26", "detalhamento":"SEN. AÉCIO NEVES
+TAM - VOO JJ 3934
+26/11/2011
+ORIGEM: SÃO PAULO
+DESTINO: RIO DE JANEIRO", 
+                            "valorReembolsado":"420.66", "codDocumento":"468584"}, {"ano":"2011", "mes":"11", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"VRG LINHAS  AÉREAS S/A", 
+                            "documento":"4631029168", "data":"2011-11-29", "detalhamento":"Tânia Guimaraes de Campos
+matrícula 239577
+Trecho Brasília - Belo Horizonte
+Data 30/11/2011", 
+                            "valorReembolsado":"411.56", "codDocumento":"461574"}, {"ano":"2011", "mes":"11", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"VRG LINHAS AÉREAS S/A", 
+                            "documento":"4403771824", "data":"2011-11-17", "detalhamento":"LUIZ DE MELO ALVARENGA NETO - ASSESSOR DE IMPRENSA
+MAT. 238433
+17/11/2011
+GOL - VOO 1683
+ORIGEM: BRASÍLIA
+DESTINO: BELO HORIZONTE", 
+                            "valorReembolsado":"370.56", "codDocumento":"474934"}, {"ano":"2011", "mes":"11", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"VRG LINHAS AÉREAS S/A", 
+                            "documento":"YBP7FJ", "data":"2011-11-23", "detalhamento":"Senador Aécio Neves
+Trecho Rio de Janeiro - Brasília
+Data 29/11/2011", 
+                            "valorReembolsado":"533.56", "codDocumento":"461571"}, {"ano":"2011", "mes":"11", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"VRG LINHAS AÉREAS S/A", 
+                            "documento":"4541423792", "data":"2011-11-24", "detalhamento":"Luiz de Melo Alvarenta Neto - Assessor de Imprensa
+matrícula 238433
+trecho Belo Horizonte - Brasília
+Data 29/11/2011", 
+                            "valorReembolsado":"263.52", "codDocumento":"461572"}, {"ano":"2011", "mes":"11", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"05730375000120", "fornecedor":"WEBJET LINHAS AÉREAS S/A", 
+                            "documento":"1017602571", "data":"2011-11-21", "detalhamento":"Senador Aécio Neves
+Trecho RJ/BSB
+Data 22/11/2011", 
+                            "valorReembolsado":"430.65", "codDocumento":"461570"}, {"ano":"2011", "mes":"11", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"05730375000120", "fornecedor":"Webjet Linhas Aéreas S/A ", 
+                            "documento":"1017749731", "data":"2011-11-29", "detalhamento":"Tânia Guimarães de Campos
+matrícula 239577
+Trecho Belo Horizonte - Brasília
+Data 30/11/2011", 
+                            "valorReembolsado":"235.5", "codDocumento":"461573"}, {"ano":"2011", "mes":"12", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"18007971000129", "fornecedor":"ASAMAR S/A", 
+                            "documento":"04122011", "data":"2011-12-05", "detalhamento":"null", 
+                            "valorReembolsado":"635.93", "codDocumento":"466809"}, {"ano":"2011", "mes":"12", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"18007971000129", "fornecedor":"ASAMAR S/A", 
+                            "documento":"12122011", "data":"2011-12-12", "detalhamento":"null", 
+                            "valorReembolsado":"8000.0", "codDocumento":"481137"}, {"ano":"2011", "mes":"12", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"70943345000164", "fornecedor":"CONDOMINIO DO EDIFICIO ASAMAR", 
+                            "documento":"901122011", "data":"2011-12-02", "detalhamento":"null", 
+                            "valorReembolsado":"2909.19", "codDocumento":"466810"}, {"ano":"2011", "mes":"12", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"70943345000164", "fornecedor":"CONDOMINIO EDIFÍCIO ASAMAR", 
+                            "documento":"901122011", "data":"2011-12-09", "detalhamento":"null", 
+                            "valorReembolsado":"881.24", "codDocumento":"474943"}, {"ano":"2011", "mes":"12", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"03420926005789", "fornecedor":"GLOBAL VILLAGE TELECOM LTDA", 
+                            "documento":"01001357290", "data":"2011-12-15", "detalhamento":"null", 
+                            "valorReembolsado":"243.76", "codDocumento":"491981"}, {"ano":"2011", "mes":"12", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"03420926005789", "fornecedor":"GLOBAL VILLAGE TELECOM LTDA", 
+                            "documento":"01001891220", "data":"2011-12-15", "detalhamento":"null", 
+                            "valorReembolsado":"648.47", "codDocumento":"491980"}, {"ano":"2011", "mes":"12", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"04206050007940", "fornecedor":"TIM CELULAR S/A", 
+                            "documento":"000546461-AA", "data":"2011-12-19", "detalhamento":"null", 
+                            "valorReembolsado":"919.79", "codDocumento":"491978"}, {"ano":"2011", "mes":"12", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"02449992045427", "fornecedor":"VIVO PARTICIPAÇÕES S/A", 
+                            "documento":"0150291500", "data":"2011-12-21", "detalhamento":"null", 
+                            "valorReembolsado":"956.37", "codDocumento":"491979"}, {"ano":"2011", "mes":"12", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"21450937000139", "fornecedor":"AGÊNCIA STATUS LTDA.", 
+                            "documento":"003347", "data":"2011-12-01", "detalhamento":"null", 
+                            "valorReembolsado":"193.2", "codDocumento":"466808"}, {"ano":"2011", "mes":"12", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"21450937000139", "fornecedor":"AGÊNCIA STATUS LTDA.", 
+                            "documento":"003349", "data":"2011-12-26", "detalhamento":"null", 
+                            "valorReembolsado":"178.2", "codDocumento":"501470"}, {"ano":"2011", "mes":"12", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS S/A", 
+                            "documento":"957 2438952695", "data":"2011-12-02", "detalhamento":"MARIA HELOÍSA CARDOSO NEVES - MAT. 239190
+ASSESSORA DE IMPRENSA
+TAM VOO- JJ 3856
+06/12/2011
+ORIGEM: BELO HORIZONTE
+DESTINO: BRASÍLIA", 
+                            "valorReembolsado":"294.62", "codDocumento":"466811"}, {"ano":"2011", "mes":"12", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS S/A", 
+                            "documento":"0116068635", "data":"2011-12-12", "detalhamento":"LUIZ DE MELO ALVARENGA NETO - MAT. 238433
+ASSESSOR DE IMPRENSA
+13/12/2011
+TAM - VOO JJ 3856
+ORIGEM: BELO HORIZONTE
+DESTINO: BRASÍLIA", 
+                            "valorReembolsado":"294.62", "codDocumento":"474941"}, {"ano":"2011", "mes":"12", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02428624000130", "fornecedor":"TRIP LINHAS AÉREAS S/A", 
+                            "documento":"6612101181449", "data":"2011-12-18", "detalhamento":"LUIZ DE MELO ALVARENGA NETO - MAT. 238433
+ASSESSOR DE IMPRENSA
+TRIP LINHAS AÉREAS - VOO T4 5431 - 18/12/2011
+DE: BELO HORIZONTE
+PARA: RIO DE JANEIRO", 
+                            "valorReembolsado":"249.52", "codDocumento":"496386"}, {"ano":"2011", "mes":"12", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"VRG LINHAS AÉREAS S/A", 
+                            "documento":"127 0168 549147-0", "data":"2011-12-02", "detalhamento":"MARIA HELOÍSA CARDOSO NEVES - MAT. 239190
+ASSESSORA DE IMPRENSA
+GOL - VOO G3 1687
+07/12/2011
+ORIGEM: BRASÍLIA
+DESTINO: BELO HORIZONTE
+
+", 
+                            "valorReembolsado":"350.56", "codDocumento":"466812"}, {"ano":"2011", "mes":"12", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"VRG LINHAS AÉREAS S/A", 
+                            "documento":"PH18PH", "data":"2011-12-05", "detalhamento":"SENADOR AÉCIO NEVES
+05/12/2011
+GOL - VOO G3 1590
+ORIGEM: RIO DE JANEIRO
+DESTINO: BRASÍLIA", 
+                            "valorReembolsado":"649.56", "codDocumento":"474940"}, {"ano":"2011", "mes":"12", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"VRG LINHAS AÉREAS S/A", 
+                            "documento":"4566578368", "data":"2011-12-12", "detalhamento":"SENADOR AÉCIO NEVES
+13/12/2011
+GOL - VOO G3 1582
+ORIGEM: RIO DE JANEIRO
+DESTINO: BRASÍLIA", 
+                            "valorReembolsado":"533.56", "codDocumento":"474942"}, {"ano":"2011", "mes":"12", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"05730375000120", "fornecedor":"WEBJET LINHAS AÉREAS S/A", 
+                            "documento":"1018019471", "data":"2011-12-14", "detalhamento":"SENADOR AÉCIO NEVES
+WEBJET LINHAS AÉREAS - VOO 5851 - 15/12/2011
+DE: BRASÍLIA 
+PARA: RIO DE JANEIRO", 
+                            "valorReembolsado":"284.54", "codDocumento":"496385"}, {"ano":"2011", "mes":"2", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"18007971000129", "fornecedor":"ASAMAR S.A.", 
+                            "documento":"367058", "data":"2011-03-10", "detalhamento":"null", 
+                            "valorReembolsado":"8000.0", "codDocumento":"342318"}, {"ano":"2011", "mes":"2", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"70943345000164", "fornecedor":"CONDOMINIO DO EDIFICIO ASAMAR", 
+                            "documento":"90001003201", "data":"2011-03-04", "detalhamento":"null", 
+                            "valorReembolsado":"1205.04", "codDocumento":"342319"}, {"ano":"2011", "mes":"2", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000330", "fornecedor":"TELEMAR NORTE LESTE S/A", 
+                            "documento":"1674049", "data":"2011-02-20", "detalhamento":"null", 
+                            "valorReembolsado":"434.25", "codDocumento":"342322"}, {"ano":"2011", "mes":"2", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000330", "fornecedor":"TELEMAR NORTE LESTE S/A", 
+                            "documento":"1674048", "data":"2011-02-20", "detalhamento":"null", 
+                            "valorReembolsado":"454.33", "codDocumento":"342321"}, {"ano":"2011", "mes":"2", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000330", "fornecedor":"TELEMAR NORTE LESTE S/A", 
+                            "documento":"1674047", "data":"2011-02-20", "detalhamento":"null", 
+                            "valorReembolsado":"462.66", "codDocumento":"342320"}, {"ano":"2011", "mes":"2", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"04603960000105", "fornecedor":"WAY TV BELO HORIZONTE S/A", 
+                            "documento":"14961", "data":"2011-02-07", "detalhamento":"null", 
+                            "valorReembolsado":"199.9", "codDocumento":"342323"}, {"ano":"2011", "mes":"3", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"18007971000129", "fornecedor":"ASAMAR S.A.", 
+                            "documento":"407", "data":"2011-04-05", "detalhamento":"null", 
+                            "valorReembolsado":"8000.0", "codDocumento":"886840"}, {"ano":"2011", "mes":"3", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"18007971000129", "fornecedor":"ASAMAR SA", 
+                            "documento":"null", "data":"2011-03-10", "detalhamento":"null", 
+                            "valorReembolsado":"635.93", "codDocumento":"342327"}, {"ano":"2011", "mes":"3", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"70943345000164", "fornecedor":"CONDOMÍNIO DO EDIFÍCIO ASAMAR", 
+                            "documento":"null", "data":"2011-03-04", "detalhamento":"null", 
+                            "valorReembolsado":"2699.94", "codDocumento":"342326"}, {"ano":"2011", "mes":"3", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000330", "fornecedor":"TELEMAR NORTE LESTE S/A", 
+                            "documento":"1657733", "data":"2011-04-07", "detalhamento":"null", 
+                            "valorReembolsado":"401.07", "codDocumento":"886843"}, {"ano":"2011", "mes":"3", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000330", "fornecedor":"TELEMAR NORTE LESTE S/A", 
+                            "documento":"1657734", "data":"2011-04-07", "detalhamento":"null", 
+                            "valorReembolsado":"468.0", "codDocumento":"886844"}, {"ano":"2011", "mes":"3", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000330", "fornecedor":"TELEMAR NORTE LESTE S/A", 
+                            "documento":"1657732", "data":"2011-04-07", "detalhamento":"null", 
+                            "valorReembolsado":"561.23", "codDocumento":"886842"}, {"ano":"2011", "mes":"3", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"04603960000105", "fornecedor":"WAY TV BELO HORIZONTE S/A", 
+                            "documento":"7150", "data":"2011-04-07", "detalhamento":"null", 
+                            "valorReembolsado":"199.9", "codDocumento":"886841"}, {"ano":"2011", "mes":"3", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"03641770000101", "fornecedor":"ACF RODOVIÁRIA BHE - SELOS E COMPANHIA SERVIÇOS LTDA.", 
+                            "documento":"4167", "data":"2011-04-08", "detalhamento":"null", 
+                            "valorReembolsado":"101.6", "codDocumento":"886846"}, {"ano":"2011", "mes":"3", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"11349474000160", "fornecedor":"F.B. FORTE COMÉRCIO E MANUTENÇÃO DE EQUIPAMENTOS E SUPRIMENTOS DE INFORMÁTICA", 
+                            "documento":"2", "data":"2011-03-22", "detalhamento":"null", 
+                            "valorReembolsado":"160.0", "codDocumento":"886839"}, {"ano":"2011", "mes":"4", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"18007971000129", "fornecedor":"ASAMAR S.A.", 
+                            "documento":"425", "data":"2011-04-05", "detalhamento":"null", 
+                            "valorReembolsado":"2770.78", "codDocumento":"353055"}, {"ano":"2011", "mes":"4", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"18007971000129", "fornecedor":"ASAMAR S.A.", 
+                            "documento":"419", "data":"2011-04-15", "detalhamento":"null", 
+                            "valorReembolsado":"635.93", "codDocumento":"353054"}, {"ano":"2011", "mes":"4", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"18007971000129", "fornecedor":"ASAMAR S/A", 
+                            "documento":"072011", "data":"2011-05-11", "detalhamento":"null", 
+                            "valorReembolsado":"8000.0", "codDocumento":"357649"}, {"ano":"2011", "mes":"4", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000330", "fornecedor":"TELEMAR NORTE LESTE S/A", 
+                            "documento":"1651712", "data":"2011-05-08", "detalhamento":"null", 
+                            "valorReembolsado":"640.71", "codDocumento":"357646"}, {"ano":"2011", "mes":"4", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000330", "fornecedor":"TELEMAR NORTE LESTE S/A", 
+                            "documento":"1651713", "data":"2011-05-08", "detalhamento":"null", 
+                            "valorReembolsado":"660.21", "codDocumento":"357647"}, {"ano":"2011", "mes":"4", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000330", "fornecedor":"TELEMAR NORTE LESTE S/A", 
+                            "documento":"1651714", "data":"2011-05-08", "detalhamento":"null", 
+                            "valorReembolsado":"744.51", "codDocumento":"357648"}, {"ano":"2011", "mes":"4", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"04603960000105", "fornecedor":"WAY TV BELO HORIZONTE S/A", 
+                            "documento":"6351", "data":"2011-05-07", "detalhamento":"null", 
+                            "valorReembolsado":"199.9", "codDocumento":"357645"}, {"ano":"2011", "mes":"4", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"00480608000160", "fornecedor":"MARCO MARCHETTI S/A HOTÉIS", 
+                            "documento":"192954/1", "data":"2011-04-27", "detalhamento":"null", 
+                            "valorReembolsado":"425.92", "codDocumento":"357644"}, {"ano":"2011", "mes":"5", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"03641770000101", "fornecedor":"ACF RODOVIÁRIA BHE - SELOS E COMPANHIA SERVIÇOS LTDA", 
+                            "documento":"4464", "data":"2011-06-10", "detalhamento":"null", 
+                            "valorReembolsado":"28.95", "codDocumento":"371068"}, {"ano":"2011", "mes":"5", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"18007971000129", "fornecedor":"ASAMAR S/A", 
+                            "documento":"92011", "data":"2011-05-06", "detalhamento":"null", 
+                            "valorReembolsado":"2763.63", "codDocumento":"357388"}, {"ano":"2011", "mes":"5", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"18007971000129", "fornecedor":"ASAMAR S/A", 
+                            "documento":"82011", "data":"2011-05-11", "detalhamento":"null", 
+                            "valorReembolsado":"635.93", "codDocumento":"357389"}, {"ano":"2011", "mes":"5", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"18007971000129", "fornecedor":"ASAMAR S/A", 
+                            "documento":"160511", "data":"2011-05-16", "detalhamento":"null", 
+                            "valorReembolsado":"990.3", "codDocumento":"357387"}, {"ano":"2011", "mes":"5", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"18007971000129", "fornecedor":"ASAMAR S/A", 
+                            "documento":"120611", "data":"2011-06-06", "detalhamento":"null", 
+                            "valorReembolsado":"8000.0", "codDocumento":"371066"}, {"ano":"2011", "mes":"5", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33530486000129", "fornecedor":"EMBRATEL S/A", 
+                            "documento":"0180998208098", "data":"2011-05-10", "detalhamento":"null", 
+                            "valorReembolsado":"5.92", "codDocumento":"357384"}, {"ano":"2011", "mes":"5", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33530486000129", "fornecedor":"EMBRATEL S/A", 
+                            "documento":"0180999282818", "data":"2011-05-10", "detalhamento":"null", 
+                            "valorReembolsado":"12.22", "codDocumento":"357386"}, {"ano":"2011", "mes":"5", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33530486000129", "fornecedor":"EMBRATEL S/A", 
+                            "documento":"0180998207980", "data":"2011-05-10", "detalhamento":"null", 
+                            "valorReembolsado":"25.01", "codDocumento":"357385"}, {"ano":"2011", "mes":"5", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"11349474000160", "fornecedor":"F.B. FORTES COMÉRCIO E MANUTENÇÃO DE EQUIPAMENTOS E SUPRIMENTOS DE INFORMÁTICA", 
+                            "documento":"000006", "data":"2011-05-24", "detalhamento":"null", 
+                            "valorReembolsado":"160.0", "codDocumento":"371067"}, {"ano":"2011", "mes":"5", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000330", "fornecedor":"TELEMAR NORTE LESTE S/A", 
+                            "documento":"1625086", "data":"2011-06-06", "detalhamento":"null", 
+                            "valorReembolsado":"501.87", "codDocumento":"371063"}, {"ano":"2011", "mes":"5", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000330", "fornecedor":"TELEMAR NORTE LESTE S/A", 
+                            "documento":"1625088", "data":"2011-06-06", "detalhamento":"null", 
+                            "valorReembolsado":"506.69", "codDocumento":"371065"}, {"ano":"2011", "mes":"5", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000330", "fornecedor":"TELEMAR NORTE LESTE S/A", 
+                            "documento":"1625087", "data":"2011-06-06", "detalhamento":"null", 
+                            "valorReembolsado":"561.69", "codDocumento":"371064"}, {"ano":"2011", "mes":"5", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"09967852010866", "fornecedor":"HOTELARIA ACCOR BRASIL S/A", 
+                            "documento":"198266", "data":"2011-05-03", "detalhamento":"null", 
+                            "valorReembolsado":"498.0", "codDocumento":"357390"}, {"ano":"2011", "mes":"5", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"26390880000143", "fornecedor":"RCM RODRIGUES CUNHA MADEIRA EMP DE HOTELARIA TUR LTDA", 
+                            "documento":"5963", "data":"2011-05-03", "detalhamento":"null", 
+                            "valorReembolsado":"3.0", "codDocumento":"357392"}, {"ano":"2011", "mes":"5", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"26390880000143", "fornecedor":"RCM RODRIGUES CUNHA MADEIRA EMP DE HOTELARIA TUR LTDA", 
+                            "documento":"5410", "data":"2011-05-03", "detalhamento":"null", 
+                            "valorReembolsado":"430.0", "codDocumento":"357391"}, {"ano":"2011", "mes":"6", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"18007971000129", "fornecedor":"ASAMAR S/A", 
+                            "documento":"5062011", "data":"2011-06-06", "detalhamento":"null", 
+                            "valorReembolsado":"635.93", "codDocumento":"371075"}, {"ano":"2011", "mes":"6", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"18007971000129", "fornecedor":"ASAMAR S/A", 
+                            "documento":"1012011", "data":"2011-06-06", "detalhamento":"null", 
+                            "valorReembolsado":"2788.63", "codDocumento":"371074"}, {"ano":"2011", "mes":"6", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"18007971000129", "fornecedor":"Asamar S/A", 
+                            "documento":"11072011", "data":"2011-07-08", "detalhamento":"null", 
+                            "valorReembolsado":"8000.0", "codDocumento":"382326"}, {"ano":"2011", "mes":"6", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"70943345000164", "fornecedor":"CONDOMINIO DO EDIFICIO ASAMAR", 
+                            "documento":"9010062011", "data":"2011-06-21", "detalhamento":"null", 
+                            "valorReembolsado":"922.61", "codDocumento":"371076"}, {"ano":"2011", "mes":"6", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33530486000129", "fornecedor":"EMPRESA BRASILEIRA DE TELECOMUNICAÇÕES S/A", 
+                            "documento":"0190052631250", "data":"2011-06-10", "detalhamento":"null", 
+                            "valorReembolsado":"20.91", "codDocumento":"371072"}, {"ano":"2011", "mes":"6", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33530486000129", "fornecedor":"EMPRESA BRASILEIRA DE TELECOMUNICAÇÕES S/A", 
+                            "documento":"0190052631502", "data":"2011-06-10", "detalhamento":"null", 
+                            "valorReembolsado":"28.65", "codDocumento":"371073"}, {"ano":"2011", "mes":"6", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33530486000129", "fornecedor":"EMPRESA BRASILEIRA DE TELECOMUNICAÇÕES S/A", 
+                            "documento":"0190052034583", "data":"2011-06-10", "detalhamento":"null", 
+                            "valorReembolsado":"50.76", "codDocumento":"371071"}, {"ano":"2011", "mes":"6", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"11349474000160", "fornecedor":"F.B Fortes Comércio e Manutenção de Equipamentos e Suprimentos de Informática LTDA", 
+                            "documento":"7", "data":"2011-06-06", "detalhamento":"null", 
+                            "valorReembolsado":"210.0", "codDocumento":"382330"}, {"ano":"2011", "mes":"6", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"00896242000105", "fornecedor":"FIBRA TELECOMUNICAÇÕES LTDA", 
+                            "documento":"2011/541", "data":"2011-06-30", "detalhamento":"null", 
+                            "valorReembolsado":"400.0", "codDocumento":"382329"}, {"ano":"2011", "mes":"6", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000330", "fornecedor":"TELEMAR NORTE LESTE S/A", 
+                            "documento":"1601601", "data":"2011-06-19", "detalhamento":"null", 
+                            "valorReembolsado":"206.06", "codDocumento":"388061"}, {"ano":"2011", "mes":"6", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000330", "fornecedor":"Telemar Norte Leste S/A", 
+                            "documento":"1601602", "data":"2011-07-08", "detalhamento":"null", 
+                            "valorReembolsado":"201.92", "codDocumento":"382328"}, {"ano":"2011", "mes":"6", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000330", "fornecedor":"Telemar Norte Leste S/A", 
+                            "documento":"1601600", "data":"2011-07-08", "detalhamento":"null", 
+                            "valorReembolsado":"222.98", "codDocumento":"382327"}, {"ano":"2011", "mes":"6", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS S.A", 
+                            "documento":"9572429419233", "data":"2011-06-16", "detalhamento":"SENADOR AÉCIO NEVES 
+TRECHO - BRASÍLIA/BELO HORIZONTE ´- 16/06/11
+VOO - JJ 3857
+SAÍDA 16:41 CHEGADA 17:52", 
+                            "valorReembolsado":"427.66", "codDocumento":"388064"}, {"ano":"2011", "mes":"6", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS S.A.", 
+                            "documento":"957 2429154972", "data":"2011-06-15", "detalhamento":"Passageiro: Maria Heloisa Neves, matr. 239190
+Voo: JJ 3857 BsB-Brasilia - BHZ-Confins 16:41/17:52
+Data:15/06/2011", 
+                            "valorReembolsado":"292.66", "codDocumento":"371069"}, {"ano":"2011", "mes":"6", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"VRG LINHAS AÉREAS S.A", 
+                            "documento":"439133360", "data":"2011-06-29", "detalhamento":"JOSÉ DA SILVA VARÃO NETO, MATRÍCULA 239760
+TRECHO: BELO HORIZONTE-BRASÍLIA 29/06/11 VÔO: 1904
+SAÍDA: 20:40 CHEGADA: 21:59", 
+                            "valorReembolsado":"99.52", "codDocumento":"388063"}, {"ano":"2011", "mes":"6", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"VRG LINHAS AÉREAS S.A.", 
+                            "documento":"T6U9JV", "data":"2011-06-13", "detalhamento":"Passageiro: Maria Heloisa Neves, matr. 239190
+Voo: G3 1228 BHZ-Confins BsB-Brasilia 10:54/12:08
+Data:13/06/2011", 
+                            "valorReembolsado":"360.51", "codDocumento":"371070"}, {"ano":"2011", "mes":"6", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"VRG LINHAS AÉREAS S.A.", 
+                            "documento":"1015025232", "data":"2011-06-29", "detalhamento":"JOSÉ DA SILVA VARÃO NETO, MATRÍCULA 239760
+TRECHO: BRASÍLIA-BELO HORIZONTE 29/06/11 VÔO: 5881
+SAÍDA: 15:55 CHEGADA: 17:14", 
+                            "valorReembolsado":"80.65", "codDocumento":"388062"}, {"ano":"2011", "mes":"7", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"03641770000101", "fornecedor":"ACF Rodoviária BHE - Selos e Companhia Serviços LTDA", 
+                            "documento":"4640", "data":"2011-07-01", "detalhamento":"null", 
+                            "valorReembolsado":"257.3", "codDocumento":"382335"}, {"ano":"2011", "mes":"7", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"18007971000129", "fornecedor":"ASAMAR S/A", 
+                            "documento":"13082011", "data":"2011-07-12", "detalhamento":"null", 
+                            "valorReembolsado":"8000.0", "codDocumento":"400065"}, {"ano":"2011", "mes":"7", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"18007971000129", "fornecedor":"Asamar S/A", 
+                            "documento":"9072011", "data":"2011-07-08", "detalhamento":"null", 
+                            "valorReembolsado":"635.93", "codDocumento":"382332"}, {"ano":"2011", "mes":"7", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"18007971000129", "fornecedor":"Asamar S/A", 
+                            "documento":"8072011", "data":"2011-07-08", "detalhamento":"null", 
+                            "valorReembolsado":"2757.8", "codDocumento":"382331"}, {"ano":"2011", "mes":"7", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"70943345000164", "fornecedor":"Condominio do Edifício Asamar", 
+                            "documento":"9010072011", "data":"2011-07-12", "detalhamento":"null", 
+                            "valorReembolsado":"860.26", "codDocumento":"382333"}, {"ano":"2011", "mes":"7", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33530486000129", "fornecedor":"Empresa Brasileira de Telecomunicações S/A", 
+                            "documento":"190145058678", "data":"2011-07-08", "detalhamento":"null", 
+                            "valorReembolsado":"42.74", "codDocumento":"382336"}, {"ano":"2011", "mes":"7", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"03420926005789", "fornecedor":"GLOBAL VILLAGE TELECOM LTDA", 
+                            "documento":"00895617220", "data":"2011-07-15", "detalhamento":"null", 
+                            "valorReembolsado":"1016.14", "codDocumento":"400064"}, {"ano":"2011", "mes":"7", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"04206050007940", "fornecedor":"TIM CELULAR S/A", 
+                            "documento":"000.382.247-AA", "data":"2011-07-19", "detalhamento":"null", 
+                            "valorReembolsado":"186.56", "codDocumento":"400066"}, {"ano":"2011", "mes":"7", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"11349474000160", "fornecedor":"F.B Fortes Comércio e Manutenção de Equipamentos e Suprimentos de Informática LTDA", 
+                            "documento":"4", "data":"2011-07-01", "detalhamento":"null", 
+                            "valorReembolsado":"674.3", "codDocumento":"382334"}, {"ano":"2011", "mes":"8", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"18007971000129", "fornecedor":"ASAMAR S/A", 
+                            "documento":"04082011", "data":"2011-08-05", "detalhamento":"null", 
+                            "valorReembolsado":"635.93", "codDocumento":"400068"}, {"ano":"2011", "mes":"8", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"18007971000129", "fornecedor":"ASAMAR S/A", 
+                            "documento":"05082011", "data":"2011-08-05", "detalhamento":"null", 
+                            "valorReembolsado":"2810.56", "codDocumento":"400067"}, {"ano":"2011", "mes":"8", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"18007971000129", "fornecedor":"ASAMAR S/A", 
+                            "documento":"13082011", "data":"2011-08-08", "detalhamento":"null", 
+                            "valorReembolsado":"8000.0", "codDocumento":"411815"}, {"ano":"2011", "mes":"8", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"70943345000164", "fornecedor":"CONDOMINIO EDIFICIO ASAMAR", 
+                            "documento":"9010092011", "data":"2011-08-12", "detalhamento":"null", 
+                            "valorReembolsado":"715.51", "codDocumento":"400069"}, {"ano":"2011", "mes":"8", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"03420926005789", "fornecedor":"GLOBAL VILLAGE TELECOM LTDA.", 
+                            "documento":"00915455050", "data":"2011-08-15", "detalhamento":"null", 
+                            "valorReembolsado":"463.12", "codDocumento":"411818"}, {"ano":"2011", "mes":"8", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"03420926005789", "fornecedor":"GLOBAL VILLAGE TELECOM LTDA.", 
+                            "documento":"00915611360", "data":"2011-08-15", "detalhamento":"null", 
+                            "valorReembolsado":"771.42", "codDocumento":"411817"}, {"ano":"2011", "mes":"8", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"04206050007940", "fornecedor":"TIM CELULAR S.A.", 
+                            "documento":"000485359AA", "data":"2011-08-19", "detalhamento":"null", 
+                            "valorReembolsado":"799.51", "codDocumento":"411816"}, {"ano":"2011", "mes":"8", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"02558074000254", "fornecedor":"VIVO PARTICIPAÇÕES S/A", 
+                            "documento":"0150291500", "data":"2011-08-22", "detalhamento":"null", 
+                            "valorReembolsado":"251.44", "codDocumento":"411819"}, {"ano":"2011", "mes":"8", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"03641770000101", "fornecedor":"ACF RODOVIARIA BHE - SELOS E COMPANHIA SERVIÇOS LTDA", 
+                            "documento":"6210", "data":"2011-08-01", "detalhamento":"null", 
+                            "valorReembolsado":"361.55", "codDocumento":"401570"}, {"ano":"2011", "mes":"8", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"43283811003418", "fornecedor":"KALUNGA COM. E IND. GRÁFICA LTDA", 
+                            "documento":"024841", "data":"2011-08-19", "detalhamento":"null", 
+                            "valorReembolsado":"291.4", "codDocumento":"400076"}, {"ano":"2011", "mes":"8", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS S/A", 
+                            "documento":"9572431983397", "data":"2011-08-05", "detalhamento":"Senador Aécio Neves - voo JJ3944 - 05/08/2011 - Origem São Paulo - destino Rio de Janeiro - partida 16:59 e chegada 18:06.", 
+                            "valorReembolsado":"710.66", "codDocumento":"400071"}, {"ano":"2011", "mes":"8", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS S/A", 
+                            "documento":"9572431983380", "data":"2011-08-05", "detalhamento":"Senador Aécio Neves
+voo 3703 05/08/2011 - origem Brasília - destino São Paulo Congonhas.
+partida 10:35 - chegada 12:18.", 
+                            "valorReembolsado":"397.66", "codDocumento":"400070"}, {"ano":"2011", "mes":"8", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS S/A", 
+                            "documento":"9572432659520", "data":"2011-08-15", "detalhamento":"Luiz de Melo Alvarenga Neto
+matrícula 238433  15/08/2011
+cargo Secretário Parlamentar - SF 01
+voo JJ 3701 - BSB/CGH - partida 09:17 e chegada 10:57.", 
+                            "valorReembolsado":"401.66", "codDocumento":"400074"}, {"ano":"2011", "mes":"8", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS S/A", 
+                            "documento":"957-2433043242", "data":"2011-08-23", "detalhamento":"VOO 3856 - 23AUG2011
+MARIA HELOÍSA CARDOSO NEVES - MAT. 239190
+ORIGEM: BELO HORIZONTE(CNF) DESTINO: BRASÍLIA(BSB)
+PARTIDA: 10:30 CHEGADA: 11:43
+LOCALIZADOR Z25VWR
+", 
+                            "valorReembolsado":"186.62", "codDocumento":"403674"}, {"ano":"2011", "mes":"8", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS S/A", 
+                            "documento":"957-2433043241", "data":"2011-08-23", "detalhamento":"VOO 3856 - 23AUG2011
+LUIZ DE MELO ALVARENGA NETO - MAT. 238433
+ORIGEM: BELO HORIZONTE (CNF) DESTINO: BRASÍLIA (BSB)
+PARTIDA: 10:30 CHEGADA: 11:43
+LOCALIZADOR Z25VWR", 
+                            "valorReembolsado":"186.62", "codDocumento":"403673"}, {"ano":"2011", "mes":"8", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS S/A", 
+                            "documento":"957-2433043256", "data":"2011-08-25", "detalhamento":"VOO 3723 - 25/08/2011
+SENADOR AÉCIO NEVES
+ORIGEM: BRASÍLIA (BSB) DESTINO: SÃO PAULO (CGH)
+PARTIDA: 16:03 CHEGADA: 17:38
+LOCALIZADOR: 2ERJA5", 
+                            "valorReembolsado":"401.66", "codDocumento":"403676"}, {"ano":"2011", "mes":"8", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS S/A", 
+                            "documento":"957-2433043283", "data":"2011-08-25", "detalhamento":"VOO 3723 - 25/08/2011
+LUIZ DE MELO ALVARENGA NETO - MAT. 238433
+ORIGEM: BRASÍLIA (BSB) DESTINO: SÃO PAULO (CGH)
+PARTIDA: 16:03 CHEGADA: 17:38
+LOCALIZADOR - 2P84MG", 
+                            "valorReembolsado":"434.66", "codDocumento":"403677"}, {"ano":"2011", "mes":"8", "senador":"AÉCIO NEVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS S/A", 
+                            "documento":"957-2433043284", "data":"2011-08-26", "detalhamento":"VOO 4726 - 26/08/2011
+LUIZ DE MELO ALVARENGA NETO - MAT. 238433
+ORIGEM: SÃO PAULO (CGH) DESTINO: BELO HORIZONTE (CNF)
+PARTIDA: 17:42 CHEGADA: 18:53
+LOCALIZADOR - 2RGA43", 
+                            "valorReembolsado":"655.66", "codDocumento":"403678"}]}
