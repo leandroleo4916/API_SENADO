@@ -1,0 +1,629 @@
+{"gastosSenador": [{"ano":"2012", "mes":"1", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"9572439683068", "data":"2012-01-04", "detalhamento":"Passageiro: José Agripino Maia
+Trecho: Rio de Janeiro/Natal
+Data do voo: 04/01/2012", 
+                            "valorReembolsado":"2484.72", "codDocumento":"526053"}, {"ano":"2012", "mes":"1", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"9572441041319", "data":"2012-01-13", "detalhamento":"Passageiro: José Agripino Maia
+Trecho: São Paulo/Brasília
+Data do vôo:31/01/2011", 
+                            "valorReembolsado":"864.66", "codDocumento":"491164"}, {"ano":"2012", "mes":"1", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"9572441041318", "data":"2012-01-13", "detalhamento":"Passageiro: José Agripino Maia
+Trecho: Brasília/São Paulo
+Data do vôo: 17/01/2012", 
+                            "valorReembolsado":"949.06", "codDocumento":"491165"}, {"ano":"2012", "mes":"1", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Serviços de Segurança Privada", "cnpjCpf":"10209529000173", "fornecedor":"Branco Oliveira Limpeza e Conservação Ltda-ME", 
+                            "documento":"00171", "data":"2012-01-23", "detalhamento":"null", 
+                            "valorReembolsado":"1120.0", "codDocumento":"491162"}, {"ano":"2012", "mes":"1", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Serviços de Segurança Privada", "cnpjCpf":"10209529000173", "fornecedor":"Branco Oliveira Limpeza e Conservação Ltda-ME", 
+                            "documento":"00175", "data":"2012-02-01", "detalhamento":"null", 
+                            "valorReembolsado":"3288.11", "codDocumento":"491167"}, {"ano":"2012", "mes":"2", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"13882660406", "fornecedor":"Maria Madalena Jacome Brito Lacerda Almeida", 
+                            "documento":"null", "data":"2012-02-23", "detalhamento":"null", 
+                            "valorReembolsado":"1200.0", "codDocumento":"508153"}, {"ano":"2012", "mes":"2", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"24363368000182", "fornecedor":"Flor & Cia Ltda", 
+                            "documento":"1386", "data":"2012-02-29", "detalhamento":"null", 
+                            "valorReembolsado":"318.98", "codDocumento":"508155"}, {"ano":"2012", "mes":"2", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"24363368000182", "fornecedor":"Flor & Cia Ltda", 
+                            "documento":"1658", "data":"2012-02-29", "detalhamento":"null", 
+                            "valorReembolsado":"2019.14", "codDocumento":"508154"}, {"ano":"2012", "mes":"2", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"40762890000193", "fornecedor":"Spacial Car Rental Ltda", 
+                            "documento":"76722012", "data":"2012-02-29", "detalhamento":"null", 
+                            "valorReembolsado":"5808.62", "codDocumento":"508156"}, {"ano":"2012", "mes":"2", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM Linhas Aereas", 
+                            "documento":"9572441905961", "data":"2012-02-06", "detalhamento":"Senador José Agrupino Maia, trecho São Paulo/Brasília, em   
+06/02/2012.", 
+                            "valorReembolsado":"1065.66", "codDocumento":"508159"}, {"ano":"2012", "mes":"2", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"9572441905947", "data":"2012-02-03", "detalhamento":"Passageiro: José Agripino Maia
+Trecho: São Paulo/Brasília
+Data do voo: 21/02/2012", 
+                            "valorReembolsado":"1065.66", "codDocumento":"508158"}, {"ano":"2012", "mes":"2", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"9572442387182", "data":"2012-02-23", "detalhamento":"Passageiro: José Agripino Maia
+Trecho: Brasília/Natal
+Data do voo: 24/02/2012", 
+                            "valorReembolsado":"1240.56", "codDocumento":"508160"}, {"ano":"2012", "mes":"2", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"9572442735992", "data":"2012-02-24", "detalhamento":"Passageiro: José Agripino Maia
+Trecho: Natal/Brasília
+Data do voo: 26/02/2012", 
+                            "valorReembolsado":"2096.36", "codDocumento":"508161"}, {"ano":"2012", "mes":"2", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas", 
+                            "documento":"9572441905920", "data":"2012-02-01", "detalhamento":"Passageiro: José Agripino Maia
+Trecho: Brasília/Natal
+Data do voo: 02/02/2012", 
+                            "valorReembolsado":"1528.76", "codDocumento":"508157"}, {"ano":"2012", "mes":"2", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"05730375000120", "fornecedor":"Webjet Linhas Aéreas S.A. ", 
+                            "documento":"9690001068050", "data":"2012-02-13", "detalhamento":"Passageiro: José Agripino Maia
+Trecho: Brasília/São Paulo
+Data: 13/02/2012", 
+                            "valorReembolsado":"439.65", "codDocumento":"526054"}, {"ano":"2012", "mes":"2", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Serviços de Segurança Privada", "cnpjCpf":"10209529000173", "fornecedor":"Branco Oliveira Limpeza e Conservação Ltda-ME", 
+                            "documento":"00179", "data":"2012-03-01", "detalhamento":"null", 
+                            "valorReembolsado":"2988.11", "codDocumento":"508152"}, {"ano":"2012", "mes":"3", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"13882660406", "fornecedor":"Maria Madalena Jácome Brito Lacerda Almeida", 
+                            "documento":"null", "data":"2012-03-30", "detalhamento":"null", 
+                            "valorReembolsado":"1200.0", "codDocumento":"526056"}, {"ano":"2012", "mes":"3", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"40762890000193", "fornecedor":"Espacial Car Rental", 
+                            "documento":"7706/2012", "data":"2012-03-30", "detalhamento":"null", 
+                            "valorReembolsado":"5808.62", "codDocumento":"526055"}, {"ano":"2012", "mes":"3", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"24363368000182", "fornecedor":"Posto São Luiz IV", 
+                            "documento":"1479", "data":"2012-03-31", "detalhamento":"null", 
+                            "valorReembolsado":"744.19", "codDocumento":"537455"}, {"ano":"2012", "mes":"3", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"24363368000182", "fornecedor":"Posto São Luiz IV", 
+                            "documento":"1450", "data":"2012-03-31", "detalhamento":"null", 
+                            "valorReembolsado":"1808.27", "codDocumento":"537456"}, {"ano":"2012", "mes":"3", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM Linha Aéreas", 
+                            "documento":"9572443008454", "data":"2012-03-01", "detalhamento":"Passageiro: José Agripino Maia
+Trecho: Natal/Brasília
+Data do vôo: 04/03/2012", 
+                            "valorReembolsado":"1528.76", "codDocumento":"526057"}, {"ano":"2012", "mes":"3", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"9572443008430", "data":"2012-02-29", "detalhamento":"Passageiro; José Agripino Maia
+Trecho: Brasília/Natal
+Data do voo: 01/03/2012", 
+                            "valorReembolsado":"1528.76", "codDocumento":"508163"}, {"ano":"2012", "mes":"3", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"9572443408800", "data":"2012-03-07", "detalhamento":"Passageiro: José Agripino Maia
+Trecho: Natal/Brasília
+Data do voo: 10/03/2012", 
+                            "valorReembolsado":"1528.76", "codDocumento":"533190"}, {"ano":"2012", "mes":"3", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"9572443687809", "data":"2012-03-07", "detalhamento":"Passageiro: José Agripino Maia
+Trecho: Brasília/Natal
+Data do voo: 08/03/2012", 
+                            "valorReembolsado":"2096.36", "codDocumento":"533189"}, {"ano":"2012", "mes":"3", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"9572444001022", "data":"2012-03-14", "detalhamento":"Passageiro: José Agripino Maia
+Trecho: Natal/Brasília
+Data do voo: 18/03/2012", 
+                            "valorReembolsado":"2097.27", "codDocumento":"542764"}, {"ano":"2012", "mes":"3", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"9572444837816", "data":"2012-03-29", "detalhamento":"Passageiro: José Agripino Maia
+Trecho: Brasília/Recife
+Data do vôo: 29/03/2012", 
+                            "valorReembolsado":"1475.77", "codDocumento":"526058"}, {"ano":"2012", "mes":"3", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"9572444837862", "data":"2012-03-30", "detalhamento":"Passageiro: Rominna Jácome - Assessora - matrícula 204009
+Trecho: Brasília/Natal
+Data do voo: 30/03/2012", 
+                            "valorReembolsado":"1241.47", "codDocumento":"526059"}, {"ano":"2012", "mes":"3", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Serviços de Segurança Privada", "cnpjCpf":"10209529000173", "fornecedor":"Branco Oliveira Limpeza e Conservação Ltda-ME", 
+                            "documento":"00184", "data":"2012-04-01", "detalhamento":"null", 
+                            "valorReembolsado":"2988.11", "codDocumento":"542763"}, {"ano":"2012", "mes":"4", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"13882660406", "fornecedor":"Maria Madalena Jácome Brito Lacerda Almeida", 
+                            "documento":"s/n", "data":"2012-04-30", "detalhamento":"null", 
+                            "valorReembolsado":"1200.0", "codDocumento":"542769"}, {"ano":"2012", "mes":"4", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118001655", "fornecedor":"Telemar Norte Leste/SA", 
+                            "documento":"1000027490576", "data":"2012-04-16", "detalhamento":"null", 
+                            "valorReembolsado":"126.27", "codDocumento":"542768"}, {"ano":"2012", "mes":"4", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"08324196000181", "fornecedor":"Cosern ", 
+                            "documento":"000470667", "data":"2012-04-13", "detalhamento":"null", 
+                            "valorReembolsado":"206.02", "codDocumento":"542767"}, {"ano":"2012", "mes":"4", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"40762890000193", "fornecedor":"Espacial Car Rental", 
+                            "documento":"7739", "data":"2012-04-30", "detalhamento":"null", 
+                            "valorReembolsado":"5808.62", "codDocumento":"542766"}, {"ano":"2012", "mes":"4", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"24363368000182", "fornecedor":"Posto São Luiz IV", 
+                            "documento":"00007082", "data":"2012-04-30", "detalhamento":"null", 
+                            "valorReembolsado":"435.21", "codDocumento":"547996"}, {"ano":"2012", "mes":"4", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"24363368000182", "fornecedor":"Posto São Luiz IV", 
+                            "documento":"1605", "data":"2012-04-30", "detalhamento":"null", 
+                            "valorReembolsado":"1352.76", "codDocumento":"547997"}, {"ano":"2012", "mes":"4", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM Linha Aéreas", 
+                            "documento":"9572444837866", "data":"2012-03-30", "detalhamento":"Passageiro: Rominna Jácome - Assessora - mat. 204009
+Trecho: Natal/Brasília
+Data voo: 02/04/2012", 
+                            "valorReembolsado":"1376.77", "codDocumento":"526061"}, {"ano":"2012", "mes":"4", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"95725444751616", "data":"2012-03-28", "detalhamento":"Passageiro: José Agripino Maia
+Trecho: Natal/Brasília
+Data voo: 01/04/2012", 
+                            "valorReembolsado":"2097.27", "codDocumento":"526060"}, {"ano":"2012", "mes":"4", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"9572445575149", "data":"2012-04-12", "detalhamento":"Passageiro: José Agripino Maia
+Trecho: Natal/Brasília
+Data do voo: 15/04/2012", 
+                            "valorReembolsado":"1682.57", "codDocumento":"537458"}, {"ano":"2012", "mes":"4", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"9572445524967", "data":"2012-04-12", "detalhamento":"Passageiro: José Agripino Maia
+Trecho: Brasília/Natal
+Data do voo: 12/04/2012", 
+                            "valorReembolsado":"2097.27", "codDocumento":"537457"}, {"ano":"2012", "mes":"4", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"9572445524967", "data":"2012-04-12", "detalhamento":"Passageiro: José Agripino Maia
+Trecho: Brasília/Natal
+Data do voo: 26/04/2012", 
+                            "valorReembolsado":"2097.27", "codDocumento":"542770"}, {"ano":"2012", "mes":"4", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"9572445456990", "data":"2012-04-26", "detalhamento":"Passageiro: José Agripino Maia
+Trecho: Brasília/Natal
+Data do voo: 26/04/2012", 
+                            "valorReembolsado":"1529.67", "codDocumento":"568707"}, {"ano":"2012", "mes":"4", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Serviços de Segurança Privada", "cnpjCpf":"10209529000173", "fornecedor":"Branco Oliveira Limpeza e Conservação Ltda-ME", 
+                            "documento":"00190", "data":"2012-05-01", "detalhamento":"null", 
+                            "valorReembolsado":"2988.11", "codDocumento":"542765"}, {"ano":"2012", "mes":"5", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"13882660406", "fornecedor":"Maria Madalena Jácome Brito Lacerda Almeida", 
+                            "documento":"null", "data":"2012-05-31", "detalhamento":"null", 
+                            "valorReembolsado":"1200.0", "codDocumento":"564525"}, {"ano":"2012", "mes":"5", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"40762890000193", "fornecedor":"Espacial Car Rental Ltda", 
+                            "documento":"77712012", "data":"2012-05-30", "detalhamento":"null", 
+                            "valorReembolsado":"5808.62", "codDocumento":"564526"}, {"ano":"2012", "mes":"5", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"24363368000182", "fornecedor":"Flor & Cia Ltda", 
+                            "documento":"1639", "data":"2012-05-31", "detalhamento":"null", 
+                            "valorReembolsado":"2756.77", "codDocumento":"564520"}, {"ano":"2012", "mes":"5", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"24363368000182", "fornecedor":"Flor & Cia Ltda ", 
+                            "documento":"1667", "data":"2012-05-31", "detalhamento":"null", 
+                            "valorReembolsado":"673.08", "codDocumento":"564521"}, {"ano":"2012", "mes":"5", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"06164253000187", "fornecedor":"Gol Linhas Aéreas", 
+                            "documento":"UCIGTJ", "data":"2012-05-10", "detalhamento":"Passageiro: José Agripino Maia
+Trecho: Natal/Rio de Janeiro
+Data do voo: 11/05/2012", 
+                            "valorReembolsado":"945.46", "codDocumento":"558055"}, {"ano":"2012", "mes":"5", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"9572446430992", "data":"2012-04-26", "detalhamento":"Passageiro: José Agripino Maia
+Trecho: Natal/Brasília
+Data do voo: 01/05/2012", 
+                            "valorReembolsado":"934.57", "codDocumento":"558052"}, {"ano":"2012", "mes":"5", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"9572446497584", "data":"2012-04-27", "detalhamento":"Passageiro: Rominna Jácome - mat. 204009 - Assessora
+Trecho: Brasília/Natal
+Data do voo: 11/05/2012
+", 
+                            "valorReembolsado":"615.57", "codDocumento":"558054"}, {"ano":"2012", "mes":"5", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"9572446497587", "data":"2012-04-27", "detalhamento":"Passageiro: Rominna Jácome - Assessora - mat. 204009
+Trecho: Natal/Brasília
+Data do voo: 14/05/2012", 
+                            "valorReembolsado":"925.77", "codDocumento":"558057"}, {"ano":"2012", "mes":"5", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"9572446481287", "data":"2012-05-03", "detalhamento":"Passageiro: José Bezerra de Araújo Júnior - Assessor - matrícula 232200
+Data do voo: 18/05/2012
+Trecho: Natal/Brasília", 
+                            "valorReembolsado":"517.67", "codDocumento":"558059"}, {"ano":"2012", "mes":"5", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"9572447045309", "data":"2012-05-08", "detalhamento":"Passageiro: José Agripinoi Maia
+Trecho: Brasília/Natal
+Data do voo: 10/05/2012", 
+                            "valorReembolsado":"1218.37", "codDocumento":"558053"}, {"ano":"2012", "mes":"5", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"9572447234609", "data":"2012-05-14", "detalhamento":"Passageiro: José Agripino Maia
+Trecho: Rio de Janeiro/Brasília
+Data do voo: 14/05/2012", 
+                            "valorReembolsado":"1763.97", "codDocumento":"558056"}, {"ano":"2012", "mes":"5", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"9572447460870", "data":"2012-05-16", "detalhamento":"Passageiro: José Agripino Maia
+Data do voo: 19/05/2012
+Treecho: Natal/Brasília", 
+                            "valorReembolsado":"2097.27", "codDocumento":"558058"}, {"ano":"2012", "mes":"5", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"9572447998616", "data":"2012-05-24", "detalhamento":"Passageiro: José Agripino Maia
+Trecho: Brasília/Recife
+Data do voo: 24/05/2012", 
+                            "valorReembolsado":"932.57", "codDocumento":"564528"}, {"ano":"2012", "mes":"5", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"9572447998633", "data":"2012-05-24", "detalhamento":"Passageiro: José Agripino Maia
+Trecho: Natal/Brasília
+Data do voo: 26/05/2012", 
+                            "valorReembolsado":"1168.57", "codDocumento":"564529"}, {"ano":"2012", "mes":"5", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"9572447998662", "data":"2012-05-24", "detalhamento":"Passageiro: José Agripino Maia
+Trecho: Brasília/Natal
+Data do voo: 31/05/2012", 
+                            "valorReembolsado":"1296.57", "codDocumento":"564530"}, {"ano":"2012", "mes":"5", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Serviços de Segurança Privada", "cnpjCpf":"10209529000173", "fornecedor":"Branco Oliveira Limpeza e Conservação Ltda ME", 
+                            "documento":"00230", "data":"2012-06-01", "detalhamento":"null", 
+                            "valorReembolsado":"2988.11", "codDocumento":"564527"}, {"ano":"2012", "mes":"6", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"08334385000135", "fornecedor":"CAERN", 
+                            "documento":"null", "data":"2012-06-04", "detalhamento":"null", 
+                            "valorReembolsado":"43.24", "codDocumento":"580355"}, {"ano":"2012", "mes":"6", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"13882660406", "fornecedor":"Maria Madalena Jacome Brito Lacerda Almeida", 
+                            "documento":"null", "data":"2012-06-27", "detalhamento":"null", 
+                            "valorReembolsado":"1200.0", "codDocumento":"580362"}, {"ano":"2012", "mes":"6", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"02952192000161", "fornecedor":"Cabotelecom", 
+                            "documento":"37878", "data":"2012-07-01", "detalhamento":"null", 
+                            "valorReembolsado":"42.89", "codDocumento":"580357"}, {"ano":"2012", "mes":"6", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"11393255000188", "fornecedor":"Realtec", 
+                            "documento":"00176", "data":"2012-07-02", "detalhamento":"null", 
+                            "valorReembolsado":"250.0", "codDocumento":"597662"}, {"ano":"2012", "mes":"6", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"11393255000188", "fornecedor":"Realtec Soluções e Tecnologia", 
+                            "documento":"159", "data":"2012-06-28", "detalhamento":"null", 
+                            "valorReembolsado":"250.0", "codDocumento":"580356"}, {"ano":"2012", "mes":"6", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"40762890000193", "fornecedor":"Espacial Car Rental Ltda", 
+                            "documento":"78022012", "data":"2012-06-29", "detalhamento":"null", 
+                            "valorReembolsado":"5808.62", "codDocumento":"580361"}, {"ano":"2012", "mes":"6", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"24363368000182", "fornecedor":"Posto São Luiz IV", 
+                            "documento":"1769", "data":"2012-06-30", "detalhamento":"null", 
+                            "valorReembolsado":"679.61", "codDocumento":"585441"}, {"ano":"2012", "mes":"6", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"24363368000182", "fornecedor":"Posto São Luiz IV", 
+                            "documento":"1730", "data":"2012-06-30", "detalhamento":"null", 
+                            "valorReembolsado":"2304.72", "codDocumento":"585442"}, {"ano":"2012", "mes":"6", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"9572447696547", "data":"2012-05-24", "detalhamento":"Passageiro: José Agripino Maia
+Trecho: Natal/Brasília
+Data do voo: 03/06/2012", 
+                            "valorReembolsado":"850.97", "codDocumento":"568708"}, {"ano":"2012", "mes":"6", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"9572448692636", "data":"2012-06-06", "detalhamento":"Passageiro: José Agripino Maia
+Trecho: Brasília/Rio de Janeiro
+Data do voo: 07/06/2012", 
+                            "valorReembolsado":"594.67", "codDocumento":"568710"}, {"ano":"2012", "mes":"6", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"9572448692637", "data":"2012-06-06", "detalhamento":"Passageiro: José Agripino Maia
+Trecho: Rio de Janeiro/Brasília
+Data do voo: 10/06/2012", 
+                            "valorReembolsado":"834.47", "codDocumento":"568709"}, {"ano":"2012", "mes":"6", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"9572449031190", "data":"2012-06-13", "detalhamento":"Passageiro: José Agripino Maia
+Trecho: Brasília/Natal
+Data do voo: 14/06/2012", 
+                            "valorReembolsado":"2097.27", "codDocumento":"585444"}, {"ano":"2012", "mes":"6", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"9572449379086", "data":"2012-06-20", "detalhamento":"Passageiro: José Agripino Maia
+Trecho: Natal/Brasília
+Data do voo: 24.06.2012", 
+                            "valorReembolsado":"1158.17", "codDocumento":"585445"}, {"ano":"2012", "mes":"6", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"9572448889593", "data":"2012-06-20", "detalhamento":"Passageiro: José Agripino Maia
+Trecho: Brasília/Natal
+Data do voo: 21/06/2012", 
+                            "valorReembolsado":"1945.34", "codDocumento":"585443"}, {"ano":"2012", "mes":"6", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"9572450016114", "data":"2012-06-28", "detalhamento":"Passageiro: José Agripino Maia
+Trecho: Brasília/Natal
+Data do voo: 28/06/2012", 
+                            "valorReembolsado":"1682.57", "codDocumento":"585446"}, {"ano":"2012", "mes":"6", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Serviços de Segurança Privada", "cnpjCpf":"10209529000173", "fornecedor":"Branco Oliveira Limpeza e Conservação Ltda-ME", 
+                            "documento":"00235", "data":"2012-07-01", "detalhamento":"null", 
+                            "valorReembolsado":"2988.11", "codDocumento":"580358"}, {"ano":"2012", "mes":"7", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"13882660406", "fornecedor":"Maria Madalena Jacome Brito Lacerda  Almeida", 
+                            "documento":"null", "data":"2012-07-27", "detalhamento":"null", 
+                            "valorReembolsado":"1200.0", "codDocumento":"593769"}, {"ano":"2012", "mes":"7", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"02952192000161", "fornecedor":"Cabo Serviços de Telecomunicações Ltda", 
+                            "documento":"38476", "data":"2012-08-01", "detalhamento":"null", 
+                            "valorReembolsado":"40.72", "codDocumento":"597728"}, {"ano":"2012", "mes":"7", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"08334385000135", "fornecedor":"CAERN", 
+                            "documento":"null", "data":"2012-07-05", "detalhamento":"null", 
+                            "valorReembolsado":"45.45", "codDocumento":"597726"}, {"ano":"2012", "mes":"7", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"08324196000181", "fornecedor":"COSERN", 
+                            "documento":"000498802", "data":"2012-07-13", "detalhamento":"null", 
+                            "valorReembolsado":"140.44", "codDocumento":"597727"}, {"ano":"2012", "mes":"7", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"11393255000188", "fornecedor":"Realtec Soluções em Tecnologia", 
+                            "documento":"191", "data":"2012-07-30", "detalhamento":"null", 
+                            "valorReembolsado":"250.0", "codDocumento":"613150"}, {"ano":"2012", "mes":"7", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"09615289000128", "fornecedor":"Balaio Serviços de Comunicação Digital Ltda", 
+                            "documento":"0000000257", "data":"2012-09-24", "detalhamento":"null", 
+                            "valorReembolsado":"622.0", "codDocumento":"626586"}, {"ano":"2012", "mes":"7", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"40762890000193", "fornecedor":"Espacial Car Rental Ltda", 
+                            "documento":"78332012", "data":"2012-07-31", "detalhamento":"null", 
+                            "valorReembolsado":"5808.62", "codDocumento":"593768"}, {"ano":"2012", "mes":"7", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"24363368000182", "fornecedor":"Flor & Cia Ltda", 
+                            "documento":"1845", "data":"2012-07-31", "detalhamento":"null", 
+                            "valorReembolsado":"940.29", "codDocumento":"597729"}, {"ano":"2012", "mes":"7", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"24363368000182", "fornecedor":"Flor¨& Cia Ltda", 
+                            "documento":"1872", "data":"2004-07-31", "detalhamento":"null", 
+                            "valorReembolsado":"2525.07", "codDocumento":"597730"}, {"ano":"2012", "mes":"7", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02575829000148", "fornecedor":"Avianca Transportes Aéreos", 
+                            "documento":"120-277011", "data":"2012-07-11", "detalhamento":"Passageiro: José Agripino Maia
+Trecho: Brasília/Natal
+Data do voo: 12/07/2012", 
+                            "valorReembolsado":"1416.57", "codDocumento":"593770"}, {"ano":"2012", "mes":"7", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"9572450016121", "data":"2012-06-28", "detalhamento":"Passageiro: José Agripino Maia
+Trecho: Natal/Brasília
+Data do voo: 02/07/2012", 
+                            "valorReembolsado":"2097.27", "codDocumento":"585458"}, {"ano":"2012", "mes":"7", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"957-2451041058", "data":"2012-07-13", "detalhamento":"Passageiro: José Agripino Maia
+Trecho: Natal/Brasília
+Data do voo: 14/07/2012", 
+                            "valorReembolsado":"1908.57", "codDocumento":"593771"}, {"ano":"2012", "mes":"7", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Serviços de Segurança Privada", "cnpjCpf":"10209529000173", "fornecedor":"Branco Oliveira Limpeza e Conservação Ltda-ME", 
+                            "documento":"00240", "data":"2012-08-01", "detalhamento":"null", 
+                            "valorReembolsado":"3035.11", "codDocumento":"597725"}, {"ano":"2012", "mes":"8", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"13882660406", "fornecedor":"Maria Madalena Jácome Brito Lacerda Almeida", 
+                            "documento":"null", "data":"2012-08-30", "detalhamento":"null", 
+                            "valorReembolsado":"1200.0", "codDocumento":"613155"}, {"ano":"2012", "mes":"8", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"08334385000135", "fornecedor":"CAERN", 
+                            "documento":"null", "data":"2012-08-03", "detalhamento":"null", 
+                            "valorReembolsado":"46.31", "codDocumento":"613153"}, {"ano":"2012", "mes":"8", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"08324196000181", "fornecedor":"COSERN", 
+                            "documento":"000514598", "data":"2012-08-14", "detalhamento":"null", 
+                            "valorReembolsado":"219.06", "codDocumento":"613152"}, {"ano":"2012", "mes":"8", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"09615289000128", "fornecedor":"Balaio Serviços de Comunicação Digital Ltda", 
+                            "documento":"0000000258", "data":"2012-09-24", "detalhamento":"null", 
+                            "valorReembolsado":"622.0", "codDocumento":"626587"}, {"ano":"2012", "mes":"8", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"40762890000193", "fornecedor":"Espacial Car Rental Ltda", 
+                            "documento":"78642012", "data":"2012-08-31", "detalhamento":"null", 
+                            "valorReembolsado":"5808.62", "codDocumento":"613154"}, {"ano":"2012", "mes":"8", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"24363368000182", "fornecedor":"Flor & Cia Ltda", 
+                            "documento":"000001907", "data":"2012-08-31", "detalhamento":"null", 
+                            "valorReembolsado":"1380.94", "codDocumento":"613157"}, {"ano":"2012", "mes":"8", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"24363368000182", "fornecedor":"Flor & Cia Ltda", 
+                            "documento":"000001904", "data":"2012-08-31", "detalhamento":"null", 
+                            "valorReembolsado":"2122.54", "codDocumento":"613156"}, {"ano":"2012", "mes":"8", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"9572452523495", "data":"2012-08-08", "detalhamento":"Passageiro: José Agripino Maia
+Trecho: Brasília/Natal
+Data do voo: 09/08/2012", 
+                            "valorReembolsado":"1391.57", "codDocumento":"604518"}, {"ano":"2012", "mes":"8", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"9572452615670", "data":"2012-08-09", "detalhamento":"Passageiro: José Agripino Maia
+Trecho: Natal/Brasília
+Data do voo: 13/08/2012", 
+                            "valorReembolsado":"1227.17", "codDocumento":"604519"}, {"ano":"2012", "mes":"8", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"9572453883640", "data":"2012-08-29", "detalhamento":"Passageiro: José Agripino Maia
+Trecho: Brasília/Natal
+Data do voo: 30/08/2012", 
+                            "valorReembolsado":"1528.13", "codDocumento":"621194"}, {"ano":"2012", "mes":"8", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM Linhas Aéreas ", 
+                            "documento":"9572452059978", "data":"2012-08-01", "detalhamento":"Passageiro: José Agripino Maia
+Trecho: Natal/Brasília
+Data do voo: 06/08/2012", 
+                            "valorReembolsado":"1391.57", "codDocumento":"604517"}, {"ano":"2012", "mes":"8", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM Linhas Aéreas Ltda", 
+                            "documento":"9572452958942", "data":"2012-08-14", "detalhamento":"Passageiro: Rominna Jácome - matrícula 204009 - Assessora
+Trecho: Natal/Brasília
+Data do voo: 16/08/2012", 
+                            "valorReembolsado":"957.57", "codDocumento":"621191"}, {"ano":"2012", "mes":"8", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM Linhas Aéreas Ltda", 
+                            "documento":"9572453446565", "data":"2012-08-23", "detalhamento":"Passageiro: José Agripino Maia
+Trecho: Brasília/Natal
+Data do voo: 23/08/2012", 
+                            "valorReembolsado":"1591.13", "codDocumento":"621192"}, {"ano":"2012", "mes":"8", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM Linhas Aéreas Ltda", 
+                            "documento":"9572377821869", "data":"2012-08-26", "detalhamento":"Passageiro: José Agripino Maia
+Trecho: Natal/Brasília
+Data do voo: 26/08/2012", 
+                            "valorReembolsado":"2097.27", "codDocumento":"621193"}, {"ano":"2012", "mes":"8", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Serviços de Segurança Privada", "cnpjCpf":"10209529000173", "fornecedor":"Branco Oliveira Limpeza e Conservação Ltda-ME", 
+                            "documento":"00245", "data":"2012-09-01", "detalhamento":"null", 
+                            "valorReembolsado":"3035.11", "codDocumento":"613151"}, {"ano":"2012", "mes":"9", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"08334385000135", "fornecedor":"CAERN", 
+                            "documento":"null", "data":"2012-09-03", "detalhamento":"null", 
+                            "valorReembolsado":"41.66", "codDocumento":"629767"}, {"ano":"2012", "mes":"9", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"08324196000181", "fornecedor":"COSERN", 
+                            "documento":"000483931", "data":"2012-09-13", "detalhamento":"null", 
+                            "valorReembolsado":"133.81", "codDocumento":"629768"}, {"ano":"2012", "mes":"9", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"13882660406", "fornecedor":"Maria Madalena Jácome Brito Lacerda Almeida", 
+                            "documento":"null", "data":"2012-09-27", "detalhamento":"null", 
+                            "valorReembolsado":"1200.0", "codDocumento":"629772"}, {"ano":"2012", "mes":"9", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"09615289000128", "fornecedor":"Balaio Serviços de Comunicação Digital Ltda", 
+                            "documento":"0000000259", "data":"2012-09-24", "detalhamento":"null", 
+                            "valorReembolsado":"622.0", "codDocumento":"627483"}, {"ano":"2012", "mes":"9", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"40762890000193", "fornecedor":"Espacial Car Rental Ltda", 
+                            "documento":"78962012", "data":"2012-09-29", "detalhamento":"null", 
+                            "valorReembolsado":"5808.62", "codDocumento":"629769"}, {"ano":"2012", "mes":"9", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"24363368000182", "fornecedor":"Flor & Cia Ltda", 
+                            "documento":"2013", "data":"2012-09-30", "detalhamento":"null", 
+                            "valorReembolsado":"775.06", "codDocumento":"629771"}, {"ano":"2012", "mes":"9", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"24363368000182", "fornecedor":"Flor & cia Ltda", 
+                            "documento":"1989", "data":"2012-09-29", "detalhamento":"null", 
+                            "valorReembolsado":"2968.44", "codDocumento":"629770"}, {"ano":"2012", "mes":"9", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"957-2454445588", "data":"2012-09-06", "detalhamento":"Passageiro: José Agripino Maia
+Trecho: Natal/Brasília
+Data do voo: 10/09/2012", 
+                            "valorReembolsado":"2097.57", "codDocumento":"623929"}, {"ano":"2012", "mes":"9", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"957-2454696340", "data":"2012-09-11", "detalhamento":"Passageiro: José Agripino Maia
+Trecho: Brasília/Natal
+Data do voo: 13/09/2012", 
+                            "valorReembolsado":"1528.13", "codDocumento":"623930"}, {"ano":"2012", "mes":"9", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"957-2454948959", "data":"2012-09-14", "detalhamento":"Passageiro: José Agripino Maia
+Trecho: Natal/Brasília
+Data do voo: 17/09/2012", 
+                            "valorReembolsado":"1528.57", "codDocumento":"623928"}, {"ano":"2012", "mes":"9", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"9572455370537", "data":"2012-09-21", "detalhamento":"Passageiro: José Agripino Maia
+Trecho: Natal/Brasília
+Data do voo: 24/09/2012", 
+                            "valorReembolsado":"2320.57", "codDocumento":"629773"}, {"ano":"2012", "mes":"9", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"9572455561195", "data":"2012-09-25", "detalhamento":"Passageiro: José Agripino Maia
+Trecho: Brasília/Natal
+Data do voo: 27/09/2012", 
+                            "valorReembolsado":"877.13", "codDocumento":"629774"}, {"ano":"2012", "mes":"9", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM Linhas Aéreas Ltda", 
+                            "documento":"9572454071225", "data":"2012-08-31", "detalhamento":"Passageiro: José Agriipino Maia
+Trecho: Natal/Brasília
+Data do voo: 03/09/2012", 
+                            "valorReembolsado":"1538.57", "codDocumento":"621195"}, {"ano":"2012", "mes":"9", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Serviços de Segurança Privada", "cnpjCpf":"10209529000173", "fornecedor":"Branco Oliveira Limpeza e Conservação Ltda-ME", 
+                            "documento":"00251", "data":"2012-10-01", "detalhamento":"null", 
+                            "valorReembolsado":"3035.11", "codDocumento":"627482"}, {"ano":"2012", "mes":"10", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"02952192000161", "fornecedor":"CABOTELECOM", 
+                            "documento":"39375", "data":"2012-10-01", "detalhamento":"null", 
+                            "valorReembolsado":"40.27", "codDocumento":"646879"}, {"ano":"2012", "mes":"10", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"08334385000135", "fornecedor":"CAERN", 
+                            "documento":"null", "data":"2012-10-04", "detalhamento":"null", 
+                            "valorReembolsado":"41.66", "codDocumento":"646877"}, {"ano":"2012", "mes":"10", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"08324196000181", "fornecedor":"COSERN", 
+                            "documento":"496119", "data":"2012-10-15", "detalhamento":"null", 
+                            "valorReembolsado":"133.48", "codDocumento":"646878"}, {"ano":"2012", "mes":"10", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"13882660406", "fornecedor":"MARIA MADALENA JÁCOME BRITO LACERDA ALMEIDA", 
+                            "documento":"null", "data":"2012-10-29", "detalhamento":"null", 
+                            "valorReembolsado":"1200.0", "codDocumento":"646880"}, {"ano":"2012", "mes":"10", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"02749278000191", "fornecedor":"UNIGRÁFICA - GRÁFICA E EDITORA LTDA", 
+                            "documento":"007196", "data":"2012-10-28", "detalhamento":"null", 
+                            "valorReembolsado":"3980.0", "codDocumento":"655187"}, {"ano":"2012", "mes":"10", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"09615289000128", "fornecedor":"BALAIO SERVIÇOS DE COMUNICAÇÃO DIGITAL LTDA", 
+                            "documento":"271", "data":"2012-10-30", "detalhamento":"null", 
+                            "valorReembolsado":"622.0", "codDocumento":"646875"}, {"ano":"2012", "mes":"10", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"40762890000193", "fornecedor":"ESPACIAL CAR RENTAL LTDA", 
+                            "documento":"79432012", "data":"2012-10-31", "detalhamento":"null", 
+                            "valorReembolsado":"5808.62", "codDocumento":"646876"}, {"ano":"2012", "mes":"10", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"24363368000182", "fornecedor":"FLOR & CIA LTDA", 
+                            "documento":"2101", "data":"2012-10-31", "detalhamento":"null", 
+                            "valorReembolsado":"1232.95", "codDocumento":"646882"}, {"ano":"2012", "mes":"10", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"24363368000182", "fornecedor":"FLOR & CIA LTDA", 
+                            "documento":"2129", "data":"2012-11-01", "detalhamento":"null", 
+                            "valorReembolsado":"2307.35", "codDocumento":"646881"}, {"ano":"2012", "mes":"10", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"06164253000187", "fornecedor":"GOL LINHAS AÉREAS INTELIGENTES", 
+                            "documento":"1270001427101", "data":"2012-10-24", "detalhamento":"Passageiro: José Agripino Maia
+Trecho: Salvador/Natal
+Data do voo: 25/10/2012", 
+                            "valorReembolsado":"180.57", "codDocumento":"655189"}, {"ano":"2012", "mes":"10", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"06164253000187", "fornecedor":"GOL LINHAS AÉREAS INTELIGENTES", 
+                            "documento":"1270001429194", "data":"2012-10-27", "detalhamento":"Passageiro: José Agripino Maia
+Trecho: Natal/Salvador
+Data do voo: 18/10/2012", 
+                            "valorReembolsado":"462.56", "codDocumento":"655190"}, {"ano":"2012", "mes":"10", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"9572457118754", "data":"2012-10-18", "detalhamento":"Passageiro: José Agripino Maia
+Trecho: Brasília/Natal
+Data do voo: 18/10/2012", 
+                            "valorReembolsado":"1695.33", "codDocumento":"655188"}, {"ano":"2012", "mes":"10", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"9572457271414", "data":"2012-10-19", "detalhamento":"Passageiro: José Agripino Maia
+Trecho: Natal/Brasília 
+Data do voo: 21/10/2012", 
+                            "valorReembolsado":"1695.77", "codDocumento":"673827"}, {"ano":"2012", "mes":"10", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"9572457578001", "data":"2012-10-24", "detalhamento":"Passageiro: José Agripino Maia
+Trecho: Brasília/Salvador
+Data do voo: 25/10/2012", 
+                            "valorReembolsado":"1213.38", "codDocumento":"673828"}, {"ano":"2012", "mes":"10", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"957-2456118009", "data":"2012-10-03", "detalhamento":"Passageiro: José Agripino Maia
+Trecho: Natal/Brasília
+Data do voo: 08.11.2012", 
+                            "valorReembolsado":"1943.27", "codDocumento":"638639"}, {"ano":"2012", "mes":"10", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Serviços de Segurança Privada", "cnpjCpf":"10209529000173", "fornecedor":"Branco Oliveira Limpeza e Conservação Ltda-ME ", 
+                            "documento":"00255", "data":"2012-11-01", "detalhamento":"null", 
+                            "valorReembolsado":"3035.11", "codDocumento":"645586"}, {"ano":"2012", "mes":"11", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"13882660406", "fornecedor":"Maria Madalena Jacome Brito Lacerda Almeida", 
+                            "documento":"null", "data":"2012-11-28", "detalhamento":"null", 
+                            "valorReembolsado":"1200.0", "codDocumento":"662090"}, {"ano":"2012", "mes":"11", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"02952192000161", "fornecedor":"CABOTELECOM", 
+                            "documento":"39907", "data":"2012-11-01", "detalhamento":"null", 
+                            "valorReembolsado":"132.14", "codDocumento":"662089"}, {"ano":"2012", "mes":"11", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"08334385000135", "fornecedor":"CAERN", 
+                            "documento":"null", "data":"2012-11-01", "detalhamento":"null", 
+                            "valorReembolsado":"34.07", "codDocumento":"662088"}, {"ano":"2012", "mes":"11", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"40762890000193", "fornecedor":"ESPACIAL CAR RENTAL LTDA", 
+                            "documento":"79912012", "data":"2012-11-30", "detalhamento":"null", 
+                            "valorReembolsado":"5900.0", "codDocumento":"662091"}, {"ano":"2012", "mes":"11", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"24363368000182", "fornecedor":"POSTO SAO LUIZ IV", 
+                            "documento":"2189", "data":"2012-11-30", "detalhamento":"null", 
+                            "valorReembolsado":"301.56", "codDocumento":"662092"}, {"ano":"2012", "mes":"11", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"24363368000182", "fornecedor":"POSTO SAO LUIZ IV", 
+                            "documento":"2218", "data":"2012-11-30", "detalhamento":"null", 
+                            "valorReembolsado":"2938.3", "codDocumento":"662093"}, {"ano":"2012", "mes":"11", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"9572458521699", "data":"2012-11-08", "detalhamento":"Passageiro: José Agripino Maia
+Trecho: Brasília/Rio
+Data do voo: 08.11.2012", 
+                            "valorReembolsado":"1354.33", "codDocumento":"673829"}, {"ano":"2012", "mes":"11", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"9572458752422", "data":"2012-11-12", "detalhamento":"Passageiro: José Agripíno Maia
+Trecho: Rio de Janeiro/Brasília
+Data do voo: 12/11/2012", 
+                            "valorReembolsado":"633.17", "codDocumento":"673831"}, {"ano":"2012", "mes":"11", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"9572459666875", "data":"2012-11-26", "detalhamento":"Passageiro: José Agripino Maia
+Trecho: Brasília/Natal
+Data do voo: 28/11/2012", 
+                            "valorReembolsado":"1301.2", "codDocumento":"673830"}, {"ano":"2012", "mes":"11", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Serviços de Segurança Privada", "cnpjCpf":"10209529000173", "fornecedor":"Branco Oliveira Limpeza e Conservação Ltda-ME", 
+                            "documento":"00260", "data":"2012-12-01", "detalhamento":"null", 
+                            "valorReembolsado":"3035.11", "codDocumento":"662087"}, {"ano":"2012", "mes":"12", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"13882660406", "fornecedor":"Maria Madalena Jácome Brito Lacerda Almeida", 
+                            "documento":"null", "data":"2012-12-11", "detalhamento":"null", 
+                            "valorReembolsado":"1200.0", "codDocumento":"673834"}, {"ano":"2012", "mes":"12", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"09615289000128", "fornecedor":"Balaio Serviços de Comunicação Digital Ltda", 
+                            "documento":"302", "data":"2012-12-17", "detalhamento":"null", 
+                            "valorReembolsado":"622.0", "codDocumento":"673833"}, {"ano":"2012", "mes":"12", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"40762890000193", "fornecedor":"Espacial Car Rental Ltda", 
+                            "documento":"80412012", "data":"2012-12-10", "detalhamento":"null", 
+                            "valorReembolsado":"5900.0", "codDocumento":"673835"}, {"ano":"2012", "mes":"12", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"24363368000182", "fornecedor":"Flor & Cia Ltda", 
+                            "documento":"2222", "data":"2012-12-12", "detalhamento":"null", 
+                            "valorReembolsado":"3116.15", "codDocumento":"673836"}, {"ano":"2012", "mes":"12", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02575829000148", "fornecedor":"Avianca", 
+                            "documento":"0230123195941", "data":"2012-12-12", "detalhamento":"Passageiro: José Agripino Maia
+Trecho: Brasília/Natal
+Data do voo: 13/12/2012", 
+                            "valorReembolsado":"1670.03", "codDocumento":"678200"}, {"ano":"2012", "mes":"12", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"9572460458680", "data":"2012-12-10", "detalhamento":"Passageiro: José Agripino Maia
+Trecho: Natal/Rio de Janeiro
+Data do voo: 15/12/2012", 
+                            "valorReembolsado":"2186.37", "codDocumento":"678196"}, {"ano":"2012", "mes":"12", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"19572460458679", "data":"2012-12-10", "detalhamento":"Passageiro: José Agripino Maia
+Trecho: Natal/Rio de Janeiro
+Data do voo: 22/12/2012", 
+                            "valorReembolsado":"3329.27", "codDocumento":"697644"}, {"ano":"2012", "mes":"12", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"9572460563408", "data":"2012-12-11", "detalhamento":"Passageiro: José Agripino Maia
+Trecho: Rio de Janeiro/Brasília
+Data do voo: 17.12.2012", 
+                            "valorReembolsado":"1650.57", "codDocumento":"678199"}, {"ano":"2012", "mes":"12", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"9572460458697", "data":"2012-12-11", "detalhamento":"Passageiro: José Agripino Maia
+Trecho: Brasília/Natal
+Data do voo: 20.12.2012", 
+                            "valorReembolsado":"2354.23", "codDocumento":"678198"}, {"ano":"2012", "mes":"12", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS ", 
+                            "documento":"9572459731271", "data":"2012-11-26", "detalhamento":"Passageiro: José Agripino Maia
+Trecho: Natal/Brasília
+Data do voo: 02/12/2012", 
+                            "valorReembolsado":"1717.77", "codDocumento":"673832"}, {"ano":"2012", "mes":"12", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Serviços de Segurança Privada", "cnpjCpf":"10209529000173", "fornecedor":"Branco Oliveira Limpeza e Conservação Ltda-ME", 
+                            "documento":"00264", "data":"2013-01-01", "detalhamento":"null", 
+                            "valorReembolsado":"3035.11", "codDocumento":"678195"}, {"ano":"2012", "mes":"12", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Serviços de Segurança Privada", "cnpjCpf":"10209529000173", "fornecedor":"Branco Oliveira Limpeza e Conservação Ltda-ME", 
+                            "documento":"00269", "data":"2013-02-01", "detalhamento":"null", 
+                            "valorReembolsado":"733.0", "codDocumento":"689037"}, {"ano":"2012", "mes":"1", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"13882660406", "fornecedor":"Maria Madalena Jacome Brito Lacerda Almeida", 
+                            "documento":"s/n", "data":"2012-01-02", "detalhamento":"null", 
+                            "valorReembolsado":"1200.0", "codDocumento":"495815"}, {"ano":"2012", "mes":"1", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"08241747000143", "fornecedor":"Prefeitura Municipal do Natal", 
+                            "documento":"20121034934", "data":"2012-01-10", "detalhamento":"null", 
+                            "valorReembolsado":"1296.21", "codDocumento":"491166"}, {"ano":"2012", "mes":"1", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"40762890000193", "fornecedor":"Espacial Car Rental Ltda", 
+                            "documento":"76392012", "data":"2012-01-30", "detalhamento":"null", 
+                            "valorReembolsado":"5808.62", "codDocumento":"495814"}, {"ano":"2012", "mes":"1", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"24363368000182", "fornecedor":"Flor & Cia Ltda", 
+                            "documento":"000001260", "data":"2012-01-31", "detalhamento":"null", 
+                            "valorReembolsado":"2139.27", "codDocumento":"495816"}, {"ano":"2012", "mes":"1", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"06164253000187", "fornecedor":"GOL Linhas Aéreas Inteligentes S.A. ", 
+                            "documento":"9690001067927", "data":"2012-01-13", "detalhamento":"Passageiro: José Agripino Maia
+Trecho: Natal/Salvador/Brasília
+Data do vôo: 15/01/2012", 
+                            "valorReembolsado":"1981.85", "codDocumento":"491163"}, {"ano":"2012", "mes":"1", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"9572439683073", "data":"2011-12-28", "detalhamento":"Passageiro: José Agripino Maia
+Trecho: São Paulo/Rio de Janeiro
+Data do vôo: 04/01/2012", 
+                            "valorReembolsado":"1115.16", "codDocumento":"491160"}, {"ano":"2012", "mes":"1", "senador":"JOSÉ AGRIPINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"9572439683084", "data":"2012-01-03", "detalhamento":"Passageiro: José Agripino Maia
+Trecho: Rio de Janeiro-São Paulo
+Data do vôo: 04/01/2012", 
+                            "valorReembolsado":"1319.76", "codDocumento":"491161"}]}

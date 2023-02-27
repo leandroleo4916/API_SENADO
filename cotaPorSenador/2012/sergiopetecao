@@ -1,0 +1,568 @@
+{"gastosSenador": [{"ano":"2012", "mes":"5", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas", 
+                            "documento":"9572448180236", "data":"2012-05-27", "detalhamento":"Passageiro: Senador Sérgio Petecão
+Trecho: RBR/BSB   data: 04/06/2012", 
+                            "valorReembolsado":"961.95", "codDocumento":"566684"}, {"ano":"2012", "mes":"5", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas aéreas", 
+                            "documento":"9572446596084", "data":"2012-05-29", "detalhamento":"Passageiro: Sérgio Petecão
+Trecho:BSB/RBR    Data:30/05/2012", 
+                            "valorReembolsado":"1469.0", "codDocumento":"566683"}, {"ano":"2012", "mes":"5", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam linhas AÉREAS", 
+                            "documento":"957 2446737770", "data":"2012-05-02", "detalhamento":"Passageiro: Senador Sérgio Petecão
+Trecho: Brasília/Rio de Janeiro (SDU)
+Data: 10/05/2012", 
+                            "valorReembolsado":"296.07", "codDocumento":"556063"}, {"ano":"2012", "mes":"5", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam linhas Aéreas", 
+                            "documento":"957 2447575369", "data":"2012-05-16", "detalhamento":"Passageiro:Senador Sergio Petecão
+Data: 22/05/2012
+Trecho: RBR/BSB", 
+                            "valorReembolsado":"961.95", "codDocumento":"556060"}, {"ano":"2012", "mes":"5", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam linhas aéreas", 
+                            "documento":"957 2446729208", "data":"2012-05-02", "detalhamento":"Passageiro: Senador Sérgio Petecão
+Trecho: BSB/RBR
+Data: 17/05/2012", 
+                            "valorReembolsado":"514.26", "codDocumento":"556062"}, {"ano":"2012", "mes":"6", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"04065033000170", "fornecedor":"Eletrobrás Acre", 
+                            "documento":"187359", "data":"2012-06-22", "detalhamento":"null", 
+                            "valorReembolsado":"532.13", "codDocumento":"584691"}, {"ano":"2012", "mes":"6", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"04515926000170", "fornecedor":"Rio Imobiliária", 
+                            "documento":"s/n", "data":"2012-06-30", "detalhamento":"null", 
+                            "valorReembolsado":"3000.0", "codDocumento":"579497"}, {"ano":"2012", "mes":"6", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"02449992000164", "fornecedor":"ViVo S.A", 
+                            "documento":"2086734374", "data":"2012-06-21", "detalhamento":"null", 
+                            "valorReembolsado":"800.13", "codDocumento":"617670"}, {"ano":"2012", "mes":"6", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"05423963000200", "fornecedor":"15062012", 
+                            "documento":"390912668", "data":"2012-06-15", "detalhamento":"null", 
+                            "valorReembolsado":"373.11", "codDocumento":"584692"}, {"ano":"2012", "mes":"6", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"14294227000100", "fornecedor":"Auto Posto - Aeroporto", 
+                            "documento":"4991", "data":"2012-06-19", "detalhamento":"null", 
+                            "valorReembolsado":"7375.48", "codDocumento":"571879"}, {"ano":"2012", "mes":"6", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"11817083000122", "fornecedor":"Vale das Orquideas", 
+                            "documento":"1630", "data":"2012-06-16", "detalhamento":"null", 
+                            "valorReembolsado":"330.0", "codDocumento":"571884"}, {"ano":"2012", "mes":"6", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol Linhas Aereas", 
+                            "documento":"12700183013540", "data":"2012-05-29", "detalhamento":"Passageiro: Sérgio Petecão
+Trecho: MAO/RBR
+Data:15/06/2012", 
+                            "valorReembolsado":"340.47", "codDocumento":"571880"}, {"ano":"2012", "mes":"6", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol Linhas Aéreas", 
+                            "documento":"12700184395219", "data":"2012-06-13", "detalhamento":"Passageiro: Senador Sérgio Petecão
+Trecho:RBR/BSB
+Data: 18/06/2012", 
+                            "valorReembolsado":"867.85", "codDocumento":"571881"}, {"ano":"2012", "mes":"6", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol linhas Aéreas", 
+                            "documento":"12700182928906", "data":"2012-05-28", "detalhamento":"Passageiro: Senador Sérgio Petecão(Sérgio de Oliveira Cunha)
+Data: 11/06/2012
+Trecho: Recife/Brasília", 
+                            "valorReembolsado":"620.47", "codDocumento":"569958"}, {"ano":"2012", "mes":"6", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol linhas Aéreas", 
+                            "documento":"1270001357372", "data":"2012-06-21", "detalhamento":"Passageiro: Raimunda Elogilda Martins de Lima - mat. 238470
+Trecho: Rio Branco/Brasília
+Data: 21/06/2012", 
+                            "valorReembolsado":"952.94", "codDocumento":"584693"}, {"ano":"2012", "mes":"6", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas", 
+                            "documento":"957 2449118783", "data":"2012-06-13", "detalhamento":"Passageiro: Sen. Sérgio Petecão
+Trecho:BSB/RBR - Data:20/06/2012", 
+                            "valorReembolsado":"119.95", "codDocumento":"571883"}, {"ano":"2012", "mes":"6", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam linhas aéreas", 
+                            "documento":"957 24483665533", "data":"2012-05-30", "detalhamento":"Passageiro: Senador Sérgio Petecão(Sérgio de Oliveira Cunha)
+Data:10/06/2012
+Trecho: Brasília/Recife", 
+                            "valorReembolsado":"587.57", "codDocumento":"569959"}, {"ano":"2012", "mes":"6", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam linhas aéreas", 
+                            "documento":"957 2447589365", "data":"2012-06-16", "detalhamento":"Passageiro: Senador Sérgio Petecão
+Trecho:BVB/MAO
+Data: 15/06/2012", 
+                            "valorReembolsado":"577.57", "codDocumento":"571882"}, {"ano":"2012", "mes":"6", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam linhas áereas", 
+                            "documento":"957 2447556185", "data":"2012-05-16", "detalhamento":"Passageiro: Senador Sérgio Petecão
+Data: 14/06/2012
+Trecho: Brasília/Boa Vista", 
+                            "valorReembolsado":"756.57", "codDocumento":"569960"}, {"ano":"2012", "mes":"7", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"76535764032770", "fornecedor":"Brasil Telecom", 
+                            "documento":"1207000036201", "data":"2012-06-22", "detalhamento":"null", 
+                            "valorReembolsado":"32.98", "codDocumento":"600580"}, {"ano":"2012", "mes":"7", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"04065033000170", "fornecedor":"Eletrobrás", 
+                            "documento":"01000201215397067235", "data":"2012-07-25", "detalhamento":"null", 
+                            "valorReembolsado":"530.59", "codDocumento":"600577"}, {"ano":"2012", "mes":"7", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"04515926000170", "fornecedor":"Rio Imobiliária", 
+                            "documento":"s/n", "data":"2012-07-31", "detalhamento":"null", 
+                            "valorReembolsado":"3000.0", "codDocumento":"600586"}, {"ano":"2012", "mes":"7", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"02449992000164", "fornecedor":"Vivo S.A", 
+                            "documento":"2086734374", "data":"2012-07-28", "detalhamento":"null", 
+                            "valorReembolsado":"977.24", "codDocumento":"617671"}, {"ano":"2012", "mes":"7", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"02449992000164", "fornecedor":"Vivo S.a", 
+                            "documento":"2016667910", "data":"2012-08-03", "detalhamento":"null", 
+                            "valorReembolsado":"358.75", "codDocumento":"600579"}, {"ano":"2012", "mes":"7", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"14294227000100", "fornecedor":"Auto Posto Aeroporto Ltda", 
+                            "documento":"4999", "data":"2012-07-05", "detalhamento":"null", 
+                            "valorReembolsado":"7209.96", "codDocumento":"584694"}, {"ano":"2012", "mes":"7", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"30900518000142", "fornecedor":"Churrascaria Farroupilha Ltda", 
+                            "documento":"137029", "data":"2012-07-15", "detalhamento":"null", 
+                            "valorReembolsado":"383.1", "codDocumento":"600588"}, {"ano":"2012", "mes":"7", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"63688006000113", "fornecedor":"Restaurante Canto da Peixada - Valdiza Farias Bruno", 
+                            "documento":"015999", "data":"2012-07-25", "detalhamento":"null", 
+                            "valorReembolsado":"149.2", "codDocumento":"600578"}, {"ano":"2012", "mes":"7", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"32135915000109", "fornecedor":"Siala Churrascaria e Restaurante Ltda", 
+                            "documento":"1702", "data":"2012-02-03", "detalhamento":"null", 
+                            "valorReembolsado":"490.6", "codDocumento":"600581"}, {"ano":"2012", "mes":"7", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"05423963000200", "fornecedor":"Brasil Telecom", 
+                            "documento":"39605840", "data":"2012-07-15", "detalhamento":"null", 
+                            "valorReembolsado":"374.82", "codDocumento":"600587"}, {"ano":"2012", "mes":"7", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol Linhas Aéreas", 
+                            "documento":"12700187823695", "data":"2012-07-24", "detalhamento":"Passageiro: Senador Sérgio Petecão
+Data: 24/07/2012
+Trecho: Rio Branco/Manaus", 
+                            "valorReembolsado":"1104.23", "codDocumento":"600585"}, {"ano":"2012", "mes":"7", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GolLinhas Aéreas", 
+                            "documento":"12700185519747", "data":"2012-07-27", "detalhamento":"Passageiro: Senador Sérgio Petecão
+Trecho:CZS/RBR
+Data:01/07/2012", 
+                            "valorReembolsado":"447.94", "codDocumento":"579511"}, {"ano":"2012", "mes":"7", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas", 
+                            "documento":"9572449404596", "data":"2012-06-18", "detalhamento":"Passageiro: Sérgio Petecão
+Trecho: RBR/BSB/RBR
+Data:02/07/2012 e 05/07/2012", 
+                            "valorReembolsado":"1028.52", "codDocumento":"579512"}, {"ano":"2012", "mes":"7", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas", 
+                            "documento":"9572450313495", "data":"2012-07-03", "detalhamento":"Passageiro: Senador Sérgio Petecão
+Data: 18/07/2012
+Trecho: Rio de Janeiro/BSB/Rio Branco", 
+                            "valorReembolsado":"849.57", "codDocumento":"600582"}, {"ano":"2012", "mes":"7", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam linhas Aéreas", 
+                            "documento":"9572749971675", "data":"2012-06-27", "detalhamento":"Passageiro: Senador Sérgio Petecão
+Trecho:RBR/BSB
+Data: 09/07/2012", 
+                            "valorReembolsado":"867.95", "codDocumento":"584695"}, {"ano":"2012", "mes":"7", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam linhas aéreas", 
+                            "documento":"9572450306586", "data":"2012-07-03", "detalhamento":"Passageiro: Senador Sérgio Petecão
+Trecho: BSB/RJ (SDU)
+Data:12/07/2012", 
+                            "valorReembolsado":"312.57", "codDocumento":"584696"}, {"ano":"2012", "mes":"7", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02428624000130", "fornecedor":"Trip Linhas Aéreas", 
+                            "documento":"6612102790802", "data":"2012-06-13", "detalhamento":"Passageiro:  Solino Matos Neto(Assessor) Mat.237337
+Data: 23/07/2012 
+Trecho: Rio Branco/Campo Grande", 
+                            "valorReembolsado":"506.65", "codDocumento":"600584"}, {"ano":"2012", "mes":"7", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02428624000130", "fornecedor":"Trip Linhas Aéreas", 
+                            "documento":"6612103207452", "data":"2012-07-24", "detalhamento":"Passageiro: Senador Sérgio Petecão
+Data: 25/07/2012
+Trecho: Manaus/Rio Branco", 
+                            "valorReembolsado":"1001.37", "codDocumento":"600583"}, {"ano":"2012", "mes":"8", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"05423963000111", "fornecedor":"Brasil Telecom Celular", 
+                            "documento":"161 Série A", "data":"2012-08-15", "detalhamento":"null", 
+                            "valorReembolsado":"408.17", "codDocumento":"656144"}, {"ano":"2012", "mes":"8", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"04515926000170", "fornecedor":"Rio Imobiliária", 
+                            "documento":"s/n", "data":"2012-08-31", "detalhamento":"null", 
+                            "valorReembolsado":"3000.0", "codDocumento":"617672"}, {"ano":"2012", "mes":"8", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"02449992000164", "fornecedor":"Vivo S.A", 
+                            "documento":"2086734374", "data":"2012-08-21", "detalhamento":"null", 
+                            "valorReembolsado":"772.61", "codDocumento":"697649"}, {"ano":"2012", "mes":"8", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"02449992000164", "fornecedor":"Vivo S.A", 
+                            "documento":"2016667910", "data":"2012-08-29", "detalhamento":"null", 
+                            "valorReembolsado":"363.96", "codDocumento":"617673"}, {"ano":"2012", "mes":"8", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Divulgação da atividade parlamentar", "cnpjCpf":"07725577000100", "fornecedor":"Wave Produções", 
+                            "documento":"0459", "data":"2012-08-06", "detalhamento":"null", 
+                            "valorReembolsado":"32000.0", "codDocumento":"600589"}, {"ano":"2012", "mes":"8", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"06189982000198", "fornecedor":"W L Soster 1 - Auto Posto Correntão", 
+                            "documento":"7924", "data":"2012-08-06", "detalhamento":"null", 
+                            "valorReembolsado":"7500.0", "codDocumento":"600590"}, {"ano":"2012", "mes":"8", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol Linhas Aéreas", 
+                            "documento":"12700188265626", "data":"2012-07-30", "detalhamento":"Passageiro: Sergio Petecão
+Data:07/08/2012
+Trecho: Rio Branco/Brasilia", 
+                            "valorReembolsado":"642.85", "codDocumento":"600592"}, {"ano":"2012", "mes":"8", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol linhas Aéreas", 
+                            "documento":"12700189156911", "data":"2012-08-10", "detalhamento":"Passageiro: Sérgio Petecão
+Trecho: Cruzeiro do Sul/Rio Branco
+Data:27/08/2012", 
+                            "valorReembolsado":"196.94", "codDocumento":"611803"}, {"ano":"2012", "mes":"8", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas", 
+                            "documento":"9572452629338", "data":"2012-08-09", "detalhamento":"Passageiro: Senador Sérgio Petecão
+Trecho: RBR/BSB/RBR
+Data Ida: 28/08/2012
+Data Volta: 29/08/2012", 
+                            "valorReembolsado":"599.08", "codDocumento":"611802"}, {"ano":"2012", "mes":"8", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas", 
+                            "documento":"9572452043204", "data":"2012-07-31", "detalhamento":"Passageiro: Senador Sérgio Petecão
+Data: 08/08/2012
+Trecho: BSB/RBR", 
+                            "valorReembolsado":"581.57", "codDocumento":"600593"}, {"ano":"2012", "mes":"8", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas", 
+                            "documento":"9572452580233", "data":"2012-08-08", "detalhamento":"Passageiro: Frabrício Fernandes de Jesus 
+Matrícula:232054
+Trecho: BSB/RBR/BSB 
+Data Ida: 13/08/2012   Data da Volta: 20/08/2012", 
+                            "valorReembolsado":"996.52", "codDocumento":"611801"}, {"ano":"2012", "mes":"8", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02428624000130", "fornecedor":"Trip Linhas Aéreas", 
+                            "documento":"661-210-2790652", "data":"2012-06-13", "detalhamento":"Passageiro: Solino de Matos Neto (assessor) Mat. 237337
+Data: 02/08/2012
+Trecho:Campo Grande/Rio Branco", 
+                            "valorReembolsado":"346.65", "codDocumento":"600591"}, {"ano":"2012", "mes":"9", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"05423963000200", "fornecedor":"Brasil Telecom Celulares", 
+                            "documento":"122 Série C3", "data":"2012-09-15", "detalhamento":"null", 
+                            "valorReembolsado":"408.96", "codDocumento":"656146"}, {"ano":"2012", "mes":"9", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"04515926000170", "fornecedor":"Rio Imobiliária", 
+                            "documento":"s/n", "data":"2012-09-30", "detalhamento":"null", 
+                            "valorReembolsado":"3000.0", "codDocumento":"643103"}, {"ano":"2012", "mes":"9", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"02449992000164", "fornecedor":"Vivo S.A", 
+                            "documento":"2016667910", "data":"2012-10-16", "detalhamento":"null", 
+                            "valorReembolsado":"353.67", "codDocumento":"668307"}, {"ano":"2012", "mes":"9", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"02449992000164", "fornecedor":"Vivo S.A ", 
+                            "documento":"2086734374", "data":"2012-09-08", "detalhamento":"null", 
+                            "valorReembolsado":"943.05", "codDocumento":"656145"}, {"ano":"2012", "mes":"9", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"06189982000198", "fornecedor":"WL Soster Auto Posto Correntão", 
+                            "documento":"8505", "data":"2012-09-11", "detalhamento":"null", 
+                            "valorReembolsado":"7021.02", "codDocumento":"617674"}, {"ano":"2012", "mes":"9", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam linhas Aéreas", 
+                            "documento":"9572453778737", "data":"2012-08-27", "detalhamento":"Passageiro: Sergio de Oliveira Cunha (Senador)
+Trecho: RBR/BSB/RBR
+Data Ida: 10/09/2012
+Data volta: 12/09/2012", 
+                            "valorReembolsado":"605.08", "codDocumento":"617675"}, {"ano":"2012", "mes":"10", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"05423963000200", "fornecedor":"Brasil Telecom", 
+                            "documento":"76 Série A", "data":"2012-10-15", "detalhamento":"null", 
+                            "valorReembolsado":"387.45", "codDocumento":"656151"}, {"ano":"2012", "mes":"10", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"04515926000170", "fornecedor":"Rio Imobiliária", 
+                            "documento":"s/n", "data":"2012-10-31", "detalhamento":"null", 
+                            "valorReembolsado":"3000.0", "codDocumento":"643104"}, {"ano":"2012", "mes":"10", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"02449992000164", "fornecedor":"Vivo S.A", 
+                            "documento":"2086734374", "data":"2012-10-22", "detalhamento":"null", 
+                            "valorReembolsado":"921.49", "codDocumento":"697650"}, {"ano":"2012", "mes":"10", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"02449992000164", "fornecedor":"Vivo S.A", 
+                            "documento":"2016667910", "data":"2012-11-05", "detalhamento":"null", 
+                            "valorReembolsado":"362.09", "codDocumento":"668308"}, {"ano":"2012", "mes":"10", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"06189982000198", "fornecedor":"WL SoSter Auto Posto Correntão", 
+                            "documento":"000009405", "data":"2012-10-30", "detalhamento":"null", 
+                            "valorReembolsado":"15647.21", "codDocumento":"643105"}, {"ano":"2012", "mes":"10", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol Linhas Aéreas", 
+                            "documento":"12700193615759", "data":"2012-10-02", "detalhamento":"Passageiro: Senador Sérgio Petecão
+Trecho:Rio Branco/Cruzeiro do Sul
+Data Voo: 03/10/2012", 
+                            "valorReembolsado":"379.85", "codDocumento":"656148"}, {"ano":"2012", "mes":"10", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"84316421000116", "fornecedor":"Rio Branco Aerotaxi", 
+                            "documento":"021525", "data":"2012-10-05", "detalhamento":"null", 
+                            "valorReembolsado":"150.0", "codDocumento":"656147"}, {"ano":"2012", "mes":"10", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas", 
+                            "documento":"9572456284669", "data":"2012-10-05", "detalhamento":"Passageiro: Thais Amorim Matricula 245322
+Trecho: Rio Branco/Goiânia
+09/11/2012", 
+                            "valorReembolsado":"814.95", "codDocumento":"656150"}, {"ano":"2012", "mes":"10", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas", 
+                            "documento":"9572456980548", "data":"2012-10-16", "detalhamento":"Passageiro: Senador Sérgio Petecão
+Trecho: RBR/BSB
+Data Ida:29/10/2012", 
+                            "valorReembolsado":"416.04", "codDocumento":"668310"}, {"ano":"2012", "mes":"10", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas", 
+                            "documento":"9572456980416", "data":"2012-10-16", "detalhamento":"Passageiro: Senador Sérgio Petecão
+Trecho: Brasília/Rio Branco
+Data: 17/10/2012", 
+                            "valorReembolsado":"437.13", "codDocumento":"656149"}, {"ano":"2012", "mes":"10", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam linhas Aéreas", 
+                            "documento":"9572457045507", "data":"2012-10-16", "detalhamento":"Passageiro: Senador Sérgio Petecão
+Trecho: BSB/CGH/BSB
+Data:17/10/2012", 
+                            "valorReembolsado":"1028.7", "codDocumento":"668309"}, {"ano":"2012", "mes":"11", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"04515926000170", "fornecedor":"Rio Imobiliária", 
+                            "documento":"s/n", "data":"2012-11-30", "detalhamento":"null", 
+                            "valorReembolsado":"3000.0", "codDocumento":"668312"}, {"ano":"2012", "mes":"11", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"02449992000164", "fornecedor":"Vivo S.A", 
+                            "documento":"2086734374", "data":"2012-11-22", "detalhamento":"null", 
+                            "valorReembolsado":"781.07", "codDocumento":"697651"}, {"ano":"2012", "mes":"11", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"02449992000164", "fornecedor":"Vivo S.A", 
+                            "documento":"2016667910", "data":"2012-11-28", "detalhamento":"null", 
+                            "valorReembolsado":"400.49", "codDocumento":"668313"}, {"ano":"2012", "mes":"11", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"06189982000198", "fornecedor":"Auto Posto Correntão", 
+                            "documento":"9875", "data":"2012-11-19", "detalhamento":"null", 
+                            "valorReembolsado":"6962.94", "codDocumento":"656152"}, {"ano":"2012", "mes":"11", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol Linhas Aéreas", 
+                            "documento":"12700197996812", "data":"2012-11-21", "detalhamento":"Passageiro: Sergio Petecão
+Trecho:RBR/BSB
+Data:26/11/2012", 
+                            "valorReembolsado":"696.85", "codDocumento":"668315"}, {"ano":"2012", "mes":"11", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol Linhas Aéreas", 
+                            "documento":"12700198017292", "data":"2012-11-22", "detalhamento":"Passageiro: Sérgio Petecão
+TRecho: Brasília/Congonhas
+Data:26/11/2012", 
+                            "valorReembolsado":"571.03", "codDocumento":"668314"}, {"ano":"2012", "mes":"11", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol Linhas Aéreas", 
+                            "documento":"98387539", "data":"2012-11-26", "detalhamento":"Passageiro: Senador Sérgio Petecão
+Trecho:São Paulo/Brasília
+Data:26/11/2012", 
+                            "valorReembolsado":"1019.16", "codDocumento":"668311"}, {"ano":"2012", "mes":"11", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas", 
+                            "documento":"9572456980548", "data":"2012-10-16", "detalhamento":"Passageiro: Senador Sérgio Petecão
+Trecho: Brasília/Rio Branco
+Data: 14/11/2012", 
+                            "valorReembolsado":"0.04", "codDocumento":"656153"}, {"ano":"2012", "mes":"11", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas", 
+                            "documento":"9572456980548", "data":"2012-10-16", "detalhamento":"Passageiro: Senador Sérgio Petecão
+Trecho: Brasília/RBr
+Data: 14/11/2012", 
+                            "valorReembolsado":"416.04", "codDocumento":"668316"}, {"ano":"2012", "mes":"11", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas", 
+                            "documento":"9572458825954", "data":"2012-11-12", "detalhamento":"Passageiro: Senador Sérgio Petecão
+Trecho: Rio Branco/BSB/RBR
+Data Ida: 20/11/2012
+Data Volta: 22/11/2012", 
+                            "valorReembolsado":"1411.08", "codDocumento":"656154"}, {"ano":"2012", "mes":"11", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas", 
+                            "documento":"95724599450155", "data":"2012-11-22", "detalhamento":"Passageiro:Senador Sérgio Petecão
+Trecho: Brasília/Rio Branco
+Data: 29/11/2012", 
+                            "valorReembolsado":"476.0", "codDocumento":"668317"}, {"ano":"2012", "mes":"11", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam linhas aereas", 
+                            "documento":"9572437618458", "data":"2012-11-08", "detalhamento":"Passageiro: Senador Sérgio Petecão
+Trecho:BSB/RBR
+Data: 10/11/2012", 
+                            "valorReembolsado":"762.66", "codDocumento":"702352"}, {"ano":"2012", "mes":"12", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"05423963000200", "fornecedor":"Brasil Telecom Celular", 
+                            "documento":"417388118", "data":"2012-11-15", "detalhamento":"null", 
+                            "valorReembolsado":"403.57", "codDocumento":"668323"}, {"ano":"2012", "mes":"12", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"04515926000170", "fornecedor":"Rio Imobiliária", 
+                            "documento":"s/n", "data":"2012-12-31", "detalhamento":"null", 
+                            "valorReembolsado":"3000.0", "codDocumento":"683979"}, {"ano":"2012", "mes":"12", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"02449992000164", "fornecedor":"Vivo S.A", 
+                            "documento":"2086734374", "data":"2012-12-01", "detalhamento":"null", 
+                            "valorReembolsado":"824.61", "codDocumento":"683977"}, {"ano":"2012", "mes":"12", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"02449992000164", "fornecedor":"Vivo S.A ", 
+                            "documento":"2016667910", "data":"2012-12-26", "detalhamento":"null", 
+                            "valorReembolsado":"405.77", "codDocumento":"683978"}, {"ano":"2012", "mes":"12", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Divulgação da atividade parlamentar", "cnpjCpf":"26485755000117", "fornecedor":"ADESIGRAFF GRAFIA E EDITORA LTDA-ME", 
+                            "documento":"162", "data":"2012-12-28", "detalhamento":"null", 
+                            "valorReembolsado":"45000.0", "codDocumento":"697652"}, {"ano":"2012", "mes":"12", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Divulgação da atividade parlamentar", "cnpjCpf":"26485755000117", "fornecedor":"Adesigraff Gráfica e editora Ltda - Me", 
+                            "documento":"160", "data":"2012-12-18", "detalhamento":"null", 
+                            "valorReembolsado":"60000.0", "codDocumento":"683980"}, {"ano":"2012", "mes":"12", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Divulgação da atividade parlamentar", "cnpjCpf":"26485755000117", "fornecedor":"Adesigraff Grafica e Editora Ltda ME", 
+                            "documento":"158", "data":"2012-12-12", "detalhamento":"null", 
+                            "valorReembolsado":"60000.0", "codDocumento":"668327"}, {"ano":"2012", "mes":"12", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Divulgação da atividade parlamentar", "cnpjCpf":"04387825000161", "fornecedor":"RADIO TV DO AMAZONAS LTDA", 
+                            "documento":"4018099", "data":"2012-12-29", "detalhamento":"null", 
+                            "valorReembolsado":"1072.0", "codDocumento":"697655"}, {"ano":"2012", "mes":"12", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Divulgação da atividade parlamentar", "cnpjCpf":"04387825000161", "fornecedor":"RADIO TV DO AMAZONAS LTDA", 
+                            "documento":"4018098", "data":"2012-12-29", "detalhamento":"null", 
+                            "valorReembolsado":"1804.0", "codDocumento":"697653"}, {"ano":"2012", "mes":"12", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"06189982000198", "fornecedor":"W L Soster 1 - Auto Posto Correntão", 
+                            "documento":"10608", "data":"2012-12-28", "detalhamento":"null", 
+                            "valorReembolsado":"8034.37", "codDocumento":"683981"}, {"ano":"2012", "mes":"12", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas", 
+                            "documento":"9572459450155", "data":"2012-11-22", "detalhamento":"Passageiro: Senador Sérgio Petecão
+Trecho RBR/BSB
+Data: 03/12/2012", 
+                            "valorReembolsado":"476.04", "codDocumento":"668326"}, {"ano":"2012", "mes":"12", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas", 
+                            "documento":"9572459450372", "data":"2012-11-22", "detalhamento":"Passageiro: Senador Sérgio Petecão
+Trecho: BSB/RBR/BSB
+Data ida: 06/12/2012
+Data Volta: 10/12/2012", 
+                            "valorReembolsado":"1022.08", "codDocumento":"668328"}, {"ano":"2012", "mes":"12", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas aéreas", 
+                            "documento":"9572459450492", "data":"2012-11-22", "detalhamento":"Passageiro: Senador Sérgio Petecão
+Trecho: BSB/RBR
+Data: 13/12/2012", 
+                            "valorReembolsado":"373.13", "codDocumento":"668329"}, {"ano":"2012", "mes":"12", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam linhas Aéreas", 
+                            "documento":"9572460256451", "data":"2012-12-04", "detalhamento":"Passageiro: Sergio Petecão
+Trecho: São Paulo/Brasília
+Data: 05/12/2012", 
+                            "valorReembolsado":"651.57", "codDocumento":"668324"}, {"ano":"2012", "mes":"12", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam linhas Aéreas", 
+                            "documento":"9572460250708", "data":"2012-12-04", "detalhamento":"Passageiro: Senador Sérgio Petecão
+Trecho: Brasília/São Paulo
+Data: 05/12/2012", 
+                            "valorReembolsado":"682.13", "codDocumento":"668325"}, {"ano":"2012", "mes":"1", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"04515926000170", "fornecedor":"Rio imobiliária", 
+                            "documento":"s/n", "data":"2012-01-31", "detalhamento":"null", 
+                            "valorReembolsado":"3000.0", "codDocumento":"494648"}, {"ano":"2012", "mes":"1", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"14294227000100", "fornecedor":"Auto Posto Aeroporto", 
+                            "documento":"4759", "data":"2012-01-19", "detalhamento":"null", 
+                            "valorReembolsado":"7400.22", "codDocumento":"494649"}, {"ano":"2012", "mes":"1", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas", 
+                            "documento":"957 2439635327", "data":"2011-12-15", "detalhamento":"Passageiro: Assessor Solino Matos Neto 
+mat. 237337-1 trecho: RBR/Fortaleza/RBR
+Datas: ida 15/01/2012
+          Vota 25/01/2012", 
+                            "valorReembolsado":"2333.08", "codDocumento":"498816"}, {"ano":"2012", "mes":"2", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"76535764032770", "fornecedor":"Brasil Telecon", 
+                            "documento":"000036767", "data":"2012-01-22", "detalhamento":"null", 
+                            "valorReembolsado":"32.02", "codDocumento":"506298"}, {"ano":"2012", "mes":"2", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"05423963000111", "fornecedor":"Brasil Telecon Celular", 
+                            "documento":"366360665", "data":"2012-01-15", "detalhamento":"null", 
+                            "valorReembolsado":"299.77", "codDocumento":"506297"}, {"ano":"2012", "mes":"2", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"04065033000170", "fornecedor":"Eletrobrás - Distribuição Acre", 
+                            "documento":"0196823", "data":"2012-01-19", "detalhamento":"null", 
+                            "valorReembolsado":"688.78", "codDocumento":"506296"}, {"ano":"2012", "mes":"2", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"04515926000170", "fornecedor":"Rio Imobiliária", 
+                            "documento":"s/n", "data":"2012-02-29", "detalhamento":"null", 
+                            "valorReembolsado":"3000.0", "codDocumento":"506295"}, {"ano":"2012", "mes":"2", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"02449992005638", "fornecedor":"ViVo S.A", 
+                            "documento":"2086734374", "data":"2012-02-16", "detalhamento":"null", 
+                            "valorReembolsado":"976.54", "codDocumento":"506299"}, {"ano":"2012", "mes":"2", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"14294227000100", "fornecedor":"Auto Posto Aeroporto", 
+                            "documento":"004799", "data":"2012-02-23", "detalhamento":"null", 
+                            "valorReembolsado":"7419.03", "codDocumento":"506300"}, {"ano":"2012", "mes":"2", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas", 
+                            "documento":"957 2442231399", "data":"2012-02-06", "detalhamento":"Passageiro: Senador Sérgio Petecão
+Trecho: RBR/BSB
+Data : 27/02/2012", 
+                            "valorReembolsado":"510.95", "codDocumento":"506301"}, {"ano":"2012", "mes":"2", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam linhas aéreas", 
+                            "documento":"9572442244712", "data":"2012-02-06", "detalhamento":"Passageiro: Senador Sérgio Petecão
+Trecho: Rio Branco/Brasília
+Data: 13/02/2012", 
+                            "valorReembolsado":"1433.03", "codDocumento":"500695"}, {"ano":"2012", "mes":"2", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam linhas aéreas", 
+                            "documento":"9572442374092", "data":"2012-02-08", "detalhamento":"Passageiro:  Senador Sergio de Oliveira Cunha
+Trecho: Brasília/Belo Horizonte
+Data: 09/02/2012", 
+                            "valorReembolsado":"509.06", "codDocumento":"498818"}, {"ano":"2012", "mes":"2", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam linhas aéreas", 
+                            "documento":"9572439910511", "data":"2012-12-14", "detalhamento":"Passageiro: Senador Sérgio de Oliveira Cunha
+Trecho: Fortaleza/Brasília
+Data: 06/02/2012", 
+                            "valorReembolsado":"262.66", "codDocumento":"498817"}, {"ano":"2012", "mes":"2", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02428624000130", "fornecedor":"Trip Linhas Aéreas", 
+                            "documento":"6612101556368", "data":"2012-02-06", "detalhamento":"Passageiro: Senador Sergio de Oliveira Cunha
+Trecho: Belo Horizonte/Rio Branco
+Data:09/02/2012", 
+                            "valorReembolsado":"919.52", "codDocumento":"498819"}, {"ano":"2012", "mes":"3", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"05423963000200", "fornecedor":"Brasil Telecom Celular", 
+                            "documento":"139", "data":"2012-03-15", "detalhamento":"null", 
+                            "valorReembolsado":"383.2", "codDocumento":"533208"}, {"ano":"2012", "mes":"3", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"04515926000170", "fornecedor":"Rio imobiliária", 
+                            "documento":"s/n", "data":"2012-03-31", "detalhamento":"null", 
+                            "valorReembolsado":"3000.0", "codDocumento":"527430"}, {"ano":"2012", "mes":"3", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"02449992009625", "fornecedor":"Vivo S.A", 
+                            "documento":"000012809032012", "data":"2012-03-15", "detalhamento":"null", 
+                            "valorReembolsado":"404.99", "codDocumento":"527431"}, {"ano":"2012", "mes":"3", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"02449992009625", "fornecedor":"vivo S.A", 
+                            "documento":"2086734374", "data":"2012-02-19", "detalhamento":"null", 
+                            "valorReembolsado":"738.24", "codDocumento":"509202"}, {"ano":"2012", "mes":"3", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"96265368000150", "fornecedor":"Manhanelli Associados", 
+                            "documento":"482", "data":"2012-03-19", "detalhamento":"null", 
+                            "valorReembolsado":"11600.0", "codDocumento":"516139"}, {"ano":"2012", "mes":"3", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Divulgação da atividade parlamentar", "cnpjCpf":"07725577000100", "fornecedor":"WAVE PRODUÇÕES", 
+                            "documento":"0423", "data":"2012-03-05", "detalhamento":"null", 
+                            "valorReembolsado":"18200.0", "codDocumento":"509200"}, {"ano":"2012", "mes":"3", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"14294227000100", "fornecedor":"Auto Posto Aeroporto", 
+                            "documento":"004836", "data":"2012-03-19", "detalhamento":"null", 
+                            "valorReembolsado":"7279.57", "codDocumento":"516140"}, {"ano":"2012", "mes":"3", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas", 
+                            "documento":"9572443608252", "data":"2012-03-06", "detalhamento":"Passageiro: Senador Sérgio Petecão
+Trecho: Brasília - Rio Branco
+Data: 14/03/2012", 
+                            "valorReembolsado":"1764.4", "codDocumento":"521703"}, {"ano":"2012", "mes":"3", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas", 
+                            "documento":"957 2443122612", "data":"2012-02-28", "detalhamento":"Passageiro: Senador Sérgio Petecão
+Trecho: Rio Branco/Brasília
+Data: 06/03/2012", 
+                            "valorReembolsado":"679.44", "codDocumento":"509201"}, {"ano":"2012", "mes":"3", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas", 
+                            "documento":"9572444121345", "data":"2012-03-15", "detalhamento":"Passageiro: Senador Sérgio Petecão
+Trecho: Rio Branco/Brasília/Rio Branco
+Data Ida: 26/03/2012
+Data Volta: 29/03/2012", 
+                            "valorReembolsado":"1034.02", "codDocumento":"521704"}, {"ano":"2012", "mes":"4", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"76535764032770", "fornecedor":"Brasil Telecom", 
+                            "documento":"1204000035130", "data":"2012-03-22", "detalhamento":"null", 
+                            "valorReembolsado":"34.03", "codDocumento":"600576"}, {"ano":"2012", "mes":"4", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"05423963000200", "fornecedor":"Brasil Telecon - Oi", 
+                            "documento":"380760935", "data":"2012-04-15", "detalhamento":"null", 
+                            "valorReembolsado":"375.3", "codDocumento":"552236"}, {"ano":"2012", "mes":"4", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"04065033000170", "fornecedor":"Eletrobras", 
+                            "documento":"010002012149875311-27", "data":"2012-04-29", "detalhamento":"null", 
+                            "valorReembolsado":"452.14", "codDocumento":"571862"}, {"ano":"2012", "mes":"4", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"04515926000170", "fornecedor":"Rio Imobiliária", 
+                            "documento":"s/n", "data":"2012-04-30", "detalhamento":"null", 
+                            "valorReembolsado":"3000.0", "codDocumento":"547881"}, {"ano":"2012", "mes":"4", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"02449992000164", "fornecedor":"Vivo S.A", 
+                            "documento":"2086734374", "data":"2012-04-24", "detalhamento":"null", 
+                            "valorReembolsado":"565.11", "codDocumento":"552235"}, {"ano":"2012", "mes":"4", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"14294227000100", "fornecedor":"Auto Posto Aeroporto Ltda", 
+                            "documento":"004869", "data":"2012-04-09", "detalhamento":"null", 
+                            "valorReembolsado":"7284.83", "codDocumento":"527432"}, {"ano":"2012", "mes":"4", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"04922342000110", "fornecedor":"Hotel Central", 
+                            "documento":"043353", "data":"2012-04-29", "detalhamento":"null", 
+                            "valorReembolsado":"288.0", "codDocumento":"547880"}, {"ano":"2012", "mes":"4", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"11817083000122", "fornecedor":"Vale das Orquideas - Hotel e Restaurante", 
+                            "documento":"1417", "data":"2012-04-14", "detalhamento":"null", 
+                            "valorReembolsado":"390.0", "codDocumento":"533165"}, {"ano":"2012", "mes":"4", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol Linhas Aéreas", 
+                            "documento":"127 00179813362", "data":"2012-04-17", "detalhamento":"Passageiro Sérgio Petecão
+Trecho: BSB/SSA/NAT
+Data: 26/04/2012", 
+                            "valorReembolsado":"604.47", "codDocumento":"547878"}, {"ano":"2012", "mes":"4", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol Linhas Aéreas", 
+                            "documento":"127 00179914174", "data":"2012-04-18", "detalhamento":"Passageiro: Senador Sérgio Petecão
+Trecho: NAT/SSA/BSB/PVH
+Data: 28/04/2012", 
+                            "valorReembolsado":"1357.47", "codDocumento":"547879"}, {"ano":"2012", "mes":"4", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas", 
+                            "documento":"957 2445184580", "data":"2012-04-04", "detalhamento":"Passageiro: Senador Sérgio de Oliveira Cunha
+Trecho: BSB - RBR
+Data: 19/04/2012", 
+                            "valorReembolsado":"384.57", "codDocumento":"537477"}, {"ano":"2012", "mes":"4", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas", 
+                            "documento":"957 2446079177", "data":"2012-04-18", "detalhamento":"Passageiro Senador Sérgio Petecão
+Trecho: Rio Branco/Brasília
+Data: 23/04/2012", 
+                            "valorReembolsado":"911.52", "codDocumento":"547877"}, {"ano":"2012", "mes":"5", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"05423963000200", "fornecedor":"Brasil Telecom", 
+                            "documento":"385881996", "data":"2012-05-15", "detalhamento":"null", 
+                            "valorReembolsado":"365.59", "codDocumento":"571866"}, {"ano":"2012", "mes":"5", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"76535764032770", "fornecedor":"Brasil Telecom", 
+                            "documento":"1206000036490", "data":"2012-05-22", "detalhamento":"null", 
+                            "valorReembolsado":"38.72", "codDocumento":"571865"}, {"ano":"2012", "mes":"5", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"04065033000170", "fornecedor":"Eletrobras", 
+                            "documento":"225100", "data":"2012-05-26", "detalhamento":"null", 
+                            "valorReembolsado":"524.71", "codDocumento":"571864"}, {"ano":"2012", "mes":"5", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"04515926000170", "fornecedor":"Rio Imobiliária", 
+                            "documento":"s/n", "data":"2012-05-31", "detalhamento":"null", 
+                            "valorReembolsado":"3000.0", "codDocumento":"584690"}, {"ano":"2012", "mes":"5", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"02449992000164", "fornecedor":"Vivo S.A", 
+                            "documento":"2016667910", "data":"2012-05-24", "detalhamento":"null", 
+                            "valorReembolsado":"468.31", "codDocumento":"571863"}, {"ano":"2012", "mes":"5", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"00540252000103", "fornecedor":"Papelaria ABC", 
+                            "documento":"252662", "data":"2012-05-17", "detalhamento":"null", 
+                            "valorReembolsado":"125.0", "codDocumento":"556059"}, {"ano":"2012", "mes":"5", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Divulgação da atividade parlamentar", "cnpjCpf":"08984712000102", "fornecedor":"Delta Agência de Pesquisa", 
+                            "documento":"00201", "data":"2012-05-14", "detalhamento":"null", 
+                            "valorReembolsado":"30000.0", "codDocumento":"552239"}, {"ano":"2012", "mes":"5", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"14294227000100", "fornecedor":"Auto Posto  - Aeroporto", 
+                            "documento":"004918", "data":"2012-05-10", "detalhamento":"null", 
+                            "valorReembolsado":"7204.9", "codDocumento":"552238"}, {"ano":"2012", "mes":"5", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"00038505000730", "fornecedor":"Conver Combustíveis automotivos Ltda", 
+                            "documento":"021676", "data":"2012-05-17", "detalhamento":"null", 
+                            "valorReembolsado":"50.0", "codDocumento":"556058"}, {"ano":"2012", "mes":"5", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"05923347000120", "fornecedor":"Restaurante Ramanso do Tucunaré", 
+                            "documento":"003688", "data":"2012-05-04", "detalhamento":"null", 
+                            "valorReembolsado":"156.2", "codDocumento":"547883"}, {"ano":"2012", "mes":"5", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"04381505000102", "fornecedor":"Rondon Palace Hotel", 
+                            "documento":"063436", "data":"2012-05-06", "detalhamento":"null", 
+                            "valorReembolsado":"444.55", "codDocumento":"547884"}, {"ano":"2012", "mes":"5", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol Linhas aéreas", 
+                            "documento":"12700181560486", "data":"2012-05-23", "detalhamento":"Passageiro: Senador Sérgio Petecão
+Trecho: Brasília/Fortaleza
+Data: 24/05/2012", 
+                            "valorReembolsado":"928.97", "codDocumento":"579496"}, {"ano":"2012", "mes":"5", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol linhas Aéreas", 
+                            "documento":"12700181912043", "data":"2012-04-15", "detalhamento":"Passageiro: Sérgio de Oliveira Cunha 
+Trecho: RBR/CZS
+Data: 19/05/2012", 
+                            "valorReembolsado":"418.89", "codDocumento":"566681"}, {"ano":"2012", "mes":"5", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol linhas Aéreas", 
+                            "documento":"12700181912043", "data":"2012-05-15", "detalhamento":"Passageiro: Senador Sérgio Petecão
+Trecho: Cruzeiro do Sul/Rio Branco
+Data: 20/05/2012", 
+                            "valorReembolsado":"418.89", "codDocumento":"556061"}, {"ano":"2012", "mes":"5", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol linhas aéreas", 
+                            "documento":"12700181560486", "data":"2012-05-10", "detalhamento":"Passageiro: Senador Sérgio Cunha
+Trecho: BSB/FOR    24/05/2012
+           FOR/BSB     28/05/2012", 
+                            "valorReembolsado":"1230.94", "codDocumento":"566682"}, {"ano":"2012", "mes":"5", "senador":"SÉRGIO PETECÃO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas", 
+                            "documento":"957 2446729208", "data":"2012-05-02", "detalhamento":"Passageiro Senador Sérgio Petecão
+Trecho:Rio Branco/Brasília
+Data:07/05/2012", 
+                            "valorReembolsado":"514.26", "codDocumento":"547882"}]}

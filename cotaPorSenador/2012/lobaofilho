@@ -1,0 +1,598 @@
+{"gastosSenador": [{"ano":"2012", "mes":"1", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"14668106372", "fornecedor":"THEREZA DE MARIA VILAS BOAS SANTOS", 
+                            "documento":"null", "data":"2012-02-01", "detalhamento":"null", 
+                            "valorReembolsado":"10000.0", "codDocumento":"509016"}, {"ano":"2012", "mes":"1", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"06274757000150", "fornecedor":"CAEMA", 
+                            "documento":"32969770122011", "data":"2012-01-06", "detalhamento":"null", 
+                            "valorReembolsado":"17.4", "codDocumento":"509020"}, {"ano":"2012", "mes":"1", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"06272793000184", "fornecedor":"CEMAR", 
+                            "documento":"01201189562401030", "data":"2012-01-12", "detalhamento":"null", 
+                            "valorReembolsado":"79.58", "codDocumento":"509018"}, {"ano":"2012", "mes":"1", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"33000118000179", "fornecedor":"OI TELEMAR NORTE", 
+                            "documento":"1789-10", "data":"2012-01-15", "detalhamento":"null", 
+                            "valorReembolsado":"266.58", "codDocumento":"509017"}, {"ano":"2012", "mes":"1", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"06164253000187", "fornecedor":"GOL ", 
+                            "documento":"X7Q42F", "data":"2012-01-12", "detalhamento":"PASSAGEIRO: SENADOR LOBÃO FILHO
+
+TRECHO: SALVADOR/SÃO PAULO
+
+DATA 22/01/2012", 
+                            "valorReembolsado":"1409.65", "codDocumento":"501681"}, {"ano":"2012", "mes":"1", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"01832635000118", "fornecedor":"TAM", 
+                            "documento":"2GEDP6", "data":"2012-01-06", "detalhamento":"PASSAGEIRO: SENADOR LOBÃO FILHO
+
+DATA:08/01/2012
+
+TRECHO: BRASÍLIA/ SÃO LUIS", 
+                            "valorReembolsado":"914.16", "codDocumento":"501677"}, {"ano":"2012", "mes":"1", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"01832635000118", "fornecedor":"TAM", 
+                            "documento":"Z9BP7I", "data":"2012-01-06", "detalhamento":"PASSAGEIRO: SENADOR LOBÃO FILHO
+
+DATA: 07/01/2012
+
+TRECHO: RIO DE JANEIRO/ BRASILIA", 
+                            "valorReembolsado":"1713.53", "codDocumento":"501676"}, {"ano":"2012", "mes":"1", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"01832635000118", "fornecedor":"TAM ", 
+                            "documento":"yboo9x", "data":"2011-12-29", "detalhamento":"PASSAGEIRO: SENADOR LOBÃO FILHO
+
+TRECHO: RIO DE JANEIRO/ SÂO LUIS
+
+DATA: 07/01/2012
+
+OBS: O BILHETE FOI REUTILIZADO, POR ISSO FOI SOLICITADA APENAS A TAXA DE REMARCAÇÃO (281,00 REAIS)", 
+                            "valorReembolsado":"281.0", "codDocumento":"509021"}, {"ano":"2012", "mes":"1", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"01832635000118", "fornecedor":"TAM ", 
+                            "documento":"38BEEC", "data":"2012-01-11", "detalhamento":"PASSAGEIRO: SENADOR LOBÃO FILHO 
+
+DATA: 12/01/2012
+
+TRECHO: BRASÍLIA/SÃO LUIS", 
+                            "valorReembolsado":"934.76", "codDocumento":"501678"}, {"ano":"2012", "mes":"1", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"01832635000118", "fornecedor":"TAM ", 
+                            "documento":"67MM8K", "data":"2012-01-19", "detalhamento":"PASSAGEIRO: SENADOR LOBÃO FILHO 
+
+TRECHO: SÃO LUÍS/ BRASÍLIA
+
+DATA: 20/01/2012", 
+                            "valorReembolsado":"744.44", "codDocumento":"501679"}, {"ano":"2012", "mes":"1", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"05730375000120", "fornecedor":"WEBJET", 
+                            "documento":"36GBVGSF", "data":"2012-01-19", "detalhamento":"PASSAGEIRO: SENADOR LOBÃO FILHO 
+
+DATA: 20/01/2012
+
+TRECHO: BRASÍLIA/ SALVADOR", 
+                            "valorReembolsado":"614.65", "codDocumento":"501680"}, {"ano":"2012", "mes":"1", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Serviços de Segurança Privada", "cnpjCpf":"08070938000190", "fornecedor":"PACIFIC SEGURANÇA E VIGILANCIA LTDA", 
+                            "documento":"202", "data":"2012-02-01", "detalhamento":"null", 
+                            "valorReembolsado":"4880.0", "codDocumento":"574222"}, {"ano":"2012", "mes":"2", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"06274757000150", "fornecedor":"CAEMA", 
+                            "documento":"33499197012012", "data":"2012-02-06", "detalhamento":"null", 
+                            "valorReembolsado":"17.4", "codDocumento":"519838"}, {"ano":"2012", "mes":"2", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"06272793000184", "fornecedor":"CEMAR", 
+                            "documento":"01201291007305138", "data":"2012-02-08", "detalhamento":"null", 
+                            "valorReembolsado":"70.87", "codDocumento":"519839"}, {"ano":"2012", "mes":"2", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118001140", "fornecedor":"TELEMAR NORTE LESTE S/A", 
+                            "documento":"null", "data":"2012-02-01", "detalhamento":"null", 
+                            "valorReembolsado":"301.94", "codDocumento":"519837"}, {"ano":"2012", "mes":"2", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"14668106372", "fornecedor":"THERESA DE MARIA VILAS BOAS SANTOS", 
+                            "documento":"null", "data":"2012-03-01", "detalhamento":"null", 
+                            "valorReembolsado":"10000.0", "codDocumento":"519835"}, {"ano":"2012", "mes":"2", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Serviços de Segurança Privada", "cnpjCpf":"08070938000190", "fornecedor":"PACIFIC SEGURANÇA E VIGILANCIA LTDA", 
+                            "documento":"216", "data":"2012-03-06", "detalhamento":"null", 
+                            "valorReembolsado":"4880.0", "codDocumento":"519836"}, {"ano":"2012", "mes":"3", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"06274757000150", "fornecedor":"CAEMA", 
+                            "documento":"33964671022012", "data":"2012-03-06", "detalhamento":"null", 
+                            "valorReembolsado":"17.74", "codDocumento":"555363"}, {"ano":"2012", "mes":"3", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"06272793000184", "fornecedor":"CEMAR", 
+                            "documento":"0120129232885464", "data":"2012-03-09", "detalhamento":"null", 
+                            "valorReembolsado":"105.64", "codDocumento":"555361"}, {"ano":"2012", "mes":"3", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000179", "fornecedor":"TELEMAR", 
+                            "documento":"0700034193202", "data":"2012-03-01", "detalhamento":"null", 
+                            "valorReembolsado":"199.06", "codDocumento":"555364"}, {"ano":"2012", "mes":"3", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"14668106372", "fornecedor":"THERESA DE MARIA VILAS BOAS SANTOS", 
+                            "documento":"null", "data":"2012-04-01", "detalhamento":"null", 
+                            "valorReembolsado":"10000.0", "codDocumento":"555360"}, {"ano":"2012", "mes":"3", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"06164253000187", "fornecedor":"GOL", 
+                            "documento":"CH532R", "data":"2012-03-15", "detalhamento":"PASSAGEIRO: SENADOR LOBÃO FILHO
+
+TRECHO: BRASÍLIA/ SÃO LUIS
+
+DATA: 15/03/2012", 
+                            "valorReembolsado":"674.47", "codDocumento":"534975"}, {"ano":"2012", "mes":"3", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"06164253000187", "fornecedor":"GOL", 
+                            "documento":"WYUVJM", "data":"2012-03-26", "detalhamento":"PASSAGEIRO: SENADOR LOBÃO FILHO
+
+TRECHO: SÃO LUIS/ BRASÍLIA
+
+DATA: 26/03/2012", 
+                            "valorReembolsado":"738.94", "codDocumento":"534976"}, {"ano":"2012", "mes":"3", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"01832635000118", "fornecedor":"TAM ", 
+                            "documento":"6ZEQ8V", "data":"2012-03-05", "detalhamento":"PASSAGEIRO: SENADOR LOBÃO FILHO
+
+TRECHO: SÃO LUIS/ BRASÍLIA
+
+DATA: 06/03/2012", 
+                            "valorReembolsado":"593.44", "codDocumento":"534974"}, {"ano":"2012", "mes":"3", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Serviços de Segurança Privada", "cnpjCpf":"08070938000190", "fornecedor":"PACIFIC SEGURANÇA E VIGILÂNCIA LTDA", 
+                            "documento":"222", "data":"2012-04-02", "detalhamento":"null", 
+                            "valorReembolsado":"4880.0", "codDocumento":"555362"}, {"ano":"2012", "mes":"4", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"06274757000150", "fornecedor":"CAEMA", 
+                            "documento":"34625590032012", "data":"2012-04-06", "detalhamento":"null", 
+                            "valorReembolsado":"17.4", "codDocumento":"555368"}, {"ano":"2012", "mes":"4", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"06272793000184", "fornecedor":"CEMAR", 
+                            "documento":"01201293773129675", "data":"2012-04-11", "detalhamento":"null", 
+                            "valorReembolsado":"96.85", "codDocumento":"555367"}, {"ano":"2012", "mes":"4", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000179", "fornecedor":"TELEMAR", 
+                            "documento":"0700034468653", "data":"2012-04-01", "detalhamento":"null", 
+                            "valorReembolsado":"178.85", "codDocumento":"555369"}, {"ano":"2012", "mes":"4", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"14668106372", "fornecedor":"THERESA DE MARIA VILAS BOAS SANTOS", 
+                            "documento":"null", "data":"2012-05-01", "detalhamento":"null", 
+                            "valorReembolsado":"10000.0", "codDocumento":"555365"}, {"ano":"2012", "mes":"4", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"01832635000118", "fornecedor":"TAM", 
+                            "documento":"6r26he", "data":"2012-04-17", "detalhamento":"Passageiro: Senador Lobão Filho
+
+Trecho: Rio de Janeiro/Brasília
+
+Data: 17/04/2012. Voô remarcado 2 vezes e realizado as 20:37 h do dia 17/04 conforme atesto.
+
+obs: o bilhete foi reutilizado algumas vezes, no entanto, solicitamos o reembolso  do valor da primeira passagem, trecho São Paulo/ Brasília, no valor de 315,57 (valor sem as multas e taxas adicionais de remarcação )", 
+                            "valorReembolsado":"315.57", "codDocumento":"547954"}, {"ano":"2012", "mes":"4", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Serviços de Segurança Privada", "cnpjCpf":"08070938000190", "fornecedor":"PACIFIC SEGURANÇA E VIGILÂNCIA LTDA", 
+                            "documento":"233", "data":"2012-05-04", "detalhamento":"null", 
+                            "valorReembolsado":"4880.0", "codDocumento":"555366"}, {"ano":"2012", "mes":"5", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"06274757000150", "fornecedor":"caema", 
+                            "documento":"35275279042012", "data":"2012-05-06", "detalhamento":"null", 
+                            "valorReembolsado":"17.4", "codDocumento":"589062"}, {"ano":"2012", "mes":"5", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"06272793000184", "fornecedor":"cemar", 
+                            "documento":"01201295115479530", "data":"2012-05-10", "detalhamento":"null", 
+                            "valorReembolsado":"109.74", "codDocumento":"589061"}, {"ano":"2012", "mes":"5", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"14668106372", "fornecedor":"thereza de maria vilas boas santos", 
+                            "documento":"null", "data":"2012-06-01", "detalhamento":"null", 
+                            "valorReembolsado":"10000.0", "codDocumento":"589059"}, {"ano":"2012", "mes":"5", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"06164253000187", "fornecedor":"GOL", 
+                            "documento":"U6RIML", "data":"2012-05-02", "detalhamento":"PASSAGEIRO: SENADOR LOBÃO FILHO
+
+DATA: 03/05/2012
+
+TRECHO: BRASILIA/SÃO LUIS", 
+                            "valorReembolsado":"781.47", "codDocumento":"566697"}, {"ano":"2012", "mes":"5", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"06164253000187", "fornecedor":"GOL", 
+                            "documento":"I6EJKY", "data":"2012-05-09", "detalhamento":"PASSAGEIRO: BRAUNNER FASSHEBER NOVAIS (FUNCIONÁRIO DO GABINETE, MATRÍCULA 152459)
+
+DATA: 12/05/2012
+
+TRECHO: BRASILIA/ SÃO PAULO", 
+                            "valorReembolsado":"459.47", "codDocumento":"566691"}, {"ano":"2012", "mes":"5", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"06164253000187", "fornecedor":"gol", 
+                            "documento":"qydk7m", "data":"2012-05-09", "detalhamento":"Passageiro: Senador Lobão Filho
+
+Trecho: Brasília - São Luís
+
+Data: 31/05/2012", 
+                            "valorReembolsado":"734.47", "codDocumento":"586693"}, {"ano":"2012", "mes":"5", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"01832635000118", "fornecedor":"TAM", 
+                            "documento":"43UO63", "data":"2012-05-04", "detalhamento":"PASSAGEIRO: SENADOR LOBÃO FILHO
+
+DATA:08/05/2012
+
+TRECHO: SÃO LUIS/ BRASILIA", 
+                            "valorReembolsado":"384.04", "codDocumento":"566695"}, {"ano":"2012", "mes":"5", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"01832635000118", "fornecedor":"TAM", 
+                            "documento":"4WBC38", "data":"2012-05-24", "detalhamento":"PASSAGEIRO: SENADOR LOBÃO FILHO
+
+DATA: 24/05/2012
+
+TRECHO: BRASILIA/ SÃO LUIS", 
+                            "valorReembolsado":"679.57", "codDocumento":"566693"}, {"ano":"2012", "mes":"5", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"01832635000118", "fornecedor":"TAM", 
+                            "documento":"5IT2ZR", "data":"2012-05-25", "detalhamento":"PASSAGEIRO: SENADOR LOBÃO FILHO
+
+DATA: 29/05/2012
+
+TRECHO: SÃO LUIS/ BRASILIA", 
+                            "valorReembolsado":"492.04", "codDocumento":"566692"}, {"ano":"2012", "mes":"5", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"01832635000118", "fornecedor":"TAM ", 
+                            "documento":"3OG8EC", "data":"2012-05-01", "detalhamento":"PASSAGEIRO: SENADOR LOBÃO FILHO
+
+DATA: 02/05/2012
+
+TRECHO: SÃO LUIS/ BRASILIA", 
+                            "valorReembolsado":"694.04", "codDocumento":"566696"}, {"ano":"2012", "mes":"5", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"01832635000118", "fornecedor":"TAM ", 
+                            "documento":"3BPIHF", "data":"2012-05-21", "detalhamento":"PASSAGEIRO: SENADOR LOBÃO FILHO
+
+DATA: 22/05/2012
+
+TRECHO: SÃO LUIS/ BRASILIA", 
+                            "valorReembolsado":"529.04", "codDocumento":"566694"}, {"ano":"2012", "mes":"5", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Serviços de Segurança Privada", "cnpjCpf":"08070938000190", "fornecedor":"pacific segurança e vigilancia ltda", 
+                            "documento":"243", "data":"2012-06-04", "detalhamento":"null", 
+                            "valorReembolsado":"4880.0", "codDocumento":"589060"}, {"ano":"2012", "mes":"6", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"06274757000150", "fornecedor":"CAEMA", 
+                            "documento":"35829824/052012", "data":"2012-05-18", "detalhamento":"null", 
+                            "valorReembolsado":"26.6", "codDocumento":"610947"}, {"ano":"2012", "mes":"6", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"06272793000184", "fornecedor":"CEMAR", 
+                            "documento":"01-2012966807939-1", "data":"2012-05-29", "detalhamento":"null", 
+                            "valorReembolsado":"87.01", "codDocumento":"610946"}, {"ano":"2012", "mes":"6", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118001140", "fornecedor":"TELEMAR", 
+                            "documento":"null", "data":"2012-06-01", "detalhamento":"null", 
+                            "valorReembolsado":"161.23", "codDocumento":"610948"}, {"ano":"2012", "mes":"6", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"14668106372", "fornecedor":"THEREZA DE MARIA VILAS BOAS SANTOS", 
+                            "documento":"null", "data":"2012-07-01", "detalhamento":"null", 
+                            "valorReembolsado":"10000.0", "codDocumento":"610949"}, {"ano":"2012", "mes":"6", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"06164253000187", "fornecedor":"gol", 
+                            "documento":"ld737d", "data":"2012-06-05", "detalhamento":"Passageiro: Senador Lobão Filho
+
+Trecho: Brasília - São Luís
+
+Data: 27/06/2012", 
+                            "valorReembolsado":"1233.47", "codDocumento":"586695"}, {"ano":"2012", "mes":"6", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"01832635000118", "fornecedor":"Tam", 
+                            "documento":"72o4vp", "data":"2012-05-31", "detalhamento":"Passageiro: Braunner Fassheber
+Matrícula: 152459
+
+Trecho: São Paulo - Brasília
+
+Data: 07/06/2012", 
+                            "valorReembolsado":"584.77", "codDocumento":"586699"}, {"ano":"2012", "mes":"6", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"01832635000118", "fornecedor":"Tam", 
+                            "documento":"7z3ebm", "data":"2012-05-31", "detalhamento":"Passageiro: Braunner Fassheber
+Matrícula: 152459
+
+Trecho: Brasília - São Paulo
+
+Data: 07/06/2012", 
+                            "valorReembolsado":"584.77", "codDocumento":"586698"}, {"ano":"2012", "mes":"6", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"01832635000118", "fornecedor":"Tam", 
+                            "documento":"8ju24l", "data":"2012-06-01", "detalhamento":"Passageiro: Senador Lobão Filho
+
+Trecho: São Luis - Brasília
+           Brasília - São Luís
+
+Data: 05/06/2012
+         06/06/2012
+", 
+                            "valorReembolsado":"1914.61", "codDocumento":"586696"}, {"ano":"2012", "mes":"6", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"01832635000118", "fornecedor":"tam", 
+                            "documento":"8i6ovf", "data":"2012-06-01", "detalhamento":"Passageiro: Odinarte Campos
+Matrícula: 172082
+
+Trecho: Brasília - São Luís
+             São Luís - Brasília
+
+Data: 01/06/2012
+         03/06/2012", 
+                            "valorReembolsado":"1248.52", "codDocumento":"586697"}, {"ano":"2012", "mes":"6", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"01832635000118", "fornecedor":"tam", 
+                            "documento":"zgl3xj", "data":"2012-06-25", "detalhamento":"Passageiro: Senador Lobão Filho
+
+Trecho: São Luís - Brasília
+
+Data: 26/06/2012", 
+                            "valorReembolsado":"594.04", "codDocumento":"586694"}, {"ano":"2012", "mes":"6", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"05730375000120", "fornecedor":"webjet", 
+                            "documento":"0i2rw4", "data":"2012-06-20", "detalhamento":"Passageiro: Marcelo Teixeira
+Matrícula: 211180
+
+Trecho: Brasília - Rio de Janeiro
+           Rio de Janeiro - Brasília
+
+Data: 21/06/2012
+         21/06/2012", 
+                            "valorReembolsado":"625.12", "codDocumento":"586700"}, {"ano":"2012", "mes":"6", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Serviços de Segurança Privada", "cnpjCpf":"08070938000190", "fornecedor":"PACIFIC SEGURANÇA E VIGILLÂNCIA LTDA", 
+                            "documento":"251/2012", "data":"2012-07-04", "detalhamento":"null", 
+                            "valorReembolsado":"4880.0", "codDocumento":"610950"}, {"ano":"2012", "mes":"7", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"06274757000150", "fornecedor":"CAEMA", 
+                            "documento":"36334677062012", "data":"2012-06-15", "detalhamento":"null", 
+                            "valorReembolsado":"26.6", "codDocumento":"618903"}, {"ano":"2012", "mes":"7", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"06272793000184", "fornecedor":"CEMAR", 
+                            "documento":"01-2012983491962-44", "data":"2012-06-29", "detalhamento":"null", 
+                            "valorReembolsado":"76.38", "codDocumento":"618901"}, {"ano":"2012", "mes":"7", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000179", "fornecedor":"TELEMAR NORTE LESTE S/A", 
+                            "documento":"0700035295085", "data":"2012-07-01", "detalhamento":"null", 
+                            "valorReembolsado":"153.23", "codDocumento":"618904"}, {"ano":"2012", "mes":"7", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"14668106372", "fornecedor":"THEREZA DE MARIA VILAS BOAS SANTOS", 
+                            "documento":"null", "data":"2012-08-01", "detalhamento":"null", 
+                            "valorReembolsado":"10000.0", "codDocumento":"618900"}, {"ano":"2012", "mes":"7", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"06164253000187", "fornecedor":"GOL", 
+                            "documento":"NF1Z6N", "data":"2012-07-03", "detalhamento":"Passageiro: Senador Edison Lobão Filho
+Trecho: São Luís - Brasília
+Data: 04/07/2012", 
+                            "valorReembolsado":"1462.94", "codDocumento":"610953"}, {"ano":"2012", "mes":"7", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"06164253000187", "fornecedor":"GOL", 
+                            "documento":"PBN78J", "data":"2012-07-09", "detalhamento":"Passageiro: Edison Lobão Filho
+Trecho: São Luís - Brasília
+Data: 10/07/2012", 
+                            "valorReembolsado":"1462.94", "codDocumento":"610954"}, {"ano":"2012", "mes":"7", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"06164253000187", "fornecedor":"GOL", 
+                            "documento":"CI2QRE", "data":"2012-07-13", "detalhamento":"Passageiro: Senador Edison Lobão Filho
+Trecho: São Luís - Brasília
+Data: 17/07/2012", 
+                            "valorReembolsado":"1511.94", "codDocumento":"610952"}, {"ano":"2012", "mes":"7", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"01832635000118", "fornecedor":"TAM", 
+                            "documento":"9572445405953", "data":"2012-07-17", "detalhamento":"Passageiro:Senador Edison Lobão Filho
+Trecho: Brasília - São Luís
+Data: 18/07/2012", 
+                            "valorReembolsado":"1873.57", "codDocumento":"610951"}, {"ano":"2012", "mes":"7", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Serviços de Segurança Privada", "cnpjCpf":"08070938000190", "fornecedor":"PACIFIC SEGURANÇA E VIGILÂNCIA LTDA", 
+                            "documento":"null", "data":"2012-08-02", "detalhamento":"null", 
+                            "valorReembolsado":"4880.0", "codDocumento":"618902"}, {"ano":"2012", "mes":"8", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"14668106372", "fornecedor":"THEREZA DE MARIA VILAS BOAS SANTOS", 
+                            "documento":"null", "data":"2012-09-01", "detalhamento":"null", 
+                            "valorReembolsado":"10000.0", "codDocumento":"641938"}, {"ano":"2012", "mes":"8", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"06274757000150", "fornecedor":"CAEMA", 
+                            "documento":"37001405072012", "data":"2012-08-06", "detalhamento":"null", 
+                            "valorReembolsado":"26.6", "codDocumento":"641941"}, {"ano":"2012", "mes":"8", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"06272793000184", "fornecedor":"CEMAR", 
+                            "documento":"1739966", "data":"2012-08-09", "detalhamento":"null", 
+                            "valorReembolsado":"96.31", "codDocumento":"641939"}, {"ano":"2012", "mes":"8", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"33000118001140", "fornecedor":"TELEMAR NORTE LESTE S/A", 
+                            "documento":"0700035568572", "data":"2012-08-15", "detalhamento":"null", 
+                            "valorReembolsado":"161.95", "codDocumento":"641942"}, {"ano":"2012", "mes":"8", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"06164253000187", "fornecedor":"GOL", 
+                            "documento":"kj3mpr", "data":"2012-08-09", "detalhamento":"Passageiro: Rachel Gerude Araújo de Queiroz
+Matrícula: 200910
+Trecho: Brasília - São Paulo
+Data: 17/08/2012", 
+                            "valorReembolsado":"337.47", "codDocumento":"618910"}, {"ano":"2012", "mes":"8", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"06164253000187", "fornecedor":"GOL", 
+                            "documento":"cyr1ym", "data":"2012-08-28", "detalhamento":"Passageiro: Rachel Gerude Araújo de Queiroz
+Matrícula: 200910
+Trecho: São Paulo - Brasília
+Data: 30/08/2012
+", 
+                            "valorReembolsado":"384.47", "codDocumento":"618909"}, {"ano":"2012", "mes":"8", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"01832635000118", "fornecedor":"TAM", 
+                            "documento":"9572451853980", "data":"2012-08-09", "detalhamento":"Passageiro: Rachel Gerude Araújo de Queiroz
+Matrícula: 200910
+Trecho: São Paulo - Brasília
+Data: 12/08/2012", 
+                            "valorReembolsado":"464.57", "codDocumento":"618911"}, {"ano":"2012", "mes":"8", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"01832635000118", "fornecedor":"TAM", 
+                            "documento":"9572452757817", "data":"2012-08-14", "detalhamento":"Passageiro: Senador Edison Lobão Filho
+Trecho: São Luís - Brasília
+Data: 16/08/2012", 
+                            "valorReembolsado":"529.04", "codDocumento":"618907"}, {"ano":"2012", "mes":"8", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"01832635000118", "fornecedor":"TAM", 
+                            "documento":"9572452757831", "data":"2012-08-16", "detalhamento":"Passageiro: Senador Edison Lobão Filho
+Trecho: Brasília - São Luís
+Data: 16/08/2012", 
+                            "valorReembolsado":"1021.57", "codDocumento":"618906"}, {"ano":"2012", "mes":"8", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"01832635000118", "fornecedor":"TAM", 
+                            "documento":"9572453777062", "data":"2012-08-29", "detalhamento":"Passageiro: Senador Edison Lobão Filho
+Trecho: Brasília - São Luís
+Data: 29/08/2012", 
+                            "valorReembolsado":"761.13", "codDocumento":"618905"}, {"ano":"2012", "mes":"8", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"01832635000118", "fornecedor":"TAM", 
+                            "documento":"9572453777066", "data":"2012-08-30", "detalhamento":"Passageiro: Odinarte Borges de Campos
+Matrícula: 172082
+Trechos: Brasília - Cuiabá
+             Cuiabá - Brasília
+Datas: 30/08/2012
+           31/08/2012", 
+                            "valorReembolsado":"976.08", "codDocumento":"618908"}, {"ano":"2012", "mes":"8", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Serviços de Segurança Privada", "cnpjCpf":"08070938000190", "fornecedor":"PACIFIC SEGURANÇA E VIGILÂNCIA LTDA", 
+                            "documento":"null", "data":"2012-09-04", "detalhamento":"null", 
+                            "valorReembolsado":"4880.0", "codDocumento":"641940"}, {"ano":"2012", "mes":"9", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"06274757000150", "fornecedor":"CAEMA", 
+                            "documento":"37541626082012", "data":"2012-09-06", "detalhamento":"null", 
+                            "valorReembolsado":"26.6", "codDocumento":"649356"}, {"ano":"2012", "mes":"9", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"06272793000184", "fornecedor":"CEMAR", 
+                            "documento":"2012101362139589", "data":"2012-09-11", "detalhamento":"null", 
+                            "valorReembolsado":"92.56", "codDocumento":"649354"}, {"ano":"2012", "mes":"9", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000179", "fornecedor":"TELEMAR NORTE LESTE S/A", 
+                            "documento":"null", "data":"2012-09-15", "detalhamento":"null", 
+                            "valorReembolsado":"237.74", "codDocumento":"649357"}, {"ano":"2012", "mes":"9", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"14668106372", "fornecedor":"THERESA DE MARIA VILAS BOAS SANTOS", 
+                            "documento":"null", "data":"2012-10-01", "detalhamento":"null", 
+                            "valorReembolsado":"10000.0", "codDocumento":"649353"}, {"ano":"2012", "mes":"9", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"06164253000187", "fornecedor":"GOL", 
+                            "documento":"GGMBHX", "data":"2012-09-12", "detalhamento":"Senador Lobão Filho
+Trecho: Brasília - São Luís
+Data: 13/09/2012", 
+                            "valorReembolsado":"1296.03", "codDocumento":"649358"}, {"ano":"2012", "mes":"9", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"01832635000118", "fornecedor":"TAM", 
+                            "documento":"5VI4WI", "data":"2012-09-04", "detalhamento":"Servidora: Rachel Gerude Araújo
+Matrícula: 200910
+Trecho 1: Brasília - São Paulo
+Data: 05/09/2012
+Trecho 2: São Paulo - Brasília
+Data: 08/09/2012", 
+                            "valorReembolsado":"607.6", "codDocumento":"649361"}, {"ano":"2012", "mes":"9", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"01832635000118", "fornecedor":"TAM", 
+                            "documento":"6X8NX9", "data":"2012-09-11", "detalhamento":"Senador Lobão Filho
+Trecho: São Luís - Brasília
+Data: 12/09/2012", 
+                            "valorReembolsado":"2172.04", "codDocumento":"649360"}, {"ano":"2012", "mes":"9", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"01832635000118", "fornecedor":"TAM", 
+                            "documento":"6F2FCI", "data":"2012-09-24", "detalhamento":"Senador Lobão Filho
+Trecho: São Luís - Brasília
+Data: 25/09/2012", 
+                            "valorReembolsado":"373.57", "codDocumento":"649359"}, {"ano":"2012", "mes":"9", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Serviços de Segurança Privada", "cnpjCpf":"08070938000190", "fornecedor":"PACIFIC SEGURANÇA E VIGILÂNCIA LTDA", 
+                            "documento":"null", "data":"2012-10-01", "detalhamento":"null", 
+                            "valorReembolsado":"4880.0", "codDocumento":"649355"}, {"ano":"2012", "mes":"10", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"06274757000150", "fornecedor":"CAEMA", 
+                            "documento":"38106807092012", "data":"2012-10-06", "detalhamento":"null", 
+                            "valorReembolsado":"26.6", "codDocumento":"657345"}, {"ano":"2012", "mes":"10", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"06272793000184", "fornecedor":"CEMAR", 
+                            "documento":"012012102707373052", "data":"2012-10-10", "detalhamento":"null", 
+                            "valorReembolsado":"106.49", "codDocumento":"657343"}, {"ano":"2012", "mes":"10", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118001140", "fornecedor":"OI - TELEMAR NORTE LESTE S/A", 
+                            "documento":"0700036120687", "data":"2012-10-15", "detalhamento":"null", 
+                            "valorReembolsado":"263.65", "codDocumento":"657346"}, {"ano":"2012", "mes":"10", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"14668106372", "fornecedor":"THEREZA DE MARIA VILAS BOAS SANTOS", 
+                            "documento":"null", "data":"2012-11-01", "detalhamento":"null", 
+                            "valorReembolsado":"10000.0", "codDocumento":"657342"}, {"ano":"2012", "mes":"10", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"06164253000187", "fornecedor":"GOL", 
+                            "documento":"QINM9E", "data":"2012-10-26", "detalhamento":"Passageiro: Senador Lobão Filho
+Trecho: São Luís - São Paulo
+Data: 27/10/2012", 
+                            "valorReembolsado":"1083.47", "codDocumento":"658835"}, {"ano":"2012", "mes":"10", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"01832635000118", "fornecedor":"TAM", 
+                            "documento":"Y2CJBF", "data":"2012-10-01", "detalhamento":"Passageiro: Rachel Gerude Araújo
+Matrícula: 200910
+Trecho: Brasília - São Paulo
+Data: 02/10/2012", 
+                            "valorReembolsado":"535.93", "codDocumento":"658840"}, {"ano":"2012", "mes":"10", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"01832635000118", "fornecedor":"TAM", 
+                            "documento":"ZXGE33", "data":"2012-10-03", "detalhamento":"Passageiro: Odinarte Borges de Campos
+Matrícula: 172082
+Trecho: Brasília - Cuiabá
+           Cuiabá  - Brasília
+Data: 03/10/2012
+         04/10/2012", 
+                            "valorReembolsado":"1126.08", "codDocumento":"658839"}, {"ano":"2012", "mes":"10", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"01832635000118", "fornecedor":"TAM", 
+                            "documento":"2K7OLG", "data":"2012-10-22", "detalhamento":"Passageiro: Braunner Fassheber N. B. Barreto
+Matrícula: 152459
+Trecho: Brasília - São Paulo
+Data: 23/10/2012", 
+                            "valorReembolsado":"539.13", "codDocumento":"658838"}, {"ano":"2012", "mes":"10", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"01832635000118", "fornecedor":"TAM", 
+                            "documento":"3H9S57", "data":"2012-10-24", "detalhamento":"Passageiro: Braunner Fassheber N. B. Barreto
+Matrícula: 152459
+Trecho: São Paulo - Brasília
+Data: 25/10/2012", 
+                            "valorReembolsado":"489.57", "codDocumento":"658837"}, {"ano":"2012", "mes":"10", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"01832635000118", "fornecedor":"TAM", 
+                            "documento":"5K4MIC", "data":"2012-10-29", "detalhamento":"Passageiro: Braunner Fassheber N. B. Barreto
+Matrícula: 152459
+Trecho: Brasília - São Paulo
+Data: 30/10/2012", 
+                            "valorReembolsado":"539.13", "codDocumento":"658836"}, {"ano":"2012", "mes":"10", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Serviços de Segurança Privada", "cnpjCpf":"08070938000190", "fornecedor":"PACIFIC SEGURANÇA E VIGILÂNCIA LTDA", 
+                            "documento":"null", "data":"2012-11-07", "detalhamento":"null", 
+                            "valorReembolsado":"4880.0", "codDocumento":"657344"}, {"ano":"2012", "mes":"11", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"06274757000150", "fornecedor":"CAEMA", 
+                            "documento":"38959096/102012", "data":"2012-11-06", "detalhamento":"null", 
+                            "valorReembolsado":"27.13", "codDocumento":"688671"}, {"ano":"2012", "mes":"11", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"06272793000184", "fornecedor":"CEMAR", 
+                            "documento":"null", "data":"2012-11-09", "detalhamento":"null", 
+                            "valorReembolsado":"111.73", "codDocumento":"688669"}, {"ano":"2012", "mes":"11", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"08070938000190", "fornecedor":"PACIFIC SEGURANÇA E VIGILÂNCIA LTDA", 
+                            "documento":"null", "data":"2012-12-05", "detalhamento":"null", 
+                            "valorReembolsado":"4880.0", "codDocumento":"688670"}, {"ano":"2012", "mes":"11", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000179", "fornecedor":"TELEMAR NORTE LESTE S/A", 
+                            "documento":"null", "data":"2012-11-15", "detalhamento":"null", 
+                            "valorReembolsado":"181.0", "codDocumento":"688672"}, {"ano":"2012", "mes":"11", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"14668106372", "fornecedor":"THERESA DE MARIA VILAS BOAS SANTOS", 
+                            "documento":"null", "data":"2012-12-01", "detalhamento":"null", 
+                            "valorReembolsado":"10000.0", "codDocumento":"688668"}, {"ano":"2012", "mes":"11", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"06164253000187", "fornecedor":"GOL", 
+                            "documento":"HYT64Z", "data":"2012-11-13", "detalhamento":"Passageiro: Braunner Fassheber N. B. Barreto
+Matrícula: 152459
+Trecho: Brasília - São Paulo
+Data: 18/11/2012", 
+                            "valorReembolsado":"513.03", "codDocumento":"670355"}, {"ano":"2012", "mes":"11", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"01832635000118", "fornecedor":"TAM", 
+                            "documento":"6XQ97S", "data":"2012-10-31", "detalhamento":"Passageiro: Braunner Fassheber N. B. Barreto 
+Matrícula: 152459
+Trecho: São Paulo - Brasília
+Data: 01/11/2012", 
+                            "valorReembolsado":"539.57", "codDocumento":"670356"}, {"ano":"2012", "mes":"11", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"01832635000118", "fornecedor":"TAM", 
+                            "documento":"7BQ4CT", "data":"2012-11-01", "detalhamento":"Passageiro: Rachel Gerude Araújo 
+Matrícula: 200910
+Trecho: São Paulo - São Luís
+Data: 02/11/2012", 
+                            "valorReembolsado":"646.13", "codDocumento":"670360"}, {"ano":"2012", "mes":"11", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"01832635000118", "fornecedor":"TAM", 
+                            "documento":"8NQTI9", "data":"2012-11-05", "detalhamento":"Passageiro: Senador Lobão Filho
+Trecho: São Luís - Brasília
+Data: 06/11/2012", 
+                            "valorReembolsado":"447.57", "codDocumento":"670354"}, {"ano":"2012", "mes":"11", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"01832635000118", "fornecedor":"TAM", 
+                            "documento":"Y5YLMS", "data":"2012-11-07", "detalhamento":"Passageiro: Senador Lobão Filho
+Trecho: Brasília - São Luís
+Data: 08/11/2012", 
+                            "valorReembolsado":"1059.13", "codDocumento":"670352"}, {"ano":"2012", "mes":"11", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"01832635000118", "fornecedor":"TAM", 
+                            "documento":"3VVXYC", "data":"2012-11-13", "detalhamento":"Passageiro: Senador Lobão Filho
+Trecho: São Luís - Brasília
+Data: 14/11/2012
+", 
+                            "valorReembolsado":"959.57", "codDocumento":"670353"}, {"ano":"2012", "mes":"11", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"01832635000118", "fornecedor":"TAM", 
+                            "documento":"3N5WMO", "data":"2012-11-13", "detalhamento":"Passageiro: Rachel Gerude Araújo 
+Matrícula: 200910
+Trecho: Teresina - Brasília
+Data: 17/11/2012
+", 
+                            "valorReembolsado":"1256.95", "codDocumento":"670359"}, {"ano":"2012", "mes":"11", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"01832635000118", "fornecedor":"TAM", 
+                            "documento":"YPPZOM", "data":"2012-11-27", "detalhamento":"Passageiro: Senador Lobão Filho
+Trecho: Brasília - São Luís
+Data: 29/11/2012", 
+                            "valorReembolsado":"3163.13", "codDocumento":"684955"}, {"ano":"2012", "mes":"11", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"05730375000120", "fornecedor":"WEBJET", 
+                            "documento":"OKX8JW", "data":"2012-11-07", "detalhamento":"Passageiro: Odinart Campos
+Matrícula: 172082
+Trecho: Brasília - Rio de Janeiro
+Data: 08/11/2012", 
+                            "valorReembolsado":"362.03", "codDocumento":"670357"}, {"ano":"2012", "mes":"11", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"01832635000118", "fornecedor":"WEBJET", 
+                            "documento":"EEV8MA", "data":"2012-11-09", "detalhamento":"Passageiro: Odinart Campos
+Matrícula: 172082
+Trecho: Rio de Janeiro - Brasília
+Data: 09/11/2012", 
+                            "valorReembolsado":"362.47", "codDocumento":"670358"}, {"ano":"2012", "mes":"12", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"06274757000150", "fornecedor":"CAEMA", 
+                            "documento":"39608689/112012", "data":"2012-12-06", "detalhamento":"null", 
+                            "valorReembolsado":"26.6", "codDocumento":"711126"}, {"ano":"2012", "mes":"12", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"06272793000184", "fornecedor":"CEMAR", 
+                            "documento":"012012105482291140", "data":"2012-12-10", "detalhamento":"null", 
+                            "valorReembolsado":"98.62", "codDocumento":"711124"}, {"ano":"2012", "mes":"12", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118001140", "fornecedor":"OI", 
+                            "documento":"null", "data":"2012-12-15", "detalhamento":"null", 
+                            "valorReembolsado":"233.33", "codDocumento":"711127"}, {"ano":"2012", "mes":"12", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"14668106372", "fornecedor":"THERESA DE MARIA VILAS BOAS SANTOS", 
+                            "documento":"null", "data":"2013-01-02", "detalhamento":"null", 
+                            "valorReembolsado":"10000.0", "codDocumento":"711123"}, {"ano":"2012", "mes":"12", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"06164253000187", "fornecedor":"GOL", 
+                            "documento":"Z5NE3B", "data":"2012-12-03", "detalhamento":"Passageiro: Senador Lobão Filho
+Trecho: Brasília - São Luís
+Data: 05/12/2012", 
+                            "valorReembolsado":"2717.03", "codDocumento":"686235"}, {"ano":"2012", "mes":"12", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"01832635000118", "fornecedor":"TAM", 
+                            "documento":"3YRVFG", "data":"2012-12-03", "detalhamento":"Passageiro: Marta Regina Ribeiro Soares
+Matrícula: 158334
+Trecho:  Brasília - Fortaleza
+            Fortaleza - Teresina
+            Teresina - Brasília
+
+Data:     11/12/2012
+             11/12/2012
+             17/12/2012", 
+                            "valorReembolsado":"2822.08", "codDocumento":"686237"}, {"ano":"2012", "mes":"12", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"01832635000118", "fornecedor":"TAM", 
+                            "documento":"35GDCC", "data":"2012-12-03", "detalhamento":"Passageiro: Senador Lobão Filho
+Trecho: São Luís - Brasília
+Data: 04/12/2012", 
+                            "valorReembolsado":"3163.57", "codDocumento":"686236"}, {"ano":"2012", "mes":"12", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"01832635000118", "fornecedor":"TAM", 
+                            "documento":"YKUIYK", "data":"2012-12-13", "detalhamento":"Passageiro: Braunner Fassheber N. B. Barreto
+Matrícula: 152459
+Trecho: Brasília - São Paulo
+Data: 19/12/2012", 
+                            "valorReembolsado":"493.35", "codDocumento":"686239"}, {"ano":"2012", "mes":"12", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"01832635000118", "fornecedor":"TAM", 
+                            "documento":"ZAB9T3", "data":"2012-12-14", "detalhamento":"Passageiro: Liana de Oliveira Magalhães
+Matrícula: 228993
+Trecho: Brasília - São Luís
+           São Luís - Brasília
+
+Data:    16/12/2012
+            19/12/2012 
+", 
+                            "valorReembolsado":"2628.7", "codDocumento":"686238"}, {"ano":"2012", "mes":"12", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"01832635000118", "fornecedor":"TAM", 
+                            "documento":"3LZTGU", "data":"2012-12-20", "detalhamento":"Passageiro: Braunner Fassheber N. B. Barreto 
+Matrícula: 152459
+Trecho: São Paulo - Brasília
+Data: 20/12/2012", 
+                            "valorReembolsado":"1165.7", "codDocumento":"686240"}, {"ano":"2012", "mes":"12", "senador":"LOBÃO FILHO", 
+                            "tipoDespesa":"Serviços de Segurança Privada", "cnpjCpf":"08070938000190", "fornecedor":"PACIFIC SEGURANÇA E VIGILÂNCIA", 
+                            "documento":"308", "data":"2013-01-04", "detalhamento":"null", 
+                            "valorReembolsado":"4880.0", "codDocumento":"711125"}]}

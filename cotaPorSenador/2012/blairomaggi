@@ -1,0 +1,927 @@
+{"gastosSenador": [{"ano":"2012", "mes":"6", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2447882130", "data":"2012-05-22", "detalhamento":"TAM LINHAS AÉREAS
+Walter Pereira - Mat: 240336
+Brasília/Cuiabá - 14/06/2012
+Cuiabá/Brasília - 19/06/2012", 
+                            "valorReembolsado":"247.8", "codDocumento":"582379"}, {"ano":"2012", "mes":"6", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2448472558", "data":"2012-06-01", "detalhamento":"TAM LINHAS AÉREAS
+Eumar Novacki - Mat: 234373
+Cuiabá/Brasília - 04/06/2012
+", 
+                            "valorReembolsado":"629.95", "codDocumento":"582373"}, {"ano":"2012", "mes":"6", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2448635308", "data":"2012-06-04", "detalhamento":"TAM LINHAS AÉREAS
+Júlio Valmorbida - 240348
+Cuiabá/Brasília - 12/06/2012
+Brasília/Cuiabá - 14/06/2012", 
+                            "valorReembolsado":"1072.42", "codDocumento":"582375"}, {"ano":"2012", "mes":"6", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2448685036", "data":"2012-06-05", "detalhamento":"TAM LINHAS AÉREAS
+Eumar Novacki Mat:234373
+Brasília/Cuiabá - 06/06/2012", 
+                            "valorReembolsado":"634.57", "codDocumento":"599833"}, {"ano":"2012", "mes":"6", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2449168115", "data":"2012-06-06", "detalhamento":"TAM LINHAS AÉREAS
+Senador Blairo Maggi
+Cuiabá/Brasília -11/06/2012
+Brasília/Rio de Janeiro - 15/06/2012", 
+                            "valorReembolsado":"1178.52", "codDocumento":"582377"}, {"ano":"2012", "mes":"6", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2448999401", "data":"2012-06-11", "detalhamento":"TAM LINHAS AÉREAS
+Nathalia Mastrodomenico - Mat: 248943
+Brasília/Rio de Janeiro - 17/06/2012", 
+                            "valorReembolsado":"440.57", "codDocumento":"582382"}, {"ano":"2012", "mes":"6", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2449534696", "data":"2012-06-21", "detalhamento":"TAM LINHAS AÉREAS
+Senador Blairo Maggi
+Rio de Janeiro/São Paulo - 21/06/2012", 
+                            "valorReembolsado":"552.82", "codDocumento":"582376"}, {"ano":"2012", "mes":"6", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"VIAÇÃO GOL", 
+                            "documento":"127 - 0001349904", "data":"2012-06-06", "detalhamento":"VIAÇÃO GOL
+Senador Blairo Maggi
+Brasília/Cuiabá - 06/06/2012", 
+                            "valorReembolsado":"715.47", "codDocumento":"582372"}, {"ano":"2012", "mes":"6", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"VIAÇÃO GOL", 
+                            "documento":"127 0001352709", "data":"2012-06-11", "detalhamento":"VIAÇÃO GOL
+Nathalia Mastrodomenico - 248943
+Rio de Janeiro/Brasília - 23/06/2012
+", 
+                            "valorReembolsado":"193.47", "codDocumento":"582381"}, {"ano":"2012", "mes":"7", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"03467321000199", "fornecedor":"Centrais Elétricas Matogrossenses S. A.", 
+                            "documento":"000.175.445", "data":"2012-07-16", "detalhamento":"null", 
+                            "valorReembolsado":"84.16", "codDocumento":"599845"}, {"ano":"2012", "mes":"7", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"03467321000199", "fornecedor":"Centrais Elétricas Matogrossenses S.A.", 
+                            "documento":"000.175.453", "data":"2012-07-16", "detalhamento":"null", 
+                            "valorReembolsado":"134.82", "codDocumento":"599846"}, {"ano":"2012", "mes":"7", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"08626278000180", "fornecedor":"Condomínio Edíficio Empresarial Santa Rosa Tower", 
+                            "documento":"1303/304/064", "data":"2012-07-10", "detalhamento":"null", 
+                            "valorReembolsado":"768.21", "codDocumento":"599852"}, {"ano":"2012", "mes":"7", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"03420926000710", "fornecedor":"Global Village Telecom Ltda", 
+                            "documento":"0115465026-0", "data":"2012-07-05", "detalhamento":"null", 
+                            "valorReembolsado":"640.49", "codDocumento":"599851"}, {"ano":"2012", "mes":"7", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"03934759000130", "fornecedor":"Solução Empreendimentos I Ltda", 
+                            "documento":"5/12", "data":"2012-07-10", "detalhamento":"null", 
+                            "valorReembolsado":"2902.0", "codDocumento":"599853"}, {"ano":"2012", "mes":"7", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"05559973000189", "fornecedor":"H M Mesquita Comunicação ME", 
+                            "documento":"1087", "data":"2012-07-19", "detalhamento":"null", 
+                            "valorReembolsado":"2000.0", "codDocumento":"599854"}, {"ano":"2012", "mes":"7", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Divulgação da atividade parlamentar", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2449959184", "data":"2012-06-27", "detalhamento":"null", 
+                            "valorReembolsado":"411.95", "codDocumento":"599870"}, {"ano":"2012", "mes":"7", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"08202116000115", "fornecedor":"Auto Posto Aeroporto Ltda", 
+                            "documento":"049976", "data":"2012-07-27", "detalhamento":"null", 
+                            "valorReembolsado":"100.0", "codDocumento":"599871"}, {"ano":"2012", "mes":"7", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"08796076000268", "fornecedor":"Brasil 21 Eventos e Hotelaria Ltda", 
+                            "documento":"016924", "data":"2012-07-05", "detalhamento":"null", 
+                            "valorReembolsado":"887.4", "codDocumento":"599847"}, {"ano":"2012", "mes":"7", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"08466219000192", "fornecedor":"Churrascaria Potência Grill Ltda EPP", 
+                            "documento":"25187", "data":"2012-07-11", "detalhamento":"null", 
+                            "valorReembolsado":"233.64", "codDocumento":"599844"}, {"ano":"2012", "mes":"7", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"01652106000132", "fornecedor":"Continental Hotelaria e Turismo Ltda", 
+                            "documento":"060762", "data":"2012-07-05", "detalhamento":"null", 
+                            "valorReembolsado":"561.05", "codDocumento":"599848"}, {"ano":"2012", "mes":"7", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"01652106000132", "fornecedor":"Continental Hotelaria e Turismo Ltda", 
+                            "documento":"061061", "data":"2012-07-12", "detalhamento":"null", 
+                            "valorReembolsado":"566.0", "codDocumento":"599849"}, {"ano":"2012", "mes":"7", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"00038505000730", "fornecedor":"Conver Combustiveis Automotivos Ltda", 
+                            "documento":"89979", "data":"2012-07-16", "detalhamento":"null", 
+                            "valorReembolsado":"150.0", "codDocumento":"599872"}, {"ano":"2012", "mes":"7", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"00038505000145", "fornecedor":"Conver Combustiveis Automotivos Ltda", 
+                            "documento":"76132", "data":"2012-07-23", "detalhamento":"null", 
+                            "valorReembolsado":"150.0", "codDocumento":"599873"}, {"ano":"2012", "mes":"7", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"00038505000730", "fornecedor":"Conver Combustíveis Automotivos Ltda", 
+                            "documento":"89932", "data":"2012-07-09", "detalhamento":"null", 
+                            "valorReembolsado":"150.0", "codDocumento":"599841"}, {"ano":"2012", "mes":"7", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"00038463000908", "fornecedor":"Lubrificantes Gasol Indústria e Comércio Ltda", 
+                            "documento":"257017", "data":"2012-07-03", "detalhamento":"null", 
+                            "valorReembolsado":"145.04", "codDocumento":"599840"}, {"ano":"2012", "mes":"7", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"01019348000193", "fornecedor":"Minuta Recepções e Serviços de Buffet Ltda ME", 
+                            "documento":"39835", "data":"2012-07-04", "detalhamento":"null", 
+                            "valorReembolsado":"166.1", "codDocumento":"599842"}, {"ano":"2012", "mes":"7", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"01019348000193", "fornecedor":"Minuta Recepções e Serviços de Buffet Ltda ME", 
+                            "documento":"39937", "data":"2012-07-12", "detalhamento":"null", 
+                            "valorReembolsado":"233.2", "codDocumento":"599843"}, {"ano":"2012", "mes":"7", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHA AÉREAS", 
+                            "documento":"957 2447882175", "data":"2012-05-22", "detalhamento":"TAM LINHAS AÉREAS
+WALTER PEREIRA - Matrícula 240336
+Cuiabá/Brasília - 10/07/2012", 
+                            "valorReembolsado":"200.95", "codDocumento":"599859"}, {"ano":"2012", "mes":"7", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2449959194", "data":"2012-06-27", "detalhamento":"TAM LINHAS ÁEREAS
+EUMAR NOVACKI - Mat: 234373
+Brasília/Cuiabá - 05/07/2012", 
+                            "valorReembolsado":"286.57", "codDocumento":"599863"}, {"ano":"2012", "mes":"7", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2450116214", "data":"2012-06-29", "detalhamento":"TAM LINHAS AÉREAS
+Júlio Valmorbida Mat: 240348
+Cuiabá/Brasília - 03/07/2012
+Brasília/Cuiabá - 05/07/2012", 
+                            "valorReembolsado":"889.52", "codDocumento":"599866"}, {"ano":"2012", "mes":"7", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2450144762", "data":"2012-06-30", "detalhamento":"TAM LINHAS AÉREAS
+Senador Blairo Maggi
+Cuiabá/Brasília - 02/072012", 
+                            "valorReembolsado":"568.95", "codDocumento":"599856"}, {"ano":"2012", "mes":"7", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2450283702", "data":"2012-07-03", "detalhamento":"TAM LINHAS AÉREAS
+SENADOR BLAIRO MAGGI
+Brasília/Cuiabá - 05/07/2012", 
+                            "valorReembolsado":"573.57", "codDocumento":"599855"}, {"ano":"2012", "mes":"7", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2450456566", "data":"2012-07-05", "detalhamento":"TAM LINHAS AÉREAS
+Júlio Valmorbida Mat: 240348
+Brasília/Cuiabá - 12/07/2012", 
+                            "valorReembolsado":"286.57", "codDocumento":"599867"}, {"ano":"2012", "mes":"7", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2450456558", "data":"2012-07-05", "detalhamento":"TAM LINHAS AÉREAS
+EUMAR NOVACKI - Mat: 234373
+Brasília/Cuiabá - 12/07/2012", 
+                            "valorReembolsado":"286.57", "codDocumento":"599861"}, {"ano":"2012", "mes":"7", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2450438491", "data":"2012-07-05", "detalhamento":"TAM LINHAS AÉREAS
+EUMAR NOVACKI - Mat: 234373
+Brasília/Cuiabá - 20/07/2012", 
+                            "valorReembolsado":"338.57", "codDocumento":"599860"}, {"ano":"2012", "mes":"7", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2450438493", "data":"2012-07-05", "detalhamento":"TAM LINHAS ÁEREAS
+EUMAR NOVACKI - Mat: 234373
+Rio de Janeiro/Brasília - 19/07/2012", 
+                            "valorReembolsado":"440.57", "codDocumento":"599862"}, {"ano":"2012", "mes":"7", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2450482958", "data":"2012-07-05", "detalhamento":"TAM LINHAS AÉREAS
+Senador Blairo Maggi
+Cuiabá/Brasília - 08/07/2012", 
+                            "valorReembolsado":"786.95", "codDocumento":"599869"}, {"ano":"2012", "mes":"7", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2450882158", "data":"2012-07-11", "detalhamento":"TAM LINHAS AÉREAS
+Senador Blairo Maggi
+Brasília/Cuiabá - 12/07/2012", 
+                            "valorReembolsado":"661.57", "codDocumento":"599857"}, {"ano":"2012", "mes":"7", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2451162177", "data":"2012-07-16", "detalhamento":"TAM LINHAS ÁEREAS
+COARACI CASTILHO - Mat: 157640
+Brasília/Cuiabá - 17/07/2012", 
+                            "valorReembolsado":"496.57", "codDocumento":"599865"}, {"ano":"2012", "mes":"7", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2451953781", "data":"2012-07-30", "detalhamento":"TAM LINHAS AÉREAS
+Eumar Novacki - Mat: 234373
+Cuiabá/Brasília - 31/07/2012", 
+                            "valorReembolsado":"715.95", "codDocumento":"599874"}, {"ano":"2012", "mes":"7", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02575829000148", "fornecedor":"VIAÇÃO AVIANCA", 
+                            "documento":"023 0118231467", "data":"2012-05-22", "detalhamento":"VIAÇÃO AVIANCA
+WALTER PEREIRA - 240336
+Brasília/Cuiabá - 05/07/2012", 
+                            "valorReembolsado":"156.57", "codDocumento":"599858"}, {"ano":"2012", "mes":"7", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02575829000148", "fornecedor":"VIAÇÃO AVIANCA", 
+                            "documento":"023 0120196140", "data":"2012-07-05", "detalhamento":"VIAÇÃO AVIANCA
+Júlio Valmorbida Mat: 240348
+Cuiabá/Brasília - 10/07/2012", 
+                            "valorReembolsado":"391.95", "codDocumento":"599868"}, {"ano":"2012", "mes":"7", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02575829000148", "fornecedor":"VIAÇÃO AVIANCA", 
+                            "documento":"023 0120347468", "data":"2012-07-16", "detalhamento":"VIAÇÃO AVIANCA
+COARACI CASTILHO - Mat: 157640
+Cuiabá/Brasília - 17/07/2012", 
+                            "valorReembolsado":"1011.95", "codDocumento":"599864"}, {"ano":"2012", "mes":"8", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"08626278000180", "fornecedor":"Condomínio Edifício Empresarial Santa Rosa Tower", 
+                            "documento":"1303/304/064", "data":"2012-08-10", "detalhamento":"null", 
+                            "valorReembolsado":"765.4", "codDocumento":"601444"}, {"ano":"2012", "mes":"8", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"03420926000710", "fornecedor":"Global Village Telecom Ltda", 
+                            "documento":"01180217790", "data":"2012-08-05", "detalhamento":"null", 
+                            "valorReembolsado":"703.58", "codDocumento":"601442"}, {"ano":"2012", "mes":"8", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"03934759000130", "fornecedor":"Solução Empreendimentos I Ltda", 
+                            "documento":"6/12", "data":"2012-08-10", "detalhamento":"null", 
+                            "valorReembolsado":"2902.0", "codDocumento":"601443"}, {"ano":"2012", "mes":"8", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"06128710000188", "fornecedor":"JVM Copiadoras e Informáticas Ltda - EPP", 
+                            "documento":"000080", "data":"2012-08-18", "detalhamento":"null", 
+                            "valorReembolsado":"250.0", "codDocumento":"601441"}, {"ano":"2012", "mes":"8", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"01019348000193", "fornecedor":"Minuta Recepções e Serviços de Buffet Ltda ME", 
+                            "documento":"40074", "data":"2012-08-08", "detalhamento":"null", 
+                            "valorReembolsado":"105.6", "codDocumento":"601449"}, {"ano":"2012", "mes":"8", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"04473193000159", "fornecedor":"Posto da Torre Ltda", 
+                            "documento":"667660", "data":"2012-08-02", "detalhamento":"null", 
+                            "valorReembolsado":"150.0", "codDocumento":"601440"}, {"ano":"2012", "mes":"8", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2452026602", "data":"2012-07-31", "detalhamento":"TAM LINHAS AÉREAS
+julio valmorbida - Mat: 240348
+Brasília/Cuiabá - 09/08/2012
+", 
+                            "valorReembolsado":"582.36", "codDocumento":"601446"}, {"ano":"2012", "mes":"8", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2452195440", "data":"2012-08-02", "detalhamento":"Tam Linhas Aéreas
+Eumar Novacki - Mat: 234373
+Cuiabá/Brasília - 07/08/2012", 
+                            "valorReembolsado":"451.95", "codDocumento":"601445"}, {"ano":"2012", "mes":"8", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2452277272", "data":"2012-08-06", "detalhamento":"TAM LINHAS AÉREAS
+Senador Blairo Maggi
+Cuiabá/Brasília - 06/08/2012", 
+                            "valorReembolsado":"646.95", "codDocumento":"601448"}, {"ano":"2012", "mes":"8", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02575829000148", "fornecedor":"VIAÇÃO AVIANCA", 
+                            "documento":"023 0118232454", "data":"2012-05-22", "detalhamento":"VIAÇÃO AVIANCA
+Walter Pereira - Mat: 240336
+Brasília/Cuiabá - 09/08/2012", 
+                            "valorReembolsado":"146.57", "codDocumento":"601447"}, {"ano":"2012", "mes":"12", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"03467321000199", "fornecedor":"Centrais Elétrias Matogrossenses S/A", 
+                            "documento":"000.181.295", "data":"2012-12-17", "detalhamento":"null", 
+                            "valorReembolsado":"351.91", "codDocumento":"676093"}, {"ano":"2012", "mes":"12", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"03467321000199", "fornecedor":"Centrais Etétricas Matogrossenses S/A", 
+                            "documento":"000.181.269", "data":"2012-12-17", "detalhamento":"null", 
+                            "valorReembolsado":"196.36", "codDocumento":"676094"}, {"ano":"2012", "mes":"12", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"01019348000193", "fornecedor":"Minuta Recepções e Serviços de Buffet Ltda - ME", 
+                            "documento":"41137", "data":"2012-12-17", "detalhamento":"null", 
+                            "valorReembolsado":"74.0", "codDocumento":"676091"}, {"ano":"2012", "mes":"12", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"04473193000159", "fornecedor":"Posto da Torre Ltda", 
+                            "documento":"674032", "data":"2012-12-17", "detalhamento":"null", 
+                            "valorReembolsado":"150.24", "codDocumento":"676092"}, {"ano":"2012", "mes":"12", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas", 
+                            "documento":"957 2458405116", "data":"2012-11-06", "detalhamento":"Tam Linhas Aéreas
+Walter Pereira - Mat: 240336
+Cuiabá/Brasília - 17/12/2012", 
+                            "valorReembolsado":"502.49", "codDocumento":"676095"}, {"ano":"2012", "mes":"12", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas", 
+                            "documento":"957 2460458629", "data":"2012-12-10", "detalhamento":"Tam Linhas Aéreas
+Eumar Novacki - Mat: 234373
+Brasília/Cuiabá - 19/12/2012", 
+                            "valorReembolsado":"325.13", "codDocumento":"676097"}, {"ano":"2012", "mes":"12", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas", 
+                            "documento":"957 2460646207", "data":"2012-12-12", "detalhamento":"Tam Linhas Aéreas
+Senador Blairo Maggi
+Brasília/Cuiabá - 19/12/2012", 
+                            "valorReembolsado":"400.13", "codDocumento":"676098"}, {"ano":"2012", "mes":"12", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Viação Gol", 
+                            "documento":"127 0001454889", "data":"2012-12-10", "detalhamento":"Viação Gol
+Eumar Novacki - Mat: 234373
+Cuiabá/Brasília - 16/12/2012", 
+                            "valorReembolsado":"756.04", "codDocumento":"676096"}, {"ano":"2012", "mes":"1", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"08626278000180", "fornecedor":"Condomínio Ed. Empresarial Santa Rosa Tower", 
+                            "documento":"1303/304/064", "data":"2012-01-10", "detalhamento":"null", 
+                            "valorReembolsado":"650.86", "codDocumento":"497514"}, {"ano":"2012", "mes":"1", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"06128710000188", "fornecedor":"JVM Copiadoras e Informática Ltda", 
+                            "documento":"000.007.953", "data":"2012-01-09", "detalhamento":"null", 
+                            "valorReembolsado":"450.0", "codDocumento":"497513"}, {"ano":"2012", "mes":"1", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"03934759000130", "fornecedor":"Solução Empreendimentos I Ltda", 
+                            "documento":"11/12", "data":"2012-01-10", "detalhamento":"null", 
+                            "valorReembolsado":"2802.0", "codDocumento":"497512"}, {"ano":"2012", "mes":"1", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL LINHAS AÉREAS", 
+                            "documento":"127 0001277860", "data":"2012-01-12", "detalhamento":"GOL LINHAS AÉREAS
+Sen. Blairo Maggi
+Brasília/Cuiabá - 12/01/2012", 
+                            "valorReembolsado":"540.56", "codDocumento":"497515"}, {"ano":"2012", "mes":"1", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2440957371", "data":"2012-01-11", "detalhamento":"TAM LINHAS AÉREAS
+Sen. Blairo Maggi
+Cuiabá/Brasília - 11/01/2012", 
+                            "valorReembolsado":"588.13", "codDocumento":"497516"}, {"ano":"2012", "mes":"2", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"03467321000199", "fornecedor":"Centrais Elétricas Matogrossenses S.A.", 
+                            "documento":"000.165.084", "data":"2012-02-14", "detalhamento":"null", 
+                            "valorReembolsado":"70.31", "codDocumento":"509755"}, {"ano":"2012", "mes":"2", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"03467321000199", "fornecedor":"Centrais Elétricas Matogrossenses S.A.", 
+                            "documento":"000.165.090", "data":"2012-02-14", "detalhamento":"null", 
+                            "valorReembolsado":"104.59", "codDocumento":"509756"}, {"ano":"2012", "mes":"2", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"08626278000180", "fornecedor":"Cond. Edifício Empresarial Santa Rosa Tower", 
+                            "documento":"1303/304/064", "data":"2012-02-10", "detalhamento":"null", 
+                            "valorReembolsado":"689.0", "codDocumento":"509760"}, {"ano":"2012", "mes":"2", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"03420926000710", "fornecedor":"Global Village Telecom Ltda", 
+                            "documento":"0103040932-0", "data":"2012-02-05", "detalhamento":"null", 
+                            "valorReembolsado":"294.02", "codDocumento":"509759"}, {"ano":"2012", "mes":"2", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"03934759000130", "fornecedor":"Solução Empreendimentos I Ltda", 
+                            "documento":"12/12", "data":"2012-02-10", "detalhamento":"null", 
+                            "valorReembolsado":"2802.0", "codDocumento":"509758"}, {"ano":"2012", "mes":"2", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"13250004000170", "fornecedor":"Realce-Com Mat. Art. Papelaria Ltda", 
+                            "documento":"000.002.605", "data":"2012-02-10", "detalhamento":"null", 
+                            "valorReembolsado":"61.7", "codDocumento":"509762"}, {"ano":"2012", "mes":"2", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"00715375000308", "fornecedor":"Comal Combustiveis Automotivos Ltda", 
+                            "documento":"122073", "data":"2012-02-03", "detalhamento":"null", 
+                            "valorReembolsado":"150.0", "codDocumento":"509774"}, {"ano":"2012", "mes":"2", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"00038505000730", "fornecedor":"Conver Combustíveis Automotivos Ltda", 
+                            "documento":"89084", "data":"2012-02-07", "detalhamento":"null", 
+                            "valorReembolsado":"150.0", "codDocumento":"509750"}, {"ano":"2012", "mes":"2", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"01019348000193", "fornecedor":"Minuta Recepções e Serviços de Buffel Ltda ME", 
+                            "documento":"38262", "data":"2012-02-15", "detalhamento":"null", 
+                            "valorReembolsado":"112.2", "codDocumento":"509752"}, {"ano":"2012", "mes":"2", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"01019348000193", "fornecedor":"Minuta Recepções e Serviços de Buffet Ltda ME", 
+                            "documento":"38180", "data":"2012-02-08", "detalhamento":"null", 
+                            "valorReembolsado":"274.0", "codDocumento":"509753"}, {"ano":"2012", "mes":"2", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"01019348000193", "fornecedor":"Minuta Recepções e Serviços de Buffet Ltda ME", 
+                            "documento":"38294", "data":"2012-02-16", "detalhamento":"null", 
+                            "valorReembolsado":"101.2", "codDocumento":"509754"}, {"ano":"2012", "mes":"2", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"01019348000193", "fornecedor":"Minuta Recepções e Serviços de Buffet Ltda ME", 
+                            "documento":"38379", "data":"2012-02-29", "detalhamento":"null", 
+                            "valorReembolsado":"179.3", "codDocumento":"509757"}, {"ano":"2012", "mes":"2", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"04473193000159", "fornecedor":"Posto da Torre Ltda", 
+                            "documento":"659281", "data":"2012-02-10", "detalhamento":"null", 
+                            "valorReembolsado":"150.0", "codDocumento":"509751"}, {"ano":"2012", "mes":"2", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2442382425", "data":"2011-12-18", "detalhamento":"TAM LINHAS AÉREAS
+Senador Blairo Maggi
+Brasília/São Paulo - 09/02/2012", 
+                            "valorReembolsado":"1054.23", "codDocumento":"509773"}, {"ano":"2012", "mes":"2", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2441616880", "data":"2012-01-24", "detalhamento":"TAM LINHAS AÉREAS
+EUMAR NOVACKI - 234373
+Cuiabá/Brasília - 31/01/2012
+Brasília/Cuiabá - 03/02/2012", 
+                            "valorReembolsado":"986.79", "codDocumento":"509771"}, {"ano":"2012", "mes":"2", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2442034446", "data":"2012-02-01", "detalhamento":"TAM LINHAS AÉREAS
+Sen. Blairo Maggi
+Brasília/São Paulo - 02/02/2012", 
+                            "valorReembolsado":"1164.66", "codDocumento":"509767"}, {"ano":"2012", "mes":"2", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2442077068", "data":"2012-02-02", "detalhamento":"TAM LINHAS AÉREAS
+JULIO VALMORBIDA - 240348
+Cuiabá/Brasília - 07/02/2012
+Brasília/Cuiabá - 09/02/2012", 
+                            "valorReembolsado":"809.69", "codDocumento":"509770"}, {"ano":"2012", "mes":"2", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2442077079", "data":"2012-02-03", "detalhamento":"TAM LINHAS AÉREAS
+EUMAR NOVACKI - 234373
+Cuiabá/Brasília - 07/02/2012
+Brasília/Cuiabá - 09/02/2012", 
+                            "valorReembolsado":"678.89", "codDocumento":"509766"}, {"ano":"2012", "mes":"2", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2442236978", "data":"2012-02-06", "detalhamento":"TAM LINHAS AÉREAS
+Senador Blairo Maggi
+CGH/Brasília- 07/02/2012", 
+                            "valorReembolsado":"663.66", "codDocumento":"509772"}, {"ano":"2012", "mes":"2", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2442382457", "data":"2012-02-09", "detalhamento":"TAM LINHAS AÉREAS
+Eumar Novacki - 234373
+14/02/2012 - Cuiabá/Brasília", 
+                            "valorReembolsado":"387.23", "codDocumento":"509768"}, {"ano":"2012", "mes":"2", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2442459506", "data":"2012-02-10", "detalhamento":"TAM LINHAS AÉREAS
+Júlio Valmorbida - 240348
+Cuiabá/Brasília - 14/02/2012
+Brasília/Cuiabá - 16/022012", 
+                            "valorReembolsado":"678.89", "codDocumento":"509764"}, {"ano":"2012", "mes":"2", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2442520809", "data":"2012-02-12", "detalhamento":"TAM LINHAS AÉREAS
+Sen. Blairo Maggi
+São Paulo/Brasília - 13/02/2012", 
+                            "valorReembolsado":"455.66", "codDocumento":"509763"}, {"ano":"2012", "mes":"2", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"9572442520833", "data":"2012-02-13", "detalhamento":"TAM LINHAS AÉREAS
+EUMAR NOVACKI - 234373
+Brasília/Cuiabá - 18/02/2012", 
+                            "valorReembolsado":"526.66", "codDocumento":"509769"}, {"ano":"2012", "mes":"2", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2442729842", "data":"2012-02-16", "detalhamento":"TAM LINHAS AÉREAS
+Eumar Novacki - 234373
+Cuiabá/Brasília - 28/02/2012
+", 
+                            "valorReembolsado":"325.23", "codDocumento":"509765"}, {"ano":"2012", "mes":"2", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2442729844", "data":"2012-02-16", "detalhamento":"Tam Linhas Aéreas
+Júlio Valmorbida - 240348
+Cuiabá/Brasília - 28/02/2012", 
+                            "valorReembolsado":"307.95", "codDocumento":"526546"}, {"ano":"2012", "mes":"2", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Viação Gol", 
+                            "documento":"127 0001296109", "data":"2012-02-27", "detalhamento":"Viação Gol
+Senador Blairo Maggi
+Cuiabá/Brasília - 27/02/2012", 
+                            "valorReembolsado":"486.19", "codDocumento":"526547"}, {"ano":"2012", "mes":"3", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"03467321000199", "fornecedor":"Centrais Elétricas Matogrossenses", 
+                            "documento":"000.172.147", "data":"2012-03-15", "detalhamento":"null", 
+                            "valorReembolsado":"125.69", "codDocumento":"526578"}, {"ano":"2012", "mes":"3", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"03467321000199", "fornecedor":"Centrais elétricas Matogrossenses", 
+                            "documento":"000.172.153", "data":"2012-03-15", "detalhamento":"null", 
+                            "valorReembolsado":"196.05", "codDocumento":"526577"}, {"ano":"2012", "mes":"3", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"08626278000180", "fornecedor":"Condomínio Edifício Empresarial Santa Rosa Tower", 
+                            "documento":"1303/304/064", "data":"2012-03-10", "detalhamento":"null", 
+                            "valorReembolsado":"685.72", "codDocumento":"526579"}, {"ano":"2012", "mes":"3", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"03420926000710", "fornecedor":"Global Village Telecom Ltda", 
+                            "documento":"01053685270", "data":"2012-03-07", "detalhamento":"null", 
+                            "valorReembolsado":"510.05", "codDocumento":"526582"}, {"ano":"2012", "mes":"3", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"06128710000188", "fornecedor":"JVM Cópiadoras e Informatica Ltda", 
+                            "documento":"000.008.990", "data":"2012-03-06", "detalhamento":"null", 
+                            "valorReembolsado":"250.0", "codDocumento":"526581"}, {"ano":"2012", "mes":"3", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"03533064000146", "fornecedor":"Prefeitura Municipal de Cuiabá", 
+                            "documento":"9399519", "data":"2012-03-12", "detalhamento":"null", 
+                            "valorReembolsado":"50.83", "codDocumento":"526565"}, {"ano":"2012", "mes":"3", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"03533064000146", "fornecedor":"Prefeitura Municipal de Cuiabá", 
+                            "documento":"9399559", "data":"2012-03-12", "detalhamento":"null", 
+                            "valorReembolsado":"50.83", "codDocumento":"526566"}, {"ano":"2012", "mes":"3", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"03533064000146", "fornecedor":"Prefeitura Municipal de Cuiabá", 
+                            "documento":"8751138", "data":"2012-03-12", "detalhamento":"null", 
+                            "valorReembolsado":"291.07", "codDocumento":"526567"}, {"ano":"2012", "mes":"3", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"03533064000146", "fornecedor":"Prefeitura Municipal de Cuiabá", 
+                            "documento":"9292334", "data":"2012-03-12", "detalhamento":"null", 
+                            "valorReembolsado":"309.16", "codDocumento":"526568"}, {"ano":"2012", "mes":"3", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"03934759000130", "fornecedor":"Solução Empreendimentos I Ltda", 
+                            "documento":"1/12", "data":"2012-03-10", "detalhamento":"null", 
+                            "valorReembolsado":"3300.64", "codDocumento":"526580"}, {"ano":"2012", "mes":"3", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"03261491000627", "fornecedor":"Auto Posto Millennium 2000 Ltda", 
+                            "documento":"368293", "data":"2012-03-01", "detalhamento":"null", 
+                            "valorReembolsado":"150.0", "codDocumento":"526557"}, {"ano":"2012", "mes":"3", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"08796076000268", "fornecedor":"Brasil 21 Eventos e Hotelaria Ltda", 
+                            "documento":"007875", "data":"2012-03-01", "detalhamento":"null", 
+                            "valorReembolsado":"1028.75", "codDocumento":"526576"}, {"ano":"2012", "mes":"3", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"08796076000268", "fornecedor":"Brasíl 21 Eventos e Hotelaria Ltda", 
+                            "documento":"008922", "data":"2012-03-15", "detalhamento":"null", 
+                            "valorReembolsado":"887.4", "codDocumento":"526575"}, {"ano":"2012", "mes":"3", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"08796076000268", "fornecedor":"Brasil 21 Eventos e Hotelarias Ltda", 
+                            "documento":"008238", "data":"2012-03-07", "detalhamento":"null", 
+                            "valorReembolsado":"885.2", "codDocumento":"526569"}, {"ano":"2012", "mes":"3", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"04777798001024", "fornecedor":"Brasil 21 Gastronomia e Serviços Ltda", 
+                            "documento":"0085", "data":"2012-03-27", "detalhamento":"null", 
+                            "valorReembolsado":"116.98", "codDocumento":"526584"}, {"ano":"2012", "mes":"3", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"04777798001024", "fornecedor":"Brasil 21 Gastronomia e Serviços Ltda", 
+                            "documento":"0086", "data":"2012-03-29", "detalhamento":"null", 
+                            "valorReembolsado":"53.5", "codDocumento":"526583"}, {"ano":"2012", "mes":"3", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"08466219000192", "fornecedor":"Churrascaria Potência Grill Ltda EPP", 
+                            "documento":"24342", "data":"2012-03-28", "detalhamento":"null", 
+                            "valorReembolsado":"315.15", "codDocumento":"526570"}, {"ano":"2012", "mes":"3", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"00038505000145", "fornecedor":"Conver Combustíveis Automotivos Ltda", 
+                            "documento":"72598", "data":"2012-03-07", "detalhamento":"null", 
+                            "valorReembolsado":"150.0", "codDocumento":"526558"}, {"ano":"2012", "mes":"3", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"01019348000193", "fornecedor":"Minuta Recepções e Serviços de Buffet Ltda - ME", 
+                            "documento":"38435", "data":"2012-03-06", "detalhamento":"null", 
+                            "valorReembolsado":"111.98", "codDocumento":"526564"}, {"ano":"2012", "mes":"3", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"01019348000193", "fornecedor":"Minuta Recepções e Serviços de Buffet Ltda - ME", 
+                            "documento":"38563", "data":"2012-03-14", "detalhamento":"null", 
+                            "valorReembolsado":"361.9", "codDocumento":"526562"}, {"ano":"2012", "mes":"3", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"01019348000193", "fornecedor":"Minuta Recepções e Serviços de Buffet Ltda - ME", 
+                            "documento":"38611", "data":"2012-03-15", "detalhamento":"null", 
+                            "valorReembolsado":"185.9", "codDocumento":"526559"}, {"ano":"2012", "mes":"3", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"01019348000193", "fornecedor":"Minuta Recepções e Serviços de Buffet Ltda - ME", 
+                            "documento":"38715", "data":"2012-03-22", "detalhamento":"null", 
+                            "valorReembolsado":"190.3", "codDocumento":"526563"}, {"ano":"2012", "mes":"3", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"00675553000225", "fornecedor":"Naoum Turismo e Hospedagem S.A.", 
+                            "documento":"206076", "data":"2012-03-08", "detalhamento":"null", 
+                            "valorReembolsado":"2926.0", "codDocumento":"526574"}, {"ano":"2012", "mes":"3", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"00675553000225", "fornecedor":"Naoum Turismo e Hospedagem S.A.", 
+                            "documento":"206628", "data":"2012-03-15", "detalhamento":"null", 
+                            "valorReembolsado":"798.0", "codDocumento":"526572"}, {"ano":"2012", "mes":"3", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"04473193000159", "fornecedor":"Posto da Torre Ltda", 
+                            "documento":"663514", "data":"2012-03-14", "detalhamento":"null", 
+                            "valorReembolsado":"158.73", "codDocumento":"526561"}, {"ano":"2012", "mes":"3", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"04473193000159", "fornecedor":"Posto da Torre Ltda", 
+                            "documento":"663515", "data":"2012-03-21", "detalhamento":"null", 
+                            "valorReembolsado":"150.02", "codDocumento":"526560"}, {"ano":"2012", "mes":"3", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"04473193000159", "fornecedor":"Posto da Torre Ltda", 
+                            "documento":"657590", "data":"2012-03-28", "detalhamento":"null", 
+                            "valorReembolsado":"150.0", "codDocumento":"526571"}, {"ano":"2012", "mes":"3", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"00314831000138", "fornecedor":"Posto Itamaraty Ltda", 
+                            "documento":"160125", "data":"2012-03-11", "detalhamento":"null", 
+                            "valorReembolsado":"150.0", "codDocumento":"526573"}, {"ano":"2012", "mes":"3", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2444431089", "data":"2011-03-22", "detalhamento":"Tam Linhas Aéreas
+Senador Blairo Maggi
+Brasília/Cuiabá - 22/03/2012
+O bilhete 957-2442382475 pagou bilhete 957 2442679700 e multa deR$ 80,00. O bilhete 957 2442679700 pagou bilhete 957 2444431089 e multa de R$ 130,00.", 
+                            "valorReembolsado":"810.57", "codDocumento":"526596"}, {"ano":"2012", "mes":"3", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2443149320", "data":"2012-02-28", "detalhamento":"Tam Linhas Aéreas
+Eumar Novacki - Mat: 234373
+Cuiabá/Brasília - 08/03/2012
+Brasília/Natal - 08/03/2012
+Natal/Brasília - 12/03/2012
+Brasília/Cuiabá - 12/03/2012", 
+                            "valorReembolsado":"1934.55", "codDocumento":"526589"}, {"ano":"2012", "mes":"3", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2443178446", "data":"2012-02-29", "detalhamento":"Tam Linhas Aéreas
+Eumar Novacki - Mat: 234373
+Brasília/Cuiabá - 07/03/2012", 
+                            "valorReembolsado":"263.67", "codDocumento":"526587"}, {"ano":"2012", "mes":"3", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2443241658", "data":"2012-03-01", "detalhamento":"TAM LINHAS AÉREAS
+Júlio Valmorbida - Mat: 240348
+Brasília/Cuiabá - 08/03/2012
+O bilhete 957 2443241658 foi pago com bilhete 957 2442729844 e gerou multa de R$ 130,00", 
+                            "valorReembolsado":"437.95", "codDocumento":"526598"}, {"ano":"2012", "mes":"3", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2443705307", "data":"2012-03-07", "detalhamento":"Tam Linhas Aéreas
+Júlio Valmorbida - Mat: 240348
+Cuiabá/Brasília - 13/03/2012
+Brasília/Cuiabá - 15/03/2012
+O bilhete 957 2443705307 foi pago com o 957 3443207865. Gerou multa de R$ 130,00.", 
+                            "valorReembolsado":"646.29", "codDocumento":"526597"}, {"ano":"2012", "mes":"3", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2443178444", "data":"2012-03-13", "detalhamento":"Tam Linhas Aéreas
+Eumar Novacki - Mat: 234373
+Cuiabá/Brasília - 13/03/2012", 
+                            "valorReembolsado":"259.24", "codDocumento":"526592"}, {"ano":"2012", "mes":"3", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2444095842", "data":"2012-03-15", "detalhamento":"Tam Linhas Aéreas
+Eumar Novacki - Mat: 234373
+Cuiabá/Brasília - 20/03/2012", 
+                            "valorReembolsado":"247.12", "codDocumento":"526591"}, {"ano":"2012", "mes":"3", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2444114825", "data":"2012-03-15", "detalhamento":"Tam Linhas Aéreas
+Júlio Valmorbida - Mat: 240348
+Cuiabá/Brasília - 20/03/2012
+Brasília/Cuiabá - 22/03/2012", 
+                            "valorReembolsado":"472.69", "codDocumento":"526595"}, {"ano":"2012", "mes":"3", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2444068176", "data":"2012-03-15", "detalhamento":"TAM LINHAS AÉREAS
+Senador Blairo Maggi
+Brasília/Cuiabá - 15/03/2012", 
+                            "valorReembolsado":"539.98", "codDocumento":"526593"}, {"ano":"2012", "mes":"3", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2444068177", "data":"2012-03-15", "detalhamento":"TAM LINHAS AÉREAS
+Eumar Novacki - Mat: 234373
+Brasília/Cuiabá - 15/03/2012", 
+                            "valorReembolsado":"539.98", "codDocumento":"526590"}, {"ano":"2012", "mes":"3", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2444453116", "data":"2012-03-22", "detalhamento":"TAM LINHAS AÉREAS
+Senador Blairo Maggi
+Cuiabá/Brasília - 27/03/2012
+", 
+                            "valorReembolsado":"247.21", "codDocumento":"526594"}, {"ano":"2012", "mes":"3", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2444453109", "data":"2012-03-22", "detalhamento":"Tam Linhas Aéreas
+Eumar Novacki - Mat: 234373
+Brasília/Cuiabá - 22/03/2012", 
+                            "valorReembolsado":"398.03", "codDocumento":"526588"}, {"ano":"2012", "mes":"3", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2444811594", "data":"2012-03-22", "detalhamento":"Tam Linhas Aéreas
+Eumar Novacki - Mat: 234373
+Brasília/Cuiabá - 29/03/2012", 
+                            "valorReembolsado":"464.47", "codDocumento":"526585"}, {"ano":"2012", "mes":"3", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2444453118", "data":"2012-03-22", "detalhamento":"Tam Linhas Aéreas
+Júlio Valmorbida - Mat: 240348
+Cuiabá/Brasília - 27/03/2012
+Brasília/Cuiabá - 29/03/2012", 
+                            "valorReembolsado":"476.09", "codDocumento":"526586"}, {"ano":"2012", "mes":"4", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"03467321000199", "fornecedor":"Centrais Elétricas Matogrossenses S.A.", 
+                            "documento":"000.161973", "data":"2012-04-16", "detalhamento":"null", 
+                            "valorReembolsado":"124.95", "codDocumento":"547386"}, {"ano":"2012", "mes":"4", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"03467321000199", "fornecedor":"Centrais Elétricas Matogrossenses S.A.", 
+                            "documento":"000.161979", "data":"2012-04-16", "detalhamento":"null", 
+                            "valorReembolsado":"181.36", "codDocumento":"547387"}, {"ano":"2012", "mes":"4", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"08626278000180", "fornecedor":"Condomínio Edifício Empresarial Santa Rosa Tower", 
+                            "documento":"1303/03/2012", "data":"2012-04-10", "detalhamento":"null", 
+                            "valorReembolsado":"684.06", "codDocumento":"547388"}, {"ano":"2012", "mes":"4", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"03420926000710", "fornecedor":"Global Village Telecom Ltda", 
+                            "documento":"01077847000", "data":"2012-04-05", "detalhamento":"null", 
+                            "valorReembolsado":"475.11", "codDocumento":"547389"}, {"ano":"2012", "mes":"4", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"03934759000130", "fornecedor":"Solução Empreendimento I Ltda", 
+                            "documento":"2/12", "data":"2012-04-10", "detalhamento":"null", 
+                            "valorReembolsado":"2902.0", "codDocumento":"547390"}, {"ano":"2012", "mes":"4", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"32992455000127", "fornecedor":"Grafica Editora Centro Oeste Ltda", 
+                            "documento":"000.016.043", "data":"2012-04-17", "detalhamento":"null", 
+                            "valorReembolsado":"560.0", "codDocumento":"547393"}, {"ano":"2012", "mes":"4", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"06128710000188", "fornecedor":"JVM COPIADORAS E INFORMATICA LTDA", 
+                            "documento":"009341N1", "data":"2012-04-18", "detalhamento":"null", 
+                            "valorReembolsado":"250.0", "codDocumento":"547391"}, {"ano":"2012", "mes":"4", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"05559973000189", "fornecedor":"H M Mesquita Comunicação ME", 
+                            "documento":"983", "data":"2012-04-24", "detalhamento":"null", 
+                            "valorReembolsado":"2000.0", "codDocumento":"547410"}, {"ano":"2012", "mes":"4", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"00081933000150", "fornecedor":"VETOR ASSESSORIA E PESQUISA S/C LTDA", 
+                            "documento":"94", "data":"2012-04-13", "detalhamento":"null", 
+                            "valorReembolsado":"4000.0", "codDocumento":"547409"}, {"ano":"2012", "mes":"4", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"08796076000268", "fornecedor":"Brasil 21 Eventos e Hotelaria Ltda", 
+                            "documento":"010711", "data":"2012-04-12", "detalhamento":"null", 
+                            "valorReembolsado":"1332.75", "codDocumento":"547392"}, {"ano":"2012", "mes":"4", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"04777798001024", "fornecedor":"Brasil 21 Gastronomia e Serviços Ltda", 
+                            "documento":"0087", "data":"2012-04-02", "detalhamento":"null", 
+                            "valorReembolsado":"58.48", "codDocumento":"547384"}, {"ano":"2012", "mes":"4", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"04777798001024", "fornecedor":"Brasil 21 Gastronomia e Serviços Ltda", 
+                            "documento":"0179", "data":"2012-04-12", "detalhamento":"null", 
+                            "valorReembolsado":"37.08", "codDocumento":"547385"}, {"ano":"2012", "mes":"4", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"00373589000416", "fornecedor":"Cal Combustiveis Automotivos Ltda", 
+                            "documento":"266761", "data":"2012-04-19", "detalhamento":"null", 
+                            "valorReembolsado":"150.0", "codDocumento":"547379"}, {"ano":"2012", "mes":"4", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"00038505000730", "fornecedor":"Conver Combustiveis Automotivos Ltda", 
+                            "documento":"88589", "data":"2012-04-10", "detalhamento":"null", 
+                            "valorReembolsado":"150.0", "codDocumento":"547378"}, {"ano":"2012", "mes":"4", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"00038505000730", "fornecedor":"Conver Combustiveis Automotivos Ltda", 
+                            "documento":"88727", "data":"2012-04-24", "detalhamento":"null", 
+                            "valorReembolsado":"150.0", "codDocumento":"547377"}, {"ano":"2012", "mes":"4", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"01019348000193", "fornecedor":"Minuta Recepções e Serviços de Buffet Ltda ME", 
+                            "documento":"38860", "data":"2012-04-10", "detalhamento":"null", 
+                            "valorReembolsado":"136.4", "codDocumento":"547383"}, {"ano":"2012", "mes":"4", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"01019348000193", "fornecedor":"Minuta Recepções e Serviços de Buffet Ltda ME", 
+                            "documento":"39027", "data":"2012-04-18", "detalhamento":"null", 
+                            "valorReembolsado":"308.0", "codDocumento":"547382"}, {"ano":"2012", "mes":"4", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"04473193000159", "fornecedor":"Posto da Torre Ltda", 
+                            "documento":"670513", "data":"2012-04-03", "detalhamento":"null", 
+                            "valorReembolsado":"155.02", "codDocumento":"547381"}, {"ano":"2012", "mes":"4", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"04473193000159", "fornecedor":"Posto da Torre Ltda", 
+                            "documento":"662509", "data":"2012-04-13", "detalhamento":"null", 
+                            "valorReembolsado":"150.0", "codDocumento":"547380"}, {"ano":"2012", "mes":"4", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2443643122", "data":"2012-03-07", "detalhamento":"TAM LINHAS AÉREAS
+WALTER PERREIRA MAT:240336
+BRASÍLIA/CUIABÁ - 12/04/2012
+CUIABÁ/BRASÍLIA - 17/04/2012", 
+                            "valorReembolsado":"373.24", "codDocumento":"547396"}, {"ano":"2012", "mes":"4", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2444811589", "data":"2012-03-29", "detalhamento":"TAM LINHAS AÉREAS
+JULIO VALMORBIDA - MAT:240348
+CUIABÁ/BRASÍLIA - 02/04/2012
+BRASÍLIA/CUIABÁ - 04/04/2012", 
+                            "valorReembolsado":"625.32", "codDocumento":"547406"}, {"ano":"2012", "mes":"4", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2444943799", "data":"2012-04-01", "detalhamento":"TAM LINHAS AÉREAS
+SEN. BLAIRO MAGGI
+CUIABÁ/BRASILIA - 02/04/2012", 
+                            "valorReembolsado":"565.95", "codDocumento":"547395"}, {"ano":"2012", "mes":"4", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2445014536", "data":"2012-04-02", "detalhamento":"TAM LINHAS AÉREAS
+EUMAR NOVACKI - MAT: 234373
+BRASILIA/RIO DE JANEIRO - 04/04/2012", 
+                            "valorReembolsado":"645.27", "codDocumento":"547394"}, {"ano":"2012", "mes":"4", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2445137040", "data":"2012-04-03", "detalhamento":"TAM LINHAS AÉREAS
+SEN. BLAIRO MAGGI
+BRASÍLIA/CUIABÁ - 04/04/2012", 
+                            "valorReembolsado":"631.47", "codDocumento":"547405"}, {"ano":"2012", "mes":"4", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2445338910", "data":"2012-04-08", "detalhamento":"TAM LINHAS AÉREAS
+EUMAR NOVACKI - 234373
+CUIABÁ/BRASÍLIA - 10/04/2012", 
+                            "valorReembolsado":"706.85", "codDocumento":"547403"}, {"ano":"2012", "mes":"4", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2445338939", "data":"2012-04-09", "detalhamento":"TAM LINHAS AÉREAS
+SEN. BLAIRO MAGGI
+CUIABÁ/BRASÍLIA - 09/04/2012", 
+                            "valorReembolsado":"706.85", "codDocumento":"547400"}, {"ano":"2012", "mes":"4", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2445543019", "data":"2012-04-11", "detalhamento":"TAM LINHAS AÉREAS
+SEN. BLAIRO MAGGI
+BRASÍLIA/CUIABÁ - 19/04/2012", 
+                            "valorReembolsado":"829.47", "codDocumento":"547408"}, {"ano":"2012", "mes":"4", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2445649813", "data":"2012-04-13", "detalhamento":"TAM LINHAS AÉREAS
+JULIO VALMORBIDA MAT: 240348
+CUIABÁ/BRASÍLIA - 17/04/2012
+BRASÍLIA/CUIABÁ - 19/04/2012", 
+                            "valorReembolsado":"997.32", "codDocumento":"547402"}, {"ano":"2012", "mes":"4", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2446073503", "data":"2012-04-18", "detalhamento":"TAM LINHAS AÉREAS
+EUMAR NOVACKI - MAT: 234373
+BRASÍLIA/CUIABÁ - 20/04/2012", 
+                            "valorReembolsado":"553.57", "codDocumento":"547404"}, {"ano":"2012", "mes":"4", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2446105899", "data":"2012-04-19", "detalhamento":"TAM LINHAS AÉREAS
+JULIO VALMORBIDA - 240348
+CUIABÁ/BRASÍLIA - 24/04/2012", 
+                            "valorReembolsado":"736.85", "codDocumento":"547401"}, {"ano":"2012", "mes":"4", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2446164287", "data":"2012-04-20", "detalhamento":"TAM LINHAS AÉREAS
+EUMAR NOVACKI - MAT: 234373
+CUIABÁ/BRASÍLIA - 24/04/2012", 
+                            "valorReembolsado":"736.85", "codDocumento":"547399"}, {"ano":"2012", "mes":"4", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2446238100", "data":"2012-04-23", "detalhamento":"TAM LINHAS AÉREAS
+SEN. BLAIRO MAGGI
+CUIABÁ/BRASÍLIA - 23/04/2012
+BILHETE 957 2445543067 VALOR DE R$373,57, PAGOU METADE DO BILHETE 957 2446238100, DIFERÊNCIA R$ 315,90, MAIS
+MULTA DE R$ 130,00.", 
+                            "valorReembolsado":"819.47", "codDocumento":"547407"}, {"ano":"2012", "mes":"4", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2446425716", "data":"2012-04-25", "detalhamento":"TAM LINHAS AÉREAS
+EUMAR NOVACKI - 234373
+BRASÍLIA/CUIABÁ - 27/04/2012", 
+                            "valorReembolsado":"801.47", "codDocumento":"547398"}, {"ano":"2012", "mes":"4", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Viação Gol", 
+                            "documento":"127 0001327501", "data":"2012-04-25", "detalhamento":"VIAÇÃO GOL
+SEN. BLAIRO MAGGI
+BRASÍLIA/CUIABÁ - 25/04/2012", 
+                            "valorReembolsado":"687.47", "codDocumento":"547397"}, {"ano":"2012", "mes":"5", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"03467321000199", "fornecedor":"Centrais Eletricas Matogrossenses S.A.", 
+                            "documento":"000.175.004", "data":"2012-05-16", "detalhamento":"null", 
+                            "valorReembolsado":"179.66", "codDocumento":"564373"}, {"ano":"2012", "mes":"5", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"03467321000199", "fornecedor":"Centrais Elétricas Matogrossenses S.A.", 
+                            "documento":"000.174.998", "data":"2012-05-16", "detalhamento":"null", 
+                            "valorReembolsado":"118.46", "codDocumento":"564374"}, {"ano":"2012", "mes":"5", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"08626278000180", "fornecedor":"Condominio Edifício Empresarial Santa Rosa Tower", 
+                            "documento":"1303/304/064", "data":"2012-05-10", "detalhamento":"null", 
+                            "valorReembolsado":"752.82", "codDocumento":"564382"}, {"ano":"2012", "mes":"5", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"03420926000710", "fornecedor":"Global Village Telecom Ltda", 
+                            "documento":"01104650980", "data":"2012-05-05", "detalhamento":"null", 
+                            "valorReembolsado":"492.45", "codDocumento":"564384"}, {"ano":"2012", "mes":"5", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"03934759000130", "fornecedor":"Solução Empreendimentos I Ltda", 
+                            "documento":"3/12", "data":"2012-05-10", "detalhamento":"null", 
+                            "valorReembolsado":"2902.0", "codDocumento":"564381"}, {"ano":"2012", "mes":"5", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"06128710000188", "fornecedor":"JVM Copiadoras e informatica Ltda-EPP", 
+                            "documento":"000018", "data":"2012-05-07", "detalhamento":"null", 
+                            "valorReembolsado":"250.0", "codDocumento":"564383"}, {"ano":"2012", "mes":"5", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"05559973000189", "fornecedor":"H M Mesquita Comunicação ME", 
+                            "documento":"1019", "data":"2012-05-21", "detalhamento":"null", 
+                            "valorReembolsado":"2000.0", "codDocumento":"564385"}, {"ano":"2012", "mes":"5", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"08202116000115", "fornecedor":"Auto Posto Aeroporto Ltda", 
+                            "documento":"014560", "data":"2012-05-16", "detalhamento":"null", 
+                            "valorReembolsado":"150.0", "codDocumento":"564391"}, {"ano":"2012", "mes":"5", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"08796076000268", "fornecedor":"Brasil 21 Eventos e Hotelaria Ltda", 
+                            "documento":"012333", "data":"2012-05-04", "detalhamento":"null", 
+                            "valorReembolsado":"901.7", "codDocumento":"564375"}, {"ano":"2012", "mes":"5", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"08796076000268", "fornecedor":"Brasil 21 Eventos e Hotelaria Ltda", 
+                            "documento":"012806", "data":"2012-05-11", "detalhamento":"null", 
+                            "valorReembolsado":"1360.25", "codDocumento":"564376"}, {"ano":"2012", "mes":"5", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"08796076000268", "fornecedor":"Brasil 21 Eventos e Hotelaria Ltda", 
+                            "documento":"013256", "data":"2012-05-17", "detalhamento":"null", 
+                            "valorReembolsado":"863.9", "codDocumento":"564377"}, {"ano":"2012", "mes":"5", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"00038505000730", "fornecedor":"Conver Combustiveis Automotivos Ltda", 
+                            "documento":"88950", "data":"2012-05-21", "detalhamento":"null", 
+                            "valorReembolsado":"150.0", "codDocumento":"564392"}, {"ano":"2012", "mes":"5", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"00038505000730", "fornecedor":"Conver Combustíveis Automotivos Ltda", 
+                            "documento":"89522", "data":"2012-05-24", "detalhamento":"null", 
+                            "valorReembolsado":"80.0", "codDocumento":"564389"}, {"ano":"2012", "mes":"5", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"00012211000144", "fornecedor":"Drive Car - Transporte e Combustíveis Ltda", 
+                            "documento":"155278", "data":"2012-05-03", "detalhamento":"null", 
+                            "valorReembolsado":"150.0", "codDocumento":"564371"}, {"ano":"2012", "mes":"5", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"01019348000193", "fornecedor":"Minuta Recepções e Serviços de Buffet Ltda ME", 
+                            "documento":"39146", "data":"2012-05-02", "detalhamento":"null", 
+                            "valorReembolsado":"121.0", "codDocumento":"564372"}, {"ano":"2012", "mes":"5", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"01019348000193", "fornecedor":"Minuta Recepções e Serviços de buffet Ltda ME", 
+                            "documento":"39416", "data":"2012-05-23", "detalhamento":"null", 
+                            "valorReembolsado":"239.8", "codDocumento":"564390"}, {"ano":"2012", "mes":"5", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"00675553000225", "fornecedor":"Naoum Turismo e Hospedagem S.A.", 
+                            "documento":"212217", "data":"2012-05-11", "detalhamento":"null", 
+                            "valorReembolsado":"748.0", "codDocumento":"564378"}, {"ano":"2012", "mes":"5", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"00675553000225", "fornecedor":"Naoum Turismo e Hospedagem S.A.", 
+                            "documento":"212681", "data":"2012-05-17", "detalhamento":"null", 
+                            "valorReembolsado":"754.0", "codDocumento":"564393"}, {"ano":"2012", "mes":"5", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"00675553000225", "fornecedor":"Naoum Turismo e Hospedagem S.A.", 
+                            "documento":"213357", "data":"2012-05-23", "detalhamento":"null", 
+                            "valorReembolsado":"374.0", "codDocumento":"564379"}, {"ano":"2012", "mes":"5", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"04600876000120", "fornecedor":"Posto Parque Indus. BSB Deriv. de Petroleo Ltda", 
+                            "documento":"408983", "data":"2012-05-09", "detalhamento":"null", 
+                            "valorReembolsado":"150.22", "codDocumento":"564370"}, {"ano":"2012", "mes":"5", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2446378035", "data":"2012-04-24", "detalhamento":"TAM LINHAS AÉREAS
+Eumar Novacki - Mat: 234373
+Cuiabá/Brasília - 02/05/2012
+Brasília/Cuiaba - 04/05/2012", 
+                            "valorReembolsado":"933.48", "codDocumento":"564386"}, {"ano":"2012", "mes":"5", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2446565401", "data":"2012-04-27", "detalhamento":"TAM LINHAS AÉREAS
+Senador Blairo Maggi
+Cuiabá/Brasília - 01/05/2012", 
+                            "valorReembolsado":"670.85", "codDocumento":"581590"}, {"ano":"2012", "mes":"5", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2446644217", "data":"2012-04-30", "detalhamento":"Tam Linhas Aéreas
+Julio Valmorbida - Mat: 240348
+Cuiabá/Brasília - 08/05/2012
+Brasília/Cuiabá - 10/05/2012", 
+                            "valorReembolsado":"641.32", "codDocumento":"564402"}, {"ano":"2012", "mes":"5", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2446663098", "data":"2012-05-01", "detalhamento":"TAM LINHAS AÉREAS
+Júlio Valmorbida - Mat: 240348
+Cuiabá/Brasília - 02/05/2012", 
+                            "valorReembolsado":"492.85", "codDocumento":"564387"}, {"ano":"2012", "mes":"5", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2446721270", "data":"2012-05-02", "detalhamento":"Tam linhas aéreas
+Julio Valmorbida - Mat: 240348
+Brasília/Cuiabá - 497,47 -  02/05/12", 
+                            "valorReembolsado":"497.47", "codDocumento":"564401"}, {"ano":"2012", "mes":"5", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2446808044", "data":"2012-05-04", "detalhamento":"TAM linhas aéreas
+Eumar Novacki - Mat: 234373
+Cuiabá/Brasília - 08/05/2012", 
+                            "valorReembolsado":"372.85", "codDocumento":"564397"}, {"ano":"2012", "mes":"5", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2446838047", "data":"2012-05-04", "detalhamento":"TAM linhas aéreas
+Sen. Blairo Maggi
+Cuiabá/Brasília - 07/05/2012", 
+                            "valorReembolsado":"670.85", "codDocumento":"564395"}, {"ano":"2012", "mes":"5", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2447103776", "data":"2012-05-09", "detalhamento":"Tam Linhas Aéreas
+Walter Pereira - Mat: 240336
+Cuiabá/Brasília - 15/05/2012", 
+                            "valorReembolsado":"474.42", "codDocumento":"564403"}, {"ano":"2012", "mes":"5", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2447103791", "data":"2012-05-09", "detalhamento":"Tam linhas aéreas
+Sen. Blairo Maggi
+Brasília/Cuiabá - 10/05/2012", 
+                            "valorReembolsado":"675.47", "codDocumento":"564396"}, {"ano":"2012", "mes":"5", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2447084857", "data":"2012-05-09", "detalhamento":"Tam Linhas Aéreas
+Eumar Novacki - Mat: 234373
+Brasília/Cuiabá - 11/05/2012", 
+                            "valorReembolsado":"821.47", "codDocumento":"564398"}, {"ano":"2012", "mes":"5", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2447149501", "data":"2012-05-10", "detalhamento":"Tam linhas aéreas
+Julio Valmorbida - Mat: 240348
+Cuiabá/Brasília - 15/05/2012
+Brasília/Cuiabá - 17/05/2012", 
+                            "valorReembolsado":"1197.32", "codDocumento":"564400"}, {"ano":"2012", "mes":"5", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2447384113", "data":"2012-05-14", "detalhamento":"TAM linhas aéreas
+Sen. Blairo Maggi
+Cuiabá/Brasília - 15/05/2012", 
+                            "valorReembolsado":"796.85", "codDocumento":"564394"}, {"ano":"2012", "mes":"5", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2447553458", "data":"2012-05-16", "detalhamento":"TAM LINHA AÉREAS
+Eumar Novacki - Mat: 234373
+Cuiabá/Brasília - 21/05/2012", 
+                            "valorReembolsado":"448.66", "codDocumento":"581588"}, {"ano":"2012", "mes":"5", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2447573868", "data":"2012-05-16", "detalhamento":"TAM LINHAS AÉREAS
+Júlio Valmorbida - 240348
+Cuiabá/Brasília - 22/05/2012
+Brasília/Cuiabá - 23/05/2012", 
+                            "valorReembolsado":"790.32", "codDocumento":"581589"}, {"ano":"2012", "mes":"5", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS ÁEREAS", 
+                            "documento":"957 2447149503", "data":"2012-05-10", "detalhamento":"Tam Linha Aérea
+Eumar Novacki - Mat: 234373
+Cuiabá/Brasília - 15/05/2012
+Brasília/Cuiabá - 17/05/2012", 
+                            "valorReembolsado":"1197.32", "codDocumento":"564399"}, {"ano":"2012", "mes":"5", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"05730375000120", "fornecedor":"WEBJET LINHAS AÉREAS", 
+                            "documento":"127 0001330560", "data":"2012-05-02", "detalhamento":"WEBJET LINHAS AÉREAS
+Sen. Blairo Maggi
+Brasília/Ribeirão Preto - 03/05/2012", 
+                            "valorReembolsado":"414.47", "codDocumento":"564388"}, {"ano":"2012", "mes":"6", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"03467321000199", "fornecedor":"Centrais Eletricas Mato Grossenses S.A.", 
+                            "documento":"000.147.728", "data":"2012-06-15", "detalhamento":"null", 
+                            "valorReembolsado":"105.47", "codDocumento":"582360"}, {"ano":"2012", "mes":"6", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"03467321000199", "fornecedor":"Centrais Elétricas Mato Grossenses S.A. ", 
+                            "documento":"000.147.734", "data":"2012-06-15", "detalhamento":"null", 
+                            "valorReembolsado":"157.38", "codDocumento":"582361"}, {"ano":"2012", "mes":"6", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"08626278000180", "fornecedor":"Condomínio Edifício Empresarial Santa Rosa Tower", 
+                            "documento":"1303/304/064", "data":"2012-06-10", "detalhamento":"null", 
+                            "valorReembolsado":"758.47", "codDocumento":"582366"}, {"ano":"2012", "mes":"6", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"03420926000710", "fornecedor":"Global Village Telecom Ltda", 
+                            "documento":"01129430440", "data":"2012-06-05", "detalhamento":"null", 
+                            "valorReembolsado":"506.17", "codDocumento":"582365"}, {"ano":"2012", "mes":"6", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"03934759000130", "fornecedor":"Solução Empreendimentos I Ltda", 
+                            "documento":"4/12", "data":"2012-06-10", "detalhamento":"null", 
+                            "valorReembolsado":"2902.0", "codDocumento":"582367"}, {"ano":"2012", "mes":"6", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"00530279000115", "fornecedor":"ECT - EMP. BRAS. DE CORREIOS E TELEGRAFOS", 
+                            "documento":"00", "data":"2012-06-06", "detalhamento":"null", 
+                            "valorReembolsado":"7.75", "codDocumento":"582391"}, {"ano":"2012", "mes":"6", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"00530279000115", "fornecedor":"ECT - EMP.BRAS. DE CORREIOS E TELEGRAFOS", 
+                            "documento":"00", "data":"2012-06-21", "detalhamento":"null", 
+                            "valorReembolsado":"1.65", "codDocumento":"582390"}, {"ano":"2012", "mes":"6", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"06128710000188", "fornecedor":"JVM Copiadoras e informática Ltda - EPP", 
+                            "documento":"000034", "data":"2012-06-04", "detalhamento":"null", 
+                            "valorReembolsado":"250.0", "codDocumento":"582371"}, {"ano":"2012", "mes":"6", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"05559973000189", "fornecedor":"H M Mesquita Comunicação ME", 
+                            "documento":"1058", "data":"2012-06-22", "detalhamento":"null", 
+                            "valorReembolsado":"2000.0", "codDocumento":"582370"}, {"ano":"2012", "mes":"6", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"01605878000113", "fornecedor":"Associação dos Taxista do Leblon", 
+                            "documento":"00", "data":"2012-06-17", "detalhamento":"null", 
+                            "valorReembolsado":"75.0", "codDocumento":"582386"}, {"ano":"2012", "mes":"6", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"05385474000112", "fornecedor":"Auto Posto Rodovia Ltda", 
+                            "documento":"000.024.135", "data":"2012-06-16", "detalhamento":"null", 
+                            "valorReembolsado":"119.93", "codDocumento":"582368"}, {"ano":"2012", "mes":"6", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"02805494000107", "fornecedor":"Barra Executive Service S/C Ltda", 
+                            "documento":"090", "data":"2012-06-23", "detalhamento":"null", 
+                            "valorReembolsado":"75.0", "codDocumento":"582383"}, {"ano":"2012", "mes":"6", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"06939734000117", "fornecedor":"BK-Recreio Bar Restaurante Ltda", 
+                            "documento":"2117", "data":"2012-06-17", "detalhamento":"null", 
+                            "valorReembolsado":"23.0", "codDocumento":"582384"}, {"ano":"2012", "mes":"6", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"08796076000268", "fornecedor":"Brasil 21 Eventos e Hotelaria Ltda", 
+                            "documento":"015883", "data":"2012-06-22", "detalhamento":"null", 
+                            "valorReembolsado":"786.9", "codDocumento":"582362"}, {"ano":"2012", "mes":"6", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"08796076000268", "fornecedor":"Brasil 21 Eventos e Hotelaria Ltda", 
+                            "documento":"015881", "data":"2012-06-22", "detalhamento":"null", 
+                            "valorReembolsado":"887.4", "codDocumento":"582363"}, {"ano":"2012", "mes":"6", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"04777798001024", "fornecedor":"Brasil 21 Gastronomia e Serviços Ltda", 
+                            "documento":"0252", "data":"2012-06-05", "detalhamento":"null", 
+                            "valorReembolsado":"42.44", "codDocumento":"582359"}, {"ano":"2012", "mes":"6", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"04777798001024", "fornecedor":"Brasil 21 Gastronomia e Serviços Ltda", 
+                            "documento":"0263", "data":"2012-06-19", "detalhamento":"null", 
+                            "valorReembolsado":"79.5", "codDocumento":"582358"}, {"ano":"2012", "mes":"6", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"02918919000194", "fornecedor":"Campinas Tayo Viagens e Turismo Ltda", 
+                            "documento":"01032", "data":"2012-02-28", "detalhamento":"null", 
+                            "valorReembolsado":"1914.0", "codDocumento":"582380"}, {"ano":"2012", "mes":"6", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"00306597001411", "fornecedor":"Cascol Combustiveis para Veículos Ltda", 
+                            "documento":"149625", "data":"2012-06-15", "detalhamento":"null", 
+                            "valorReembolsado":"150.0", "codDocumento":"582353"}, {"ano":"2012", "mes":"6", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"09001879001213", "fornecedor":"Comercial Amazonia de Petroleo Ltda", 
+                            "documento":"082951", "data":"2012-06-15", "detalhamento":"null", 
+                            "valorReembolsado":"155.6", "codDocumento":"582351"}, {"ano":"2012", "mes":"6", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"01652106000132", "fornecedor":"Continental Hotelaria e Turismo Ltda", 
+                            "documento":"059730", "data":"2012-06-14", "detalhamento":"null", 
+                            "valorReembolsado":"580.85", "codDocumento":"582364"}, {"ano":"2012", "mes":"6", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"00038505000730", "fornecedor":"Conver Combustíveis Automotivos Ltda", 
+                            "documento":"89611", "data":"2012-06-04", "detalhamento":"null", 
+                            "valorReembolsado":"150.0", "codDocumento":"582352"}, {"ano":"2012", "mes":"6", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"00038505000730", "fornecedor":"Conver Combustíveis Automotivos Ltda", 
+                            "documento":"89676", "data":"2012-06-11", "detalhamento":"null", 
+                            "valorReembolsado":"150.0", "codDocumento":"582354"}, {"ano":"2012", "mes":"6", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"10389379000127", "fornecedor":"L. M. Marcon & CIA Ltda", 
+                            "documento":"5660", "data":"2012-06-16", "detalhamento":"null", 
+                            "valorReembolsado":"95.0", "codDocumento":"582369"}, {"ano":"2012", "mes":"6", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"01019348000193", "fornecedor":"Minuta Recepções e Serviços de Buffet Ltda - ME", 
+                            "documento":"39722", "data":"2012-06-25", "detalhamento":"null", 
+                            "valorReembolsado":"81.4", "codDocumento":"582357"}, {"ano":"2012", "mes":"6", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"06276203000434", "fornecedor":"Pobre Juan Restarurante Grill Ltda", 
+                            "documento":"1073", "data":"2012-06-20", "detalhamento":"null", 
+                            "valorReembolsado":"153.0", "codDocumento":"582355"}, {"ano":"2012", "mes":"6", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"04473193000159", "fornecedor":"Posto da Torre Ltda ", 
+                            "documento":"669406", "data":"2012-06-22", "detalhamento":"null", 
+                            "valorReembolsado":"126.67", "codDocumento":"582356"}, {"ano":"2012", "mes":"6", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"10528201000209", "fornecedor":"Restaurante Tão Carioca Ltda - ME", 
+                            "documento":"009043", "data":"2012-06-20", "detalhamento":"null", 
+                            "valorReembolsado":"26.2", "codDocumento":"582389"}, {"ano":"2012", "mes":"6", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"04770454000100", "fornecedor":"Rota 66 Restaurante Ltda", 
+                            "documento":"3979", "data":"2012-06-19", "detalhamento":"null", 
+                            "valorReembolsado":"26.5", "codDocumento":"582388"}, {"ano":"2012", "mes":"6", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"00000000000000", "fornecedor":"Serviço de taxi do Rio de Janeiro", 
+                            "documento":"00", "data":"2012-06-17", "detalhamento":"null", 
+                            "valorReembolsado":"100.0", "codDocumento":"582387"}, {"ano":"2012", "mes":"6", "senador":"BLAIRO MAGGI", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2449168174", "data":"2012-05-15", "detalhamento":"TAM LINHAS AÉREAS
+Eumar Novacki - Mat: 234373
+Cuiabá/Brasília - 19/06/2012
+Brasília/Cuiabá - 26/06/2012", 
+                            "valorReembolsado":"969.71", "codDocumento":"582378"}]}

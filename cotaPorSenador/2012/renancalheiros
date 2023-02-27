@@ -1,0 +1,809 @@
+{"gastosSenador": [{"ano":"2012", "mes":"1", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"12294708000181", "fornecedor":"COMPANHIA DE SANEAMENTO DE ALAGOAS", 
+                            "documento":"S/Nº", "data":"2012-01-11", "detalhamento":"null", 
+                            "valorReembolsado":"85.7", "codDocumento":"501494"}, {"ano":"2012", "mes":"1", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"12272084000100", "fornecedor":"COMPANHIA ENERGÉTICA DE ALAGOAS", 
+                            "documento":"000542863", "data":"2012-01-13", "detalhamento":"null", 
+                            "valorReembolsado":"224.09", "codDocumento":"501495"}, {"ano":"2012", "mes":"1", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"24058475404", "fornecedor":"FÁBIO LUIZ ARAÚJO LOPES DE FARIAS", 
+                            "documento":"S/Nº", "data":"2012-02-07", "detalhamento":"null", 
+                            "valorReembolsado":"2799.32", "codDocumento":"501498"}, {"ano":"2012", "mes":"1", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118001302", "fornecedor":"TELEMAR NORTE LESTA S/A", 
+                            "documento":"BA-06-1211-OT35-0015011-01-3", "data":"2012-01-01", "detalhamento":"null", 
+                            "valorReembolsado":"224.8", "codDocumento":"501497"}, {"ano":"2012", "mes":"1", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"08152466000114", "fornecedor":"NEWTON E NEWTON ADVOCACIA", 
+                            "documento":"628", "data":"2012-01-31", "detalhamento":"null", 
+                            "valorReembolsado":"8000.0", "codDocumento":"501496"}, {"ano":"2012", "mes":"1", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"02488031000169", "fornecedor":"CDG COMBUSTIVEIS LTDA", 
+                            "documento":"134103", "data":"2012-01-14", "detalhamento":"null", 
+                            "valorReembolsado":"50.0", "codDocumento":"501490"}, {"ano":"2012", "mes":"1", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"02488031000169", "fornecedor":"CDG COMBUSTÍVEIS LTDA", 
+                            "documento":"059962", "data":"2012-01-17", "detalhamento":"null", 
+                            "valorReembolsado":"100.0", "codDocumento":"501491"}, {"ano":"2012", "mes":"1", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"02488031000169", "fornecedor":"CDG COMBUSTÍVEIS LTDA", 
+                            "documento":"061006", "data":"2012-01-21", "detalhamento":"null", 
+                            "valorReembolsado":"124.47", "codDocumento":"501492"}, {"ano":"2012", "mes":"1", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"02488031000169", "fornecedor":"CDG COMBUSTÍVEIS LTDA", 
+                            "documento":"136630", "data":"2012-01-27", "detalhamento":"null", 
+                            "valorReembolsado":"30.0", "codDocumento":"501493"}, {"ano":"2012", "mes":"1", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"12275228000173", "fornecedor":"TENDARA COMÉRCIO LTDA", 
+                            "documento":"026100", "data":"2012-01-10", "detalhamento":"null", 
+                            "valorReembolsado":"100.02", "codDocumento":"501489"}, {"ano":"2012", "mes":"1", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS S/A", 
+                            "documento":"957-2440681555", "data":"2012-01-10", "detalhamento":"LOCALIZADOR: 3RVESG
+PASSAGEIRO: CALHEIROS/JOSÉ RENAN
+VÔO TAM JJ 3481 - MACEIÓ / BRASÍLIA
+DATA: 12/01/2012
+HORÁRIO: 05:52", 
+                            "valorReembolsado":"1721.66", "codDocumento":"501500"}, {"ano":"2012", "mes":"4", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"12272084000100", "fornecedor":"COMPANHIA ENERGÉTICA DE ALAGOAS", 
+                            "documento":"00120006003330", "data":"2012-04-11", "detalhamento":"null", 
+                            "valorReembolsado":"324.83", "codDocumento":"554643"}, {"ano":"2012", "mes":"4", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"24058475404", "fornecedor":"FÁBIO LUIZ ARAÚJO LOPES DE FARIAS", 
+                            "documento":"S/Nº", "data":"2012-05-05", "detalhamento":"null", 
+                            "valorReembolsado":"2799.32", "codDocumento":"554645"}, {"ano":"2012", "mes":"4", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"12200135000180", "fornecedor":"PREFEITURA MUNICIPAL DE MACEIO - IPTU", 
+                            "documento":"NOTIFICAÇÃO 2012244812", "data":"2012-04-30", "detalhamento":"null", 
+                            "valorReembolsado":"110.81", "codDocumento":"554644"}, {"ano":"2012", "mes":"4", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118001302", "fornecedor":"TELEMAR NORTE LESTE S/A", 
+                            "documento":"000063327-06", "data":"2012-04-01", "detalhamento":"null", 
+                            "valorReembolsado":"110.37", "codDocumento":"554641"}, {"ano":"2012", "mes":"4", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"08152466000114", "fornecedor":"NEWTON E NEWTON ADVOCACIA", 
+                            "documento":"673", "data":"2012-04-27", "detalhamento":"null", 
+                            "valorReembolsado":"8000.0", "codDocumento":"554640"}, {"ano":"2012", "mes":"4", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"12044441000174", "fornecedor":"P & P INTELIGÊNCIA DE MARKETING LTDA", 
+                            "documento":"0043", "data":"2012-05-08", "detalhamento":"null", 
+                            "valorReembolsado":"12500.0", "codDocumento":"554639"}, {"ano":"2012", "mes":"4", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"06164253000187", "fornecedor":"GOL LINHAS AÉREAS INTELIGENTES S/A", 
+                            "documento":"4380451393", "data":"2012-04-26", "detalhamento":"LOCALIZADOR: WDRSVG
+NOME: CARLOS RICARDO SANTA RITTA (MAT. 147749)
+VÔO GOL 1722 - BRASÍLIA - MACEIÓ
+DATA: 26/04/2012
+SAÍDA 23:32 E CHEGADA 02:00
+", 
+                            "valorReembolsado":"893.76", "codDocumento":"554654"}, {"ano":"2012", "mes":"4", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS S/A", 
+                            "documento":"957 2444855534", "data":"2012-03-30", "detalhamento":"COD. RESERVA 8QEV9X
+NOME: RENAN CALHEIROS
+VÔO JJ 3577 - MACEIO/BRASÍLIA
+DATA: 02 ABRIL 2012 
+SAÍDA 14:45 - CHEGADA 16:59
+", 
+                            "valorReembolsado":"615.57", "codDocumento":"554646"}, {"ano":"2012", "mes":"4", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS S/A", 
+                            "documento":"957 2444855548", "data":"2012-04-02", "detalhamento":"COD. RESERVA: YS7N4Y
+NOME: RENAN CALHEIROS
+VÔO JJ 3480 - BRASÍLIA / MACEIÓ
+DATA: 04/04/2012
+SAÍDA 21:43 E CHEGADA 00:05", 
+                            "valorReembolsado":"1722.57", "codDocumento":"554647"}, {"ano":"2012", "mes":"4", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS S/A", 
+                            "documento":"957 2445262620", "data":"2012-04-07", "detalhamento":"COD. RESERVA: 2EBGHN
+NOME: RENAN CALHEIROS
+VÔO JJ 3577 - MACEIÓ / BRASÍLIA
+DATA: 08/04/2012
+SAÍDA 14:45 E CHEGADA 16:59", 
+                            "valorReembolsado":"1722.57", "codDocumento":"554648"}, {"ano":"2012", "mes":"4", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS S/A", 
+                            "documento":"957 2445481465", "data":"2012-04-12", "detalhamento":"COD. RESERVA: 4S7DDW
+NOME: RENAN CALHEIROS
+VÔO JJ 3727 - BRASÍLIA - SÃO PAULO
+DATA: 15/04/2012
+SAÍDA 18:24 E CHEGADA 19:55", 
+                            "valorReembolsado":"476.57", "codDocumento":"554650"}, {"ano":"2012", "mes":"4", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS S/A", 
+                            "documento":"957 2446078130", "data":"2012-04-18", "detalhamento":"COD. RESERVA: 674VXL
+NOME: RENAN CALHEIROS
+VÔO JJ 3480 - BRASÍLIA / MACEIÓ
+DATA: 26/04/2012
+SAÍDA 21:43 E CHEGADA 00:05", 
+                            "valorReembolsado":"516.57", "codDocumento":"554649"}, {"ano":"2012", "mes":"4", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS S/A", 
+                            "documento":"957 2446078129", "data":"2012-04-18", "detalhamento":"COD. RESERVA: 674XCD
+NOME: RENAN CALHEIROS
+VÔO JJ 3577 - MACEIÓ / BRASILIA
+DATA: 23/04/2012
+SAÍDA 13:40 E CHEGADA 15:54", 
+                            "valorReembolsado":"959.57", "codDocumento":"554651"}, {"ano":"2012", "mes":"4", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS S/A", 
+                            "documento":"957 2446078148", "data":"2012-04-19", "detalhamento":"COD. RESERVA: 674VXL - NOME: RENAN CALHEIROS
+VÔO JJ 3480 - BRASÍLIA / MACEIÓ
+DATA: 19/04/2012
+SAÍDA 21:43 E CHEGADA 00:05", 
+                            "valorReembolsado":"516.57", "codDocumento":"554652"}, {"ano":"2012", "mes":"4", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS S/A", 
+                            "documento":"957 244356383", "data":"2012-04-26", "detalhamento":"COD. RESERVA: ZTHU45
+NOME: CARLOS RICARDO SANTA RITA (MAT. 147749)
+VÔO JJ 3577 MACEIÓ / BRASÍLIA
+DATA: 26/04/2012
+SAÍDA 13:40 E CHEGADA 15:54", 
+                            "valorReembolsado":"512.17", "codDocumento":"554653"}, {"ano":"2012", "mes":"5", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"12294708000181", "fornecedor":"CASAL - CIA DE SANEAMENTO/AL", 
+                            "documento":"null", "data":"2012-05-04", "detalhamento":"null", 
+                            "valorReembolsado":"52.2", "codDocumento":"566030"}, {"ano":"2012", "mes":"5", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"12272084000100", "fornecedor":"CEAL - CIA ENERGÉTICA/AL", 
+                            "documento":"null", "data":"2012-04-18", "detalhamento":"null", 
+                            "valorReembolsado":"334.26", "codDocumento":"566031"}, {"ano":"2012", "mes":"5", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"12272084000100", "fornecedor":"CEAL - CIA ENERGÉTICA/AL", 
+                            "documento":"000483247", "data":"2012-05-18", "detalhamento":"null", 
+                            "valorReembolsado":"333.29", "codDocumento":"582411"}, {"ano":"2012", "mes":"5", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"24058475404", "fornecedor":"FÁBIO LUIZ ARAÚJO LOPES DE FARIAS", 
+                            "documento":"null", "data":"2012-05-30", "detalhamento":"null", 
+                            "valorReembolsado":"2799.32", "codDocumento":"566032"}, {"ano":"2012", "mes":"5", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"12200135000180", "fornecedor":"PREF. DE MACEIÓ - IPTU", 
+                            "documento":"null", "data":"2012-05-31", "detalhamento":"null", 
+                            "valorReembolsado":"110.81", "codDocumento":"566042"}, {"ano":"2012", "mes":"5", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118001302", "fornecedor":"TELEMAR NORTE LESTE S/A", 
+                            "documento":"null", "data":"2012-04-16", "detalhamento":"null", 
+                            "valorReembolsado":"145.68", "codDocumento":"566033"}, {"ano":"2012", "mes":"5", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"08078664000185", "fornecedor":"PRIMEIRA EDIÇÃO JORNAL ON-LINE IMPRESSA", 
+                            "documento":"328", "data":"2012-05-15", "detalhamento":"null", 
+                            "valorReembolsado":"200.0", "codDocumento":"566036"}, {"ano":"2012", "mes":"5", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"03651673000108", "fornecedor":"R. R. EXTINTORES COMERCIO E REPRESENTAÇÕES", 
+                            "documento":"6473", "data":"2012-05-31", "detalhamento":"null", 
+                            "valorReembolsado":"175.0", "codDocumento":"566037"}, {"ano":"2012", "mes":"5", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"08152466000114", "fornecedor":"NEWTON E NEWTON ADVOGACIA", 
+                            "documento":"684", "data":"2012-05-31", "detalhamento":"null", 
+                            "valorReembolsado":"8000.0", "codDocumento":"566035"}, {"ano":"2012", "mes":"5", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"12044441000174", "fornecedor":"P&P INTELIGENCIA DE MARKETING LTDA", 
+                            "documento":"45", "data":"2012-06-01", "detalhamento":"null", 
+                            "valorReembolsado":"12500.0", "codDocumento":"566034"}, {"ano":"2012", "mes":"5", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"06164253000187", "fornecedor":"GOL LINHAS AÉREAS S/A", 
+                            "documento":"4440939860", "data":"2012-05-21", "detalhamento":"NOME: RENAN CALHEIROS
+CÓDIGO RESERVA: OH4IQX
+DATA: 21/05/2012
+VÔO: 1925 - MACEIÓ/BRASÍLIA", 
+                            "valorReembolsado":"716.28", "codDocumento":"566041"}, {"ano":"2012", "mes":"5", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"9572448062557", "data":"2012-05-28", "detalhamento":"NOME: RENAN CALHEIROS
+CÓDIGO DA RESERVA: 5939AZ
+DATA: 31/05/2012
+VÔO: JJ3480 - BRASILIA/MACEIÓ", 
+                            "valorReembolsado":"489.57", "codDocumento":"582412"}, {"ano":"2012", "mes":"5", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS S/A", 
+                            "documento":"9572447830750 - 9572447830749", "data":"2012-05-23", "detalhamento":"NOME: RICARDO SANTA RITTA - ASSESSOR 147749
+CÓDIGOS RESERVAS: 4BSSNT - 4CO8Y3
+DATA: 24/05/12
+VÔOS: 3577/3480 - MACEIO/BRASILIA/MACEIO", 
+                            "valorReembolsado":"1149.24", "codDocumento":"566040"}, {"ano":"2012", "mes":"5", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS S/A ", 
+                            "documento":"9572446579312", "data":"2012-04-27", "detalhamento":"NOME: RENAN CALHEIROS
+CÓDIGO RESERVA: 2HLSQS
+DATA: 02/05/12
+VÔO: 3481 - MACEIO/BRASILIA", 
+                            "valorReembolsado":"1722.57", "codDocumento":"566038"}, {"ano":"2012", "mes":"5", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS S/A ", 
+                            "documento":"9572447120996", "data":"2012-05-15", "detalhamento":"NOME: RENAN CALHEIROS
+CÓDIGO RESERVA: YRBPQV
+DATA: 17/05/12
+VÔO: 3480 - BRASILIA/MACEIO", 
+                            "valorReembolsado":"410.37", "codDocumento":"566039"}, {"ano":"2012", "mes":"6", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"12294708000181", "fornecedor":"CASAL - CIA SANEAMENTO/AL", 
+                            "documento":"null", "data":"2012-07-02", "detalhamento":"null", 
+                            "valorReembolsado":"52.2", "codDocumento":"582413"}, {"ano":"2012", "mes":"6", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"24058475404", "fornecedor":"FÁBIO LUIZ ARAÚJO LOPES DE FARIAS", 
+                            "documento":"null", "data":"2012-06-29", "detalhamento":"null", 
+                            "valorReembolsado":"2799.32", "codDocumento":"582416"}, {"ano":"2012", "mes":"6", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"12200135000180", "fornecedor":"PREFEITURA MUN. MACEIÓ - IPTU", 
+                            "documento":"null", "data":"2012-07-02", "detalhamento":"null", 
+                            "valorReembolsado":"110.81", "codDocumento":"582415"}, {"ano":"2012", "mes":"6", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118001302", "fornecedor":"TELEMAR NORTE LESTE S/A", 
+                            "documento":"31891", "data":"2012-05-15", "detalhamento":"null", 
+                            "valorReembolsado":"94.65", "codDocumento":"582414"}, {"ano":"2012", "mes":"6", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"70017322000129", "fornecedor":"O JORNAL ALAGOAS", 
+                            "documento":"6871", "data":"2012-06-15", "detalhamento":"null", 
+                            "valorReembolsado":"186.0", "codDocumento":"582419"}, {"ano":"2012", "mes":"6", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"08152466000114", "fornecedor":"NEWTON E NEWTON ADVOGACIA", 
+                            "documento":"703", "data":"2012-06-26", "detalhamento":"null", 
+                            "valorReembolsado":"8000.0", "codDocumento":"582418"}, {"ano":"2012", "mes":"6", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"12044441000174", "fornecedor":"P&P INTELIGÊNCIA DE MARKETING LTDA", 
+                            "documento":"47", "data":"2012-07-02", "detalhamento":"null", 
+                            "valorReembolsado":"12500.0", "codDocumento":"582417"}, {"ano":"2012", "mes":"6", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"06164253000187", "fornecedor":"GOL LINHAS AÉREAS S/A", 
+                            "documento":"4423138666", "data":"2012-06-21", "detalhamento":"NOME: RENAN CALHEIROS
+CÓDIGO RESERVA: XHIWSK
+DATA: 22/06/12
+VÔO: 1160 - SÃO PAULO-GRU/MACEIO
+", 
+                            "valorReembolsado":"908.88", "codDocumento":"582428"}, {"ano":"2012", "mes":"6", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"06164253000187", "fornecedor":"GOL LINHAS AÉREAS S/A ", 
+                            "documento":"4317449313", "data":"2012-06-04", "detalhamento":"NOME: RENAN CALHEIROS
+CÓDIGO RESERVA: V9PEUS
+DATA: 04/06/12
+VÔO: 1925 - MACEIÓ/BRASÍLIA
+", 
+                            "valorReembolsado":"435.48", "codDocumento":"582427"}, {"ano":"2012", "mes":"6", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS S/A", 
+                            "documento":"9572449036689", "data":"2012-06-14", "detalhamento":"NOME: RENAN CALHEIROS
+CÓDIGO RESERVA: 5FTCF5
+DATA: 14/06/12
+VÔO: JJ3715 - BRASÍLIA/SÃO PAULO-CGH", 
+                            "valorReembolsado":"630.87", "codDocumento":"582422"}, {"ano":"2012", "mes":"6", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS S/A", 
+                            "documento":"9572449628081", "data":"2012-06-26", "detalhamento":"NOME: RENAN CALHEIROS
+CÓDIGO RESERVA: Z4TAXE
+DATA: 28/06/12
+VÔO: JJ3576 - BRASÍLIA/MACEIÓ
+", 
+                            "valorReembolsado":"565.17", "codDocumento":"582426"}, {"ano":"2012", "mes":"6", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS S/A ", 
+                            "documento":"9572448062584", "data":"2012-05-28", "detalhamento":"NOME: RENAN CALHEIROS
+CÓDIGO RESERVA: 5935IM
+DATA: 11/06/12
+VÔO: JJ3577 - MACEIÓ/BRASÍLIA
+", 
+                            "valorReembolsado":"556.17", "codDocumento":"582421"}, {"ano":"2012", "mes":"6", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS S/A ", 
+                            "documento":"9572448062583", "data":"2012-05-28", "detalhamento":"NOME: RENAN CALHEIROS
+CÓDIGO RESERVA: 6AP9BX
+DATA: 06/06/12
+VÔO: JJ3480 - BRASÍLIA/MACEIÓ
+", 
+                            "valorReembolsado":"1552.47", "codDocumento":"582420"}, {"ano":"2012", "mes":"6", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS S/A ", 
+                            "documento":"9572449201028", "data":"2012-06-15", "detalhamento":"NOME:RENAN CALHEIROS
+CÓDIGO RESERVA: 5Y6A3I
+DATA: 18/06/12
+VÔO: JJ3718 - SÃO PAULO-CGH/BRASÍLIA", 
+                            "valorReembolsado":"482.37", "codDocumento":"582423"}, {"ano":"2012", "mes":"6", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS S/A ", 
+                            "documento":"9572449201029", "data":"2012-06-15", "detalhamento":"NOME: RENAN CALHEIROS
+CÓDIGO RESERVA: 5Y6C9A
+DATA: 18/06/12
+VÔO: JJ3715 - BRASÍLIA/SÃO PAULO - CGH
+", 
+                            "valorReembolsado":"482.37", "codDocumento":"582424"}, {"ano":"2012", "mes":"6", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS S/A ", 
+                            "documento":"9572449415984", "data":"2012-06-21", "detalhamento":"NOME: RENAN CALHEIROS
+CÓDIGO RESERVA: 7QGWPA
+DATA: 25/06/12
+VÔO: JJ3577 - MACEIÓ/BRASÍLIA
+", 
+                            "valorReembolsado":"792.87", "codDocumento":"582425"}, {"ano":"2012", "mes":"7", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"12294708000181", "fornecedor":"CASAL - CIA SANEAMENTO/AL", 
+                            "documento":"167258", "data":"2012-07-04", "detalhamento":"null", 
+                            "valorReembolsado":"52.2", "codDocumento":"602667"}, {"ano":"2012", "mes":"7", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"12272084000100", "fornecedor":"ELETROBRAS", 
+                            "documento":"8080143", "data":"2012-06-18", "detalhamento":"null", 
+                            "valorReembolsado":"314.7", "codDocumento":"602668"}, {"ano":"2012", "mes":"7", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"24058475404", "fornecedor":"FÁBIO LUIZ ARAÚJO LOPES DE FARIAS", 
+                            "documento":"null", "data":"2012-07-27", "detalhamento":"null", 
+                            "valorReembolsado":"2799.32", "codDocumento":"602669"}, {"ano":"2012", "mes":"7", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118001302", "fornecedor":"TELEMAR NORTE LESTE S/A", 
+                            "documento":"33259360", "data":"2012-06-18", "detalhamento":"null", 
+                            "valorReembolsado":"101.11", "codDocumento":"602666"}, {"ano":"2012", "mes":"7", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"08152466000114", "fornecedor":"NEWTON E NEWTON ADVOCACIA", 
+                            "documento":"715", "data":"2012-07-27", "detalhamento":"null", 
+                            "valorReembolsado":"8000.0", "codDocumento":"602670"}, {"ano":"2012", "mes":"7", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"12044441000174", "fornecedor":"P&P INTELIGENCIA DE MARKETING LTDA", 
+                            "documento":"50", "data":"2012-08-06", "detalhamento":"null", 
+                            "valorReembolsado":"12500.0", "codDocumento":"602671"}, {"ano":"2012", "mes":"7", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"06164253000187", "fornecedor":"GOL LINHAS AÉREAS S/A", 
+                            "documento":"456905607", "data":"2012-07-20", "detalhamento":"NOME: MARIA INES, MATRÍCULA 213898 
+LOCALIZADOR: U9UR6P
+DATA: 20/07/12
+VÔO: 1722 - BRASÍLIA/MACEIÓ", 
+                            "valorReembolsado":"620.88", "codDocumento":"602674"}, {"ano":"2012", "mes":"7", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"06164253000187", "fornecedor":"GOL LINHAS AÉREAS S/A", 
+                            "documento":"4408476280", "data":"2012-07-26", "detalhamento":"NOME: DILENE BARRETO, MATRÍCULA 180820
+LOCALIZADOR: TDIU6T
+DATA: 26/07/12
+VÔO: 1540 - SÃO PAULO/RIO
+", 
+                            "valorReembolsado":"724.77", "codDocumento":"602673"}, {"ano":"2012", "mes":"7", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"06164253000187", "fornecedor":"GOL LINHAS AÉREAS S/A", 
+                            "documento":"12700188263984", "data":"2012-07-30", "detalhamento":"NOME: RENAN CALHEIROS
+CÓDIGO RESERVA: PG12XN
+DATA: 30/07/12
+VÔO: 1208 SÃO PAULO/BRASILIA
+", 
+                            "valorReembolsado":"479.58", "codDocumento":"602675"}, {"ano":"2012", "mes":"7", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS S/A", 
+                            "documento":"9572449628049", "data":"2012-06-25", "detalhamento":"NOME: RENAN CALHEIROS
+CÓDIGO RESERVA: ZJFAQR
+DATA: 02/07/12
+VÔO: JJ3577 MACEIÓ/BRASÍLIA", 
+                            "valorReembolsado":"313.17", "codDocumento":"602679"}, {"ano":"2012", "mes":"7", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS S/A", 
+                            "documento":"9572450960518", "data":"2012-07-12", "detalhamento":"NOME: RENAN CALHEIROS
+CÓDIGO RESERVA: YPCF2U
+DATA: 17/07/12
+VÔO: JJ3481 MACEIÓ/BRASILIA", 
+                            "valorReembolsado":"792.87", "codDocumento":"602678"}, {"ano":"2012", "mes":"7", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS S/A", 
+                            "documento":"957241143464", "data":"2012-07-17", "detalhamento":"NOME: RENAN CALHEIROS
+CÓDIGO RESERVA: 2EPZWS
+DATA: 22/07/12
+VÔO: JJ3637 MACEIÓ/SÃO PAULO
+", 
+                            "valorReembolsado":"1544.37", "codDocumento":"602676"}, {"ano":"2012", "mes":"7", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS S/A", 
+                            "documento":"9572451143466", "data":"2012-07-17", "detalhamento":"NOME: RENAN CALHEIROS
+CÓDIGO RESERVA: 2WFS9N
+DATA: 18/07/12
+VÔO: JJ3480 BRASILIA/MACEIÓ", 
+                            "valorReembolsado":"1619.07", "codDocumento":"602677"}, {"ano":"2012", "mes":"7", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS S/A", 
+                            "documento":"9572451587514 ", "data":"2012-07-23", "detalhamento":"NOME: DILENE BARRETO, MATRÍCULA 180820
+CÓDIGO RESERVA: 5KJXEW
+DATA: 24/07/12
+VÔO: JJ4743 RIO/SÃO PAULO", 
+                            "valorReembolsado":"551.67", "codDocumento":"602672"}, {"ano":"2012", "mes":"8", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"12294708000181", "fornecedor":"CIA DE SANEAMENTO DE ALAGOAS", 
+                            "documento":"null", "data":"2012-08-03", "detalhamento":"null", 
+                            "valorReembolsado":"52.2", "codDocumento":"616977"}, {"ano":"2012", "mes":"8", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"12272084000100", "fornecedor":"ELETROBRAS DISTRIBUIÇÃO ALAGOAS", 
+                            "documento":"null", "data":"2012-07-19", "detalhamento":"null", 
+                            "valorReembolsado":"291.33", "codDocumento":"616978"}, {"ano":"2012", "mes":"8", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"24058475404", "fornecedor":"FÁBIO LUIZ ARAÚJO LOPES DE FARIAS", 
+                            "documento":"null", "data":"2012-08-31", "detalhamento":"null", 
+                            "valorReembolsado":"2799.32", "codDocumento":"616980"}, {"ano":"2012", "mes":"8", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"12200135000180", "fornecedor":"PREFEITURA MUNICIPAL DE MACEIÓ - IPTU", 
+                            "documento":"IPTU - REF-5/10", "data":"2012-08-16", "detalhamento":"null", 
+                            "valorReembolsado":"110.81", "codDocumento":"616979"}, {"ano":"2012", "mes":"8", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000179", "fornecedor":"TELEMAR NORTE LESTE S/A", 
+                            "documento":"3325-9360", "data":"2012-07-16", "detalhamento":"null", 
+                            "valorReembolsado":"98.53", "codDocumento":"616976"}, {"ano":"2012", "mes":"8", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"08152466000114", "fornecedor":"NEWTON E NEWTON-ADVOCACIA", 
+                            "documento":"726-A", "data":"2012-08-28", "detalhamento":"null", 
+                            "valorReembolsado":"8000.0", "codDocumento":"616981"}, {"ano":"2012", "mes":"8", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"12044441000174", "fornecedor":"P&P INTELIGENCIA DE MARKETING LTDa", 
+                            "documento":"00000053", "data":"2012-09-04", "detalhamento":"null", 
+                            "valorReembolsado":"12500.0", "codDocumento":"616982"}, {"ano":"2012", "mes":"8", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"12605987000157", "fornecedor":"AUTO POSTO AMÉLIA ROSA LTDa", 
+                            "documento":"177987", "data":"2012-08-29", "detalhamento":"null", 
+                            "valorReembolsado":"137.46", "codDocumento":"616989"}, {"ano":"2012", "mes":"8", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"09168737000192", "fornecedor":"AUTO POSTO SHOPPING LTDa", 
+                            "documento":"527417", "data":"2012-08-30", "detalhamento":"null", 
+                            "valorReembolsado":"111.68", "codDocumento":"616990"}, {"ano":"2012", "mes":"8", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"07120479000149", "fornecedor":"AUTO POSTO VIA MARÉ LTDa", 
+                            "documento":"001030", "data":"2012-08-24", "detalhamento":"null", 
+                            "valorReembolsado":"50.0", "codDocumento":"616988"}, {"ano":"2012", "mes":"8", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"03402488000171", "fornecedor":"CARLOS EDUARDO RODRIGUES CAETANO- ME", 
+                            "documento":"035392", "data":"2012-08-20", "detalhamento":"null", 
+                            "valorReembolsado":"210.1", "codDocumento":"616985"}, {"ano":"2012", "mes":"8", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"04843468000107", "fornecedor":"FREIRE RESTAURANTE LTDa - ME", 
+                            "documento":"015177", "data":"2012-08-20", "detalhamento":"null", 
+                            "valorReembolsado":"124.5", "codDocumento":"616986"}, {"ano":"2012", "mes":"8", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"05786069000106", "fornecedor":"JULIANO BRITO SANTOS-ME", 
+                            "documento":"003822", "data":"2012-08-29", "detalhamento":"null", 
+                            "valorReembolsado":"36.0", "codDocumento":"616987"}, {"ano":"2012", "mes":"8", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"14988116000195", "fornecedor":"M B BAR E RESTAURANTE LTDa", 
+                            "documento":"000431", "data":"2012-08-11", "detalhamento":"null", 
+                            "valorReembolsado":"111.4", "codDocumento":"616984"}, {"ano":"2012", "mes":"8", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"41183427000150", "fornecedor":"NOVO DRAGÃO RESTAURANTE LTDa", 
+                            "documento":"119515", "data":"2012-08-10", "detalhamento":"null", 
+                            "valorReembolsado":"75.8", "codDocumento":"616983"}, {"ano":"2012", "mes":"8", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREA S/A", 
+                            "documento":"9572451953273", "data":"2012-08-01", "detalhamento":"NOME: RENAN CALHEIROS
+CÓDIGO RESERVA: YIS9YU
+DATA: 02/08/12
+VÔO: JJ 3480 - BSB/MCZ
+", 
+                            "valorReembolsado":"229.47", "codDocumento":"616974"}, {"ano":"2012", "mes":"8", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREA S/A", 
+                            "documento":"9572452080451", "data":"2012-08-01", "detalhamento":"NOME: DAVID RIOS ASSESSOR MAT. 213280
+CÓDIGO RESERVA: YCIT9H
+DATAS: 01 E 03/08/12
+VÔOS: JJ3577/3576 MCZ/BSB/MCZ
+", 
+                            "valorReembolsado":"1815.24", "codDocumento":"616975"}, {"ano":"2012", "mes":"8", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREA S/A", 
+                            "documento":"9572452193311", "data":"2012-08-03", "detalhamento":"NOME: RENAN CALHEIROS
+CÓDIGO RESERVA: YZITO7
+DATA: 09/08/12
+VÔO: JJ3480 - BSB/MCZ
+", 
+                            "valorReembolsado":"494.07", "codDocumento":"616972"}, {"ano":"2012", "mes":"8", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREA S/A", 
+                            "documento":"9572452651753", "data":"2012-08-13", "detalhamento":"NOME: RENAN CALHEIROS
+CÓDIGO RESERVA: 45BMNF
+DATA: 14/08/12
+VÔO: JJ3577 - MCZ/BSB
+", 
+                            "valorReembolsado":"878.37", "codDocumento":"616971"}, {"ano":"2012", "mes":"8", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREA S/A", 
+                            "documento":"9572452988551-9572452988594", "data":"2012-08-16", "detalhamento":"NOME: RENAN CALHEIROS
+CÓDIGO RESERVA: 6HW50Y E 62HIUW
+DATA:16 E 21/08/12
+VÔOS:JJ3480 E 3481- BSB/MCZ/BSB
+", 
+                            "valorReembolsado":"1756.74", "codDocumento":"616970"}, {"ano":"2012", "mes":"8", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREA S/A", 
+                            "documento":"9572453505432", "data":"2012-08-23", "detalhamento":"NOME: RENAN CALHEIROS
+CÓDIGO RESERVA: YJVHZ4
+DATA: 23/08/12
+VÔO: JJ3480 - BSB/MCZ
+", 
+                            "valorReembolsado":"490.03", "codDocumento":"616969"}, {"ano":"2012", "mes":"8", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREA S/A", 
+                            "documento":"9572453505433", "data":"2012-08-23", "detalhamento":"NOME: RENAN CALHEIROS
+CÓDIGO RESERVA:X8FPHC
+DATA: 27/08/12
+VÔO: JJ3577 - MCZ/BSB
+", 
+                            "valorReembolsado":"878.37", "codDocumento":"616968"}, {"ano":"2012", "mes":"8", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREA S/A  ", 
+                            "documento":"9572451953274", "data":"2012-08-01", "detalhamento":"NOME: RENAN CALHEIROS
+CÓDIGO RESERVA: YITAK9
+DATA: 06/08/12
+VÔO: JJ3577 - MCZ/BSB
+", 
+                            "valorReembolsado":"494.07", "codDocumento":"616973"}, {"ano":"2012", "mes":"9", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"12294708000181", "fornecedor":"CASAL - CIA SANEAMENTO/AL", 
+                            "documento":"null", "data":"2012-09-04", "detalhamento":"null", 
+                            "valorReembolsado":"53.65", "codDocumento":"637081"}, {"ano":"2012", "mes":"9", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"12272084000100", "fornecedor":"ELETROBRAS", 
+                            "documento":"null", "data":"2012-08-21", "detalhamento":"null", 
+                            "valorReembolsado":"252.47", "codDocumento":"637082"}, {"ano":"2012", "mes":"9", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"24058475404", "fornecedor":"FÁBIO LUIZ ARAÚJO LOPES DE FARIAS", 
+                            "documento":"null", "data":"2012-09-28", "detalhamento":"null", 
+                            "valorReembolsado":"2799.32", "codDocumento":"637085"}, {"ano":"2012", "mes":"9", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118001302", "fornecedor":"TELEMAR NORTE LESTE S/A", 
+                            "documento":"null", "data":"2012-08-18", "detalhamento":"null", 
+                            "valorReembolsado":"119.74", "codDocumento":"637083"}, {"ano":"2012", "mes":"9", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"08152466000114", "fornecedor":"NEWTON E NEWTON ADVOCACIA", 
+                            "documento":"737", "data":"2012-09-24", "detalhamento":"null", 
+                            "valorReembolsado":"8000.0", "codDocumento":"637086"}, {"ano":"2012", "mes":"9", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"12044441000174", "fornecedor":"P&P INTELIGENCIA DE MARKETING LTDA", 
+                            "documento":"56", "data":"2012-10-02", "detalhamento":"null", 
+                            "valorReembolsado":"12500.0", "codDocumento":"637087"}, {"ano":"2012", "mes":"9", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"12605987000157", "fornecedor":"AUTO POSTO AMELIA ROSA LTDA", 
+                            "documento":"188625", "data":"2012-09-21", "detalhamento":"null", 
+                            "valorReembolsado":"146.03", "codDocumento":"637089"}, {"ano":"2012", "mes":"9", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"05885727000117", "fornecedor":"AUTO POSTO SANTANA", 
+                            "documento":"20435", "data":"2012-09-23", "detalhamento":"null", 
+                            "valorReembolsado":"100.0", "codDocumento":"637091"}, {"ano":"2012", "mes":"9", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"47508411126338", "fornecedor":"CIA BRASILEIRA DE DISTRIBUIÇÃO", 
+                            "documento":"41016", "data":"2012-09-11", "detalhamento":"null", 
+                            "valorReembolsado":"70.0", "codDocumento":"637090"}, {"ano":"2012", "mes":"9", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"11219223000160", "fornecedor":"KELLY P. ARAUJO", 
+                            "documento":"1619", "data":"2012-09-02", "detalhamento":"null", 
+                            "valorReembolsado":"77.24", "codDocumento":"637088"}, {"ano":"2012", "mes":"9", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS S/A", 
+                            "documento":"9572453949439", "data":"2012-08-30", "detalhamento":"NOME: RENAN CALHEIROS
+CÓDIGO RESERVA: 3VF7B7
+DATA: 01/09/12
+VÔO: 3576 - BSB-MCZ
+", 
+                            "valorReembolsado":"964.33", "codDocumento":"637099"}, {"ano":"2012", "mes":"9", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS S/A", 
+                            "documento":"9572454348847", "data":"2012-09-05", "detalhamento":"NOME: RENAN CALHEIROS
+CÓDIGO RESERVA: 6JHJEZ
+DATA: 10/09/12
+VÔO: 3577 - MCZ-BSB
+", 
+                            "valorReembolsado":"1425.57", "codDocumento":"637096"}, {"ano":"2012", "mes":"9", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS S/A", 
+                            "documento":"9572454348830", "data":"2012-09-05", "detalhamento":"NOME: RENAN CALHEIROS
+CÓDIGO RESERVA: 49RA5W
+DATA: 06/09/12
+VÔO: 3480 - BSB-MCZ
+", 
+                            "valorReembolsado":"2018.23", "codDocumento":"637097"}, {"ano":"2012", "mes":"9", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS S/A", 
+                            "documento":"9572455268124", "data":"2012-09-19", "detalhamento":"NOME: RENAN CALHEIROS
+CÓDIGO RESERVA: 4DXSEK
+DATA: 20/09/12
+VÔO: 3576 - BSB-MCZ
+", 
+                            "valorReembolsado":"1021.93", "codDocumento":"637094"}, {"ano":"2012", "mes":"9", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS S/A", 
+                            "documento":"9572455441354", "data":"2012-09-24", "detalhamento":"NOME: RENAN CALHEIROS
+CÓDIGO RESERVA: 6JWSTA
+DATA: 25/09/12
+VÔO: 3481 - MCZ-BSB
+
+", 
+                            "valorReembolsado":"1277.07", "codDocumento":"637093"}, {"ano":"2012", "mes":"9", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS S/A", 
+                            "documento":"9572455609595", "data":"2012-09-26", "detalhamento":"NOME: RENAN CALHEIROS
+CÓDIGO RESERVA: 7NWLMR
+DATA: 26/09/12
+VÔO: 3480 - BSB-MCZ
+", 
+                            "valorReembolsado":"597.13", "codDocumento":"637092"}, {"ano":"2012", "mes":"9", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS S/A ", 
+                            "documento":"9572453949480", "data":"2012-08-31", "detalhamento":"NOME: RENAN CALHEIROS
+CÓDIGO RESERVA: 4DR208
+DATA: 04/09/12
+VÔO: 3481 - MCZ-BSB
+", 
+                            "valorReembolsado":"547.17", "codDocumento":"637098"}, {"ano":"2012", "mes":"9", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS S/A ", 
+                            "documento":"9572454939769", "data":"2012-09-17", "detalhamento":"NOME: RENAN CALHEIROS
+CÓDIGO RESERVA: 27SJKM
+DATA: 18/09/12
+VÔO: 3481 - MCZ-BSB
+", 
+                            "valorReembolsado":"974.67", "codDocumento":"637095"}, {"ano":"2012", "mes":"10", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"12294708000181", "fornecedor":"CASAL - CIA SANEAMENTO/AL", 
+                            "documento":"null", "data":"2012-10-04", "detalhamento":"null", 
+                            "valorReembolsado":"78.61", "codDocumento":"644530"}, {"ano":"2012", "mes":"10", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"12272084000100", "fornecedor":"ELETROBRAS ", 
+                            "documento":"null", "data":"2012-09-17", "detalhamento":"null", 
+                            "valorReembolsado":"228.36", "codDocumento":"644531"}, {"ano":"2012", "mes":"10", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"24058475404", "fornecedor":"FÁBIO LUIZ ARAÚJO LOPES DE FARIAS", 
+                            "documento":"null", "data":"2012-10-26", "detalhamento":"null", 
+                            "valorReembolsado":"2799.32", "codDocumento":"644533"}, {"ano":"2012", "mes":"10", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"12200135000180", "fornecedor":"IPTU - PREFEITURA MUN. MACEIÓ/AL", 
+                            "documento":"null", "data":"2012-10-03", "detalhamento":"null", 
+                            "valorReembolsado":"123.49", "codDocumento":"644532"}, {"ano":"2012", "mes":"10", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118001302", "fornecedor":"TELEMAR NORTE LESTE S/A", 
+                            "documento":"null", "data":"2012-09-17", "detalhamento":"null", 
+                            "valorReembolsado":"101.62", "codDocumento":"644529"}, {"ano":"2012", "mes":"10", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"08152466000114", "fornecedor":"NEWTON E NEWTON ADVOCACIA", 
+                            "documento":"749", "data":"2012-10-26", "detalhamento":"null", 
+                            "valorReembolsado":"8000.0", "codDocumento":"644534"}, {"ano":"2012", "mes":"10", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS S/A", 
+                            "documento":"9572456320251", "data":"2012-10-06", "detalhamento":"NOME: RENAN CALHEIROS
+CÓDIGO RESERVA: 3I97S6
+DATA: 08/10/12
+VÔO: 3577 - MCZ-BSB
+", 
+                            "valorReembolsado":"910.06", "codDocumento":"644535"}, {"ano":"2012", "mes":"10", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS S/A", 
+                            "documento":"9572456320256", "data":"2012-10-08", "detalhamento":"NOME: MARIA INEZ SANTOS, ASSESSORA MAT.213898
+CÓDIGO RESERVA:37RGDQ
+DATA: 09/10/2012
+VÔO: 3577 - MCZ-BSB
+", 
+                            "valorReembolsado":"1236.3", "codDocumento":"644538"}, {"ano":"2012", "mes":"10", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS S/A", 
+                            "documento":"9572457136904", "data":"2012-10-18", "detalhamento":"NOME: RENAN CALHEIROS
+CÓDIGO RESERVA:YI3CSM
+DATA: 18/10/12
+VÔO: 3480 - BSB/MCZ
+", 
+                            "valorReembolsado":"1235.86", "codDocumento":"644536"}, {"ano":"2012", "mes":"10", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS S/A", 
+                            "documento":"9572457297315", "data":"2012-10-22", "detalhamento":"NOME: RENAN CALHEIROS
+CÓDIGO RESERVA: 2G4NFE
+DATA: 23/10/12
+VÔO: 3481 - MCZ-BSB
+", 
+                            "valorReembolsado":"1346.73", "codDocumento":"644537"}, {"ano":"2012", "mes":"11", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"12294708000181", "fornecedor":"CASAL CIA SANEAMENTO/AL", 
+                            "documento":"null", "data":"2012-11-06", "detalhamento":"null", 
+                            "valorReembolsado":"51.2", "codDocumento":"675335"}, {"ano":"2012", "mes":"11", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"12272084000100", "fornecedor":"ELETROBRAS", 
+                            "documento":"null", "data":"2012-10-19", "detalhamento":"null", 
+                            "valorReembolsado":"307.74", "codDocumento":"675336"}, {"ano":"2012", "mes":"11", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"24058475404", "fornecedor":"FABIO LUIZ ARAÚJO LOPES DE FARIAS", 
+                            "documento":"null", "data":"2012-11-27", "detalhamento":"null", 
+                            "valorReembolsado":"2799.32", "codDocumento":"675338"}, {"ano":"2012", "mes":"11", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"12200135000180", "fornecedor":"IPTU - PREF. MUN. MACEIÓ/AL", 
+                            "documento":"null", "data":"2012-11-14", "detalhamento":"null", 
+                            "valorReembolsado":"116.81", "codDocumento":"675337"}, {"ano":"2012", "mes":"11", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118001302", "fornecedor":"TELEMAR NORTE LESTE S/A", 
+                            "documento":"null", "data":"2012-10-19", "detalhamento":"null", 
+                            "valorReembolsado":"105.08", "codDocumento":"675334"}, {"ano":"2012", "mes":"11", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"08152466000114", "fornecedor":"NEWTON E NEWTON ADVOCACIA", 
+                            "documento":"760", "data":"2012-11-29", "detalhamento":"null", 
+                            "valorReembolsado":"8000.0", "codDocumento":"675339"}, {"ano":"2012", "mes":"11", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Divulgação da atividade parlamentar", "cnpjCpf":"12924647000199", "fornecedor":"OVNI AUDIO VIDEO PRODUÇÕES LTDA", 
+                            "documento":"69", "data":"2012-12-17", "detalhamento":"null", 
+                            "valorReembolsado":"10000.0", "codDocumento":"675341"}, {"ano":"2012", "mes":"11", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02575829000148", "fornecedor":"AVIANCA", 
+                            "documento":"122675267", "data":"2012-11-11", "detalhamento":"NOME: RENAN CALHEIROS
+LOCALIZADOR: OUWCEV
+DATA: 12/11/12
+VÔO:6307 - MCZ/BSB
+", 
+                            "valorReembolsado":"1329.64", "codDocumento":"675343"}, {"ano":"2012", "mes":"11", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02575829000148", "fornecedor":"AVIANCA", 
+                            "documento":"122734339", "data":"2012-11-14", "detalhamento":"NOME: RENAN CALHEIROS
+LOCALIZADOR: OVONVQ
+DATA: 15/11/12
+VÔO: 6306 - BSB/MCZ
+", 
+                            "valorReembolsado":"1560.03", "codDocumento":"675344"}, {"ano":"2012", "mes":"11", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02575829000148", "fornecedor":"AVIANCA", 
+                            "documento":"122849857", "data":"2012-11-23", "detalhamento":"NOME: RENAN CALHEIROS
+LOCALIZADOR: 0VAPYR
+DATA: 24/11/12
+VÔO: 6306 - BSB/MCZ", 
+                            "valorReembolsado":"792.51", "codDocumento":"675345"}, {"ano":"2012", "mes":"11", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02575829000148", "fornecedor":"AVIANCA  ", 
+                            "documento":"122849694", "data":"2012-11-23", "detalhamento":"NOME: RENAN CALHEIROS
+LOCALIZADOR: 0V9PV7
+DATA: 26/11/12
+VÔO: 6307 - MCZ/BSB
+", 
+                            "valorReembolsado":"1329.64", "codDocumento":"675346"}, {"ano":"2012", "mes":"11", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS S/A  ", 
+                            "documento":"9572458529825", "data":"2012-11-08", "detalhamento":"NOME: RENAN CALHEIROS
+CÓDIGO RESERVA:ZGCWFL
+DATA:08/11/12
+VÔO: 3480 - BSB/MCZ
+", 
+                            "valorReembolsado":"2865.85", "codDocumento":"675342"}, {"ano":"2012", "mes":"12", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"12294708000181", "fornecedor":"CIA DE SANEAMENTO DE ALAGOAS - CASAL", 
+                            "documento":"null", "data":"2012-12-10", "detalhamento":"null", 
+                            "valorReembolsado":"52.2", "codDocumento":"687784"}, {"ano":"2012", "mes":"12", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"12272084000100", "fornecedor":"ELETROBRAS-DISTRIBUIÇÃO ALAGOAS", 
+                            "documento":"null", "data":"2012-12-11", "detalhamento":"null", 
+                            "valorReembolsado":"232.23", "codDocumento":"687785"}, {"ano":"2012", "mes":"12", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"24058475404", "fornecedor":"FÁBIO LUIZ ARAÚJO LOPES DE FARIAS", 
+                            "documento":"null", "data":"2012-12-28", "detalhamento":"null", 
+                            "valorReembolsado":"2799.32", "codDocumento":"687786"}, {"ano":"2012", "mes":"12", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118001302", "fornecedor":"TELEMAR NORTE LESTE S/A", 
+                            "documento":"3325-9360", "data":"2012-12-01", "detalhamento":"null", 
+                            "valorReembolsado":"108.76", "codDocumento":"687783"}, {"ano":"2012", "mes":"12", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"08152466000114", "fornecedor":"NEWTON E NEWTON-ADVOCACIA", 
+                            "documento":"771", "data":"2012-12-21", "detalhamento":"null", 
+                            "valorReembolsado":"8000.0", "codDocumento":"687787"}, {"ano":"2012", "mes":"12", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"08777265000293", "fornecedor":"AUTO POSTO ESTRELA", 
+                            "documento":"142700", "data":"2012-12-21", "detalhamento":"null", 
+                            "valorReembolsado":"50.0", "codDocumento":"687781"}, {"ano":"2012", "mes":"12", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"05079209000106", "fornecedor":"AUTO POSTO FERNANDES -LTDa", 
+                            "documento":"019713", "data":"2012-12-31", "detalhamento":"null", 
+                            "valorReembolsado":"78.01", "codDocumento":"687782"}, {"ano":"2012", "mes":"12", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02575829000148", "fornecedor":"AVIANCA", 
+                            "documento":"0122983546", "data":"2012-12-04", "detalhamento":"SENADOR RENAN CALHEIROS
+TRECHO-MCZ/BSB
+03/12/2012", 
+                            "valorReembolsado":"808.07", "codDocumento":"687790"}, {"ano":"2012", "mes":"12", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02575829000148", "fornecedor":"AVIANCA", 
+                            "documento":"123273907", "data":"2012-12-17", "detalhamento":"SENADOR RENAN CALHEIROS
+TRECHO-BSB/MCZ
+DIA-21/12/2012", 
+                            "valorReembolsado":"420.75", "codDocumento":"687788"}, {"ano":"2012", "mes":"12", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"06164253000187", "fornecedor":"GOL", 
+                            "documento":"4625772490", "data":"2012-12-10", "detalhamento":"SENADOR RENAN CALHEIROS
+TRECHO-CGH/BSB
+DIA-10/12/2012", 
+                            "valorReembolsado":"1148.52", "codDocumento":"687789"}, {"ano":"2012", "mes":"12", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572460305234", "data":"2012-12-06", "detalhamento":"SENADOR RENAN CALHEIROS
+TRECHO-MCZ/GRU
+DIA 08/12/2012", 
+                            "valorReembolsado":"666.06", "codDocumento":"687791"}, {"ano":"2012", "mes":"12", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"95724603052233", "data":"2012-12-06", "detalhamento":"SENADOR RENAN CALHEIROS
+TRECHO-BSB/MCZ
+DIA-07/12/2012", 
+                            "valorReembolsado":"754.64", "codDocumento":"687792"}, {"ano":"2012", "mes":"1", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS S/A", 
+                            "documento":"957-2440681558", "data":"2012-01-11", "detalhamento":"LOCALIZADOR; 3PJJDF
+PASSAGEIRO: CALHEIROS/JOSÉ RENAN
+VÔO TAM JJ 3480 - BRASÍLIA / MACEIÓ
+DATA: 12/01/2012
+HORÁRIO: 21:43", 
+                            "valorReembolsado":"1721.66", "codDocumento":"501501"}, {"ano":"2012", "mes":"1", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02428624000130", "fornecedor":"TRIP LINHAS AÉREAS S/A", 
+                            "documento":"661-2101458685", "data":"2012-01-25", "detalhamento":"LOCALIZADOR: PHNUUZ
+PASSAGEIRO: CALHEIROS/JOSÉ RENAN
+VÔO 5478 - MACEIÓ / BRASÍLIA 
+DATA: 30/01/2012
+", 
+                            "valorReembolsado":"660.56", "codDocumento":"501499"}, {"ano":"2012", "mes":"2", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"12294708000181", "fornecedor":"COMPANHIA DE SANEAMENTO DE ALAGOAS ", 
+                            "documento":"2R000 29R", "data":"2012-02-09", "detalhamento":"null", 
+                            "valorReembolsado":"80.18", "codDocumento":"516212"}, {"ano":"2012", "mes":"2", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"24058475404", "fornecedor":"FÁBIO LUIZ ARAÚJO LOPES DE FARIAS", 
+                            "documento":"S/Nº", "data":"2012-03-05", "detalhamento":"null", 
+                            "valorReembolsado":"2799.32", "codDocumento":"516214"}, {"ano":"2012", "mes":"2", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118001302", "fornecedor":"TELEMAR NORTE LESTE S/A ", 
+                            "documento":"BA-06-0112-0T35-0016562-01-3", "data":"2012-02-01", "detalhamento":"null", 
+                            "valorReembolsado":"142.51", "codDocumento":"516213"}, {"ano":"2012", "mes":"2", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"08152466000114", "fornecedor":"NEWTON E NEWTON ADVOCACIA", 
+                            "documento":"660", "data":"2012-03-07", "detalhamento":"null", 
+                            "valorReembolsado":"8000.0", "codDocumento":"516215"}, {"ano":"2012", "mes":"2", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"12044441000174", "fornecedor":"P e P INTELIGENCIA DE MARKETING LTDA", 
+                            "documento":"00035", "data":"2012-02-28", "detalhamento":"null", 
+                            "valorReembolsado":"12500.0", "codDocumento":"516216"}, {"ano":"2012", "mes":"2", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"09280520000170", "fornecedor":"AUTO POSTO COMENDADOR LTDA", 
+                            "documento":"278777", "data":"2012-02-15", "detalhamento":"null", 
+                            "valorReembolsado":"146.02", "codDocumento":"516211"}, {"ano":"2012", "mes":"2", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"02488031000169", "fornecedor":"CDG COMBUST[ÍVEIS LTDA", 
+                            "documento":"064502", "data":"2012-02-02", "detalhamento":"null", 
+                            "valorReembolsado":"50.0", "codDocumento":"516208"}, {"ano":"2012", "mes":"2", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"02488031000169", "fornecedor":"CDG COMBUSTÍVEIS LTDA", 
+                            "documento":"140612", "data":"2012-02-13", "detalhamento":"null", 
+                            "valorReembolsado":"135.99", "codDocumento":"516210"}, {"ano":"2012", "mes":"2", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"07754145000127", "fornecedor":"M L G DA SILVA SIQUEIRA E CIA LTDA", 
+                            "documento":"021344", "data":"2012-02-03", "detalhamento":"null", 
+                            "valorReembolsado":"52.0", "codDocumento":"516209"}, {"ano":"2012", "mes":"2", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS S/A", 
+                            "documento":"957 2441668496", "data":"2012-02-01", "detalhamento":"COD. RESERVA: 2K2TUC
+NOME: JOSÉ RENAN VASCONCELOS CALHEIROS
+VÔO JJ 3480 BRASÍLIA/MACEIÓ 
+DATA: 02/02/12
+HORÁRIO: 21:43", 
+                            "valorReembolsado":"515.66", "codDocumento":"516218"}, {"ano":"2012", "mes":"2", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS S/A", 
+                            "documento":"957 2442353225", "data":"2012-02-13", "detalhamento":"CODIGO RESERVA: 6C9IIW
+NOME: JOSÉ RENAN CALHEIROS
+DATA: 13/02/2012
+VÔO JJ 3577 MACEIÓ - BRASILIA - SAÍDA 13:45
+", 
+                            "valorReembolsado":"1411.66", "codDocumento":"516217"}, {"ano":"2012", "mes":"2", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02428624000130", "fornecedor":"TRIP LINHAS AÉREAS S/A", 
+                            "documento":"661 2101547362", "data":"2012-02-03", "detalhamento":"NOME: JOSÉ RENAN CALHEIROS 
+VÔO 5478 MACEIÓ / BRASÍLIA
+DATA: 06/02/2012
+HORÁRIO: SAÍDA 11:50, CHEGADA 15:21", 
+                            "valorReembolsado":"493.55", "codDocumento":"516219"}, {"ano":"2012", "mes":"2", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02428624000130", "fornecedor":"TRIP LINHAS AÉREAS S/A", 
+                            "documento":"6614-2101595425", "data":"2012-02-10", "detalhamento":"LOCALIZADOR: FEJFQA
+NOME: JOSÉ RENAN CALHEIROS
+VÔO: 5479 - BRASÍLIA / MACEIÓ
+DATA: 10/02/2012", 
+                            "valorReembolsado":"440.56", "codDocumento":"516220"}, {"ano":"2012", "mes":"3", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"12272084000100", "fornecedor":"CEAL - CIA DE ENERGÉTICA DE ALAGOAS", 
+                            "documento":"001.20.006.00330", "data":"2012-02-14", "detalhamento":"null", 
+                            "valorReembolsado":"394.14", "codDocumento":"544009"}, {"ano":"2012", "mes":"3", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"12294708000181", "fornecedor":"CIA DE SANEAMENTO DE ALAGOAS", 
+                            "documento":"Y10L371110", "data":"2012-03-06", "detalhamento":"null", 
+                            "valorReembolsado":"85.22", "codDocumento":"544010"}, {"ano":"2012", "mes":"3", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"24058475404", "fornecedor":"FÁBIO LUIZ ARAÚJO LOPES DE FARIAS", 
+                            "documento":"null", "data":"2012-04-05", "detalhamento":"null", 
+                            "valorReembolsado":"2799.32", "codDocumento":"544012"}, {"ano":"2012", "mes":"3", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"12200135000180", "fornecedor":"PREF. DE MACEIÓ - IPTU", 
+                            "documento":"1/10", "data":"2012-03-30", "detalhamento":"null", 
+                            "valorReembolsado":"110.81", "codDocumento":"544011"}, {"ano":"2012", "mes":"3", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000179", "fornecedor":"TELEMAR NORTE LESTE S/A", 
+                            "documento":"3325-9360", "data":"2012-02-13", "detalhamento":"null", 
+                            "valorReembolsado":"181.12", "codDocumento":"544008"}, {"ano":"2012", "mes":"3", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"08152466000114", "fornecedor":"NEWTON E NEWTON ADVOGACIA", 
+                            "documento":"661", "data":"2012-03-30", "detalhamento":"null", 
+                            "valorReembolsado":"8000.0", "codDocumento":"544014"}, {"ano":"2012", "mes":"3", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"12044441000174", "fornecedor":"P&P INTELIGENCIA DE MARKETING LTDA", 
+                            "documento":"37", "data":"2012-03-29", "detalhamento":"null", 
+                            "valorReembolsado":"12500.0", "codDocumento":"544013"}, {"ano":"2012", "mes":"3", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"06164253000187", "fornecedor":"GOL LINHAS AÉREAS", 
+                            "documento":"127 00177267561", "data":"2012-03-21", "detalhamento":"NOME: DAVI RIOS (Assessor matr. 213280)
+CODIGO RESERVA:D6KJ2F 
+VÔO: G3 1723 - MACEIÓ/BRASÍLIA
+DATA: 22/03/12", 
+                            "valorReembolsado":"823.47", "codDocumento":"544007"}, {"ano":"2012", "mes":"3", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS S/A", 
+                            "documento":"957 2443213903", "data":"2012-02-29", "detalhamento":"NOME: JOSÉ RENAN CALHEIROS
+CÓDIGO RESERVA: 46N9WU
+DATA: 01Mar12
+Vôo: JJ 3480 - Brasília / Maceió 
+Saída 21h43 - Chegada 00:05
+", 
+                            "valorReembolsado":"466.16", "codDocumento":"544000"}, {"ano":"2012", "mes":"3", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS S/A", 
+                            "documento":"957 2442789294", "data":"2012-02-29", "detalhamento":"CODIGO RESERVA: 4OISW8
+NOME: JOSÉ RENAN CALHEIROS
+VÔO JJ 3577 MACEIÓ/BRASÍLIA - DATA: 05/03/12", 
+                            "valorReembolsado":"466.66", "codDocumento":"544001"}, {"ano":"2012", "mes":"3", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS S/A", 
+                            "documento":"957 24438279272", "data":"2012-03-09", "detalhamento":"NOME: DAVI RIOS (Assessor matr. 213280)
+CODIGO RESERVA:X65966 
+VÔOS JJ 3481/3576 - MACEIÓ/BRASÍLIA/MACEIÓ  
+DATA: 13 E 16/03/12", 
+                            "valorReembolsado":"1146.23", "codDocumento":"544005"}, {"ano":"2012", "mes":"3", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS S/A", 
+                            "documento":"957 2443794457", "data":"2012-03-14", "detalhamento":"NOME: JOSÉ RENAN CALHEIROS
+CODIGO RESERVA:ZX5R6I 
+DATA: 16 E 18/03/2012
+VÔOS JJ 3576/3577 - BRASILIA/MACEIÓ/BRASÍLIA", 
+                            "valorReembolsado":"2147.0", "codDocumento":"544002"}, {"ano":"2012", "mes":"3", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS S/A", 
+                            "documento":"957 2444526120", "data":"2012-03-23", "detalhamento":"NOME: JOSÉ RENAN CALHEIROS
+CODIGOS RESERVAS:5T6TA5 
+VÔO JJ 3480 - BRASILIA/MACEIÓ  
+DATA:29/03/12 
+
+", 
+                            "valorReembolsado":"818.57", "codDocumento":"544003"}, {"ano":"2012", "mes":"3", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS S/A", 
+                            "documento":"957 2444526149", "data":"2012-03-27", "detalhamento":"NOME: CARLOS RICARDO SANTA RITTA (Assessor 147749)
+CODIGO RESERVA:652N2K
+DATA:27/03/2012
+VÔOS JJ 3577/3480 - MACEIÓ/BRASÍLIA/MACEIÓ  
+", 
+                            "valorReembolsado":"1335.14", "codDocumento":"544004"}, {"ano":"2012", "mes":"3", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS S/A   ", 
+                            "documento":"957 2444422074", "data":"2012-03-21", "detalhamento":"NOME: DAVI RIOS (Assessor matr. 213280)
+CODIGO RESERVA:4T84IZ 
+VÔO: JJ 3576 - BRASÍLIA/MACEIÓ  
+DATA: 24/03/12", 
+                            "valorReembolsado":"467.57", "codDocumento":"544006"}, {"ano":"2012", "mes":"4", "senador":"RENAN CALHEIROS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"12294708000181", "fornecedor":"COMPANHIA DE SANEAMENTO DE ALAGOAS", 
+                            "documento":"2R00029R", "data":"2012-04-04", "detalhamento":"null", 
+                            "valorReembolsado":"52.2", "codDocumento":"554642"}]}
