@@ -1,0 +1,7 @@
+{"gastosSenador": [{"ano":"2022", "mes":"1", "senador":"JOSÉ ANÍBAL", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"38423843000173", "fornecedor":"ATLANTIC G MARKETING LTDA", 
+                            "documento":"00000022", "data":"2022-01-28", "detalhamento":"Senador José Aníbal - Despesa com prestação de serviço de marketing digital para o Senador.", 
+                            "valorReembolsado":"9000.0", "codDocumento":"2173539"}, {"ano":"2022", "mes":"1", "senador":"JOSÉ ANÍBAL", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"38423843000173", "fornecedor":"ATLANTIC G MARKETING LTDA", 
+                            "documento":"00000024", "data":"2022-01-28", "detalhamento":"Senador José Aníbal - Despesa com prestação de serviço de monitoramento e impulsionamento de redes sociais para o Senador.", 
+                            "valorReembolsado":"18000.0", "codDocumento":"2173538"}]}
