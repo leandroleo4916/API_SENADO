@@ -1,0 +1,13 @@
+{"gastosSenador": [{"ano":"2016", "mes":"8", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"20087373572", "fornecedor":"GILDA DOS SANTOS", 
+                            "documento":"null", "data":"2016-08-31", "detalhamento":"null", 
+                            "valorReembolsado":"645.08", "codDocumento":"2048744"}, {"ano":"2016", "mes":"8", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"16978175000108", "fornecedor":"ADRIA VIAGENS E TURISMO LTDA", 
+                            "documento":"2UY48K", "data":"2016-08-19", "detalhamento":"Companhia Aérea: AVIANCA, Localizador: 2UY48K. Passageiros: MARIA DO CARMO DO NASCIMENTO ALVES (Matrícula 147970, PARLAMENTAR), Voo: 6223 - ARACAJU/BRASÍLIA - 22/08/16; ", 
+                            "valorReembolsado":"690.56", "codDocumento":"2048583"}, {"ano":"2016", "mes":"8", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"16978175000108", "fornecedor":"ADRIA VIAGENS E TURISMO LTDA", 
+                            "documento":"3AA38X", "data":"2016-08-26", "detalhamento":"Companhia Aérea: AVIANCA, Localizador: 3AA38X. Passageiros: MARIA DO CARMO DO NASCIMENTO ALVES (Matrícula 147970, PARLAMENTAR), Voo: 6222 - BRASÍLIA/ARACAJU - 26/08/16; ", 
+                            "valorReembolsado":"367.0", "codDocumento":"2048621"}, {"ano":"2016", "mes":"8", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"16978175000108", "fornecedor":"ADRIA VIAGENS E TURISMO LTDA", 
+                            "documento":"298PHN", "data":"2016-08-26", "detalhamento":"Companhia Aérea: AVIANCA, Localizador: 298PHN. Passageiros: MARIA DO CARMO DO NASCIMENTO ALVES (Matrícula 147970, PARLAMENTAR), Voo: 6223 - ARACAJU/BRASÍLIA - 28/08/16; ", 
+                            "valorReembolsado":"549.76", "codDocumento":"2048622"}]}
