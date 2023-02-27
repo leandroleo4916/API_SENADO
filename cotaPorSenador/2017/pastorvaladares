@@ -1,0 +1,10 @@
+{"gastosSenador": [{"ano":"2017", "mes":"1", "senador":"PASTOR VALADARES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"75410079787", "fornecedor":"JOSÉ DAMIÃO DA FONSECA", 
+                            "documento":"01", "data":"2017-01-10", "detalhamento":"Despesa com aluguel de veículo para uso do Senador Pastor Valadares", 
+                            "valorReembolsado":"1850.0", "codDocumento":"2056225"}, {"ano":"2017", "mes":"1", "senador":"PASTOR VALADARES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"63764211000110", "fornecedor":"TRANSCONTINENTAL AGÊNCIA DE VIAGENS LTDA", 
+                            "documento":"Z35YUH", "data":"2017-01-13", "detalhamento":"Companhia Aérea: AVIANCA, Localizador: Z35YUH. Passageiros: JOSÉ LUIZ RAYMUNDO (Matrícula 140986, COMISSIONADO), Voo: 6245 - BSBCWB - 13/01/17; ", 
+                            "valorReembolsado":"891.29", "codDocumento":"2056226"}, {"ano":"2017", "mes":"1", "senador":"PASTOR VALADARES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"63764211000110", "fornecedor":"TRANSCONTINENTAL AGÊNCIA DE VIAGENS LTDA", 
+                            "documento":"NE23YI", "data":"2017-01-13", "detalhamento":"Companhia Aérea: GOL, Localizador: NE23YI. Passageiros: JOSÉ LUIZ RAYMUNDO (Matrícula 140986, COMISSIONADO), Voo: 11771416 - CWBGRUBSB - 16/01/17; ", 
+                            "valorReembolsado":"913.07", "codDocumento":"2056227"}]}

@@ -1,0 +1,13 @@
+{"gastosSenador": [{"ano":"2017", "mes":"1", "senador":"PINTO ITAMARATY", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"00057037353", "fornecedor":"Antonio Pinheiro Gaspar", 
+                            "documento":"null", "data":"2017-01-31", "detalhamento":"null", 
+                            "valorReembolsado":"5549.0", "codDocumento":"2056560"}, {"ano":"2017", "mes":"1", "senador":"PINTO ITAMARATY", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"02806433304", "fornecedor":"Antonio Ciriaco Monroe Junior", 
+                            "documento":"0234734", "data":"2017-01-20", "detalhamento":"Manutenção e atualização de paginas eletrônicas.", 
+                            "valorReembolsado":"3500.0", "codDocumento":"2056554"}, {"ano":"2017", "mes":"1", "senador":"PINTO ITAMARATY", 
+                            "tipoDespesa":"Divulgação da atividade parlamentar", "cnpjCpf":"17519153000142", "fornecedor":"P C G MENDONCA - SERVICOS GRAFICOS - ME", 
+                            "documento":"437", "data":"2017-01-23", "detalhamento":"Confecção de jornais da ação parlamentar.", 
+                            "valorReembolsado":"21000.0", "codDocumento":"2056555"}, {"ano":"2017", "mes":"1", "senador":"PINTO ITAMARATY", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"00652597000159", "fornecedor":"Alcântara Locadora de Veículos Ltda.", 
+                            "documento":"002121", "data":"2017-01-25", "detalhamento":"Locação de veículo, no período 05/01/17 à 25/01/2017", 
+                            "valorReembolsado":"5000.0", "codDocumento":"2056553"}]}
