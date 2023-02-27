@@ -1,0 +1,111 @@
+{"gastosSenador": [{"ano":"2015", "mes":"1", "senador":"CASILDO MALDANER", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"08336783000190", "fornecedor":"CELESC", 
+                            "documento":"S/N", "data":"2015-01-01", "detalhamento":"DESPESAS COM ENERGIA ELETRICA", 
+                            "valorReembolsado":"178.14", "codDocumento":"2002646"}, {"ano":"2015", "mes":"1", "senador":"CASILDO MALDANER", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"34336044953", "fornecedor":"KABRAL IMOVEIS", 
+                            "documento":"S/N", "data":"2015-01-25", "detalhamento":"DESPESAS COM ALUGUEL DE IMOVEL", 
+                            "valorReembolsado":"1815.45", "codDocumento":"2002641"}, {"ano":"2015", "mes":"1", "senador":"CASILDO MALDANER", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"02165589991", "fornecedor":"NET", 
+                            "documento":"s/n4", "data":"2015-01-01", "detalhamento":"DESPESAS COM A NET", 
+                            "valorReembolsado":"54.48", "codDocumento":"2002653"}, {"ano":"2015", "mes":"1", "senador":"CASILDO MALDANER", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"02165589991", "fornecedor":"NET", 
+                            "documento":"S/n2", "data":"2015-01-01", "detalhamento":"DESPESAS COM GVT", 
+                            "valorReembolsado":"437.61", "codDocumento":"2002650"}, {"ano":"2015", "mes":"1", "senador":"CASILDO MALDANER", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"02165589991", "fornecedor":"NET", 
+                            "documento":"S/N", "data":"2015-01-08", "detalhamento":"DESPESAS COM A NET", 
+                            "valorReembolsado":"54.48", "codDocumento":"2002613"}, {"ano":"2015", "mes":"1", "senador":"CASILDO MALDANER", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"02165589991", "fornecedor":"NET", 
+                            "documento":"S/N1", "data":"2015-01-14", "detalhamento":"DESPESAS COM GVT", 
+                            "valorReembolsado":"565.85", "codDocumento":"2002614"}, {"ano":"2015", "mes":"1", "senador":"CASILDO MALDANER", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"04206050014645", "fornecedor":"TIM", 
+                            "documento":"S/N", "data":"2015-01-26", "detalhamento":"DESPESAS COM TIM", 
+                            "valorReembolsado":"171.41", "codDocumento":"2002616"}, {"ano":"2015", "mes":"1", "senador":"CASILDO MALDANER", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"10768266000132", "fornecedor":"CODDE", 
+                            "documento":"02600", "data":"2015-01-20", "detalhamento":"DESPESAS COM LOCAÇÃ OE MANUTENÇÃODE SOFTWARES", 
+                            "valorReembolsado":"2100.0", "codDocumento":"2002637"}, {"ano":"2015", "mes":"1", "senador":"CASILDO MALDANER", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"34028316689012", "fornecedor":"ECT", 
+                            "documento":"S/N", "data":"2015-01-22", "detalhamento":"DESPESAS COM CORREIO", 
+                            "valorReembolsado":"39.1", "codDocumento":"2002602"}, {"ano":"2015", "mes":"1", "senador":"CASILDO MALDANER", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"34028316689012", "fornecedor":"ECT", 
+                            "documento":"S/N1", "data":"2015-01-24", "detalhamento":"DESPESAS COM CORREIO", 
+                            "valorReembolsado":"40.0", "codDocumento":"2002605"}, {"ano":"2015", "mes":"1", "senador":"CASILDO MALDANER", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"73881997000100", "fornecedor":"ECT", 
+                            "documento":"S/N3", "data":"2015-01-29", "detalhamento":"DESPESAS COM CORREIO", 
+                            "valorReembolsado":"19.55", "codDocumento":"2002632"}, {"ano":"2015", "mes":"1", "senador":"CASILDO MALDANER", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"34028316689012", "fornecedor":"ECT", 
+                            "documento":"S/N2", "data":"2015-01-31", "detalhamento":"DESPESAS COM CORREIO", 
+                            "valorReembolsado":"85.31", "codDocumento":"2002606"}, {"ano":"2015", "mes":"1", "senador":"CASILDO MALDANER", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"08439237000185", "fornecedor":"PREFEITURA MUNICIPAL DE SÃO JOSÉ DO RIO PRETO", 
+                            "documento":"375", "data":"2015-01-21", "detalhamento":"DESPESAS MANUTENÇÃO DE PAGINAS ELETRONICAS", 
+                            "valorReembolsado":"125.0", "codDocumento":"2002655"}, {"ano":"2015", "mes":"1", "senador":"CASILDO MALDANER", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"05270687000107", "fornecedor":"PREVIEW", 
+                            "documento":"00158", "data":"2015-01-28", "detalhamento":"DESPESAS COM RPRODUÇÃO DE DVDS", 
+                            "valorReembolsado":"800.0", "codDocumento":"2002639"}, {"ano":"2015", "mes":"1", "senador":"CASILDO MALDANER", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"10538407000120", "fornecedor":"GRAND GRA", 
+                            "documento":"3105", "data":"2015-01-20", "detalhamento":"DESPESAS COM ALIMENTAÇÃO", 
+                            "valorReembolsado":"435.5", "codDocumento":"2002425"}, {"ano":"2015", "mes":"1", "senador":"CASILDO MALDANER", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"06941151000120", "fornecedor":"HOTEL ALIANÇA EXPRESS", 
+                            "documento":"9855", "data":"2015-01-28", "detalhamento":"DESPESAS COM HOSPEDAGEM
+SERVIDOR: IVAN LOPES DA SILVA
+CARGO: ASSISTENTE PARLAMENTAR
+DATA: 28/01/2015", 
+                            "valorReembolsado":"193.0", "codDocumento":"2002623"}, {"ano":"2015", "mes":"1", "senador":"CASILDO MALDANER", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"06941151000120", "fornecedor":"HOTEL ALIANÇA EXPRESS", 
+                            "documento":"9856", "data":"2015-01-28", "detalhamento":"HOSPEDAGEM  DO PARLAMENTAR
+SENADOR CASILDO MALDANER
+DATA: 28/01/2015", 
+                            "valorReembolsado":"193.0", "codDocumento":"2002627"}, {"ano":"2015", "mes":"1", "senador":"CASILDO MALDANER", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"06941151000120", "fornecedor":"HOTEL ALIANÇA EXPRESS", 
+                            "documento":"9854", "data":"2015-01-28", "detalhamento":"DESPESAS COM HOSPEDAGEM
+SERVIDOR: VILMAR DA SILVA
+MAT. 244561
+DATA: 28/01/2015
+CARGO: ASSISTENTE PARLAMENTAR", 
+                            "valorReembolsado":"193.0", "codDocumento":"2002620"}, {"ano":"2015", "mes":"1", "senador":"CASILDO MALDANER", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"09109567001902", "fornecedor":"LA HOTELS", 
+                            "documento":"108931", "data":"2015-01-19", "detalhamento":"DESPESAS COM ALIMENTAÇÃO", 
+                            "valorReembolsado":"26.65", "codDocumento":"2002422"}, {"ano":"2015", "mes":"1", "senador":"CASILDO MALDANER", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"01401005000512", "fornecedor":"POSTO DA ILHA", 
+                            "documento":"97856", "data":"2015-01-15", "detalhamento":"DESPESAS COM COMBUSTIVEL", 
+                            "valorReembolsado":"191.64", "codDocumento":"2002607"}, {"ano":"2015", "mes":"1", "senador":"CASILDO MALDANER", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"81326258000346", "fornecedor":"POSTO GALO", 
+                            "documento":"376302", "data":"2015-01-02", "detalhamento":"DESPESAS COM COMBUSTIVEL", 
+                            "valorReembolsado":"157.52", "codDocumento":"2002423"}, {"ano":"2015", "mes":"1", "senador":"CASILDO MALDANER", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"09592101000173", "fornecedor":"POSTO SANTINHO", 
+                            "documento":"022023", "data":"2015-01-21", "detalhamento":"DESPESAS COM COMBUSTIVEL", 
+                            "valorReembolsado":"196.61", "codDocumento":"2002609"}, {"ano":"2015", "mes":"1", "senador":"CASILDO MALDANER", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"02314908000286", "fornecedor":"POSTO VILA RICA", 
+                            "documento":"307853", "data":"2015-01-07", "detalhamento":"DESPESAS COM COMBUSTIVEL", 
+                            "valorReembolsado":"158.46", "codDocumento":"2002611"}, {"ano":"2015", "mes":"1", "senador":"CASILDO MALDANER", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"02314908000286", "fornecedor":"POSTO VILA RICA", 
+                            "documento":"323583", "data":"2015-01-27", "detalhamento":"DESPESAS COM COMBUSTIVEL", 
+                            "valorReembolsado":"137.06", "codDocumento":"2002617"}, {"ano":"2015", "mes":"1", "senador":"CASILDO MALDANER", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"02314908000286", "fornecedor":"POSTO VILA RICA", 
+                            "documento":"324741", "data":"2015-01-28", "detalhamento":"DESPESAS COM COMBUSTIVEL", 
+                            "valorReembolsado":"173.74", "codDocumento":"2002629"}, {"ano":"2015", "mes":"1", "senador":"CASILDO MALDANER", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"04445571000190", "fornecedor":"SAL  SALSA RESTAURANTE", 
+                            "documento":"008118", "data":"2015-01-28", "detalhamento":"DESPESAS COM ALIMENTAÇÃO", 
+                            "valorReembolsado":"34.66", "codDocumento":"2002618"}, {"ano":"2015", "mes":"1", "senador":"CASILDO MALDANER", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"78990512000210", "fornecedor":"SANTA FÉ VEICULOS A LTDA", 
+                            "documento":"S/N", "data":"2015-01-30", "detalhamento":"DESPESAS COM LOCADORA DE CARRO", 
+                            "valorReembolsado":"4832.3", "codDocumento":"2002635"}, {"ano":"2015", "mes":"1", "senador":"CASILDO MALDANER", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02575829000148", "fornecedor":"AVIANCA", 
+                            "documento":"7YCBGB", "data":"2015-01-21", "detalhamento":"DESPESAS COM PASSAGEM AEREA
+SERVIDOR: JOÃO CARLOS GRANDO
+CARGO: ASSESSOR TECNICO
+TRECHO: BSB/XAP
+DATA: 21/01/2015", 
+                            "valorReembolsado":"269.03", "codDocumento":"2002427"}, {"ano":"2015", "mes":"1", "senador":"CASILDO MALDANER", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02575829000148", "fornecedor":"AVIANCA", 
+                            "documento":"7YACHY", "data":"2015-01-21", "detalhamento":"PASSAGEM AEREA
+SENADOR CASILDO MALDANER
+TRECHO: BSB/FLN
+DATA: 21/01/2015", 
+                            "valorReembolsado":"319.03", "codDocumento":"2002426"}, {"ano":"2015", "mes":"1", "senador":"CASILDO MALDANER", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"7YAB14", "data":"2015-01-19", "detalhamento":"DESPESAS COM PASSAGEMA EREA
+SERVIDOR: JOÃO CARLOS GARNDO
+CARGO: ASSESSOR TECNICO
+TRECHO : FLN/BSB
+DATA: 19012015", 
+                            "valorReembolsado":"610.57", "codDocumento":"2002424"}]}

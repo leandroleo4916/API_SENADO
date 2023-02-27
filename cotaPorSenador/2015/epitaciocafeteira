@@ -1,0 +1,13 @@
+{"gastosSenador": [{"ano":"2015", "mes":"1", "senador":"EPITÁCIO CAFETEIRA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"06272793000184", "fornecedor":"Companhia Energética do Maranhão", 
+                            "documento":"null", "data":"2015-01-13", "detalhamento":"null", 
+                            "valorReembolsado":"102.83", "codDocumento":"2001137"}, {"ano":"2015", "mes":"1", "senador":"EPITÁCIO CAFETEIRA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"00539216000120", "fornecedor":"Condomínio do Edíficio Monumental", 
+                            "documento":"null", "data":"2015-01-07", "detalhamento":"null", 
+                            "valorReembolsado":"476.0", "codDocumento":"2001136"}, {"ano":"2015", "mes":"1", "senador":"EPITÁCIO CAFETEIRA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"01052954774", "fornecedor":"Raquel Fialho Abdala", 
+                            "documento":"null", "data":"2015-01-30", "detalhamento":"null", 
+                            "valorReembolsado":"1200.0", "codDocumento":"2001135"}, {"ano":"2015", "mes":"1", "senador":"EPITÁCIO CAFETEIRA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000179", "fornecedor":"Telemar Norte Leste S/A", 
+                            "documento":"null", "data":"2015-01-15", "detalhamento":"null", 
+                            "valorReembolsado":"87.12", "codDocumento":"2001138"}]}

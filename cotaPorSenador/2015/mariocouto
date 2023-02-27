@@ -1,0 +1,20 @@
+{"gastosSenador": [{"ano":"2015", "mes":"1", "senador":"MÁRIO COUTO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"10249951000152", "fornecedor":"AD OLIVEIRA & CIA LTDA", 
+                            "documento":"287962", "data":"2015-01-24", "detalhamento":"Gasto com combustível.", 
+                            "valorReembolsado":"200.0", "codDocumento":"2000933"}, {"ano":"2015", "mes":"1", "senador":"MÁRIO COUTO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"02280133002804", "fornecedor":"POSTO ICCAR LTDA", 
+                            "documento":"136213", "data":"2015-01-29", "detalhamento":"Gasto com combustível.", 
+                            "valorReembolsado":"175.0", "codDocumento":"2000932"}, {"ano":"2015", "mes":"1", "senador":"MÁRIO COUTO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"00031708000371", "fornecedor":"SINPETAXI - SIND. PERM. TAXIS E MOTORISTAS", 
+                            "documento":"sn", "data":"2015-01-21", "detalhamento":"Gasto locomoção Servidora Ana Maria Moreira - matric. 201938 - Assessora Parlamentar.", 
+                            "valorReembolsado":"50.0", "codDocumento":"2000928"}, {"ano":"2015", "mes":"1", "senador":"MÁRIO COUTO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS SA", 
+                            "documento":"9572103628868", "data":"2015-01-19", "detalhamento":"Dif. tarifa e multa p/ remarcação bilhete 9572381297700
+Michel Jorge  - matric. 137677
+Assessor Parlamentar", 
+                            "valorReembolsado":"1854.57", "codDocumento":"2000951"}, {"ano":"2015", "mes":"1", "senador":"MÁRIO COUTO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AÉREAS SA", 
+                            "documento":"9572104039756", "data":"2015-01-21", "detalhamento":"Trecho: Bsb/Belém
+Ana Maria Moreira - matric. 201938
+Assessora Parlamentar", 
+                            "valorReembolsado":"1737.03", "codDocumento":"2000939"}]}
