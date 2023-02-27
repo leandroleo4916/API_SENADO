@@ -1,0 +1,7 @@
+{"gastosSenador": [{"ano":"2023", "mes":"1", "senador":"MARCELO CASTRO", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"11720041000179", "fornecedor":"FLAUBER MARQUES DA SILVA MARKENTING", 
+                            "documento":"59", "data":"2023-01-13", "detalhamento":"Contratação de assessoria técnica de apoio ao exercício do mandato parlamentar", 
+                            "valorReembolsado":"10000.0", "codDocumento":"2193316"}, {"ano":"2023", "mes":"1", "senador":"MARCELO CASTRO", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"22024005000197", "fornecedor":"JGF PRODUÇÃO DE TEXTOS E EVENTOS EIRELI EPP", 
+                            "documento":"1", "data":"2023-01-18", "detalhamento":"Contratação de assessoria técnica de apoio ao exercício do mandato parlamentar", 
+                            "valorReembolsado":"5000.0", "codDocumento":"2193317"}]}

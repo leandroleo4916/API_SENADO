@@ -1,0 +1,13 @@
+{"gastosSenador": [{"ano":"2023", "mes":"1", "senador":"IZALCI LUCAS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"00663872000130", "fornecedor":"AP ASSESSORIA PATRIMONIAL E IMOBILIÁRIA LTDA", 
+                            "documento":"82017", "data":"2022-12-20", "detalhamento":"null", 
+                            "valorReembolsado":"1140.0", "codDocumento":"2192705"}, {"ano":"2023", "mes":"1", "senador":"IZALCI LUCAS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"26445619000101", "fornecedor":"CONDOMÍNIO CONJ BARACAT", 
+                            "documento":"025", "data":"2022-12-06", "detalhamento":"null", 
+                            "valorReembolsado":"254.84", "codDocumento":"2192706"}, {"ano":"2023", "mes":"1", "senador":"IZALCI LUCAS", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"33455734000114", "fornecedor":"NOTA COMUNICAÇÃP EIRELI - EPP", 
+                            "documento":"00083", "data":"2023-01-18", "detalhamento":"null", 
+                            "valorReembolsado":"9109.0", "codDocumento":"2192636"}, {"ano":"2023", "mes":"1", "senador":"IZALCI LUCAS", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"10250386000143", "fornecedor":"V-TRACKER TECNOLOGIA LTDA", 
+                            "documento":"00001807", "data":"2022-12-29", "detalhamento":"null", 
+                            "valorReembolsado":"6600.0", "codDocumento":"2193381"}]}

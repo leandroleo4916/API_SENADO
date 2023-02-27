@@ -1,0 +1,13 @@
+{"gastosSenador": [{"ano":"2023", "mes":"1", "senador":"SORAYA THRONICKE", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33809542172", "fornecedor":"Semi Kalil Georges", 
+                            "documento":"null", "data":"2023-02-08", "detalhamento":"null", 
+                            "valorReembolsado":"3500.0", "codDocumento":"2194181"}, {"ano":"2023", "mes":"1", "senador":"SORAYA THRONICKE", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"26480780000108", "fornecedor":"LM Turismo Ltda", 
+                            "documento":"KWTCDE", "data":"2023-01-08", "detalhamento":"Companhia Aérea: LATAM, Localizador: KWTCDE. Passageiros: SORAYA VIEIRA THRONICKE (Matrícula 341578, PARLAMENTAR), Voo: 3971 - SDU -RJ - BSB ( BRASÍLIA) - 09/01/23; ", 
+                            "valorReembolsado":"2018.61", "codDocumento":"2192752"}, {"ano":"2023", "mes":"1", "senador":"SORAYA THRONICKE", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"26480780000108", "fornecedor":"LM Turismo Ltda", 
+                            "documento":"XWZSTJ", "data":"2023-01-09", "detalhamento":"Companhia Aérea: LATAM, Localizador: XWZSTJ. Passageiros: SORAYA VIEIRA THRONICKE (Matrícula 341578, PARLAMENTAR), Voo: 2071 - BSB - RJ - 10/01/23; ", 
+                            "valorReembolsado":"2082.06", "codDocumento":"2192753"}, {"ano":"2023", "mes":"2", "senador":"SORAYA THRONICKE", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"26480780000108", "fornecedor":"LM Turismo Ltda", 
+                            "documento":"FZTEED", "data":"2023-01-25", "detalhamento":"Companhia Aérea: LATAM, Localizador: FZTEED. Passageiros: SORAYA VIEIRA THRONICKE (Matrícula 341578, PARLAMENTAR), Voo: 3626 - BSB - CGR - 04/02/23; SORAYA VIEIRA THRONICKE (Matrícula 341578, PARLAMENTAR), Voo: 3629 - CGR - BSB - 06/02/23; ", 
+                            "valorReembolsado":"1931.68", "codDocumento":"2193894"}]}

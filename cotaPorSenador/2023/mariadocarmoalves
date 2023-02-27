@@ -1,0 +1,10 @@
+{"gastosSenador": [{"ano":"2023", "mes":"1", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"01319851000164", "fornecedor":"SISNETTI INTEGRADORA DE SOLUÇÕES LTDA", 
+                            "documento":"6", "data":"2023-01-18", "detalhamento":"null", 
+                            "valorReembolsado":"360.0", "codDocumento":"2192635"}, {"ano":"2023", "mes":"1", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"13038641000187", "fornecedor":"SERGITUR - SERGIPE TURISMO LTDA", 
+                            "documento":"DDWGAC", "data":"2022-12-24", "detalhamento":"Companhia Aérea: LATAM, Localizador: DDWGAC. Passageiros: MARIA DO CARMO DO NASCIMENTO ALVES (Matrícula 147970, PARLAMENTAR), Voo: 3600 - BRASÍLIA/ARACAJU - 12/01/23; ", 
+                            "valorReembolsado":"859.06", "codDocumento":"2192598"}, {"ano":"2023", "mes":"1", "senador":"MARIA DO CARMO ALVES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"13038641000187", "fornecedor":"SERGITUR - SERGIPE TURISMO LTDA", 
+                            "documento":"BQYRHR", "data":"2022-12-24", "detalhamento":"Companhia Aérea: LATAM, Localizador: BQYRHR. Passageiros: MARIA DO CARMO DO NASCIMENTO ALVES (Matrícula 147970, PARLAMENTAR), Voo: 3601 - ARACAJU/BRASÍLIA - 09/01/23; ", 
+                            "valorReembolsado":"2240.77", "codDocumento":"2192597"}]}

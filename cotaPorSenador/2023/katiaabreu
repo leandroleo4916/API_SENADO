@@ -1,0 +1,17 @@
+{"gastosSenador": [{"ano":"2023", "mes":"1", "senador":"KÁTIA ABREU", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"10735408000165", "fornecedor":"AGENDA SOCIAL E CIDADES ASSESSORIA E CONSULTORIA - EIRELI-ME", 
+                            "documento":"202300000000002", "data":"2023-01-12", "detalhamento":"Consultoria sobre o monitoramento da transição do Governo Federal com textos diários e diálogos online da agenda social e cidades.", 
+                            "valorReembolsado":"11000.0", "codDocumento":"2192509"}, {"ano":"2023", "mes":"1", "senador":"KÁTIA ABREU", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"05351803000104", "fornecedor":"KW COMERCIAL EIRELI ME", 
+                            "documento":"000000437", "data":"2023-01-11", "detalhamento":"Folder impresso 4/4 cor, em papel coucher 160 gramas, acabamento
+dobras, refile, empacotados de 500 und.", 
+                            "valorReembolsado":"12000.0", "codDocumento":"2192508"}, {"ano":"2023", "mes":"1", "senador":"KÁTIA ABREU", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"02503452000111", "fornecedor":"Matsuse Comercio de Derivados de Petroleo Ltda", 
+                            "documento":"402137", "data":"2023-01-15", "detalhamento":"25 L DE GASOLINA COMUM", 
+                            "valorReembolsado":"139.01", "codDocumento":"2192723"}, {"ano":"2023", "mes":"1", "senador":"KÁTIA ABREU", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"02503452000111", "fornecedor":"Matsuse Comercio de Derivados de Petroleo Ltda", 
+                            "documento":"404114", "data":"2023-01-22", "detalhamento":"48 litros de gasolina comum", 
+                            "valorReembolsado":"260.02", "codDocumento":"2193101"}, {"ano":"2023", "mes":"1", "senador":"KÁTIA ABREU", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"14177767000103", "fornecedor":"POSTO VASCONCELOS COMERCIO DE COMBUSTIVEIS LTDA", 
+                            "documento":"45636", "data":"2023-01-15", "detalhamento":"10L DE GASOLINA", 
+                            "valorReembolsado":"48.94", "codDocumento":"2192727"}]}

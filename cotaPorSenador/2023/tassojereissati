@@ -1,0 +1,13 @@
+{"gastosSenador": [{"ano":"2023", "mes":"1", "senador":"TASSO JEREISSATI", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"16978175000108", "fornecedor":"Adria Viagens e Turismo LTDA", 
+                            "documento":"VJPGTI", "data":"2023-01-03", "detalhamento":"Companhia Aérea: LATAM, Localizador: VJPGTI. Passageiros: PAULO MARCELO RIBEIRO COSTA (Matrícula 163184, COMISSIONADO), Voo: 3670 - BSB/FOR - 04/01/23; ", 
+                            "valorReembolsado":"1413.5", "codDocumento":"2192489"}, {"ano":"2023", "mes":"1", "senador":"TASSO JEREISSATI", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"16978175000108", "fornecedor":"Adria Viagens e Turismo LTDA", 
+                            "documento":"YHAQYA", "data":"2023-01-05", "detalhamento":"Companhia Aérea: GOL, Localizador: YHAQYA. Passageiros: PAULO MARCELO RIBEIRO COSTA (Matrícula 163184, COMISSIONADO), Voo: 1709 - FOR/BSB - 06/01/23; ", 
+                            "valorReembolsado":"2290.96", "codDocumento":"2192490"}, {"ano":"2023", "mes":"1", "senador":"TASSO JEREISSATI", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"16978175000108", "fornecedor":"Adria Viagens e Turismo LTDA", 
+                            "documento":"XYLCYY", "data":"2023-01-19", "detalhamento":"Companhia Aérea: LATAM, Localizador: XYLCYY. Passageiros: PAULO MARCELO RIBEIRO COSTA (Matrícula 163184, COMISSIONADO), Voo: 3674 - BSB/FOR - 19/01/23; ", 
+                            "valorReembolsado":"2933.36", "codDocumento":"2192764"}, {"ano":"2023", "mes":"1", "senador":"TASSO JEREISSATI", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"16978175000108", "fornecedor":"Adria Viagens e Turismo LTDA", 
+                            "documento":"VYCIWM", "data":"2023-01-23", "detalhamento":"Companhia Aérea: LATAM, Localizador: VYCIWM. Passageiros: PAULO MARCELO RIBEIRO COSTA (Matrícula 163184, COMISSIONADO), Voo: 3671 - FOR/BSB - 24/01/23; ", 
+                            "valorReembolsado":"2558.36", "codDocumento":"2192845"}]}

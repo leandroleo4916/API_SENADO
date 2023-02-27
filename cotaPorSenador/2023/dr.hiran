@@ -1,0 +1,7 @@
+{"gastosSenador": [{"ano":"2023", "mes":"2", "senador":"DR. HIRAN", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"07979987000187", "fornecedor":"VIZION GESTAO DE NEGOCIOS EMPRESARIAIS LTDA", 
+                            "documento":"2393", "data":"2023-02-15", "detalhamento":"Despesa referente à locação de software para uso do escritório parlamentar no estado.", 
+                            "valorReembolsado":"586.0", "codDocumento":"2194089"}, {"ano":"2023", "mes":"2", "senador":"DR. HIRAN", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"38194212000120", "fornecedor":"Auto Posto 303 Norte LTDA", 
+                            "documento":"206366", "data":"2023-02-07", "detalhamento":"Despesa de combustível", 
+                            "valorReembolsado":"535.89", "codDocumento":"2193925"}]}

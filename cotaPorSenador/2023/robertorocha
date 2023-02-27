@@ -1,0 +1,10 @@
+{"gastosSenador": [{"ano":"2023", "mes":"1", "senador":"ROBERTO ROCHA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"08695361000101", "fornecedor":"Central Alarme Eirele - ME", 
+                            "documento":"202300000000042", "data":"2023-01-03", "detalhamento":"Serviços de monitoramento e vigilância do escritório de apoio em Imperatriz/MA, referente ao mês de janeiro de 2023.", 
+                            "valorReembolsado":"308.0", "codDocumento":"2192809"}, {"ano":"2023", "mes":"1", "senador":"ROBERTO ROCHA", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"32692708000147", "fornecedor":"INOP - INSTITUTO NACIONAL DE ORÇAMENTO PÚBLICO LTDA", 
+                            "documento":"10", "data":"2023-01-23", "detalhamento":"Assessoria, consultoria e apoio administrativo no acompanhamento das materias legislativas. Orientações técnicas, relatórios comparativos, analises e diagnostico conforme demanda.", 
+                            "valorReembolsado":"20000.0", "codDocumento":"2192807"}, {"ano":"2023", "mes":"1", "senador":"ROBERTO ROCHA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"29868794000191", "fornecedor":"H3I AGENCIA DE TURISMO - RELP TURISMO", 
+                            "documento":"KDQJZL", "data":"2023-01-08", "detalhamento":"Companhia Aérea: LATAM, Localizador: KDQJZL. Passageiros: FRANCISCO DE ASSIS MORAES MARINHO (Matrícula 301465, COMISSIONADO), Voo: 3604 - BSB/SLZ - 13/01/23; FRANCISCO DE ASSIS MORAES MARINHO (Matrícula 301465, COMISSIONADO), Voo: 3605 - SLZ/BSB - 19/01/23; ", 
+                            "valorReembolsado":"2163.19", "codDocumento":"2192811"}]}
