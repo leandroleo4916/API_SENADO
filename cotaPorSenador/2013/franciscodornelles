@@ -1,0 +1,1353 @@
+{"gastosSenador": [{"ano":"2013", "mes":"3", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"02397253000176", "fornecedor":"Associação dos Motoristas Autonomos Santa Terezinha", 
+                            "documento":"6947", "data":"2013-03-13", "detalhamento":"null", 
+                            "valorReembolsado":"15.0", "codDocumento":"713170"}, {"ano":"2013", "mes":"3", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"02709600000159", "fornecedor":"Associação dos Motoristas de Taxi da Tijuca", 
+                            "documento":"S/Nº", "data":"2013-03-14", "detalhamento":"null", 
+                            "valorReembolsado":"20.0", "codDocumento":"713168"}, {"ano":"2013", "mes":"3", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"07020369000105", "fornecedor":"Auto Posto ML Saturnino de Britto Ltda", 
+                            "documento":"S/Nº", "data":"2013-03-05", "detalhamento":"null", 
+                            "valorReembolsado":"111.17", "codDocumento":"713140"}, {"ano":"2013", "mes":"3", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"29520756000143", "fornecedor":"Auto Posto Monalisa Ltda", 
+                            "documento":"012292", "data":"2013-03-22", "detalhamento":"null", 
+                            "valorReembolsado":"97.0", "codDocumento":"713154"}, {"ano":"2013", "mes":"3", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"42363077000176", "fornecedor":"Auto Posto Parque do Flamengo Ltda", 
+                            "documento":"S/Nº", "data":"2013-03-01", "detalhamento":"null", 
+                            "valorReembolsado":"150.01", "codDocumento":"713139"}, {"ano":"2013", "mes":"3", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"01224548000188", "fornecedor":"Barca PXV Taxi", 
+                            "documento":"S/Nº", "data":"2013-03-18", "detalhamento":"null", 
+                            "valorReembolsado":"15.0", "codDocumento":"713169"}, {"ano":"2013", "mes":"3", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"04384705000100", "fornecedor":"Enseada Taxi", 
+                            "documento":"S/Nº", "data":"2013-03-04", "detalhamento":"null", 
+                            "valorReembolsado":"30.0", "codDocumento":"713157"}, {"ano":"2013", "mes":"3", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"04384705000100", "fornecedor":"Enseada Taxi", 
+                            "documento":"S/Nº", "data":"2013-03-07", "detalhamento":"null", 
+                            "valorReembolsado":"71.0", "codDocumento":"713158"}, {"ano":"2013", "mes":"3", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"04384705000100", "fornecedor":"Enseada Taxi", 
+                            "documento":"S/Nº", "data":"2013-03-12", "detalhamento":"null", 
+                            "valorReembolsado":"30.0", "codDocumento":"713155"}, {"ano":"2013", "mes":"3", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"04384705000100", "fornecedor":"Enseada Taxi", 
+                            "documento":"S/Nº", "data":"2013-03-13", "detalhamento":"null", 
+                            "valorReembolsado":"19.0", "codDocumento":"713162"}, {"ano":"2013", "mes":"3", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"04384705000100", "fornecedor":"Enseada Taxi", 
+                            "documento":"S/Nº", "data":"2013-03-13", "detalhamento":"null", 
+                            "valorReembolsado":"20.0", "codDocumento":"713163"}, {"ano":"2013", "mes":"3", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"04384705000100", "fornecedor":"Enseada Taxi", 
+                            "documento":"S/Nº", "data":"2013-03-14", "detalhamento":"null", 
+                            "valorReembolsado":"19.0", "codDocumento":"713165"}, {"ano":"2013", "mes":"3", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"04384705000100", "fornecedor":"Enseada Taxi", 
+                            "documento":"S/Nº", "data":"2013-03-18", "detalhamento":"null", 
+                            "valorReembolsado":"19.0", "codDocumento":"713161"}, {"ano":"2013", "mes":"3", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"04384705000100", "fornecedor":"Enseada Taxi", 
+                            "documento":"S/Nº", "data":"2013-03-19", "detalhamento":"null", 
+                            "valorReembolsado":"40.0", "codDocumento":"713166"}, {"ano":"2013", "mes":"3", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"04384705000100", "fornecedor":"Enseada Taxi", 
+                            "documento":"S/Nº", "data":"2013-03-22", "detalhamento":"null", 
+                            "valorReembolsado":"75.0", "codDocumento":"713156"}, {"ano":"2013", "mes":"3", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"04384705000100", "fornecedor":"Enseda Taxi", 
+                            "documento":"S/Nº", "data":"2013-03-04", "detalhamento":"null", 
+                            "valorReembolsado":"20.0", "codDocumento":"713159"}, {"ano":"2013", "mes":"3", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"04384705000100", "fornecedor":"Enseda taxi", 
+                            "documento":"S/Nº", "data":"2013-03-15", "detalhamento":"null", 
+                            "valorReembolsado":"17.0", "codDocumento":"713160"}, {"ano":"2013", "mes":"3", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"04971802000108", "fornecedor":"Mattar e Mattar Auto Posto Ltda", 
+                            "documento":"S/Nº", "data":"2013-03-09", "detalhamento":"null", 
+                            "valorReembolsado":"100.0", "codDocumento":"713144"}, {"ano":"2013", "mes":"3", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"04971802000108", "fornecedor":"Mattar e Mattar Auto Posto Ltda", 
+                            "documento":"S/Nº", "data":"2013-03-16", "detalhamento":"null", 
+                            "valorReembolsado":"121.51", "codDocumento":"713145"}, {"ano":"2013", "mes":"3", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"04971802000108", "fornecedor":"Mattar e Mattar Auto Posto ltda", 
+                            "documento":"S/Nº", "data":"2013-03-15", "detalhamento":"null", 
+                            "valorReembolsado":"100.0", "codDocumento":"713146"}, {"ano":"2013", "mes":"3", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"04483094000158", "fornecedor":"Oxente Rádio Taxi", 
+                            "documento":"S/Nº", "data":"2013-03-12", "detalhamento":"null", 
+                            "valorReembolsado":"20.0", "codDocumento":"713167"}, {"ano":"2013", "mes":"3", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"34230953000168", "fornecedor":"Petroleo e Derivados Piraque Ltda", 
+                            "documento":"S/Nº", "data":"2013-03-01", "detalhamento":"null", 
+                            "valorReembolsado":"150.0", "codDocumento":"713142"}, {"ano":"2013", "mes":"1", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33593575000114", "fornecedor":"Aluguel - Mitra Arquiepiscopal do Rio de Janeiro", 
+                            "documento":"S/Nº", "data":"2013-01-05", "detalhamento":"null", 
+                            "valorReembolsado":"12470.03", "codDocumento":"684906"}, {"ano":"2013", "mes":"1", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"60444437000146", "fornecedor":"Light Serviços de Eletricidade S/A", 
+                            "documento":"2711754", "data":"2013-01-08", "detalhamento":"null", 
+                            "valorReembolsado":"355.92", "codDocumento":"684917"}, {"ano":"2013", "mes":"1", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000179", "fornecedor":"Telemar Norte Leste S/A", 
+                            "documento":"1492", "data":"2013-01-11", "detalhamento":"null", 
+                            "valorReembolsado":"77.89", "codDocumento":"684907"}, {"ano":"2013", "mes":"1", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000179", "fornecedor":"Telemar Norte Leste S/A", 
+                            "documento":"2566", "data":"2013-01-11", "detalhamento":"null", 
+                            "valorReembolsado":"103.53", "codDocumento":"684913"}, {"ano":"2013", "mes":"1", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000179", "fornecedor":"Telemar Norte Leste S/A", 
+                            "documento":"2524", "data":"2013-01-11", "detalhamento":"null", 
+                            "valorReembolsado":"120.86", "codDocumento":"684914"}, {"ano":"2013", "mes":"1", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000179", "fornecedor":"Telemar Norte Leste S/A", 
+                            "documento":"39344", "data":"2013-01-11", "detalhamento":"null", 
+                            "valorReembolsado":"151.62", "codDocumento":"684909"}, {"ano":"2013", "mes":"1", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000179", "fornecedor":"Telemar Norte Leste S/A", 
+                            "documento":"2601", "data":"2013-01-11", "detalhamento":"null", 
+                            "valorReembolsado":"168.73", "codDocumento":"684908"}, {"ano":"2013", "mes":"1", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000179", "fornecedor":"Telemar Norte Leste S/A", 
+                            "documento":"7381", "data":"2013-01-11", "detalhamento":"null", 
+                            "valorReembolsado":"252.65", "codDocumento":"684911"}, {"ano":"2013", "mes":"1", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000179", "fornecedor":"Telemar Norte Leste S/A", 
+                            "documento":"7380", "data":"2013-01-11", "detalhamento":"null", 
+                            "valorReembolsado":"456.67", "codDocumento":"684910"}, {"ano":"2013", "mes":"1", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000179", "fornecedor":"Telemar Norte Leste S/A", 
+                            "documento":"2565", "data":"2013-01-11", "detalhamento":"null", 
+                            "valorReembolsado":"579.28", "codDocumento":"684912"}, {"ano":"2013", "mes":"1", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"04164616000159", "fornecedor":"TNL PCS S/A", 
+                            "documento":"426707518", "data":"2013-01-16", "detalhamento":"null", 
+                            "valorReembolsado":"346.76", "codDocumento":"684916"}, {"ano":"2013", "mes":"1", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"02449992000164", "fornecedor":"Vivo S/A", 
+                            "documento":"0121077572", "data":"2013-01-10", "detalhamento":"null", 
+                            "valorReembolsado":"56.35", "codDocumento":"684915"}, {"ano":"2013", "mes":"1", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"04551670000157", "fornecedor":"Barra Américas Taxi 24 Horas", 
+                            "documento":"13379", "data":"2013-01-29", "detalhamento":"null", 
+                            "valorReembolsado":"20.0", "codDocumento":"684933"}, {"ano":"2013", "mes":"1", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"03982176000184", "fornecedor":"Barra Special Coop", 
+                            "documento":"S/Nº", "data":"2013-01-14", "detalhamento":"null", 
+                            "valorReembolsado":"65.0", "codDocumento":"684936"}, {"ano":"2013", "mes":"1", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"03982176000184", "fornecedor":"Barra Special Coop", 
+                            "documento":"S/Nº", "data":"2013-01-15", "detalhamento":"null", 
+                            "valorReembolsado":"65.0", "codDocumento":"684935"}, {"ano":"2013", "mes":"1", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"06096181000188", "fornecedor":"Barra Sul Taxi", 
+                            "documento":"S/Nº", "data":"2013-01-29", "detalhamento":"null", 
+                            "valorReembolsado":"67.0", "codDocumento":"684938"}, {"ano":"2013", "mes":"1", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"04384705000100", "fornecedor":"Enseada Taxi", 
+                            "documento":"S/Nº", "data":"2013-01-02", "detalhamento":"null", 
+                            "valorReembolsado":"15.0", "codDocumento":"684927"}, {"ano":"2013", "mes":"1", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"04384705000100", "fornecedor":"Enseada Taxi", 
+                            "documento":"S/Nº", "data":"2013-01-05", "detalhamento":"null", 
+                            "valorReembolsado":"80.0", "codDocumento":"684924"}, {"ano":"2013", "mes":"1", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"04384705000100", "fornecedor":"Enseada Taxi", 
+                            "documento":"S/Nº", "data":"2013-01-07", "detalhamento":"null", 
+                            "valorReembolsado":"20.0", "codDocumento":"684928"}, {"ano":"2013", "mes":"1", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"04384705000100", "fornecedor":"Enseada Taxi", 
+                            "documento":"S/Nº", "data":"2013-01-09", "detalhamento":"null", 
+                            "valorReembolsado":"18.0", "codDocumento":"684931"}, {"ano":"2013", "mes":"1", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"04384705000100", "fornecedor":"Enseada Taxi", 
+                            "documento":"S/Nº", "data":"2013-01-11", "detalhamento":"null", 
+                            "valorReembolsado":"15.0", "codDocumento":"684930"}, {"ano":"2013", "mes":"1", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"04384705000100", "fornecedor":"Enseada Taxi", 
+                            "documento":"S/Nº", "data":"2013-01-15", "detalhamento":"null", 
+                            "valorReembolsado":"16.0", "codDocumento":"684926"}, {"ano":"2013", "mes":"1", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"04384705000100", "fornecedor":"Enseada Taxi", 
+                            "documento":"S/Nº", "data":"2013-01-15", "detalhamento":"null", 
+                            "valorReembolsado":"20.0", "codDocumento":"684922"}, {"ano":"2013", "mes":"1", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"04384705000100", "fornecedor":"Enseada Taxi", 
+                            "documento":"S/Nº", "data":"2013-01-16", "detalhamento":"null", 
+                            "valorReembolsado":"70.0", "codDocumento":"684932"}, {"ano":"2013", "mes":"1", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"04384705000100", "fornecedor":"Enseada Taxi", 
+                            "documento":"S/Nº", "data":"2013-01-21", "detalhamento":"null", 
+                            "valorReembolsado":"19.0", "codDocumento":"684929"}, {"ano":"2013", "mes":"1", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"04384705000100", "fornecedor":"Enseada Taxi", 
+                            "documento":"S/Nº", "data":"2013-01-22", "detalhamento":"null", 
+                            "valorReembolsado":"40.0", "codDocumento":"684923"}, {"ano":"2013", "mes":"1", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"04384705000100", "fornecedor":"Enseada Taxi", 
+                            "documento":"S/Nº", "data":"2013-01-28", "detalhamento":"null", 
+                            "valorReembolsado":"60.0", "codDocumento":"684925"}, {"ano":"2013", "mes":"1", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"04971802000108", "fornecedor":"Mattar e Mattar Auto Posto Ltda", 
+                            "documento":"S/Nº", "data":"2013-01-21", "detalhamento":"null", 
+                            "valorReembolsado":"100.03", "codDocumento":"684921"}, {"ano":"2013", "mes":"1", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"34035303000161", "fornecedor":"Ponei Posto de Gasolina Ltda", 
+                            "documento":"S/Nº", "data":"2013-01-09", "detalhamento":"null", 
+                            "valorReembolsado":"100.03", "codDocumento":"684919"}, {"ano":"2013", "mes":"1", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"34035303000161", "fornecedor":"Ponei Posto de Gasolina Ltda", 
+                            "documento":"S/Nº", "data":"2013-01-15", "detalhamento":"null", 
+                            "valorReembolsado":"126.06", "codDocumento":"684920"}, {"ano":"2013", "mes":"1", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"40288219000152", "fornecedor":"Rádio Taxi 2000", 
+                            "documento":"483009", "data":"2013-01-14", "detalhamento":"null", 
+                            "valorReembolsado":"65.0", "codDocumento":"684940"}, {"ano":"2013", "mes":"1", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"40288219000152", "fornecedor":"Rádio Taxi 2000", 
+                            "documento":"473589", "data":"2013-01-21", "detalhamento":"null", 
+                            "valorReembolsado":"60.0", "codDocumento":"684939"}, {"ano":"2013", "mes":"1", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"07387513000308", "fornecedor":"SIC 2004 Combustíveis e Participações Ltda", 
+                            "documento":"S/Nº", "data":"2013-01-02", "detalhamento":"null", 
+                            "valorReembolsado":"132.93", "codDocumento":"684918"}, {"ano":"2013", "mes":"1", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"04939694000188", "fornecedor":"Taxi Empresarial Botafogo", 
+                            "documento":"S/Nº", "data":"2013-01-14", "detalhamento":"null", 
+                            "valorReembolsado":"18.0", "codDocumento":"684934"}, {"ano":"2013", "mes":"1", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"12676794000197", "fornecedor":"Tijucoop", 
+                            "documento":"S/Nº", "data":"2013-01-16", "detalhamento":"null", 
+                            "valorReembolsado":"48.0", "codDocumento":"684937"}, {"ano":"2013", "mes":"1", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"33712837000112", "fornecedor":"Avianca - Aerovias Del Continente Amaricano S/A", 
+                            "documento":"023123461890", "data":"2013-01-23", "detalhamento":"Maria Isabel Dos Santos Alves, mat. 203182, assessora do Senador Francisco Dornelles;
+Trecho: SDU/BSB
+Data: 23/01/2013
+", 
+                            "valorReembolsado":"276.57", "codDocumento":"684942"}, {"ano":"2013", "mes":"1", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas S/A", 
+                            "documento":"9572461584834", "data":"2013-01-29", "detalhamento":"Senador Francisco Dornelles;
+Trecho: SDU/BSB
+Data: 29/01/2013", 
+                            "valorReembolsado":"402.57", "codDocumento":"684941"}, {"ano":"2013", "mes":"2", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33593575000114", "fornecedor":"Aluguel - Mitra Arquiepiscopal do Rio de Janeiro", 
+                            "documento":"S/Nº", "data":"2013-02-05", "detalhamento":"null", 
+                            "valorReembolsado":"12512.74", "codDocumento":"697760"}, {"ano":"2013", "mes":"2", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"60444437000146", "fornecedor":"Light Serviços de Eletricidade S/A", 
+                            "documento":"2782072", "data":"2013-02-06", "detalhamento":"null", 
+                            "valorReembolsado":"530.87", "codDocumento":"697771"}, {"ano":"2013", "mes":"2", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000179", "fornecedor":"Telemar Norte Leste S/A", 
+                            "documento":"1470", "data":"2013-02-11", "detalhamento":"null", 
+                            "valorReembolsado":"78.29", "codDocumento":"697767"}, {"ano":"2013", "mes":"2", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000179", "fornecedor":"Telemar Norte Leste S/A", 
+                            "documento":"2536", "data":"2013-02-11", "detalhamento":"null", 
+                            "valorReembolsado":"95.32", "codDocumento":"697764"}, {"ano":"2013", "mes":"2", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000179", "fornecedor":"Telemar Norte Leste S/A", 
+                            "documento":"2495", "data":"2013-02-11", "detalhamento":"null", 
+                            "valorReembolsado":"95.97", "codDocumento":"697766"}, {"ano":"2013", "mes":"2", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000179", "fornecedor":"Telemar Norte Leste S/A", 
+                            "documento":"39202", "data":"2013-02-11", "detalhamento":"null", 
+                            "valorReembolsado":"131.73", "codDocumento":"697765"}, {"ano":"2013", "mes":"2", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000179", "fornecedor":"Telemar Norte Leste S/A", 
+                            "documento":"2570", "data":"2013-02-11", "detalhamento":"null", 
+                            "valorReembolsado":"168.73", "codDocumento":"697768"}, {"ano":"2013", "mes":"2", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000179", "fornecedor":"Telemar Norte Leste S/A", 
+                            "documento":"7358", "data":"2013-02-11", "detalhamento":"null", 
+                            "valorReembolsado":"179.77", "codDocumento":"697761"}, {"ano":"2013", "mes":"2", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000179", "fornecedor":"Telemar Norte Leste S/A", 
+                            "documento":"7360", "data":"2013-02-11", "detalhamento":"null", 
+                            "valorReembolsado":"222.8", "codDocumento":"697762"}, {"ano":"2013", "mes":"2", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000179", "fornecedor":"Telemar Norte Leste S/A", 
+                            "documento":"2535", "data":"2013-02-11", "detalhamento":"null", 
+                            "valorReembolsado":"292.52", "codDocumento":"697763"}, {"ano":"2013", "mes":"2", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"04164616000159", "fornecedor":"TNL PCS S/A - Oi Celular", 
+                            "documento":"431439914", "data":"2013-02-20", "detalhamento":"null", 
+                            "valorReembolsado":"378.76", "codDocumento":"697769"}, {"ano":"2013", "mes":"2", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"02449992000164", "fornecedor":"Vivo S/A", 
+                            "documento":"0121077572", "data":"2013-02-10", "detalhamento":"null", 
+                            "valorReembolsado":"54.7", "codDocumento":"697770"}, {"ano":"2013", "mes":"2", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"02608959000130", "fornecedor":"Associação dos Motoristas de Taxi", 
+                            "documento":"49469", "data":"2013-02-20", "detalhamento":"null", 
+                            "valorReembolsado":"20.0", "codDocumento":"697791"}, {"ano":"2013", "mes":"2", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"05197558000122", "fornecedor":"Associação dos Taxistas da Usina", 
+                            "documento":"S/Nº", "data":"2013-02-07", "detalhamento":"null", 
+                            "valorReembolsado":"20.0", "codDocumento":"697784"}, {"ano":"2013", "mes":"2", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"02106453000122", "fornecedor":"Associação Taxi Candelaria", 
+                            "documento":"S/Nº", "data":"2013-02-07", "detalhamento":"null", 
+                            "valorReembolsado":"20.0", "codDocumento":"697782"}, {"ano":"2013", "mes":"2", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"02106453000122", "fornecedor":"Associação Taxi Candelaria", 
+                            "documento":"S/Nº", "data":"2013-02-20", "detalhamento":"null", 
+                            "valorReembolsado":"20.0", "codDocumento":"697783"}, {"ano":"2013", "mes":"2", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"29520756000143", "fornecedor":"Auto Posto Monalisa Ltda", 
+                            "documento":"S/Nº", "data":"2013-02-14", "detalhamento":"null", 
+                            "valorReembolsado":"134.33", "codDocumento":"697776"}, {"ano":"2013", "mes":"2", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"42363077000176", "fornecedor":"Auto Posto Parque do Flamengo Ltda", 
+                            "documento":"S/Nº", "data":"2013-02-04", "detalhamento":"null", 
+                            "valorReembolsado":"157.04", "codDocumento":"697778"}, {"ano":"2013", "mes":"2", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"12252711000132", "fornecedor":"Auto Posto Real Ltda", 
+                            "documento":"S/Nº", "data":"2013-02-15", "detalhamento":"null", 
+                            "valorReembolsado":"149.02", "codDocumento":"697781"}, {"ano":"2013", "mes":"2", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"03982176000184", "fornecedor":"Barra Special Coop", 
+                            "documento":"S/Nº", "data":"2013-02-04", "detalhamento":"null", 
+                            "valorReembolsado":"65.0", "codDocumento":"697793"}, {"ano":"2013", "mes":"2", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"06096181000188", "fornecedor":"Barra Sul Taxi", 
+                            "documento":"483373", "data":"2013-02-22", "detalhamento":"null", 
+                            "valorReembolsado":"72.0", "codDocumento":"697794"}, {"ano":"2013", "mes":"2", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"30921357000173", "fornecedor":"Coopataxi", 
+                            "documento":"286108", "data":"2013-02-19", "detalhamento":"null", 
+                            "valorReembolsado":"20.0", "codDocumento":"697790"}, {"ano":"2013", "mes":"2", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"04384705000100", "fornecedor":"Enseada Taxi", 
+                            "documento":"S/Nº", "data":"2013-02-07", "detalhamento":"null", 
+                            "valorReembolsado":"30.0", "codDocumento":"697787"}, {"ano":"2013", "mes":"2", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"04384705000100", "fornecedor":"Enseada Taxi", 
+                            "documento":"S/Nº", "data":"2013-02-19", "detalhamento":"null", 
+                            "valorReembolsado":"20.0", "codDocumento":"697786"}, {"ano":"2013", "mes":"2", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"04384705000100", "fornecedor":"Enseada Taxi", 
+                            "documento":"S/Nº", "data":"2013-02-20", "detalhamento":"null", 
+                            "valorReembolsado":"60.0", "codDocumento":"697788"}, {"ano":"2013", "mes":"2", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"04384705000100", "fornecedor":"Enseada Taxi", 
+                            "documento":"S/Nº", "data":"2013-02-23", "detalhamento":"null", 
+                            "valorReembolsado":"70.0", "codDocumento":"697789"}, {"ano":"2013", "mes":"2", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"04971802000108", "fornecedor":"Mattar e Mattar Auto Posto Ltda", 
+                            "documento":"S/Nº", "data":"2013-02-01", "detalhamento":"null", 
+                            "valorReembolsado":"151.01", "codDocumento":"697772"}, {"ano":"2013", "mes":"2", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"04971802000108", "fornecedor":"Mattar e Mattar Auto Posto Ltda", 
+                            "documento":"S/Nº", "data":"2013-02-14", "detalhamento":"null", 
+                            "valorReembolsado":"100.0", "codDocumento":"697773"}, {"ano":"2013", "mes":"2", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"34035303000161", "fornecedor":"Ponei Posto de Gasolina Ltda", 
+                            "documento":"S/Nº", "data":"2013-02-05", "detalhamento":"null", 
+                            "valorReembolsado":"164.6", "codDocumento":"697779"}, {"ano":"2013", "mes":"2", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"31515901000140", "fornecedor":"Posto de Gasolina Lord Barra Sul Ltda", 
+                            "documento":"S/Nº", "data":"2013-02-07", "detalhamento":"null", 
+                            "valorReembolsado":"100.0", "codDocumento":"697777"}, {"ano":"2013", "mes":"2", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"28789584000145", "fornecedor":"Rádio Taxi Coopatur", 
+                            "documento":"32549", "data":"2013-02-02", "detalhamento":"null", 
+                            "valorReembolsado":"63.0", "codDocumento":"697792"}, {"ano":"2013", "mes":"2", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"40288219000152", "fornecedor":"Radio Taxi 2000", 
+                            "documento":"406196", "data":"2013-02-18", "detalhamento":"null", 
+                            "valorReembolsado":"70.0", "codDocumento":"697796"}, {"ano":"2013", "mes":"2", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"40288219000152", "fornecedor":"Radio Taxi 2000", 
+                            "documento":"S/Nº", "data":"2013-02-20", "detalhamento":"null", 
+                            "valorReembolsado":"55.0", "codDocumento":"697795"}, {"ano":"2013", "mes":"2", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"07387513000308", "fornecedor":"SIC 2004 Combustiveis e Participações Ltda", 
+                            "documento":"S/Nº", "data":"2013-02-04", "detalhamento":"null", 
+                            "valorReembolsado":"111.01", "codDocumento":"697775"}, {"ano":"2013", "mes":"2", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"07387513000308", "fornecedor":"SIC 2004 Combustiveis e Participações Ltda", 
+                            "documento":"S/Nº", "data":"2013-02-11", "detalhamento":"null", 
+                            "valorReembolsado":"50.0", "codDocumento":"697774"}, {"ano":"2013", "mes":"2", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"30757298000492", "fornecedor":"Sonap Sociedade Nacional de Petroleo Ltda", 
+                            "documento":"S/Nº", "data":"2013-02-16", "detalhamento":"null", 
+                            "valorReembolsado":"150.0", "codDocumento":"697780"}, {"ano":"2013", "mes":"2", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"02191738000109", "fornecedor":"Taxi Leblon", 
+                            "documento":"S/Nº", "data":"2013-02-21", "detalhamento":"null", 
+                            "valorReembolsado":"20.0", "codDocumento":"697785"}, {"ano":"2013", "mes":"2", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"33712837000112", "fornecedor":"Avianca - Aerovias Del Continente Americano S/A", 
+                            "documento":"2470124144395", "data":"2013-02-18", "detalhamento":"Ana Paula de Azevedo Carvalho, mat. 200508, assessora do Senador Francisco Dornelles;
+Trecho: SDU/BSB;
+Data: 18/02/2013", 
+                            "valorReembolsado":"687.07", "codDocumento":"697801"}, {"ano":"2013", "mes":"2", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol Linhas Aéreas Inteligentes S/A", 
+                            "documento":"1270001482446", "data":"2013-02-19", "detalhamento":"José Roberto Afonso, mat. 209573, assessor do Senador Francisco Dornelles;
+Trecho: SDU/BSB;
+Data: 19/02/2013.
+", 
+                            "valorReembolsado":"381.47", "codDocumento":"697799"}, {"ano":"2013", "mes":"2", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tal Linhas Aéreas S/A", 
+                            "documento":"9572463147505", "data":"2013-02-15", "detalhamento":"Ana Paula de Azevedo Carvalho, mat. 200508, assessora do Senador Francisco Dornelles;
+Trecho: BSB/SDU;
+Data: 15/02/2013", 
+                            "valorReembolsado":"510.63", "codDocumento":"697800"}, {"ano":"2013", "mes":"2", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas S/A", 
+                            "documento":"9572463035079", "data":"2013-02-06", "detalhamento":"Senador Francisco Dornelles;
+Trecho: BSB/GIG;
+Data: 06/02/2013.
+", 
+                            "valorReembolsado":"847.23", "codDocumento":"697803"}, {"ano":"2013", "mes":"2", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas S/A", 
+                            "documento":"9572463035037", "data":"2013-02-18", "detalhamento":"Senador Francisco Dornelles;
+Trecho: GIG/BSB;
+Data: 18/02/2013", 
+                            "valorReembolsado":"783.87", "codDocumento":"697797"}, {"ano":"2013", "mes":"2", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas S/A", 
+                            "documento":"9572463035085", "data":"2013-02-19", "detalhamento":"Senador Francisco Dornelles;
+Trecho: SDU/BSB;
+Data: 19/02/2013.
+", 
+                            "valorReembolsado":"511.07", "codDocumento":"697804"}, {"ano":"2013", "mes":"2", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas S/A", 
+                            "documento":"9572462933300", "data":"2013-02-20", "detalhamento":"José Roberto Afonso, mat. 209573, assessor do Senador Francisco Dornelles;
+Trecho: BSB/SDU;
+Data: 20/02/2013.
+", 
+                            "valorReembolsado":"510.63", "codDocumento":"697798"}, {"ano":"2013", "mes":"2", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas S/A", 
+                            "documento":"9572463147503", "data":"2013-02-26", "detalhamento":"Senador Francisco Dornelles;
+Trecho: SDU/BSB;
+Data: 26/02/2013.
+", 
+                            "valorReembolsado":"416.57", "codDocumento":"697802"}, {"ano":"2013", "mes":"3", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33593575000114", "fornecedor":"Aluguel - Mitra Arquiepiscopal do Rio de Janeiro", 
+                            "documento":"S/Nº", "data":"2013-03-05", "detalhamento":"null", 
+                            "valorReembolsado":"12673.57", "codDocumento":"713127"}, {"ano":"2013", "mes":"3", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"60444437000146", "fornecedor":"Light Serviços de Eletricidade S/A", 
+                            "documento":"2868375", "data":"2013-03-06", "detalhamento":"null", 
+                            "valorReembolsado":"233.94", "codDocumento":"713138"}, {"ano":"2013", "mes":"3", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000179", "fornecedor":"Telemar Norte Leste S/A", 
+                            "documento":"1431", "data":"2013-03-11", "detalhamento":"null", 
+                            "valorReembolsado":"77.56", "codDocumento":"713129"}, {"ano":"2013", "mes":"3", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000179", "fornecedor":"Telemar Norte Leste S/A", 
+                            "documento":"2436", "data":"2013-03-11", "detalhamento":"null", 
+                            "valorReembolsado":"103.68", "codDocumento":"713134"}, {"ano":"2013", "mes":"3", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000179", "fornecedor":"Telemar Norte Leste S/A", 
+                            "documento":"37821", "data":"2013-03-11", "detalhamento":"null", 
+                            "valorReembolsado":"126.93", "codDocumento":"713133"}, {"ano":"2013", "mes":"3", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000179", "fornecedor":"Telemar Norte Leste S/A", 
+                            "documento":"2512", "data":"2013-03-11", "detalhamento":"null", 
+                            "valorReembolsado":"168.4", "codDocumento":"713131"}, {"ano":"2013", "mes":"3", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000179", "fornecedor":"Telemar Norte Leste S/A", 
+                            "documento":"2478", "data":"2013-03-11", "detalhamento":"null", 
+                            "valorReembolsado":"176.01", "codDocumento":"713130"}, {"ano":"2013", "mes":"3", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000179", "fornecedor":"Telemar Norte Leste S/A", 
+                            "documento":"7130", "data":"2013-03-11", "detalhamento":"null", 
+                            "valorReembolsado":"186.0", "codDocumento":"713128"}, {"ano":"2013", "mes":"3", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000179", "fornecedor":"Telemar Norte Leste S/A", 
+                            "documento":"7131", "data":"2013-03-11", "detalhamento":"null", 
+                            "valorReembolsado":"246.43", "codDocumento":"713132"}, {"ano":"2013", "mes":"3", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000179", "fornecedor":"Telemar Norte Leste S/A", 
+                            "documento":"2477", "data":"2013-03-11", "detalhamento":"null", 
+                            "valorReembolsado":"397.64", "codDocumento":"713135"}, {"ano":"2013", "mes":"3", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"04164616000159", "fornecedor":"TNL PCS S/A", 
+                            "documento":"436183676", "data":"2013-03-16", "detalhamento":"null", 
+                            "valorReembolsado":"308.33", "codDocumento":"713137"}, {"ano":"2013", "mes":"3", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"02449992000164", "fornecedor":"VIVO S/A", 
+                            "documento":"0121077572", "data":"2013-03-10", "detalhamento":"null", 
+                            "valorReembolsado":"54.7", "codDocumento":"713136"}, {"ano":"2013", "mes":"3", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"08635019000116", "fornecedor":"R&B Ricardo Bruno Agencia de Comunicação Ltda", 
+                            "documento":"146", "data":"2013-04-01", "detalhamento":"null", 
+                            "valorReembolsado":"12000.0", "codDocumento":"716284"}, {"ano":"2013", "mes":"8", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"04971802000108", "fornecedor":"Mattar e Mattar Auto Posto Ltda", 
+                            "documento":"S/Nº", "data":"2013-08-12", "detalhamento":"Despesa com combustível para veículos utilizados na atividade parlamentar.", 
+                            "valorReembolsado":"100.0", "codDocumento":"805347"}, {"ano":"2013", "mes":"8", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"04971802000108", "fornecedor":"Mattar e Mattar Auto Posto Ltda", 
+                            "documento":"S/Nº", "data":"2013-08-19", "detalhamento":"Despesa com combustível para veículos utilizados na atividade parlamentar.", 
+                            "valorReembolsado":"100.0", "codDocumento":"805345"}, {"ano":"2013", "mes":"8", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"04971802000108", "fornecedor":"Mattar e Mattar Auto Posto Ltda", 
+                            "documento":"S/Nº", "data":"2013-08-24", "detalhamento":"Despesa com combustível para veículos utilizados na atividade parlamentar.", 
+                            "valorReembolsado":"100.0", "codDocumento":"805346"}, {"ano":"2013", "mes":"8", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"34035303000161", "fornecedor":"Ponei Posto de Gasolina Ltda", 
+                            "documento":"S/Nº", "data":"2013-08-12", "detalhamento":"Despesa com combustível para veículos utilizados na atividade parlamentar.", 
+                            "valorReembolsado":"83.01", "codDocumento":"805352"}, {"ano":"2013", "mes":"8", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"34035303000161", "fornecedor":"Ponei Posto de Gasolina Ltda", 
+                            "documento":"S/Nº", "data":"2013-08-14", "detalhamento":"Despesa com combustível para veículos utilizados na atividade parlamentar.", 
+                            "valorReembolsado":"172.56", "codDocumento":"805351"}, {"ano":"2013", "mes":"8", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"34035303000161", "fornecedor":"Ponei Posto de Gasolina Ltda", 
+                            "documento":"S/Nº", "data":"2013-08-20", "detalhamento":"Despesa com combustível para veículos utilizados na atividade parlamentar.", 
+                            "valorReembolsado":"150.0", "codDocumento":"805354"}, {"ano":"2013", "mes":"8", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"34035303000161", "fornecedor":"Ponei Posto de Gasolina Ltda", 
+                            "documento":"S/Nº", "data":"2013-08-22", "detalhamento":"Despesa com combustível para veículos utilizados na atividade parlamentar.", 
+                            "valorReembolsado":"145.02", "codDocumento":"805350"}, {"ano":"2013", "mes":"8", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"34035303000161", "fornecedor":"Ponei Posto de Gasolina ltda", 
+                            "documento":"S/Nº", "data":"2013-08-09", "detalhamento":"Despesa com combustível para veículos utilizados na atividade parlamentar.", 
+                            "valorReembolsado":"156.04", "codDocumento":"805349"}, {"ano":"2013", "mes":"8", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"34035303000161", "fornecedor":"ponei Posto de Gasolina Ltda", 
+                            "documento":"S/Nº", "data":"2013-08-27", "detalhamento":"Despesa com combustível para veículos utilizados na atividade parlamentar.", 
+                            "valorReembolsado":"150.01", "codDocumento":"805353"}, {"ano":"2013", "mes":"8", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"00699424000196", "fornecedor":"Posto de Gasolina Barramar Ltda", 
+                            "documento":"S/Nº", "data":"2013-08-19", "detalhamento":"Despesa com combustível para veículos utilizados na atividade parlamentar.", 
+                            "valorReembolsado":"129.14", "codDocumento":"805343"}, {"ano":"2013", "mes":"8", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol Linhas Aéreas Inteligentes S/A", 
+                            "documento":"9690001592802", "data":"2013-08-02", "detalhamento":"Marivaldo Rodrigues de Almeida, mat. 200764, assessor do Senador Francisco Dornelles;
+Trecho: GIG/BSB
+Data: 02/08/2013", 
+                            "valorReembolsado":"941.06", "codDocumento":"805360"}, {"ano":"2013", "mes":"8", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol Linhas Aéreas Inteligentes S/A", 
+                            "documento":"9690001592617", "data":"2013-08-02", "detalhamento":"Marivaldo Rodrigues de Almeida, mat. 200764, assessor do Senador Francisco Dornelles;
+Trecho: BSB/SDU;
+Data: 02/08/2013.
+", 
+                            "valorReembolsado":"1038.52", "codDocumento":"805359"}, {"ano":"2013", "mes":"8", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol Linhas Aéreas Inteligentes S/A", 
+                            "documento":"9690001598988", "data":"2013-08-23", "detalhamento":"Marivaldo Rodrigues de Almeida, mat. 200764, assessor do Senador Francisco Dornelles;
+Trecho: BSB/GIG/BSB
+Datas: 23/08/2013 - Ida e 25/08/2013 - Volta
+
+", 
+                            "valorReembolsado":"1009.38", "codDocumento":"805358"}, {"ano":"2013", "mes":"8", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéras Ltda", 
+                            "documento":"9572474027783", "data":"2013-08-19", "detalhamento":"Senador Francisco Dornelles;
+Trecho: SDU/BSB;
+Data: 19/08/2013.
+", 
+                            "valorReembolsado":"993.97", "codDocumento":"805357"}, {"ano":"2013", "mes":"8", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas S/A", 
+                            "documento":"9572473571590", "data":"2013-08-12", "detalhamento":"Senador Francisco Dornelles;
+Trecho: SDU/BSB;
+Data: 12/08/2013.
+", 
+                            "valorReembolsado":"479.83", "codDocumento":"805355"}, {"ano":"2013", "mes":"8", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas S/A", 
+                            "documento":"9572474027740", "data":"2013-08-15", "detalhamento":"Senador Francisco Dornelles;
+Trecho: BSB/GIG;
+Data: 15/08/2013.
+", 
+                            "valorReembolsado":"706.43", "codDocumento":"805356"}, {"ano":"2013", "mes":"9", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33593575000114", "fornecedor":"Aluguel - Mitra Arquiepiscopal do Rio de Janeiro", 
+                            "documento":"S/Nº", "data":"2013-09-05", "detalhamento":"Aluguel do escritório político, condomínio e energia elétrica.", 
+                            "valorReembolsado":"12815.7", "codDocumento":"819818"}, {"ano":"2013", "mes":"9", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"60444437000146", "fornecedor":"Light Serviços de Eletricidade S/A", 
+                            "documento":"2816596", "data":"2013-09-05", "detalhamento":"Despesa com conta de energia eletrica do escritório político.", 
+                            "valorReembolsado":"203.41", "codDocumento":"819829"}, {"ano":"2013", "mes":"9", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000179", "fornecedor":"Telemar Norte Leste S/A", 
+                            "documento":"S/Nº", "data":"2013-09-11", "detalhamento":"Despesa com conta telefônica do escritório político.", 
+                            "valorReembolsado":"77.46", "codDocumento":"819819"}, {"ano":"2013", "mes":"9", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000179", "fornecedor":"Telemar Norte Leste S/A", 
+                            "documento":"S/Nº", "data":"2013-09-11", "detalhamento":"Despesa com conta telefônica do escritório político.", 
+                            "valorReembolsado":"77.46", "codDocumento":"819820"}, {"ano":"2013", "mes":"9", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000179", "fornecedor":"Telemar Norte Leste S/A", 
+                            "documento":"S/Nº", "data":"2013-09-11", "detalhamento":"Despesa com conta telefônica do escritório político.", 
+                            "valorReembolsado":"78.84", "codDocumento":"819825"}, {"ano":"2013", "mes":"9", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000179", "fornecedor":"Telemar Norte Leste S/A", 
+                            "documento":"S/Nº", "data":"2013-09-11", "detalhamento":"Despesa com conta telefônica do escritório político.", 
+                            "valorReembolsado":"174.66", "codDocumento":"819821"}, {"ano":"2013", "mes":"9", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000179", "fornecedor":"Telemar Norte Leste S/A", 
+                            "documento":"S/Nº", "data":"2013-09-11", "detalhamento":"Despesa com conta telefônica do escritório político.", 
+                            "valorReembolsado":"256.71", "codDocumento":"819824"}, {"ano":"2013", "mes":"9", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000179", "fornecedor":"Telemar Norte Leste S/A", 
+                            "documento":"34973", "data":"2013-09-11", "detalhamento":"Despesa com conta telefônica do escritório político.", 
+                            "valorReembolsado":"286.53", "codDocumento":"819826"}, {"ano":"2013", "mes":"9", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000179", "fornecedor":"Telemar Norte Leste S/A", 
+                            "documento":"S/Nº", "data":"2013-09-11", "detalhamento":"Despesa com conta telefônica do escritório político.", 
+                            "valorReembolsado":"308.47", "codDocumento":"819823"}, {"ano":"2013", "mes":"9", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000179", "fornecedor":"Telemar Norte Leste S/A", 
+                            "documento":"S/Nº", "data":"2013-09-11", "detalhamento":"Despesa com conta telefônica do escritório político.", 
+                            "valorReembolsado":"335.31", "codDocumento":"819822"}, {"ano":"2013", "mes":"9", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"04164616000159", "fornecedor":"TNL PCS S/A - Oi Celular", 
+                            "documento":"472740722", "data":"2013-09-17", "detalhamento":"Despesa com conta telefônica do escritório político.", 
+                            "valorReembolsado":"568.26", "codDocumento":"819827"}, {"ano":"2013", "mes":"9", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"02558157000162", "fornecedor":"Vivo S/A", 
+                            "documento":"0121077572", "data":"2013-09-10", "detalhamento":"Despesa com conta telefônica do escritório político.", 
+                            "valorReembolsado":"56.43", "codDocumento":"819828"}, {"ano":"2013", "mes":"9", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"08635019000116", "fornecedor":"R&B Agencia de Comunicação Ltda", 
+                            "documento":"175", "data":"2013-10-01", "detalhamento":"Despesa com consultoria para o exercício da atividade política do parlamentar REFERENTE AO MÊS DE SETEMBRO DE 2013.", 
+                            "valorReembolsado":"12000.0", "codDocumento":"819830"}, {"ano":"2013", "mes":"9", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas S/A", 
+                            "documento":"9572475272848", "data":"2013-09-05", "detalhamento":"Senador Francisco Dornelles;
+Trecho: BSB/SDU;
+Data: 05/09/2013
+", 
+                            "valorReembolsado":"743.05", "codDocumento":"819831"}, {"ano":"2013", "mes":"9", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas S/A", 
+                            "documento":"9572475403871", "data":"2013-09-09", "detalhamento":"Senador Francisco Dornelles;
+Trecho: SDU/BSB;
+Data: 09/09/2013
+", 
+                            "valorReembolsado":"1198.57", "codDocumento":"819832"}, {"ano":"2013", "mes":"9", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas S/A", 
+                            "documento":"9572475750169", "data":"2013-09-12", "detalhamento":"Senador Francisco Dornelles;
+Trecho: BSB/SDU;
+Data: 12/09/2013
+", 
+                            "valorReembolsado":"1485.55", "codDocumento":"819833"}, {"ano":"2013", "mes":"9", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas S/A", 
+                            "documento":"9572475750121", "data":"2013-09-16", "detalhamento":"Senador Francisco Dornelles;
+Trecho: SDU/BSB;
+Data: 16/09/2013
+", 
+                            "valorReembolsado":"1039.07", "codDocumento":"819834"}, {"ano":"2013", "mes":"9", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas S/A", 
+                            "documento":"9572475750118", "data":"2013-09-19", "detalhamento":"Senador Francisco Dornelles;
+Trecho: BSB/SDU;
+Data: 19/09/2013
+", 
+                            "valorReembolsado":"1040.05", "codDocumento":"819835"}, {"ano":"2013", "mes":"9", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas S/A", 
+                            "documento":"9572475750122", "data":"2013-09-23", "detalhamento":"Senador Francisco Dornelles;
+Trecho: SDU/BSB;
+Data: 23/09/2013
+", 
+                            "valorReembolsado":"742.07", "codDocumento":"819836"}, {"ano":"2013", "mes":"9", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas S/A", 
+                            "documento":"9572475750117", "data":"2013-09-26", "detalhamento":"Senador Francisco Dornelles;
+Trecho: BSB/SDU;
+Data: 26/09/2013
+", 
+                            "valorReembolsado":"307.55", "codDocumento":"819837"}, {"ano":"2013", "mes":"9", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas S/A", 
+                            "documento":"9572475750120", "data":"2013-09-30", "detalhamento":"Senador Francisco Dornelles;
+Trecho: SDU/BSB;
+Data: 30/09/2013
+", 
+                            "valorReembolsado":"500.07", "codDocumento":"819838"}, {"ano":"2013", "mes":"10", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33593575000114", "fornecedor":"Aluguel - Mitra Arquiepiscopal do Rio de Janeiro", 
+                            "documento":"09741301", "data":"2013-10-05", "detalhamento":"Aluguel do escritório político, condomínio e energia elétrica.", 
+                            "valorReembolsado":"13048.12", "codDocumento":"834431"}, {"ano":"2013", "mes":"10", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"60444437000146", "fornecedor":"Light Serviços de Eletricidade S/A", 
+                            "documento":"2866724", "data":"2013-10-04", "detalhamento":"Despesa com energia elétrica do escritório político.
+", 
+                            "valorReembolsado":"281.36", "codDocumento":"834442"}, {"ano":"2013", "mes":"10", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"04164616000159", "fornecedor":"Oi - Celular", 
+                            "documento":"478307395", "data":"2013-10-16", "detalhamento":"Despesa com conta telefônica do escritório político.
+", 
+                            "valorReembolsado":"517.76", "codDocumento":"834440"}, {"ano":"2013", "mes":"10", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000179", "fornecedor":"Telemar Norte Leste S/A", 
+                            "documento":"S/Nº", "data":"2013-10-11", "detalhamento":"Despesa com conta telefônica do escritório político.
+", 
+                            "valorReembolsado":"77.46", "codDocumento":"834437"}, {"ano":"2013", "mes":"10", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000179", "fornecedor":"Telemar Norte Leste S/A", 
+                            "documento":"S/Nº", "data":"2013-10-11", "detalhamento":"Despesa com conta telefônica do escritório político.
+", 
+                            "valorReembolsado":"77.98", "codDocumento":"834436"}, {"ano":"2013", "mes":"10", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000179", "fornecedor":"Telemar Norte Leste S/A", 
+                            "documento":"34933", "data":"2013-10-11", "detalhamento":"Despesa com conta telefônica do escritório político.
+", 
+                            "valorReembolsado":"173.16", "codDocumento":"834432"}, {"ano":"2013", "mes":"10", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000179", "fornecedor":"Telemar Norte Leste S/A", 
+                            "documento":"S/Nº", "data":"2013-10-11", "detalhamento":"Despesa com conta telefônica do escritório político.
+", 
+                            "valorReembolsado":"174.66", "codDocumento":"834438"}, {"ano":"2013", "mes":"10", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000179", "fornecedor":"Telemar Norte Leste S/A", 
+                            "documento":"S/Nº", "data":"2013-10-11", "detalhamento":"Despesa com conta telefônica do escritório político.
+", 
+                            "valorReembolsado":"286.22", "codDocumento":"834433"}, {"ano":"2013", "mes":"10", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000179", "fornecedor":"Telemar Norte Leste S/A", 
+                            "documento":"S/Nº", "data":"2013-10-11", "detalhamento":"Despesa com conta telefônica do escritório político.
+", 
+                            "valorReembolsado":"304.77", "codDocumento":"834435"}, {"ano":"2013", "mes":"10", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000179", "fornecedor":"Telemar Norte Leste S/A", 
+                            "documento":"S/Nº", "data":"2013-10-11", "detalhamento":"Despesa com conta telefônica do escritório político.
+", 
+                            "valorReembolsado":"328.44", "codDocumento":"834434"}, {"ano":"2013", "mes":"10", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000179", "fornecedor":"Telemar Note Leste S/A", 
+                            "documento":"S/Nº", "data":"2013-10-11", "detalhamento":"Despesa com conta telefônica do escritório político.
+", 
+                            "valorReembolsado":"85.29", "codDocumento":"834439"}, {"ano":"2013", "mes":"10", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"02558157000162", "fornecedor":"VIVO- Telefônica S/A", 
+                            "documento":"0121077572", "data":"2013-10-10", "detalhamento":"Despesa com conta telefônica do escritório político.
+", 
+                            "valorReembolsado":"54.7", "codDocumento":"834441"}, {"ano":"2013", "mes":"10", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"08635019000116", "fornecedor":"R&B Ricardo Bruno Agência de Comunicação Ltda", 
+                            "documento":"183", "data":"2013-11-01", "detalhamento":"Despesa com consultoria política para o exercício da atividade política do parlamentar REFERENTE AO MÊS DE OUTUBRO DE 2013.
+", 
+                            "valorReembolsado":"12000.0", "codDocumento":"834443"}, {"ano":"2013", "mes":"10", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas S/A", 
+                            "documento":"9572476938932", "data":"2013-10-03", "detalhamento":"Senador Francisco Dornelles;
+Trecho: BSB/SDU;
+Data: 03/10/2013.", 
+                            "valorReembolsado":"814.55", "codDocumento":"834445"}, {"ano":"2013", "mes":"10", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"33712837000112", "fornecedor":"Tam Linhas Aéreas S/A", 
+                            "documento":"0230127961453", "data":"2013-10-07", "detalhamento":"José Roberto Afonso, mat. 209573, assessor do Senador Francisco Dornelles;
+Trecho: SDU/CGH;
+data: 07/10/2013.", 
+                            "valorReembolsado":"713.47", "codDocumento":"834448"}, {"ano":"2013", "mes":"10", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas S/A", 
+                            "documento":"95724769389", "data":"2013-10-07", "detalhamento":"Senador Francisco Dornelles;
+Trecho: SDU/BSB;
+Data: 07/10/2013.", 
+                            "valorReembolsado":"780.57", "codDocumento":"834446"}, {"ano":"2013", "mes":"10", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas S/A", 
+                            "documento":"9572477301329", "data":"2013-10-09", "detalhamento":"Senador Francisco Dornelles;
+Trecho: BSB/GIG;
+Data: 09/10/2013.
+", 
+                            "valorReembolsado":"472.45", "codDocumento":"834447"}, {"ano":"2013", "mes":"10", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas S/A", 
+                            "documento":"9572477301330", "data":"2013-10-14", "detalhamento":"Senador Francisco Dornelles;
+Trecho: GIG/BSB;
+Data: 14/10/2013.", 
+                            "valorReembolsado":"1176.57", "codDocumento":"834444"}, {"ano":"2013", "mes":"11", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33593575000114", "fornecedor":"Aluguel - Mitra Arquiepiscopal do Rio de Janeiro", 
+                            "documento":"09764901", "data":"2013-11-05", "detalhamento":"Aluguel do escritório político, condomínio e energia elétrica.", 
+                            "valorReembolsado":"13194.34", "codDocumento":"848908"}, {"ano":"2013", "mes":"11", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"60444437000146", "fornecedor":"Light Serviços de Eletricidade S/A", 
+                            "documento":"2884829", "data":"2013-11-06", "detalhamento":"Despesa com conta de energia elétrica do escritório político.", 
+                            "valorReembolsado":"298.37", "codDocumento":"848919"}, {"ano":"2013", "mes":"11", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000179", "fornecedor":"Telemar Norte Leste S/A", 
+                            "documento":"S/Nº", "data":"2013-11-11", "detalhamento":"Despesa com conta telefônica do escritório político.", 
+                            "valorReembolsado":"77.46", "codDocumento":"848910"}, {"ano":"2013", "mes":"11", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000179", "fornecedor":"Telemar Norte Leste S/A", 
+                            "documento":"S/Nº", "data":"2013-11-11", "detalhamento":"Despesa com conta telefônica do escritório político.", 
+                            "valorReembolsado":"77.46", "codDocumento":"848909"}, {"ano":"2013", "mes":"11", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000179", "fornecedor":"Telemar Norte Leste S/A", 
+                            "documento":"S/Nº", "data":"2013-11-11", "detalhamento":"Despesa com conta telefônica do escritório político.", 
+                            "valorReembolsado":"90.02", "codDocumento":"848911"}, {"ano":"2013", "mes":"11", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000179", "fornecedor":"Telemar Norte Leste S/A", 
+                            "documento":"S/Nº", "data":"2013-11-11", "detalhamento":"Despesa com conta telefônica do escritório político.", 
+                            "valorReembolsado":"174.66", "codDocumento":"848912"}, {"ano":"2013", "mes":"11", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000179", "fornecedor":"Telemar Norte Leste S/A", 
+                            "documento":"33846", "data":"2013-11-11", "detalhamento":"Despesa com conta telefônica do escritório político.", 
+                            "valorReembolsado":"225.04", "codDocumento":"848916"}, {"ano":"2013", "mes":"11", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000179", "fornecedor":"Telemar Norte Leste S/A", 
+                            "documento":"S/Nº", "data":"2013-11-11", "detalhamento":"Despesa com conta telefônica do escritório político.", 
+                            "valorReembolsado":"306.46", "codDocumento":"848915"}, {"ano":"2013", "mes":"11", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000179", "fornecedor":"Telemar Norte Leste S/A", 
+                            "documento":"S/Nº", "data":"2013-11-11", "detalhamento":"Despesa com conta telefônica do escritório político.", 
+                            "valorReembolsado":"439.18", "codDocumento":"848914"}, {"ano":"2013", "mes":"11", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000179", "fornecedor":"Telemar Norte Leste S/A", 
+                            "documento":"S/Nº", "data":"2013-11-11", "detalhamento":"Despesa com conta telefônica do escritório político.", 
+                            "valorReembolsado":"543.95", "codDocumento":"848913"}, {"ano":"2013", "mes":"11", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"04164616000159", "fornecedor":"TNL PCS S/A - Oi Celular", 
+                            "documento":"483564452", "data":"2013-11-18", "detalhamento":"Despesa com conta telefônica do escritório político.", 
+                            "valorReembolsado":"540.69", "codDocumento":"848917"}, {"ano":"2013", "mes":"11", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"02558157000162", "fornecedor":"Vivo - S/A", 
+                            "documento":"0121077572", "data":"2013-11-10", "detalhamento":"Despesa com conta telefônica do escritório político.", 
+                            "valorReembolsado":"74.29", "codDocumento":"848918"}, {"ano":"2013", "mes":"11", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"08635019000116", "fornecedor":"R&B Ricardo Bruno Agência de Comunicação Ltda", 
+                            "documento":"192", "data":"2013-12-02", "detalhamento":"Despesa com consultoria política para o exercício da atividade política do parlamentar refente ao mês de novembro de 2013.
+", 
+                            "valorReembolsado":"12000.0", "codDocumento":"848920"}, {"ano":"2013", "mes":"11", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol Linhas Aéreas Inteligentes S/A", 
+                            "documento":"9690001647907", "data":"2013-11-01", "detalhamento":"Marivaldo Rodrigues de Almeida, mat. 200764, assessor do Senador Francisco Dornelles;
+Trecho: BSB/GIG/BSB
+Data: - IDA 01/11/2013 - VOLTA: 03/11/2013.
+", 
+                            "valorReembolsado":"1083.64", "codDocumento":"848926"}, {"ano":"2013", "mes":"11", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol Linhas Aéreas Inteligentes S/A", 
+                            "documento":"9690001667773", "data":"2013-11-26", "detalhamento":"José Roberto Afonso, mat. 209573, assessor do Senador Francisco Dornelles;
+Trecho: SDU/BSB;
+Data: 26/11/2013.
+", 
+                            "valorReembolsado":"623.61", "codDocumento":"860277"}, {"ano":"2013", "mes":"11", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol linhas Aéreas Inteligentes S/A", 
+                            "documento":"9690001640768", "data":"2013-11-14", "detalhamento":"Senador Francisco Dornelles;
+Trecho: BSB/CNF;
+Data: 14/11/2013.
+", 
+                            "valorReembolsado":"434.45", "codDocumento":"848925"}, {"ano":"2013", "mes":"11", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol linhas Aéreas Inteligentes S/A", 
+                            "documento":"9690001667768", "data":"2013-11-27", "detalhamento":"José Roberto Afonso, mat. 209573, assessor do Senador Francisco Dornelles;
+Trecho: BSB/SDU;
+Data: 27/11/2013.
+", 
+                            "valorReembolsado":"524.55", "codDocumento":"860276"}, {"ano":"2013", "mes":"11", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas S/A", 
+                            "documento":"9572477595713", "data":"2013-11-04", "detalhamento":"Senador Francisco Dornelles;
+Trecho: SDU/BSB;
+Data: 04/11/2013.
+", 
+                            "valorReembolsado":"549.57", "codDocumento":"848924"}, {"ano":"2013", "mes":"11", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas S/A", 
+                            "documento":"9572479039138", "data":"2013-11-07", "detalhamento":"Senador Francisco Dornelles;
+Trecho: BSB/SDU;
+Data: 07/11/2013.
+", 
+                            "valorReembolsado":"988.35", "codDocumento":"848921"}, {"ano":"2013", "mes":"11", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas S/A", 
+                            "documento":"9572479039139", "data":"2013-11-11", "detalhamento":"Senador Francisco Dornelles;
+Trecho: SDU/BSB;
+Data: 11/11/2013.
+", 
+                            "valorReembolsado":"643.07", "codDocumento":"848922"}, {"ano":"2013", "mes":"11", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas S/A", 
+                            "documento":"9572477595752", "data":"2013-11-18", "detalhamento":"Senador Francisco Dornelles;
+Trecho: SDU/BSB;
+Data: 18/11/2013.
+", 
+                            "valorReembolsado":"731.07", "codDocumento":"848923"}, {"ano":"2013", "mes":"11", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas S/A", 
+                            "documento":"9572479763273", "data":"2013-11-21", "detalhamento":"Senador Francisco Dornelles;
+Trecho: BSB/SDU;
+Data: 21/11/2013.
+", 
+                            "valorReembolsado":"1133.55", "codDocumento":"860273"}, {"ano":"2013", "mes":"11", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas S/A", 
+                            "documento":"9572479763256", "data":"2013-11-25", "detalhamento":"Senador Francisco Dornelles;
+Trecho: SDU/BSB;
+Data: 25/11/2013.
+", 
+                            "valorReembolsado":"1132.57", "codDocumento":"860274"}, {"ano":"2013", "mes":"11", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas S/A", 
+                            "documento":"9572479961603", "data":"2013-11-28", "detalhamento":"Senador Francisco Dornelles;
+Trecho: BSB/SDU;
+Data: 28/11/2013.
+", 
+                            "valorReembolsado":"803.55", "codDocumento":"860275"}, {"ano":"2013", "mes":"12", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33593575000114", "fornecedor":"Aluguel - Mitra Arquiepiscopal do Rio de Janeiro", 
+                            "documento":"09805401", "data":"2013-12-05", "detalhamento":"Aluguel do escritório político, condomínio e energia elétrica.", 
+                            "valorReembolsado":"13198.65", "codDocumento":"860278"}, {"ano":"2013", "mes":"12", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"60444437000146", "fornecedor":"Light Serviços de Eletricidade S/A", 
+                            "documento":"2772540", "data":"2013-12-06", "detalhamento":"Despesa com conta de energia elétrica do escritório político.", 
+                            "valorReembolsado":"314.93", "codDocumento":"860289"}, {"ano":"2013", "mes":"12", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000179", "fornecedor":"Telemar Norte Leste S/A", 
+                            "documento":"S/Nº", "data":"2013-12-11", "detalhamento":"Despesa com conta telefônica do escritório político.", 
+                            "valorReembolsado":"77.46", "codDocumento":"860285"}, {"ano":"2013", "mes":"12", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000179", "fornecedor":"Telemar Norte Leste S/A", 
+                            "documento":"S/Nº", "data":"2013-12-11", "detalhamento":"Despesa com conta telefônica do escritório político.", 
+                            "valorReembolsado":"79.53", "codDocumento":"860286"}, {"ano":"2013", "mes":"3", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"34035303000161", "fornecedor":"Ponei Posto de Gasolina Ltda", 
+                            "documento":"S/Nº", "data":"2013-03-13", "detalhamento":"null", 
+                            "valorReembolsado":"150.02", "codDocumento":"713150"}, {"ano":"2013", "mes":"3", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"34035303000161", "fornecedor":"Ponei Posto de Gasolina Ltda", 
+                            "documento":"S/Nº", "data":"2013-03-15", "detalhamento":"null", 
+                            "valorReembolsado":"150.1", "codDocumento":"713153"}, {"ano":"2013", "mes":"3", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"34035303000161", "fornecedor":"Ponei Posto de Gasolina ltda", 
+                            "documento":"S/Nº", "data":"2013-03-04", "detalhamento":"null", 
+                            "valorReembolsado":"50.0", "codDocumento":"713148"}, {"ano":"2013", "mes":"3", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"34035303000161", "fornecedor":"Ponei Posto e Gasolina Ltda", 
+                            "documento":"S/Nº", "data":"2013-03-07", "detalhamento":"null", 
+                            "valorReembolsado":"150.04", "codDocumento":"713151"}, {"ano":"2013", "mes":"3", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"34035303000161", "fornecedor":"Ponei Posto e Gasolina Ltda", 
+                            "documento":"S/Nº", "data":"2013-03-21", "detalhamento":"null", 
+                            "valorReembolsado":"153.07", "codDocumento":"713152"}, {"ano":"2013", "mes":"3", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"05362319000180", "fornecedor":"Posto de Serviço Brigadeiro Lima e Silva ltda", 
+                            "documento":"S/Nº", "data":"2013-03-13", "detalhamento":"null", 
+                            "valorReembolsado":"50.0", "codDocumento":"713143"}, {"ano":"2013", "mes":"3", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"40288219000152", "fornecedor":"Radio Taxi 2000", 
+                            "documento":"478609", "data":"2013-03-01", "detalhamento":"null", 
+                            "valorReembolsado":"70.0", "codDocumento":"713174"}, {"ano":"2013", "mes":"3", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"40288219000152", "fornecedor":"Radio Taxi 2000", 
+                            "documento":"463548", "data":"2013-03-04", "detalhamento":"null", 
+                            "valorReembolsado":"68.0", "codDocumento":"713173"}, {"ano":"2013", "mes":"3", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"40288219000152", "fornecedor":"Radio Taxi 2000", 
+                            "documento":"432580", "data":"2013-03-18", "detalhamento":"null", 
+                            "valorReembolsado":"12.5", "codDocumento":"713175"}, {"ano":"2013", "mes":"3", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"40288219000152", "fornecedor":"Radio Taxi 2000", 
+                            "documento":"495884", "data":"2013-03-18", "detalhamento":"null", 
+                            "valorReembolsado":"70.0", "codDocumento":"713172"}, {"ano":"2013", "mes":"3", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"33451444000100", "fornecedor":"Renon Auto Posto Ltda", 
+                            "documento":"S/Nº", "data":"2013-03-07", "detalhamento":"null", 
+                            "valorReembolsado":"150.0", "codDocumento":"713141"}, {"ano":"2013", "mes":"3", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"06258132000102", "fornecedor":"Taxi Lage", 
+                            "documento":"S/Nº", "data":"2013-03-08", "detalhamento":"null", 
+                            "valorReembolsado":"16.0", "codDocumento":"713171"}, {"ano":"2013", "mes":"3", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"33712837000112", "fornecedor":"Avianca Aerovias Del Continente Americano", 
+                            "documento":"0230124658409", "data":"2013-03-18", "detalhamento":"Marivaldo Almeida, mat. 200764, assessor do Senador Francisco Dornelles;
+Trecho: SDU/BSB;
+Data: 18/03/2013.", 
+                            "valorReembolsado":"548.47", "codDocumento":"713184"}, {"ano":"2013", "mes":"3", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"33712837000112", "fornecedor":"Avianca Aevias Del Continente Americano", 
+                            "documento":"0230124536145", "data":"2013-03-21", "detalhamento":"Maria Isabel dos Santos Alves, mat. 203182, assessora do Senador Francisco Dornelles;
+Trecho: BSB/SDU;
+Data: 21/03/2013.", 
+                            "valorReembolsado":"396.13", "codDocumento":"713185"}, {"ano":"2013", "mes":"3", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"06164253000187", "fornecedor":"Gol Linhas Aereas Inteligentes S/A", 
+                            "documento":"1270001553789", "data":"2013-03-11", "detalhamento":"Ana Maria Christofidis, mat. 202645, assessora do Senador Francisco Dornelles;
+Trecho: BSB/GIG;
+Data: 11/03/2013.", 
+                            "valorReembolsado":"772.06", "codDocumento":"713181"}, {"ano":"2013", "mes":"3", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"06164253000187", "fornecedor":"Gol Linhas Aereas Inteligentes S/A", 
+                            "documento":"1270001559469", "data":"2013-03-19", "detalhamento":"José Roberto Afonso, mat. 209573, assessor do Senador Francisco Dornelles;
+Trecho: SDU/BSB;
+Data: 19/03/2013.
+", 
+                            "valorReembolsado":"457.47", "codDocumento":"713189"}, {"ano":"2013", "mes":"3", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"06164253000187", "fornecedor":"Gol linhas Aereas Inteligentes S/A", 
+                            "documento":"MDRH9T", "data":"2013-03-11", "detalhamento":"Marilda Miranda, mat. 218574, assessora do Senador Francisco Dornelles;
+Trecho: BSB/SDU;
+Data: 11/03/2013.", 
+                            "valorReembolsado":"386.03", "codDocumento":"713192"}, {"ano":"2013", "mes":"12", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000179", "fornecedor":"Telemar Norte Leste S/A", 
+                            "documento":"S/Nº", "data":"2013-12-11", "detalhamento":"Despesa com conta telefônica do escritório político.", 
+                            "valorReembolsado":"100.0", "codDocumento":"860283"}, {"ano":"2013", "mes":"12", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000179", "fornecedor":"Telemar Norte Leste S/A", 
+                            "documento":"S/Nº", "data":"2013-12-11", "detalhamento":"Despesa com conta telefônica do escritório político.", 
+                            "valorReembolsado":"174.66", "codDocumento":"860284"}, {"ano":"2013", "mes":"12", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000179", "fornecedor":"Telemar Norte Leste S/A", 
+                            "documento":"S/Nº", "data":"2013-12-11", "detalhamento":"Despesa com conta telefônica do escritório político.", 
+                            "valorReembolsado":"239.18", "codDocumento":"860279"}, {"ano":"2013", "mes":"12", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000179", "fornecedor":"Telemar Norte Leste S/A", 
+                            "documento":"32875", "data":"2013-12-11", "detalhamento":"Despesa com conta telefônica do escritório político.", 
+                            "valorReembolsado":"256.54", "codDocumento":"860281"}, {"ano":"2013", "mes":"12", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000179", "fornecedor":"Telemar Norte Leste S/A", 
+                            "documento":"S/Nº", "data":"2013-12-11", "detalhamento":"Despesa com conta telefônica do escritório político.", 
+                            "valorReembolsado":"330.47", "codDocumento":"860280"}, {"ano":"2013", "mes":"12", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000179", "fornecedor":"Telemar Norte Leste S/A", 
+                            "documento":"S/Nº", "data":"2013-12-11", "detalhamento":"Despesa com conta telefônica do escritório político.", 
+                            "valorReembolsado":"453.16", "codDocumento":"860282"}, {"ano":"2013", "mes":"12", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"04164616000159", "fornecedor":"TNL PCS S/A", 
+                            "documento":"489045988", "data":"2013-12-16", "detalhamento":"Despesa com conta telefônica do escritório político.", 
+                            "valorReembolsado":"434.85", "codDocumento":"860287"}, {"ano":"2013", "mes":"12", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"02558157000162", "fornecedor":"Vivo S/A", 
+                            "documento":"0121077572", "data":"2013-12-10", "detalhamento":"Despesa com conta telefônica do escritório político.", 
+                            "valorReembolsado":"58.47", "codDocumento":"860288"}, {"ano":"2013", "mes":"12", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"08635019000116", "fornecedor":"R&B Ricardo Bruno Agência de Comunicação Ltda", 
+                            "documento":"198", "data":"2013-12-10", "detalhamento":"Despesa com consultoria política para o exercício da atividade política do parlamentar refente ao mês de dezembro de 2013. ", 
+                            "valorReembolsado":"7000.0", "codDocumento":"860290"}, {"ano":"2013", "mes":"12", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol Linhas Aéreas Inteligentes S/A", 
+                            "documento":"9690001681149", "data":"2013-12-12", "detalhamento":"Maria Isabel dos Santos Alves, mat. 203182, assessora do Senador Francisco Dornelles;
+Trecho: BSB/GIG;
+Data: 12/12/2013.
+", 
+                            "valorReembolsado":"804.11", "codDocumento":"860296"}, {"ano":"2013", "mes":"12", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas S/A", 
+                            "documento":"9572480369975", "data":"2013-12-02", "detalhamento":"Senador Francisco Dornelles;
+Trecho: SDU/BSB;
+Data: 02/12/2013.
+", 
+                            "valorReembolsado":"2568.07", "codDocumento":"860291"}, {"ano":"2013", "mes":"12", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas S/A", 
+                            "documento":"9572480369989", "data":"2013-12-05", "detalhamento":"Senador Francisco Dornelles;
+Trecho: BSB/SDU;
+Data: 05/12/2013.", 
+                            "valorReembolsado":"803.55", "codDocumento":"860292"}, {"ano":"2013", "mes":"12", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas S/A", 
+                            "documento":"9572480369992", "data":"2013-12-09", "detalhamento":"Senador Francisco Dornelles;
+Trecho: SDU/BSB;
+Data: 09/12/2013.
+", 
+                            "valorReembolsado":"604.57", "codDocumento":"860293"}, {"ano":"2013", "mes":"12", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas S/A", 
+                            "documento":"9572480369990", "data":"2013-12-12", "detalhamento":"Senador Francisco Dornelles;
+Trecho: BSB/SDU;
+Data: 12/12/2013.
+", 
+                            "valorReembolsado":"803.55", "codDocumento":"860294"}, {"ano":"2013", "mes":"3", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas S/A", 
+                            "documento":"9572464115032", "data":"2013-03-04", "detalhamento":"Senador Francisco Dornelles;
+Trecho: SDU/BSB;
+Data: 04/03/2013.
+", 
+                            "valorReembolsado":"815.57", "codDocumento":"713190"}, {"ano":"2013", "mes":"3", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas S/A", 
+                            "documento":"9572464436467", "data":"2013-03-11", "detalhamento":"Senador Francisco Dornelles;
+Trecho: SDU/BSB;
+Data: 11/03/2013.
+", 
+                            "valorReembolsado":"460.57", "codDocumento":"713191"}, {"ano":"2013", "mes":"3", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas S/A", 
+                            "documento":"9572464399696", "data":"2013-03-11", "detalhamento":"José Roberto Afonso, mat. 209573, assessor do Senador Francisco Dornelles;
+Trecho: SDU/BSB;
+Data: 11/03/2013.
+", 
+                            "valorReembolsado":"665.07", "codDocumento":"713188"}, {"ano":"2013", "mes":"3", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas S/A", 
+                            "documento":"9572464738403", "data":"2013-03-12", "detalhamento":"José Roberto Afonso, mat. 209573, assessor do Senador Francisco Dornelles;
+Trecho: BSB/SDU;
+Data: 12/03/2013.
+", 
+                            "valorReembolsado":"499.63", "codDocumento":"713187"}, {"ano":"2013", "mes":"3", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas S/A", 
+                            "documento":"9572464677760", "data":"2013-03-13", "detalhamento":"Ana Maria Christofidis, mat.202645, assessora do Senador Francisco Dornelles;
+Trecho: SDU/BSB;
+Data: 13/03/2013.
+", 
+                            "valorReembolsado":"474.77", "codDocumento":"713182"}, {"ano":"2013", "mes":"3", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas S/A", 
+                            "documento":"9572464677761", "data":"2013-03-13", "detalhamento":"Marilda Miranda, mat. 218574, assessora do Senador Francisco Dornelles;
+Trecho: SDU/BSB;
+Data: 13/03/2013.", 
+                            "valorReembolsado":"474.77", "codDocumento":"713180"}, {"ano":"2013", "mes":"3", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas S/A", 
+                            "documento":"9572464738467", "data":"2013-03-14", "detalhamento":"Marivaldo Almeida, mat. 200764, assessor do Senador Francisco Dornelles;
+Trecho: BSB/SDU;
+Data: 14/03/2013.", 
+                            "valorReembolsado":"499.63", "codDocumento":"713183"}, {"ano":"2013", "mes":"3", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas S/A", 
+                            "documento":"9572464738469", "data":"2013-03-14", "detalhamento":"Senador Francisco Dornelles;
+Trecho: BSB/SDU
+Data: 14/03/2013.", 
+                            "valorReembolsado":"1098.03", "codDocumento":"713177"}, {"ano":"2013", "mes":"3", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas S/A", 
+                            "documento":"9572464738495", "data":"2013-03-18", "detalhamento":"Senador Francisco Dornelles;
+Data: 18/03/2013;
+Trecho: SDU/BSB.
+", 
+                            "valorReembolsado":"742.07", "codDocumento":"713178"}, {"ano":"2013", "mes":"3", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas S/A", 
+                            "documento":"9572464793377", "data":"2013-03-21", "detalhamento":"Senador Francisco Dornelles;
+Trecho: BSB/SDU;
+Data: 21/03/2013.", 
+                            "valorReembolsado":"330.13", "codDocumento":"713179"}, {"ano":"2013", "mes":"3", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas S/A", 
+                            "documento":"9572464348529", "data":"2013-03-25", "detalhamento":"Maria Isabel dos Santos Alves, mat. 203182, assessora do Senador Francisco Dornelles;
+Trecho: SDU/BSB;
+Data: 25/03/2013.
+", 
+                            "valorReembolsado":"393.92", "codDocumento":"713186"}, {"ano":"2013", "mes":"3", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas S/A", 
+                            "documento":"9572464436429", "data":"2013-03-07", "detalhamento":"Senador Francisco Dornelles;
+Trecho: BSB/SDU;
+Data: 07/03/2013.
+", 
+                            "valorReembolsado":"983.63", "codDocumento":"713176"}, {"ano":"2013", "mes":"4", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33593575000114", "fornecedor":"Aluguel - Mitra Arquiepiscopal do Rio de Janeiro", 
+                            "documento":"S/Nº", "data":"2013-04-05", "detalhamento":"Aluguel do escritório politico, condominio e energia eletrica.", 
+                            "valorReembolsado":"12673.57", "codDocumento":"733694"}, {"ano":"2013", "mes":"4", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"60444437000146", "fornecedor":"Light Serviços de Eletricidade S/A", 
+                            "documento":"2867997", "data":"2013-04-04", "detalhamento":"Despesa com energia eletrica do escritorio politico.
+", 
+                            "valorReembolsado":"335.02", "codDocumento":"733705"}, {"ano":"2013", "mes":"12", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas S/A", 
+                            "documento":"9572480369993", "data":"2013-12-16", "detalhamento":"Senador Francisco Dornelles;
+Trecho: SDU/BSB;
+Data: 16/12/2013.
+", 
+                            "valorReembolsado":"643.07", "codDocumento":"860295"}, {"ano":"2013", "mes":"12", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas S/A", 
+                            "documento":"9572481238331", "data":"2013-12-17", "detalhamento":"Maria Isabel dos Santos Alves, mat. 203182, assessora do Senador Francisco Dornelles;
+Trecho: GIG/BSB;
+Data: 17/12/2013.
+", 
+                            "valorReembolsado":"449.57", "codDocumento":"860297"}, {"ano":"2013", "mes":"4", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"04164616000159", "fornecedor":"Oi Celular - TNL PCS S/A", 
+                            "documento":"440991583", "data":"2013-04-16", "detalhamento":"Despesa com conta telefonica do escritorio politico.
+", 
+                            "valorReembolsado":"361.66", "codDocumento":"733704"}, {"ano":"2013", "mes":"4", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000179", "fornecedor":"Telemar Norte Leste S/A", 
+                            "documento":"S/Nº", "data":"2013-04-11", "detalhamento":"Despesa com conta telefonica do escritorio politico.
+", 
+                            "valorReembolsado":"79.78", "codDocumento":"733696"}, {"ano":"2013", "mes":"4", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000179", "fornecedor":"Telemar Norte Leste S/A", 
+                            "documento":"S/Nº", "data":"2013-04-11", "detalhamento":"Despesa com conta telefonica do escritorio politico.
+", 
+                            "valorReembolsado":"173.34", "codDocumento":"733695"}, {"ano":"2013", "mes":"4", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000179", "fornecedor":"Telemar Norte Leste S/A", 
+                            "documento":"37333", "data":"2013-04-11", "detalhamento":"Despesa com conta telefonica do escritorio politico.
+", 
+                            "valorReembolsado":"203.38", "codDocumento":"733702"}, {"ano":"2013", "mes":"4", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000179", "fornecedor":"Telemar Norte Leste S/A", 
+                            "documento":"S/Nº", "data":"2013-04-11", "detalhamento":"Despesa com conta telefonica do escritorio politico.
+", 
+                            "valorReembolsado":"249.85", "codDocumento":"733699"}, {"ano":"2013", "mes":"4", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000179", "fornecedor":"Telemar Norte Leste S/A", 
+                            "documento":"S/Nº", "data":"2013-04-11", "detalhamento":"Despesa com conta telefonica do escritorio politico.
+", 
+                            "valorReembolsado":"586.75", "codDocumento":"733700"}, {"ano":"2013", "mes":"4", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000179", "fornecedor":"Telemar Norte Leste S/A", 
+                            "documento":"S/Nº", "data":"2013-04-11", "detalhamento":"Despesa com conta telefonica do escritorio politico.
+", 
+                            "valorReembolsado":"611.66", "codDocumento":"733701"}, {"ano":"2013", "mes":"4", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000179", "fornecedor":"Telemar Norte Leste S/A", 
+                            "documento":"S/Nº", "data":"2013-04-11", "detalhamento":"Despesa com conta telefonica do escritorio politico.
+", 
+                            "valorReembolsado":"813.88", "codDocumento":"733697"}, {"ano":"2013", "mes":"4", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000179", "fornecedor":"Telemar Norte S/A", 
+                            "documento":"S/Nº", "data":"2013-04-11", "detalhamento":"Despesa com conta telefonica do escritorio politico.
+", 
+                            "valorReembolsado":"94.8", "codDocumento":"733698"}, {"ano":"2013", "mes":"4", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"02449992000164", "fornecedor":"VIVO S/A", 
+                            "documento":"0121077572", "data":"2013-04-10", "detalhamento":"Despesa com conta telefonica do escritorio politico.
+", 
+                            "valorReembolsado":"54.7", "codDocumento":"733703"}, {"ano":"2013", "mes":"4", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"08635019000116", "fornecedor":"R&B Ricardo Bruno Agencia de Comunicação Ltda", 
+                            "documento":"150", "data":"2013-05-02", "detalhamento":"Despesa com consultoria para o exercício da atividade politíca do parlamentar REFERENTE AO MÊS DE ABRIL DE 2013.", 
+                            "valorReembolsado":"12000.0", "codDocumento":"733706"}, {"ano":"2013", "mes":"4", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol Linhas Aéreas Inteligentes S/A", 
+                            "documento":"1270001577673", "data":"2013-04-18", "detalhamento":"Ana Maria Christofidis, mat. 202645, assessora do Senador Francisco Dornelles;
+Trecho: BSB/SDU;
+Data: 18/04/2013.", 
+                            "valorReembolsado":"453.03", "codDocumento":"733711"}, {"ano":"2013", "mes":"4", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas S/A", 
+                            "documento":"9572465140657", "data":"2013-04-01", "detalhamento":"Senador Francisco Dornelles;
+Trecho: SDU/BSB;
+Data: 01/04/2013.", 
+                            "valorReembolsado":"742.07", "codDocumento":"733707"}, {"ano":"2013", "mes":"4", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aereas S/A", 
+                            "documento":"9572465722487", "data":"2013-04-04", "detalhamento":"Senador Francisco Dornelles;
+Trecho: BSB/SDU;
+Data: 04/04/2013.", 
+                            "valorReembolsado":"675.63", "codDocumento":"733708"}, {"ano":"2013", "mes":"4", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas S/A", 
+                            "documento":"9572465722495", "data":"2013-04-08", "detalhamento":"Senador Francisco Dornelles;
+Trecho: SDU/BSB;
+Data: 08/04/2013.", 
+                            "valorReembolsado":"500.07", "codDocumento":"733709"}, {"ano":"2013", "mes":"4", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas S/A", 
+                            "documento":"9572465722496", "data":"2013-04-11", "detalhamento":"Senador Francisco Dornelles;
+Trecho: BSB/SDU;
+Data: 11/04/2013", 
+                            "valorReembolsado":"499.63", "codDocumento":"733710"}, {"ano":"2013", "mes":"4", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas S/A", 
+                            "documento":"9572466534209", "data":"2013-04-15", "detalhamento":"Maria Isabel dos Santos Alves, mat. 203182, assessora do Senador Francisco Dornelles;
+Data: Ida 15/04/2013 - Volta 17/04/2013;
+Trechos:  BSB/SDU/BSB.", 
+                            "valorReembolsado":"999.7", "codDocumento":"733712"}, {"ano":"2013", "mes":"5", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33593575000114", "fornecedor":"Aluguel - Mitra Arquiepiscopal do Rio de Janeiro", 
+                            "documento":"S/Nº", "data":"2013-05-05", "detalhamento":"Aluguel do escritório politico, condomínio e energia elétrica.", 
+                            "valorReembolsado":"12678.57", "codDocumento":"754812"}, {"ano":"2013", "mes":"5", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"60444437000146", "fornecedor":"Light Serviços de eletricidade S/A", 
+                            "documento":"2875198", "data":"2013-05-07", "detalhamento":"Despesa com energia eletrica do escritório politico.", 
+                            "valorReembolsado":"271.61", "codDocumento":"754823"}, {"ano":"2013", "mes":"5", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000179", "fornecedor":"Telemar  Norte Leste S/A", 
+                            "documento":"S/Nº", "data":"2013-05-11", "detalhamento":"null", 
+                            "valorReembolsado":"302.25", "codDocumento":"754819"}, {"ano":"2013", "mes":"5", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000179", "fornecedor":"Telemar Norte Leste S/A", 
+                            "documento":"S/Nº", "data":"2013-05-11", "detalhamento":"Despesa com conta telefonica do escritório político.", 
+                            "valorReembolsado":"77.46", "codDocumento":"754813"}, {"ano":"2013", "mes":"5", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000179", "fornecedor":"Telemar Norte Leste S/A", 
+                            "documento":"S/Nº", "data":"2013-05-11", "detalhamento":"Despesa com conta telefonica do escritório político.", 
+                            "valorReembolsado":"78.42", "codDocumento":"754815"}, {"ano":"2013", "mes":"5", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000179", "fornecedor":"Telemar Norte Leste S/A", 
+                            "documento":"S/Nº", "data":"2013-05-11", "detalhamento":"Despesa com conta telefonica do escritório político.", 
+                            "valorReembolsado":"148.73", "codDocumento":"754817"}, {"ano":"2013", "mes":"5", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000179", "fornecedor":"Telemar Norte Leste S/A", 
+                            "documento":"37286", "data":"2013-05-11", "detalhamento":"Despesa com conta telefonica do escritório político.", 
+                            "valorReembolsado":"154.76", "codDocumento":"754820"}, {"ano":"2013", "mes":"5", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000179", "fornecedor":"Telemar Norte Leste S/A", 
+                            "documento":"S/Nº", "data":"2013-05-11", "detalhamento":"Despesa com conta telefonica do escritório político.", 
+                            "valorReembolsado":"174.66", "codDocumento":"754814"}, {"ano":"2013", "mes":"5", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000179", "fornecedor":"Telemar Norte Leste S/A", 
+                            "documento":"S/Nº", "data":"2013-05-11", "detalhamento":"Despesa com conta telefonica do escritório político.", 
+                            "valorReembolsado":"380.56", "codDocumento":"754818"}, {"ano":"2013", "mes":"5", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000179", "fornecedor":"Telemar Norte Leste S/A", 
+                            "documento":"S/Nº", "data":"2013-05-11", "detalhamento":"Despesa com conta telefonica do escritório político.", 
+                            "valorReembolsado":"545.86", "codDocumento":"754816"}, {"ano":"2013", "mes":"5", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"04164616000159", "fornecedor":"TNL PCS S/A - Oi Celular", 
+                            "documento":"446000823", "data":"2013-05-20", "detalhamento":"Despesa com conta telefonica do escritório político.", 
+                            "valorReembolsado":"305.65", "codDocumento":"754822"}, {"ano":"2013", "mes":"5", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"02449992000164", "fornecedor":"Vivo S/A", 
+                            "documento":"0121077572", "data":"2013-05-10", "detalhamento":"Despesa com conta telefonica do escritório político.", 
+                            "valorReembolsado":"54.7", "codDocumento":"754821"}, {"ano":"2013", "mes":"5", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"08635019000116", "fornecedor":"R&B Agência de Comunicação Ltda", 
+                            "documento":"154", "data":"2013-06-03", "detalhamento":"Despesa com consultoria para o exercício da atividade política do parlamentar, referente ao mês de maio de 2013.", 
+                            "valorReembolsado":"12000.0", "codDocumento":"754824"}, {"ano":"2013", "mes":"5", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"12252711000132", "fornecedor":"Auto Posto Espaço Real Ltda", 
+                            "documento":"S/Nº", "data":"2013-05-05", "detalhamento":"Despesa com combustível para veículos utilizados na atividade parlamentar.", 
+                            "valorReembolsado":"110.02", "codDocumento":"754835"}, {"ano":"2013", "mes":"5", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"29520756000143", "fornecedor":"Auto Posto Monalisa Ltda", 
+                            "documento":"S/Nº", "data":"2013-05-09", "detalhamento":"Despesa com combustível para veículos utilizados na atividade parlamentar.", 
+                            "valorReembolsado":"132.25", "codDocumento":"754834"}, {"ano":"2013", "mes":"5", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"34035303000161", "fornecedor":"Ponei Posto de Gasolina Ltda", 
+                            "documento":"S/Nº", "data":"2013-05-06", "detalhamento":"Despesa com combustível para veículos utilizados na atividade parlamentar.", 
+                            "valorReembolsado":"150.01", "codDocumento":"754833"}, {"ano":"2013", "mes":"5", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"34035303000161", "fornecedor":"Ponei Posto de Gasolina Ltda", 
+                            "documento":"S/Nº", "data":"2013-05-17", "detalhamento":"Despesa com combustível para veículos utilizados na atividade parlamentar.", 
+                            "valorReembolsado":"165.05", "codDocumento":"754832"}, {"ano":"2013", "mes":"5", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol Linhas Aéreas Inteligentes S/A", 
+                            "documento":"1270001593446", "data":"2013-05-07", "detalhamento":"José roberto Afonso, mat. 209573, assessor do Senador Francisco Dornelles;
+Trecho: BSB/SDU;
+Data: 07/05/2013.
+", 
+                            "valorReembolsado":"367.03", "codDocumento":"754831"}, {"ano":"2013", "mes":"5", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas S/A", 
+                            "documento":"9572468352953", "data":"2013-05-09", "detalhamento":"Senador Francisco Dornelles;
+Trecho: BSB/SDU;
+Data: 09/05/2013.
+", 
+                            "valorReembolsado":"484.23", "codDocumento":"754825"}, {"ano":"2013", "mes":"5", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas S/A", 
+                            "documento":"9572468440265", "data":"2013-05-13", "detalhamento":"Senador Francisco Dornelles;
+Trecho: SDU/BSB;
+Data: 13/05/2013.
+", 
+                            "valorReembolsado":"465.69", "codDocumento":"754826"}, {"ano":"2013", "mes":"5", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas S/A", 
+                            "documento":"9572468836838", "data":"2013-05-16", "detalhamento":"Senador Francisco Dornelles;
+Trecho: BSB/SDU;
+Data: 16/05/2013.
+", 
+                            "valorReembolsado":"543.63", "codDocumento":"754828"}, {"ano":"2013", "mes":"5", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas S/A", 
+                            "documento":"9572468836841", "data":"2013-05-20", "detalhamento":"Senador Francisco Dornelles;
+Trecho: SDU/BSB;
+Data: 20/05/2013.
+", 
+                            "valorReembolsado":"480.27", "codDocumento":"754829"}, {"ano":"2013", "mes":"5", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas S/A", 
+                            "documento":"9572468836845", "data":"2013-05-23", "detalhamento":"Senador Francisco Dornelles;
+Trecho: BSB/SDU;
+Data: 23/05/2013.
+", 
+                            "valorReembolsado":"479.83", "codDocumento":"754830"}, {"ano":"2013", "mes":"5", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas S/A", 
+                            "documento":"9572468836842", "data":"2013-05-27", "detalhamento":"Senador Francisco Dornelles;
+Trecho: SDU/BSB;
+Data: 27/05/2013.
+", 
+                            "valorReembolsado":"480.27", "codDocumento":"754827"}, {"ano":"2013", "mes":"6", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33593575000114", "fornecedor":"Aluguel - Mitra Arquiepiscopal do Rio de Janeiro", 
+                            "documento":"S/Nº", "data":"2013-06-05", "detalhamento":"Aluguel do escritório político, condomínio e energia elétrica.", 
+                            "valorReembolsado":"12857.58", "codDocumento":"771806"}, {"ano":"2013", "mes":"6", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"60444437000146", "fornecedor":"Light Serviços de Eletricidade S/A", 
+                            "documento":"2871819", "data":"2013-06-05", "detalhamento":"Despesa com energia elétrica do escritório político.", 
+                            "valorReembolsado":"255.43", "codDocumento":"771816"}, {"ano":"2013", "mes":"6", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000179", "fornecedor":"Telemar Norte Leste S/A", 
+                            "documento":"S/Nº", "data":"2013-06-11", "detalhamento":"Despesa com conta telefônica do escritório político.", 
+                            "valorReembolsado":"77.46", "codDocumento":"771814"}, {"ano":"2013", "mes":"6", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000179", "fornecedor":"Telemar Norte Leste S/A", 
+                            "documento":"S/Nº", "data":"2013-06-11", "detalhamento":"Despesa com conta telefônica do escritório político.", 
+                            "valorReembolsado":"110.63", "codDocumento":"771813"}, {"ano":"2013", "mes":"6", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000179", "fornecedor":"Telemar Norte Leste S/A", 
+                            "documento":"S/Nº", "data":"2013-06-11", "detalhamento":"Despesa com conta telefônica do escritório político.", 
+                            "valorReembolsado":"113.82", "codDocumento":"771812"}, {"ano":"2013", "mes":"6", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000179", "fornecedor":"Telemar Norte Leste S/A", 
+                            "documento":"S/Nº", "data":"2013-06-11", "detalhamento":"Despesa com conta telefônica do escritório político.", 
+                            "valorReembolsado":"174.66", "codDocumento":"771811"}, {"ano":"2013", "mes":"6", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000179", "fornecedor":"Telemar Norte Leste S/A", 
+                            "documento":"37175", "data":"2013-06-11", "detalhamento":"Despesa com conta telefônica do escritório político.", 
+                            "valorReembolsado":"240.71", "codDocumento":"771810"}, {"ano":"2013", "mes":"6", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000179", "fornecedor":"Telemar Norte Leste S/A", 
+                            "documento":"S/Nº", "data":"2013-06-11", "detalhamento":"Despesa com conta telefônica do escritório político.", 
+                            "valorReembolsado":"380.2", "codDocumento":"771809"}, {"ano":"2013", "mes":"6", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000179", "fornecedor":"Telemar Norte Leste S/A", 
+                            "documento":"S/Nº", "data":"2013-06-11", "detalhamento":"Despesa com conta telefônica do escritório político.", 
+                            "valorReembolsado":"389.85", "codDocumento":"771808"}, {"ano":"2013", "mes":"6", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000179", "fornecedor":"Telemar Norte Leste S/A", 
+                            "documento":"S/Nº", "data":"2013-06-11", "detalhamento":"Despesa com conta telefônica do escritório político.", 
+                            "valorReembolsado":"409.7", "codDocumento":"771807"}, {"ano":"2013", "mes":"6", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"04164616000159", "fornecedor":"TNL PCS S/A", 
+                            "documento":"450839283", "data":"2013-06-18", "detalhamento":"Despesa com conta telefônica do escritório político.", 
+                            "valorReembolsado":"493.05", "codDocumento":"771815"}, {"ano":"2013", "mes":"6", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"08635019000116", "fornecedor":"R&B - Ricardo Bruno agencia de Comunicação Ltda", 
+                            "documento":"161", "data":"2013-07-01", "detalhamento":"Despesa com consultoria para o exercício da atividade política do parlamentar REFENTE AO MÊS DE junho DE 2013.", 
+                            "valorReembolsado":"12000.0", "codDocumento":"771817"}, {"ano":"2013", "mes":"6", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol Linhas Aéreas Inteligentes S/A", 
+                            "documento":"1270001608263", "data":"2013-06-01", "detalhamento":"Marivaldo Rodrigues de Almeida, mat. 200764, assessor do Senador Francisco Dornelles;
+Trecho: BSB/GIG;
+Data: 01/06/2013", 
+                            "valorReembolsado":"424.03", "codDocumento":"771818"}, {"ano":"2013", "mes":"6", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol Linhas Aéreas Inteligentes S/A", 
+                            "documento":"1270001608269", "data":"2013-06-04", "detalhamento":"Marivaldo Rodrigues de Almeida, mat. 200764, assessor do Senador Francisco Dornelles;
+Trecho: SDU/BSB;
+Data: 04/06/2013.", 
+                            "valorReembolsado":"480.16", "codDocumento":"771819"}, {"ano":"2013", "mes":"6", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"Gol Linhas Aéreas Inteligentes S/A", 
+                            "documento":"1270001614208", "data":"2013-06-10", "detalhamento":"Marilda Gomes de Miranda, mat. 218574, assessora do Senador Francisco Dornelles;
+Trecho: SDU/BSB;
+Data: 10/06/2013.
+", 
+                            "valorReembolsado":"527.46", "codDocumento":"771824"}, {"ano":"2013", "mes":"6", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas S/A", 
+                            "documento":"9572469730904", "data":"2013-06-04", "detalhamento":"Senador Francisco Dornelles;
+Trecho: SDU/BSB;
+Data: 04/06/2013.", 
+                            "valorReembolsado":"610.07", "codDocumento":"771820"}, {"ano":"2013", "mes":"6", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas S/A", 
+                            "documento":"9572470110762", "data":"2013-06-06", "detalhamento":"Senador Francisco Dornelles;
+Trecho: BSB/SDU;
+Data: 06/06/2013.", 
+                            "valorReembolsado":"609.63", "codDocumento":"771821"}, {"ano":"2013", "mes":"6", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas S/A", 
+                            "documento":"9572470193869", "data":"2013-06-10", "detalhamento":"Marilda Gomes de Miranda, mat. 218574, assessora do Senador Francisco Dornelles;
+Trecho: BSB/SDU;
+Data: 10/06/2013.
+", 
+                            "valorReembolsado":"479.83", "codDocumento":"771823"}, {"ano":"2013", "mes":"6", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas S/A", 
+                            "documento":"9572470193870", "data":"2013-06-10", "detalhamento":"Senador Francisco Dornelles;
+Trecho: SDU/BSB;
+Data: 10/06/2013.
+", 
+                            "valorReembolsado":"764.07", "codDocumento":"771822"}, {"ano":"2013", "mes":"6", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas S/A", 
+                            "documento":"9572470493917", "data":"2013-06-12", "detalhamento":"Maria Isabel dos Santos Alves, matr.  203182 assessora do Senador Francisco Dornelles;
+Trecho: SDU/BSB;
+Data: 15/06/2013.
+", 
+                            "valorReembolsado":"1032.7", "codDocumento":"771826"}, {"ano":"2013", "mes":"6", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas S/A", 
+                            "documento":"9572470493920", "data":"2013-06-12", "detalhamento":"Senador Francisco Dornelles;
+Trecho: BSB/SDU;
+Data: 12/06/2013.
+", 
+                            "valorReembolsado":"549.13", "codDocumento":"771825"}, {"ano":"2013", "mes":"6", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas S/A", 
+                            "documento":"9572470592431", "data":"2013-06-17", "detalhamento":"Senador Francisco Dornelles;
+Trecho: SDU/BSB;
+Data: 17/06/2013.
+", 
+                            "valorReembolsado":"509.97", "codDocumento":"771827"}, {"ano":"2013", "mes":"6", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas S/A", 
+                            "documento":"9572470897167", "data":"2013-06-21", "detalhamento":"Senador Francisco Dornelles;
+Trecho: BSB/SDU;
+Data: 21/06/2013.
+", 
+                            "valorReembolsado":"664.63", "codDocumento":"771828"}, {"ano":"2013", "mes":"6", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas S/A", 
+                            "documento":"9572470897195", "data":"2013-06-24", "detalhamento":"Senador Francisco Dornelles;
+Trecho: SDU/BSB;
+Data: 24/06/2013.
+", 
+                            "valorReembolsado":"608.97", "codDocumento":"771829"}, {"ano":"2013", "mes":"6", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas S/A", 
+                            "documento":"9572471177192", "data":"2013-06-26", "detalhamento":"Senador Francisco Dornelles;
+Trecho: BSB/SDU;
+Data: 26/06/2013.
+", 
+                            "valorReembolsado":"1007.83", "codDocumento":"771830"}, {"ano":"2013", "mes":"7", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33593575000114", "fornecedor":"Aluguel - Mitra Arquiepiscopal do Rio de Janeiro", 
+                            "documento":"S/Nº", "data":"2013-07-05", "detalhamento":"Aluguel do escritório político, condomínio e energia elétrica.", 
+                            "valorReembolsado":"12650.57", "codDocumento":"785540"}, {"ano":"2013", "mes":"7", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"60444437000146", "fornecedor":"Light Serviços de Eletricidade S/A", 
+                            "documento":"2869229", "data":"2013-07-04", "detalhamento":"Despesa com energia elétrica do escritório político.", 
+                            "valorReembolsado":"213.3", "codDocumento":"785550"}, {"ano":"2013", "mes":"7", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000179", "fornecedor":"Telemar Norte Leste S/A", 
+                            "documento":"S/Nº", "data":"2013-07-11", "detalhamento":"Despesa com conta telefônica do escritório político.", 
+                            "valorReembolsado":"77.46", "codDocumento":"785548"}, {"ano":"2013", "mes":"7", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000179", "fornecedor":"Telemar Norte Leste S/A", 
+                            "documento":"S/Nº", "data":"2013-07-11", "detalhamento":"Despesa com conta telefônica do escritório político.", 
+                            "valorReembolsado":"83.13", "codDocumento":"785547"}, {"ano":"2013", "mes":"7", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000179", "fornecedor":"Telemar Norte Leste S/A", 
+                            "documento":"S/Nº", "data":"2013-07-11", "detalhamento":"Despesa com conta telefônica do escritório político.", 
+                            "valorReembolsado":"119.73", "codDocumento":"785546"}, {"ano":"2013", "mes":"7", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000179", "fornecedor":"Telemar Norte Leste S/A", 
+                            "documento":"S/Nº", "data":"2013-07-11", "detalhamento":"Despesa com conta telefônica do escritório político.", 
+                            "valorReembolsado":"174.66", "codDocumento":"785545"}, {"ano":"2013", "mes":"7", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000179", "fornecedor":"Telemar Norte Leste S/A", 
+                            "documento":"36418", "data":"2013-07-11", "detalhamento":"Despesa com conta telefônica do escritório político.", 
+                            "valorReembolsado":"192.74", "codDocumento":"785544"}, {"ano":"2013", "mes":"7", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000179", "fornecedor":"Telemar Norte Leste S/A", 
+                            "documento":"S/Nº", "data":"2013-07-11", "detalhamento":"Despesa com conta telefônica do escritório político.", 
+                            "valorReembolsado":"422.67", "codDocumento":"785543"}, {"ano":"2013", "mes":"7", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000179", "fornecedor":"Telemar Norte Leste S/A", 
+                            "documento":"S/Nº", "data":"2013-07-11", "detalhamento":"Despesa com conta telefônica do escritório político.", 
+                            "valorReembolsado":"441.09", "codDocumento":"785542"}, {"ano":"2013", "mes":"7", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000179", "fornecedor":"Telemar Norte Leste S/A", 
+                            "documento":"S/Nº", "data":"2013-07-11", "detalhamento":"Despesa com conta telefônica do escritório político.", 
+                            "valorReembolsado":"450.97", "codDocumento":"785541"}, {"ano":"2013", "mes":"7", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"04164616000159", "fornecedor":"TNL PCS S/A - Oi Celular", 
+                            "documento":"456630955", "data":"2013-07-17", "detalhamento":"Despesa com conta telefônica do escritório político.", 
+                            "valorReembolsado":"363.35", "codDocumento":"785549"}, {"ano":"2013", "mes":"7", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"08635019000116", "fornecedor":"R&B - Agência de Comunicação Ltda", 
+                            "documento":"166", "data":"2013-08-01", "detalhamento":"Despesa com consultoria para o exercício da atividade política do parlamentar REFENTE AO MÊS DE JULHO DE 2013.", 
+                            "valorReembolsado":"12000.0", "codDocumento":"785551"}, {"ano":"2013", "mes":"7", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"29520756000143", "fornecedor":"Auto Posto Monalisa Ltda", 
+                            "documento":"S/Nº", "data":"2013-07-16", "detalhamento":"Despesa com combustível para veículos utilizados na atividade parlamentar.", 
+                            "valorReembolsado":"84.42", "codDocumento":"785568"}, {"ano":"2013", "mes":"7", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"29520756000143", "fornecedor":"Auto Posto Monalisa Ltda", 
+                            "documento":"S/Nº", "data":"2013-07-23", "detalhamento":"Despesa com combustível para veículos utilizados na atividade parlamentar.", 
+                            "valorReembolsado":"122.01", "codDocumento":"785567"}, {"ano":"2013", "mes":"7", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"29520756000143", "fornecedor":"Auto Posto Monalisa Ltda", 
+                            "documento":"S/Nº", "data":"2013-07-30", "detalhamento":"Despesa com combustível para veículos utilizados na atividade parlamentar.", 
+                            "valorReembolsado":"62.06", "codDocumento":"785569"}, {"ano":"2013", "mes":"7", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"04971802000108", "fornecedor":"Mattar e Mattar Auto Posto Ltda", 
+                            "documento":"S/Nº", "data":"2013-07-23", "detalhamento":"Despesa com combustível para veículos utilizados na atividade parlamentar.", 
+                            "valorReembolsado":"136.7", "codDocumento":"785564"}, {"ano":"2013", "mes":"7", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"04971802000108", "fornecedor":"Mattar e Mattar Auto Posto Ltda", 
+                            "documento":"S/Nº", "data":"2013-07-24", "detalhamento":"Despesa com combustível para veículos utilizados na atividade parlamentar.", 
+                            "valorReembolsado":"100.0", "codDocumento":"785565"}, {"ano":"2013", "mes":"7", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"34035303000161", "fornecedor":"Ponei Posto de Gasolina Ltda", 
+                            "documento":"S/Nº", "data":"2013-07-01", "detalhamento":"Despesa com combustível para veículos utilizados na atividade parlamentar.", 
+                            "valorReembolsado":"98.02", "codDocumento":"785562"}, {"ano":"2013", "mes":"7", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"34035303000161", "fornecedor":"Ponei Posto de Gasolina Ltda", 
+                            "documento":"S/Nº", "data":"2013-07-02", "detalhamento":"Despesa com combustível para veículos utilizados na atividade parlamentar.", 
+                            "valorReembolsado":"150.04", "codDocumento":"785558"}, {"ano":"2013", "mes":"7", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"34035303000161", "fornecedor":"Ponei Posto de Gasolina Ltda", 
+                            "documento":"S/Nº", "data":"2013-07-04", "detalhamento":"Despesa com combustível para veículos utilizados na atividade parlamentar.", 
+                            "valorReembolsado":"157.05", "codDocumento":"785557"}, {"ano":"2013", "mes":"7", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"34035303000161", "fornecedor":"Ponei Posto de Gasolina Ltda", 
+                            "documento":"S/Nº", "data":"2013-07-11", "detalhamento":"Despesa com combustível para veículos utilizados na atividade parlamentar.", 
+                            "valorReembolsado":"152.05", "codDocumento":"785561"}, {"ano":"2013", "mes":"7", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"34035303000161", "fornecedor":"Ponei Posto de Gasolina Ltda", 
+                            "documento":"S/Nº", "data":"2013-07-12", "detalhamento":"Despesa com combustível para veículos utilizados na atividade parlamentar.", 
+                            "valorReembolsado":"150.15", "codDocumento":"785559"}, {"ano":"2013", "mes":"7", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"34035303000161", "fornecedor":"Ponei Posto de Gasolina Ltda", 
+                            "documento":"S/Nº", "data":"2013-07-13", "detalhamento":"Despesa com combustível para veículos utilizados na atividade parlamentar.", 
+                            "valorReembolsado":"152.0", "codDocumento":"785556"}, {"ano":"2013", "mes":"7", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"34035303000161", "fornecedor":"Ponei Posto de Gasolina Ltda", 
+                            "documento":"S/Nº", "data":"2013-07-15", "detalhamento":"Despesa com combustível para veículos utilizados na atividade parlamentar.", 
+                            "valorReembolsado":"50.06", "codDocumento":"785563"}, {"ano":"2013", "mes":"7", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"34035303000161", "fornecedor":"Ponei Posto de Gasolina S/A", 
+                            "documento":"S/Nº", "data":"2013-07-19", "detalhamento":"Despesa com combustível para veículos utilizados na atividade parlamentar.", 
+                            "valorReembolsado":"150.01", "codDocumento":"785560"}, {"ano":"2013", "mes":"7", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"00699424000196", "fornecedor":"Posto de Gasolina Barramar Ltda", 
+                            "documento":"S/Nº", "data":"2013-07-08", "detalhamento":"Despesa com combustível para veículos utilizados na atividade parlamentar.", 
+                            "valorReembolsado":"122.9", "codDocumento":"785566"}, {"ano":"2013", "mes":"7", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas S/A", 
+                            "documento":"9572471624474", "data":"2013-07-04", "detalhamento":"Senador Francisco Dornelles;
+Trecho: BSB/SDU;
+Data: 04/07/2013.
+", 
+                            "valorReembolsado":"1054.63", "codDocumento":"785552"}, {"ano":"2013", "mes":"7", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas S/A", 
+                            "documento":"9572471747728", "data":"2013-07-08", "detalhamento":"Senador Francisco Dornelles;
+Trecho: SDU/BSB;
+Data: 08/07/2013.", 
+                            "valorReembolsado":"608.97", "codDocumento":"785553"}, {"ano":"2013", "mes":"7", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas S/A", 
+                            "documento":"9572472082752", "data":"2013-07-11", "detalhamento":"Senador Francisco Dornelles;
+Trecho: BSB/SDU;
+Data: 11/07/2013.
+", 
+                            "valorReembolsado":"504.0", "codDocumento":"785555"}, {"ano":"2013", "mes":"7", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"Tam Linhas Aéreas S/A", 
+                            "documento":"9572472082717", "data":"2013-07-15", "detalhamento":"Senador Francisco Dornelles;
+Trecho: SDU/BSB;
+Data: 15/07/2013.
+", 
+                            "valorReembolsado":"691.47", "codDocumento":"785554"}, {"ano":"2013", "mes":"8", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"60444437000146", "fornecedor":"Light Serviços de Eletricidade S/A", 
+                            "documento":"2825034", "data":"2013-08-06", "detalhamento":"Despesa com conta de energia eletrica do escritório político.", 
+                            "valorReembolsado":"224.45", "codDocumento":"805342"}, {"ano":"2013", "mes":"8", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33593575000114", "fornecedor":"Mitra Arquiepiscopal do Rio de Janeiro", 
+                            "documento":"S/Nº", "data":"2013-08-05", "detalhamento":"Aluguel do escritório político, condomínio e energia elétrica.", 
+                            "valorReembolsado":"12815.7", "codDocumento":"805332"}, {"ano":"2013", "mes":"8", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"04164616000159", "fornecedor":"Oi Celular - TNL PCS S/A", 
+                            "documento":"85915", "data":"2013-08-19", "detalhamento":"Despesa com conta telefônica do escritório político.", 
+                            "valorReembolsado":"443.02", "codDocumento":"805340"}, {"ano":"2013", "mes":"8", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000179", "fornecedor":"Telemar Norte Leste S/A", 
+                            "documento":"S/Nº", "data":"2013-08-11", "detalhamento":"Despesa com conta telefônica do escritório político.", 
+                            "valorReembolsado":"79.77", "codDocumento":"805362"}, {"ano":"2013", "mes":"8", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000179", "fornecedor":"Telemar Norte Leste S/A", 
+                            "documento":"S/Nº", "data":"2013-08-11", "detalhamento":"Despesa com conta telefônica do escritório político.", 
+                            "valorReembolsado":"83.43", "codDocumento":"805339"}, {"ano":"2013", "mes":"8", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000179", "fornecedor":"Telemar Norte Leste S/A", 
+                            "documento":"S/Nº", "data":"2013-08-11", "detalhamento":"Despesa com conta telefônica do escritório político.", 
+                            "valorReembolsado":"88.81", "codDocumento":"805338"}, {"ano":"2013", "mes":"8", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000179", "fornecedor":"Telemar Norte Leste S/A", 
+                            "documento":"S/Nº", "data":"2013-08-11", "detalhamento":"Despesa com conta telefônica do escritório político.", 
+                            "valorReembolsado":"179.89", "codDocumento":"805337"}, {"ano":"2013", "mes":"8", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000179", "fornecedor":"Telemar Norte Leste S/A", 
+                            "documento":"S/Nº", "data":"2013-08-11", "detalhamento":"Despesa com conta telefônica do escritório político.", 
+                            "valorReembolsado":"251.77", "codDocumento":"805336"}, {"ano":"2013", "mes":"8", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000179", "fornecedor":"Telemar Norte Leste S/A", 
+                            "documento":"S/Nº", "data":"2013-08-11", "detalhamento":"Despesa com conta telefônica do escritório político.", 
+                            "valorReembolsado":"266.75", "codDocumento":"805335"}, {"ano":"2013", "mes":"8", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000179", "fornecedor":"Telemar Norte Leste S/A", 
+                            "documento":"S/Nº", "data":"2013-08-11", "detalhamento":"Despesa com conta telefônica do escritório político.", 
+                            "valorReembolsado":"315.56", "codDocumento":"805334"}, {"ano":"2013", "mes":"8", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000179", "fornecedor":"Telemar Norte Leste S/A", 
+                            "documento":"36156", "data":"2013-08-11", "detalhamento":"Despesa com conta telefônica do escritório político.", 
+                            "valorReembolsado":"315.76", "codDocumento":"805333"}, {"ano":"2013", "mes":"8", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"02558157000162", "fornecedor":"Vivo S/A", 
+                            "documento":"0121077572", "data":"2013-08-10", "detalhamento":"Despesa com conta telefônica do escritório político.", 
+                            "valorReembolsado":"58.49", "codDocumento":"805341"}, {"ano":"2013", "mes":"8", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"08635019000116", "fornecedor":"R&B Ricardo Bruno Agência de Comunicação Ltda", 
+                            "documento":"171", "data":"2013-09-02", "detalhamento":"Despesa com consultoria para o exercício da atividade política do parlamentar REFERENTE AO MÊS DE AGOSTO DE 2013.", 
+                            "valorReembolsado":"12000.0", "codDocumento":"805361"}, {"ano":"2013", "mes":"8", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"29520756000143", "fornecedor":"Auto Posto Monalisa Ltda", 
+                            "documento":"S/Nº", "data":"2013-08-06", "detalhamento":"Despesa com combustível para veículos utilizados na atividade parlamentar.", 
+                            "valorReembolsado":"120.15", "codDocumento":"805344"}, {"ano":"2013", "mes":"8", "senador":"FRANCISCO DORNELLES", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"04971802000108", "fornecedor":"Mattar e Mattar Auto Posto Ltda", 
+                            "documento":"S/Nº", "data":"2013-08-05", "detalhamento":"Despesa com combustível para veículos utilizados na atividade parlamentar.", 
+                            "valorReembolsado":"100.0", "codDocumento":"805348"}]}

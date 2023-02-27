@@ -1,0 +1,1051 @@
+{"gastosSenador": [{"ano":"2013", "mes":"1", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"06845747000127", "fornecedor":"AGESPISA - ÁGUAS E ESGOTOS DO PIAUÍ S/A", 
+                            "documento":"S/N", "data":"2013-01-26", "detalhamento":"null", 
+                            "valorReembolsado":"29.98", "codDocumento":"696782"}, {"ano":"2013", "mes":"1", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"06840748000189", "fornecedor":"ELETROBRAS DISTRIBUIÇÃO PIAUÍ", 
+                            "documento":"949288", "data":"2013-01-15", "detalhamento":"null", 
+                            "valorReembolsado":"1359.01", "codDocumento":"696765"}, {"ano":"2013", "mes":"1", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"06840748000189", "fornecedor":"ELETROBRAS DISTRIBUIÇÃO PIAUÍ", 
+                            "documento":"1023144", "data":"2013-01-31", "detalhamento":"null", 
+                            "valorReembolsado":"1159.2", "codDocumento":"696781"}, {"ano":"2013", "mes":"1", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"15827885000174", "fornecedor":"JRG SERVIÇOS DE IMUNIZAÇÃO LTDA.", 
+                            "documento":"00000010", "data":"2013-01-07", "detalhamento":"null", 
+                            "valorReembolsado":"2950.0", "codDocumento":"696764"}, {"ano":"2013", "mes":"1", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33530486005945", "fornecedor":"NET", 
+                            "documento":"1212967746031", "data":"2013-01-10", "detalhamento":"null", 
+                            "valorReembolsado":"227.08", "codDocumento":"696767"}, {"ano":"2013", "mes":"1", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118000179", "fornecedor":"TELEMAR NORTE LESTE S.A.", 
+                            "documento":"0800018390855", "data":"2013-01-11", "detalhamento":"null", 
+                            "valorReembolsado":"77.77", "codDocumento":"696768"}, {"ano":"2013", "mes":"1", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"04206050008084", "fornecedor":"TIM CELULAR S.A.", 
+                            "documento":"000065224-AA", "data":"2013-01-10", "detalhamento":"null", 
+                            "valorReembolsado":"30.9", "codDocumento":"696766"}, {"ano":"2013", "mes":"1", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"04206050008084", "fornecedor":"TIM CELULAR S.A.", 
+                            "documento":"000.001.443-AA", "data":"2013-01-15", "detalhamento":"null", 
+                            "valorReembolsado":"61.0", "codDocumento":"696772"}, {"ano":"2013", "mes":"1", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"10553172000146", "fornecedor":"A G SA FERREIRA INFORMATICA", 
+                            "documento":"00000379", "data":"2013-01-14", "detalhamento":"null", 
+                            "valorReembolsado":"5500.0", "codDocumento":"696770"}, {"ano":"2013", "mes":"1", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"17379460000175", "fornecedor":"Bruna Arcoverde Pereira ", 
+                            "documento":"0000001", "data":"2013-02-18", "detalhamento":"null", 
+                            "valorReembolsado":"3500.0", "codDocumento":"696783"}, {"ano":"2013", "mes":"1", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"02583994000141", "fornecedor":"ICONE COMUNICAÇÃO LTDA.", 
+                            "documento":"00001826", "data":"2013-01-14", "detalhamento":"null", 
+                            "valorReembolsado":"3200.0", "codDocumento":"696771"}, {"ano":"2013", "mes":"1", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"05859092000183", "fornecedor":"JLJ AUDITORIA, CONSULTORIA E PROJETOS S/C LTDA.", 
+                            "documento":"00001152", "data":"2013-01-14", "detalhamento":"null", 
+                            "valorReembolsado":"6500.0", "codDocumento":"696769"}, {"ano":"2013", "mes":"1", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02575829000148", "fornecedor":"AVIANCA", 
+                            "documento":"122-683409", "data":"2013-01-16", "detalhamento":"PASSAGEM AÉREA DA ASSESSORA CECY MARIA ROCHA DA CUNHA, MATRÍCULA 203224, NO TRECHO SALVADOR/BRASÍLIA, DIA 16.01.2013.", 
+                            "valorReembolsado":"300.57", "codDocumento":"696776"}, {"ano":"2013", "mes":"1", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"04020028001628", "fornecedor":"GOL", 
+                            "documento":"AB4GWM", "data":"2013-01-06", "detalhamento":"PASSAGEM AÉREA DO SENADOR JOÃO VICENTE CLAUDINO, TRECHO SÃO PAULO-TERESINA, NO DIA 06.01.2013.", 
+                            "valorReembolsado":"2031.82", "codDocumento":"696763"}, {"ano":"2013", "mes":"1", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"04020028001628", "fornecedor":"GOL Linhas Aéreas", 
+                            "documento":"127 00201858275", "data":"2013-01-30", "detalhamento":"Passagem para o assessor do Sen. João Vicente Claudino, o Sr. Manoel Portela de Carvalho Filho- matricula Nº 203108 no trecho THE/BSB/THE, nos dias 28/01/2013 e 30/01/2013.", 
+                            "valorReembolsado":"3602.0", "codDocumento":"706640"}, {"ano":"2013", "mes":"1", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862001050", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2461312723", "data":"2013-01-16", "detalhamento":"PASSAGEM AÉREA DO SENADOR JOÃO VICENTE CLAUDINO, NO TRECHO SÃO PAULO/BRASÍLIA, NO DIA 16.01.2013.", 
+                            "valorReembolsado":"589.17", "codDocumento":"696774"}, {"ano":"2013", "mes":"1", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862001050", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2461312722", "data":"2013-01-17", "detalhamento":"PASSAGEM AÉREA DO SENADOR JOÃO VICENTE CLAUDINO, NO TRECHO BRASÍLIA/RIO DE JANEIRO, NO DIA 17.01.2013.", 
+                            "valorReembolsado":"895.63", "codDocumento":"696775"}, {"ano":"2013", "mes":"1", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862001050", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2461312724", "data":"2013-01-19", "detalhamento":"PASSAGEM AÉREA DO SENADOR JOÃO VICENTE CLAUDINO, NO TRECHO RIO DE JANEIRO/SÃO PAULO, DIA 19.01.2013, PELA COMPANHIA TAM.", 
+                            "valorReembolsado":"287.57", "codDocumento":"696777"}, {"ano":"2013", "mes":"1", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862001050", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2462253044", "data":"2013-01-20", "detalhamento":"PASSAGEM AÉREA DO SENADOR JOÃO VICENTE CLAUDINO, NO TRECHO SÃO PAULO/TERESINA, DIA 20.01.2013.", 
+                            "valorReembolsado":"1796.53", "codDocumento":"696778"}, {"ano":"2013", "mes":"1", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862001050", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2461312769", "data":"2013-01-22", "detalhamento":"PASSAGEM AÉREA DO SENADOR JOÃO VICENTE CLAUDINO, NO TRECHO TERESINA/BSB/SÃO PAULO, DIA 22.01.2013.", 
+                            "valorReembolsado":"1932.7", "codDocumento":"696779"}, {"ano":"2013", "mes":"1", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862001050", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957 2461312790", "data":"2013-01-30", "detalhamento":"PASSAGEM AÉREA DO SENADOR JOÃO VICENTE CLAUDINO, NO TRECHO TERESINA/BRASÍLIA, DIA 30.01.2013.", 
+                            "valorReembolsado":"788.7", "codDocumento":"696780"}, {"ano":"2013", "mes":"1", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862001050", "fornecedor":"TAM LINHAS AÉREAS ", 
+                            "documento":"957 2460180261", "data":"2012-01-12", "detalhamento":"PASSAGEM AÉREA DO SENADOR JOÃO VICENTE CLAUDINO, TRECHOS TERESINA/FORTALEZA E FORTALEZA/SÃO PAULO, NO DIA 12.01.2013.", 
+                            "valorReembolsado":"1618.55", "codDocumento":"696773"}, {"ano":"2013", "mes":"2", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"06845747000127", "fornecedor":"AGESPISA", 
+                            "documento":"00000", "data":"2013-02-25", "detalhamento":"null", 
+                            "valorReembolsado":"41.17", "codDocumento":"700194"}, {"ano":"2013", "mes":"2", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"06840748000189", "fornecedor":"Eletrobras Distribuição Piauí", 
+                            "documento":"954421", "data":"2013-02-25", "detalhamento":"null", 
+                            "valorReembolsado":"920.72", "codDocumento":"700200"}, {"ano":"2013", "mes":"2", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"00108786018617", "fornecedor":"NET", 
+                            "documento":"0006821", "data":"2013-02-10", "detalhamento":"null", 
+                            "valorReembolsado":"210.45", "codDocumento":"700193"}, {"ano":"2013", "mes":"2", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118001060", "fornecedor":"Telemar Norte  Leste S/A", 
+                            "documento":"28697", "data":"2013-02-11", "detalhamento":"null", 
+                            "valorReembolsado":"77.77", "codDocumento":"700191"}, {"ano":"2013", "mes":"2", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"04206050008084", "fornecedor":"Tim Celular", 
+                            "documento":"0000692-AA", "data":"2013-02-10", "detalhamento":"null", 
+                            "valorReembolsado":"30.9", "codDocumento":"700192"}, {"ano":"2013", "mes":"2", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"04206050008084", "fornecedor":"TIM Celular S.A.", 
+                            "documento":"006570", "data":"2013-02-15", "detalhamento":"null", 
+                            "valorReembolsado":"61.0", "codDocumento":"714811"}, {"ano":"2013", "mes":"2", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"10553172000146", "fornecedor":"A G SA Ferreira Informatica", 
+                            "documento":"000387", "data":"2013-02-13", "detalhamento":"null", 
+                            "valorReembolsado":"5500.0", "codDocumento":"700189"}, {"ano":"2013", "mes":"2", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"17379460000175", "fornecedor":"Bruna Arcoverde Pereira", 
+                            "documento":"00000002", "data":"2013-03-04", "detalhamento":"null", 
+                            "valorReembolsado":"3500.0", "codDocumento":"704736"}, {"ano":"2013", "mes":"2", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"08082913000106", "fornecedor":"Acessepiauí Ltda", 
+                            "documento":"00252", "data":"2013-02-18", "detalhamento":"null", 
+                            "valorReembolsado":"2000.0", "codDocumento":"714810"}, {"ano":"2013", "mes":"2", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"05859092000183", "fornecedor":"JLJ Auditoria Consultoria e Projetos Ltda", 
+                            "documento":"0001160", "data":"2013-02-08", "detalhamento":"null", 
+                            "valorReembolsado":"6500.0", "codDocumento":"700187"}, {"ano":"2013", "mes":"2", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Divulgação da atividade parlamentar", "cnpjCpf":"02583994000141", "fornecedor":"Icone Comunicação Ltda", 
+                            "documento":"001871", "data":"2013-02-08", "detalhamento":"null", 
+                            "valorReembolsado":"3200.0", "codDocumento":"700188"}, {"ano":"2013", "mes":"2", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"03003930000197", "fornecedor":"Ceará Táxi Aereo Ltda", 
+                            "documento":"0514", "data":"2012-02-18", "detalhamento":"null", 
+                            "valorReembolsado":"6500.0", "codDocumento":"700190"}, {"ano":"2013", "mes":"2", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"10573573000168", "fornecedor":"Coco Bambu Teresina Ltda.", 
+                            "documento":"000066", "data":"2013-02-26", "detalhamento":"null", 
+                            "valorReembolsado":"720.28", "codDocumento":"704735"}, {"ano":"2013", "mes":"2", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862001050", "fornecedor":"TAM - Linhas Aéreas", 
+                            "documento":"957 2462712136", "data":"2013-02-19", "detalhamento":"Passagem do Sen. João Vicente Claudino, trecho THE/BSB, em 19/02/2013.", 
+                            "valorReembolsado":"1540.0", "codDocumento":"700198"}, {"ano":"2013", "mes":"2", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862001050", "fornecedor":"TAM - Linhas Aéreas", 
+                            "documento":"957 - 2462712118", "data":"2013-02-22", "detalhamento":"Passagem do Sen. João Vicente Claudino, trecho BSB/THE, em 22/02/2013.", 
+                            "valorReembolsado":"1018.83", "codDocumento":"700199"}, {"ano":"2013", "mes":"3", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862001050", "fornecedor":"TAM - Linhas Aéreas", 
+                            "documento":"957 2462712183", "data":"2013-03-21", "detalhamento":"Passagem do Senador João Vicente Claudino, trecho BSB/THE, em 21/03/2013.", 
+                            "valorReembolsado":"1322.43", "codDocumento":"714867"}, {"ano":"2013", "mes":"3", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862001050", "fornecedor":"TAM Linhas Aereas", 
+                            "documento":"957 2462712181", "data":"2013-03-14", "detalhamento":"Passagem do Sen. João Vicente Claudino, trecho BSB/THE, em 14/03/2013.", 
+                            "valorReembolsado":"1322.43", "codDocumento":"706639"}, {"ano":"2013", "mes":"3", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862001050", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"957 2462712180", "data":"2013-03-12", "detalhamento":"Passagem do Sen. João Vicente Claudino, no trecho THE/BSB, em 12032012.", 
+                            "valorReembolsado":"1318.25", "codDocumento":"706638"}, {"ano":"2013", "mes":"3", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862001050", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"957 - 2464769843", "data":"2013-03-26", "detalhamento":"Passagem do Assessor do Senador João Vicente Claudino, Sr. Joel Rodrigues da Silva - matrícula  nº 260049, trecho THE/BSB, em 26/03/2013.", 
+                            "valorReembolsado":"887.05", "codDocumento":"714878"}, {"ano":"2013", "mes":"3", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862001050", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"957-2462712184", "data":"2013-03-26", "detalhamento":"Passagem do Senador João Vicente Claudino, trecho THE/BSB, em 26/03/2013.", 
+                            "valorReembolsado":"1006.95", "codDocumento":"714880"}, {"ano":"2013", "mes":"3", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862001050", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"957-2462712185", "data":"2013-03-28", "detalhamento":"Passagem do Senador João Vicente Claudino, trecho BSB/THE, em 28/03/2013.", 
+                            "valorReembolsado":"1110.13", "codDocumento":"714881"}, {"ano":"2013", "mes":"3", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862001050", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"957-2464769849", "data":"2013-03-28", "detalhamento":"Passagem do Assessor do Senador João Vicente Claudino, Sr, Joel Rodrigues da Silva, matricula nº 260049, trecho BSB/THE, no dia 28/03/2013.", 
+                            "valorReembolsado":"1325.73", "codDocumento":"714879"}, {"ano":"2013", "mes":"3", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862001050", "fornecedor":"TAM Linhas Aéreas ", 
+                            "documento":"957 2462712178", "data":"2013-03-05", "detalhamento":"Passagem do Senador João Vicente Claudino, trecho Teresina/Brasília, em 05/03/2013.", 
+                            "valorReembolsado":"1487.65", "codDocumento":"702353"}, {"ano":"2013", "mes":"3", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862001050", "fornecedor":"TAM Linhas Aéreas ", 
+                            "documento":"957 2462712179", "data":"2013-03-07", "detalhamento":"Passagem do Senador João Vicente Claudino, trecho Brasília/Teresina, em 07/03/2013.", 
+                            "valorReembolsado":"1491.83", "codDocumento":"702354"}, {"ano":"2013", "mes":"4", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"06845747000127", "fornecedor":"AGEPISA Águas e Esgotos do Piauí S.A.", 
+                            "documento":"00000", "data":"2013-04-25", "detalhamento":"Manutenção do escritório político do Senador João Vicente Claudino no Piauí. PAG.  CONTA DA AGUA", 
+                            "valorReembolsado":"178.82", "codDocumento":"740071"}, {"ano":"2013", "mes":"4", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"06845747000127", "fornecedor":"AGESPISA ", 
+                            "documento":"03/2013-5", "data":"2013-04-08", "detalhamento":"null", 
+                            "valorReembolsado":"585.18", "codDocumento":"720603"}, {"ano":"2013", "mes":"4", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"06840748000189", "fornecedor":"Eletrobras Distribuidora Piauí", 
+                            "documento":"969880", "data":"2013-04-01", "detalhamento":"null", 
+                            "valorReembolsado":"1305.09", "codDocumento":"717275"}, {"ano":"2013", "mes":"4", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"06840748000189", "fornecedor":"Eletrobras Distruição do Piauí ", 
+                            "documento":"024.298", "data":"2013-04-30", "detalhamento":"Manutenção do escritório político do Senador João Vicente Claudino no Piauí.", 
+                            "valorReembolsado":"1103.43", "codDocumento":"740070"}, {"ano":"2013", "mes":"4", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"00108786018617", "fornecedor":"Net Serviços de Comunicaçãoes", 
+                            "documento":"0007740", "data":"2013-04-10", "detalhamento":"null", 
+                            "valorReembolsado":"234.59", "codDocumento":"720602"}, {"ano":"2013", "mes":"4", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118001060", "fornecedor":"Telemar Norte Leste S/A", 
+                            "documento":"0028519", "data":"2013-04-11", "detalhamento":"null", 
+                            "valorReembolsado":"77.82", "codDocumento":"720601"}, {"ano":"2013", "mes":"4", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"04206050008084", "fornecedor":"TIM - Celular  S/A", 
+                            "documento":"074354-AA", "data":"2013-04-10", "detalhamento":"null", 
+                            "valorReembolsado":"30.9", "codDocumento":"717276"}, {"ano":"2013", "mes":"4", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"17379460000175", "fornecedor":"Bruna Arcorverde Pereira", 
+                            "documento":"00000004", "data":"2013-04-29", "detalhamento":"Prestação de serviços de impressões monocromática e colorida, empréstimo de impressoras e manutenção de computadores.", 
+                            "valorReembolsado":"3500.0", "codDocumento":"740073"}, {"ano":"2013", "mes":"4", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"02583994000141", "fornecedor":"Icone Comunicação Ltda", 
+                            "documento":"001959", "data":"2013-04-19", "detalhamento":"null", 
+                            "valorReembolsado":"3200.0", "codDocumento":"732783"}, {"ano":"2013", "mes":"4", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"05859092000183", "fornecedor":"JLJ Auditoria Consultoria e Projetos S/C Ltda.", 
+                            "documento":"0001264", "data":"2013-05-06", "detalhamento":"Refrente a serviços de consultoria em projetos e estudos para o desenvolvimento no Estado do Piauí. ", 
+                            "valorReembolsado":"6500.0", "codDocumento":"740072"}, {"ano":"2013", "mes":"4", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Divulgação da atividade parlamentar", "cnpjCpf":"07961379000145", "fornecedor":"J C S Holanda - ME", 
+                            "documento":"0000438", "data":"2013-04-16", "detalhamento":"Referente a prestação de serviços de assessoria de comunicação e processamento de informações para a divulgação da atividade parlamentar do Senador João Vicente Claudino. ", 
+                            "valorReembolsado":"4000.0", "codDocumento":"740074"}, {"ano":"2013", "mes":"4", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"03003930000197", "fornecedor":"Ceará Táxi Aéreo Ltda.", 
+                            "documento":"0539", "data":"2013-04-16", "detalhamento":"null", 
+                            "valorReembolsado":"8000.0", "codDocumento":"732777"}, {"ano":"2013", "mes":"4", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"08466219000192", "fornecedor":"Potência Grill", 
+                            "documento":"27732", "data":"2013-04-16", "detalhamento":"null", 
+                            "valorReembolsado":"1898.16", "codDocumento":"732776"}, {"ano":"2013", "mes":"4", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862001050", "fornecedor":" TAM Linhas Aéreas", 
+                            "documento":"957 - 2464014208", "data":"2013-04-16", "detalhamento":"Passagem do Senador João Vicente Claudino trecho THE/BSB, em 16/04/2013.", 
+                            "valorReembolsado":"869.45", "codDocumento":"732778"}, {"ano":"2013", "mes":"4", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"04020028001628", "fornecedor":"GOL ", 
+                            "documento":"127 - 00209545081", "data":"2013-04-16", "detalhamento":"Passagem do Assessor do Senador João Vicente Claudino, Senhor Manoel Portela de Carvalho Filho, matrícula nº 203730, trecho BSB/THE, em 16/04/2013.", 
+                            "valorReembolsado":"894.42", "codDocumento":"732780"}, {"ano":"2013", "mes":"4", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862001050", "fornecedor":"TAM - Linhas Aereas", 
+                            "documento":"957-2464014207", "data":"2013-04-11", "detalhamento":"Passagem do Sen. João Vicente Claudino, trecho BSB/THE, em 11/04/2013.", 
+                            "valorReembolsado":"873.83", "codDocumento":"720605"}, {"ano":"2013", "mes":"4", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862001050", "fornecedor":"TAM - Linhas Aéreas", 
+                            "documento":"957 246271220", "data":"2013-04-02", "detalhamento":"Passagem do Senador João Vicente Claudino, THE/BSB, em 02/04/2013.", 
+                            "valorReembolsado":"1123.55", "codDocumento":"717273"}, {"ano":"2013", "mes":"4", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862001050", "fornecedor":"TAM - Linhas Aéreas", 
+                            "documento":"957 - 24644014201", "data":"2013-04-04", "detalhamento":"Passagem do Senador João Vicente Claudino, trecho BSB/THE, em 04/04/2013.", 
+                            "valorReembolsado":"873.63", "codDocumento":"717274"}, {"ano":"2013", "mes":"4", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862001050", "fornecedor":"TAM - Linhas Aéreas", 
+                            "documento":"957 - 2464014214", "data":"2013-04-23", "detalhamento":"Passagem do Senador João Vicente Claudino, trecho THE/BSB, em 23/04/2013.", 
+                            "valorReembolsado":"869.45", "codDocumento":"732781"}, {"ano":"2013", "mes":"4", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862001050", "fornecedor":"TAM - Linhas Aéreas", 
+                            "documento":"957-2464014215", "data":"2013-04-25", "detalhamento":"Passagem do Senador João Vicente Claudino, trecho BSB/THE, em 25/04/2013.", 
+                            "valorReembolsado":"873.63", "codDocumento":"732782"}, {"ano":"2013", "mes":"2", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862001050", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"957 2460180293", "data":"2013-02-02", "detalhamento":"Passagem do Sen. João Vicente Claudino, no trecho BSB/THE, em 02/02/2013.", 
+                            "valorReembolsado":"1098.03", "codDocumento":"700195"}, {"ano":"2013", "mes":"2", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862001050", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"957 2460180294", "data":"2013-02-04", "detalhamento":"Passagem do Sen. João Vicente Claudino THE/BSB, em 04/02/2013.", 
+                            "valorReembolsado":"993.05", "codDocumento":"700196"}, {"ano":"2013", "mes":"2", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862001050", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"057 2460180295", "data":"2013-02-07", "detalhamento":"Passagem do Sen. João Vicente Claudino, em 07/02/2013, trecho BSB/THE.", 
+                            "valorReembolsado":"1192.63", "codDocumento":"700197"}, {"ano":"2013", "mes":"2", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862001050", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"957 2462712176", "data":"2013-02-26", "detalhamento":"PASSAGEM AÉREA DO SENADOR JOÃO VICENTE CLAUDINO, DIA 26/02/2013, NO TRECHO TERESINA/BRASÍLIA.", 
+                            "valorReembolsado":"1745.05", "codDocumento":"700201"}, {"ano":"2013", "mes":"2", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862001050", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"957 2462712177", "data":"2013-02-28", "detalhamento":"PASSAGEM AÉREA DO SENADOR JOÃO VICENTE CLAUDINO, DIA 28/02/2013, NO TRECHO BRASÍLIA/TERESINA.", 
+                            "valorReembolsado":"1749.23", "codDocumento":"700202"}, {"ano":"2013", "mes":"3", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"10553172000146", "fornecedor":"AG SA Ferreira Informática", 
+                            "documento":"0000395", "data":"2013-03-20", "detalhamento":"null", 
+                            "valorReembolsado":"5500.0", "codDocumento":"714869"}, {"ano":"2013", "mes":"3", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"00108786018617", "fornecedor":"NET Serviços de Comunicação S/A", 
+                            "documento":"0007288", "data":"2013-03-10", "detalhamento":"null", 
+                            "valorReembolsado":"220.94", "codDocumento":"714876"}, {"ano":"2013", "mes":"3", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118001060", "fornecedor":"Telemar Norte Leste S/A", 
+                            "documento":"000028794", "data":"2013-03-11", "detalhamento":"null", 
+                            "valorReembolsado":"77.77", "codDocumento":"714873"}, {"ano":"2013", "mes":"3", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"04206050008084", "fornecedor":"TIM Celular S/A", 
+                            "documento":"00064034-AA", "data":"2013-03-10", "detalhamento":"null", 
+                            "valorReembolsado":"30.9", "codDocumento":"714875"}, {"ano":"2013", "mes":"3", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"04206050008084", "fornecedor":"TIM Celular S/A", 
+                            "documento":"0002455-AA", "data":"2013-03-15", "detalhamento":"null", 
+                            "valorReembolsado":"61.0", "codDocumento":"714874"}, {"ano":"2013", "mes":"3", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"17379460000175", "fornecedor":"Bruna Arcoverde Pereira", 
+                            "documento":"000003", "data":"2013-04-01", "detalhamento":"null", 
+                            "valorReembolsado":"3346.59", "codDocumento":"720600"}, {"ano":"2013", "mes":"3", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"05859092000183", "fornecedor":"JLJ - Auditoria Consultoria e Projetos Ltda.", 
+                            "documento":"001198", "data":"2013-03-19", "detalhamento":"null", 
+                            "valorReembolsado":"6500.0", "codDocumento":"714870"}, {"ano":"2013", "mes":"3", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Divulgação da atividade parlamentar", "cnpjCpf":"08082913000106", "fornecedor":"Acessepiaui Ltda.", 
+                            "documento":"000262", "data":"2013-03-18", "detalhamento":"null", 
+                            "valorReembolsado":"2000.0", "codDocumento":"714872"}, {"ano":"2013", "mes":"3", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Divulgação da atividade parlamentar", "cnpjCpf":"06846059000181", "fornecedor":"Empresa O Dia Ltda.", 
+                            "documento":"13692", "data":"2013-03-21", "detalhamento":"null", 
+                            "valorReembolsado":"4000.0", "codDocumento":"714877"}, {"ano":"2013", "mes":"3", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Divulgação da atividade parlamentar", "cnpjCpf":"02583994000141", "fornecedor":"Icone Comunicação Ltda", 
+                            "documento":"001918", "data":"2013-03-19", "detalhamento":"null", 
+                            "valorReembolsado":"3200.0", "codDocumento":"714871"}, {"ano":"2013", "mes":"3", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"08466219000192", "fornecedor":"Churrascaria Potência Grill Ltda.", 
+                            "documento":"27628", "data":"2013-03-27", "detalhamento":"null", 
+                            "valorReembolsado":"1898.16", "codDocumento":"714882"}, {"ano":"2013", "mes":"3", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862001050", "fornecedor":"TAM - Linhas Aéreas", 
+                            "documento":"975 - 246271282", "data":"2013-03-17", "detalhamento":"Passagem do Senador João Vicente Claudino, trecho THE/BSB, em 17/03/2013.", 
+                            "valorReembolsado":"1358.25", "codDocumento":"714866"}, {"ano":"2013", "mes":"6", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"06845747000127", "fornecedor":"Companhia de Aguas e Esgotos do Piauí", 
+                            "documento":"0000", "data":"2013-06-10", "detalhamento":"Manutenção de escritorio politico do Sen. João Vicente Claudino no Estado do Piauí.", 
+                            "valorReembolsado":"29.98", "codDocumento":"763352"}, {"ano":"2013", "mes":"6", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"06840748000189", "fornecedor":"Eletrobras Distribuição Piauí", 
+                            "documento":"882664", "data":"2013-07-01", "detalhamento":"Manutenção do escritório político do Senador João Vicente Claudino, no Estado do Piauí.", 
+                            "valorReembolsado":"1213.02", "codDocumento":"768474"}, {"ano":"2013", "mes":"6", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"23523004000150", "fornecedor":"Gráfica e Editora do Povo Ltda.", 
+                            "documento":"008876", "data":"2013-06-07", "detalhamento":"Manutenção do Escritório Político do Senador João Vicente Claudino, no Estado do Piauí.", 
+                            "valorReembolsado":"432.0", "codDocumento":"763357"}, {"ano":"2013", "mes":"6", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"00108786018617", "fornecedor":"NET Serviços de Comunicação S.A.", 
+                            "documento":"0008864", "data":"2013-06-10", "detalhamento":"Manutenção do escritório político do Senador João Vicente Claudino, no Estado do Piauí.", 
+                            "valorReembolsado":"232.83", "codDocumento":"763355"}, {"ano":"2013", "mes":"6", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"05700724000161", "fornecedor":"O Dia Agência Ltda.", 
+                            "documento":"06660", "data":"2013-06-05", "detalhamento":"Manutenção do Escritório Político do Senador João Vicente Claudino, no Estado do Piauí.", 
+                            "valorReembolsado":"456.0", "codDocumento":"763356"}, {"ano":"2013", "mes":"6", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118001060", "fornecedor":"Telemar Norte Leste S.A.", 
+                            "documento":"0000028569", "data":"2013-06-11", "detalhamento":"Manutenção do Escritório Político do Senador João Vicente Claudino, no Estado do Piauí.", 
+                            "valorReembolsado":"78.94", "codDocumento":"763353"}, {"ano":"2013", "mes":"6", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"04206050008084", "fornecedor":"TIM Celular S.A. ", 
+                            "documento":"0001490-AA", "data":"2013-06-15", "detalhamento":"Manutenção do escritório Político do Senador João Vicente Claudino, no Estado do Piauí.", 
+                            "valorReembolsado":"61.0", "codDocumento":"763354"}, {"ano":"2013", "mes":"6", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"10553172000146", "fornecedor":"A G SA Ferreira Informática ", 
+                            "documento":"418", "data":"2013-06-27", "detalhamento":"Manutenção de equipamento de informática do Escritório de Apoio do Senador João Vicente Claudino no Piauí.", 
+                            "valorReembolsado":"5500.0", "codDocumento":"777849"}, {"ano":"2013", "mes":"6", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"17379460000175", "fornecedor":"BRUNA ARCOVERDE PEREIRA", 
+                            "documento":"006", "data":"2013-07-02", "detalhamento":"REFERENTE REPARAÇÃO E MANUTENÇÃO DE COMPUTADORES E EQUIPAMENTOS", 
+                            "valorReembolsado":"3500.0", "codDocumento":"777851"}, {"ano":"2013", "mes":"6", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"05859092000183", "fornecedor":"JLJ AUDITORIA CONSULTORIA E PROJETOS S/C LTDA", 
+                            "documento":"1333", "data":"2013-07-08", "detalhamento":"REFERENTE A SERVIÇOS DE CONSULTORIA EM PROJETOS E ESTUDOS PARA O DESENVOLVIMENTO DA ATIVIDADE PARLAMENTAR NO ESTADO DO PIAUÍ REFERENTE AO MES DE JUNHO/2013", 
+                            "valorReembolsado":"6500.0", "codDocumento":"777850"}, {"ano":"2013", "mes":"6", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Divulgação da atividade parlamentar", "cnpjCpf":"06191665000106", "fornecedor":"EDITORA TIMONENSE DIÁRIO DO MARANHÃO LTDA.", 
+                            "documento":"1", "data":"2013-06-14", "detalhamento":"Prestação de serviço de assessoria de comunicação e processamento de informações.", 
+                            "valorReembolsado":"3000.0", "codDocumento":"768477"}, {"ano":"2013", "mes":"6", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Divulgação da atividade parlamentar", "cnpjCpf":"02583994000141", "fornecedor":"Icone Comunicação Ltda", 
+                            "documento":"002049", "data":"2013-06-17", "detalhamento":"Prestação de Serviço de assessoria de comunicação durante o mês de junho de 2013.", 
+                            "valorReembolsado":"3200.0", "codDocumento":"768475"}, {"ano":"2013", "mes":"6", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"03003930000197", "fornecedor":"Ceará Táxi Aéreo Ltda.", 
+                            "documento":"0592", "data":"2013-08-23", "detalhamento":"Referente a serviço de fretamento de táxi aéreo realizado em 21/06/2013, no percurso Teresina/São Raimundo Nonato/Ribeiro Gonçalves/Teresina. Serviço prestado ao Senador João Vicente Claudino.", 
+                            "valorReembolsado":"7168.0", "codDocumento":"807698"}, {"ano":"2013", "mes":"6", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02575829000148", "fornecedor":"AVIANCA LINHAS AEREAS", 
+                            "documento":"125-677638", "data":"2013-06-20", "detalhamento":"Passagem do Assessor
+Marcos Pereira de Vasconcelos Araújo,
+Matricula nº 203731
+trecho Brasília/Recife 
+em 20.06.2013. ", 
+                            "valorReembolsado":"200.13", "codDocumento":"777852"}, {"ano":"2013", "mes":"6", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"09296295000160", "fornecedor":"AZUL LINHAS AEREAS", 
+                            "documento":"#32607188", "data":"2013-06-24", "detalhamento":"Passagem do Assessor
+Marcos Pereira de Vasconcelos Matricula nº 203731
+trecho Recife/SP/Brasília.
+em 24/06/2013", 
+                            "valorReembolsado":"1024.01", "codDocumento":"777853"}, {"ano":"2013", "mes":"6", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"04020028001628", "fornecedor":"GOL", 
+                            "documento":"NJPMSE", "data":"2013-06-13", "detalhamento":"Passagens do servidor Jeferson e Silva Fontinele, matrícula 247574, trechos Brasília/Teresina e Teresina/Brasília pela Companhia GOL.", 
+                            "valorReembolsado":"561.7", "codDocumento":"765357"}, {"ano":"2013", "mes":"6", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862001050", "fornecedor":"TAM - Linhas Aéreas S.A.", 
+                            "documento":"957-2469498079", "data":"2013-06-11", "detalhamento":"Passagem do Senador João Vicente Claudino, trecho Teresina/Brasília, em 11/06/2013. ", 
+                            "valorReembolsado":"855.55", "codDocumento":"763358"}, {"ano":"2013", "mes":"6", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862001050", "fornecedor":"TAM - Linhas Aéreas S.A.", 
+                            "documento":"957-2469498080", "data":"2013-06-14", "detalhamento":"Passagem do Senador João Vicente Claudino, trecho Brasília/Teresina, em 14/06/2013.", 
+                            "valorReembolsado":"859.23", "codDocumento":"763359"}, {"ano":"2013", "mes":"6", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM - Linhas Aéreas S.A.", 
+                            "documento":"957 - 2467046864", "data":"2013-06-25", "detalhamento":"Passagem do Senador João Vicente Claudino, trecho Teresina/Brasília, em 25/06/2013.", 
+                            "valorReembolsado":"296.95", "codDocumento":"768476"}, {"ano":"2013", "mes":"6", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862001050", "fornecedor":"TAM LINHAS AÉREAS S.A.", 
+                            "documento":"957-2467046862", "data":"2013-06-18", "detalhamento":"Passagem aérea do Senador João Vicente Claudino, trecho Teresina/Brasília, em 18.06.2013, pela Companhia TAM.", 
+                            "valorReembolsado":"296.95", "codDocumento":"765358"}, {"ano":"2013", "mes":"6", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862001050", "fornecedor":"TAM LINHAS AÉREAS S.A.", 
+                            "documento":"957-2467046863", "data":"2013-06-20", "detalhamento":"Passagem aérea do Senador João Vicente Claudino, trecho Brasília/Teresina, em 20.06.2013, pela Companhia TAM.", 
+                            "valorReembolsado":"301.13", "codDocumento":"765359"}, {"ano":"2013", "mes":"6", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862001050", "fornecedor":"TAM Linhas Aéreas S.A.", 
+                            "documento":"957 2469498079", "data":"2013-06-11", "detalhamento":"Complemento referente à passagem aérea do Senador João Vicente Claudino, dia 11.06.2013, trecho Teresina/Brasília.", 
+                            "valorReembolsado":"686.0", "codDocumento":"775395"}, {"ano":"2013", "mes":"6", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862001050", "fornecedor":"TAM Linhas Aéreas S.A.", 
+                            "documento":"957 2469498080", "data":"2013-06-14", "detalhamento":"Complemento à passagem do Senador João Vicente Claudino, no dia 14.06.2013, trecho Brasília/Teresina.", 
+                            "valorReembolsado":"140.0", "codDocumento":"775396"}, {"ano":"2013", "mes":"7", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"06845747000127", "fornecedor":"AGESPISA Agua e Esgotos de Piauí S.A.", 
+                            "documento":"0000", "data":"2013-07-25", "detalhamento":"Manutenção do Escritório Político do Senador João Vicente Claudino, no Estado do Piauí, julho/2013.", 
+                            "valorReembolsado":"140.25", "codDocumento":"791459"}, {"ano":"2013", "mes":"7", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"06840748000189", "fornecedor":"Eletrobras Distribuição Piauí", 
+                            "documento":"860376", "data":"2013-07-31", "detalhamento":"Manutenção do escritório político do Senador João Vicente Claudino, no Estado do Piauí, julho/2013.", 
+                            "valorReembolsado":"749.67", "codDocumento":"791458"}, {"ano":"2013", "mes":"7", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"00108786018617", "fornecedor":"NET SERVIÇOS DE COMUNICAÇÃO S/A", 
+                            "documento":"000009652", "data":"2013-07-10", "detalhamento":"Manutenção do Escritório Político do Senador no Estado do Piauí. NET", 
+                            "valorReembolsado":"224.67", "codDocumento":"782413"}, {"ano":"2013", "mes":"7", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118001060", "fornecedor":"Telemar Norte  Leste S/A", 
+                            "documento":"0028877", "data":"2013-07-11", "detalhamento":"Manutenção do escritorio politico do Senador João Vicente Claudino no Estado do Piauí.", 
+                            "valorReembolsado":"78.94", "codDocumento":"780307"}, {"ano":"2013", "mes":"7", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"04206050008084", "fornecedor":"TIM CELULAR S/A", 
+                            "documento":"080.138-aa", "data":"2013-07-10", "detalhamento":"Manutenção do escritorio do Senador João Vicente Claudino no Estado do Piauí. telefone tim", 
+                            "valorReembolsado":"30.9", "codDocumento":"780306"}, {"ano":"2013", "mes":"7", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"04206050008084", "fornecedor":"TIM CELULAR S/A", 
+                            "documento":"02787-AA", "data":"2013-07-15", "detalhamento":"Manutenção de Escritório Politico  do Senador João Vicente Claudino no Estado do Piauí. ", 
+                            "valorReembolsado":"62.69", "codDocumento":"780312"}, {"ano":"2013", "mes":"7", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"10553172000146", "fornecedor":"AG SA Ferreira Informática", 
+                            "documento":"000425", "data":"2013-07-25", "detalhamento":"Manutenção em equipamentos de informática, no Escritório de Apoio do Senador João Vicente Claudino, no Piauí.", 
+                            "valorReembolsado":"5500.0", "codDocumento":"791457"}, {"ano":"2013", "mes":"7", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"17379460000175", "fornecedor":"Bruna Arcoverde Pereira", 
+                            "documento":"00000007", "data":"2013-07-31", "detalhamento":"Despesa com reparação e manutenção de computadores no Escritório de Apoio do Senador João Vicente Claudino, no mês de julho/2013.", 
+                            "valorReembolsado":"3500.0", "codDocumento":"791461"}, {"ano":"2013", "mes":"7", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"02583994000141", "fornecedor":"ICONE COMUNICAÇÃO LTDA", 
+                            "documento":"2089", "data":"2013-07-08", "detalhamento":"REFERENTE A PRESTAÇÃO DE SERVIÇO DE ASSESSORIA DE COMUNICAÇÃO DURANTE O MÊS DE JULHO DE 2013. ", 
+                            "valorReembolsado":"3200.0", "codDocumento":"780311"}, {"ano":"2013", "mes":"7", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"05859092000183", "fornecedor":"JLJ Auditoria Consultoria e Projetos Ltda.", 
+                            "documento":"0001337", "data":"2013-07-25", "detalhamento":"Referente a serviços de consultoria e projetos e estudos para o desenvolvimento no Estado do Piauí.", 
+                            "valorReembolsado":"6500.0", "codDocumento":"791456"}, {"ano":"2013", "mes":"7", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Divulgação da atividade parlamentar", "cnpjCpf":"07961379000145", "fornecedor":"JC COMUNICAÇÃO", 
+                            "documento":"034", "data":"2013-07-09", "detalhamento":"Referente a divulgação de atividade parlamentar do Portal GP1", 
+                            "valorReembolsado":"4000.0", "codDocumento":"782412"}, {"ano":"2013", "mes":"7", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"03003930000197", "fornecedor":"Ceará Táxi Aéreo Ltda.", 
+                            "documento":"0595", "data":"2013-08-23", "detalhamento":"Serviço de fretamento de táxi aéreo para realizar voo de teresina a Nazária, no Piauí, em 12/07/2013. ", 
+                            "valorReembolsado":"956.0", "codDocumento":"812749"}, {"ano":"2013", "mes":"7", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"04020028001628", "fornecedor":"GOL - Linhas Aéreas Inteligentes", 
+                            "documento":"127-00213069391", "data":"2013-07-11", "detalhamento":"Passagem da Assessora do Senador João VIcente Claudino, Sra. Ana Cecília Rodrigues Oliveira Silva, matrícula 243210, trecho Brasília/Teresina, em 11/07/2013.", 
+                            "valorReembolsado":"486.03", "codDocumento":"791460"}, {"ano":"2013", "mes":"7", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862001050", "fornecedor":"TAM - Linhas Aereas", 
+                            "documento":"957-2471598740", "data":"2013-07-09", "detalhamento":"Passagem do Sen. Joaõ Vicente Claudino, trecho THE/BSB, em 08/07/2013.", 
+                            "valorReembolsado":"1103.65", "codDocumento":"780309"}, {"ano":"2013", "mes":"7", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862001050", "fornecedor":"TAM - Linhas Aéreas", 
+                            "documento":"957-2472230698 ", "data":"2013-07-22", "detalhamento":"Passagem do Senador João Vicente Claudino, trecho Guarulhos/Teresina, no dia 22/07/2013.", 
+                            "valorReembolsado":"1288.37", "codDocumento":"791453"}, {"ano":"2013", "mes":"7", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862001050", "fornecedor":"TAM - Linhas Aéreas", 
+                            "documento":"957 - 2472230660", "data":"2013-07-29", "detalhamento":"Passagem do Assessor do Senador João Vicente Claudino, Sr. Leonardo Nogueira Pereira, matricula 241377,nos trechos Teresina/Brasília e Brasília/Teresina, em 29/07/2013.", 
+                            "valorReembolsado":"618.38", "codDocumento":"791454"}, {"ano":"2013", "mes":"7", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862001050", "fornecedor":"TAM - Linhas Aéreas", 
+                            "documento":"957-2472230659", "data":"2013-07-29", "detalhamento":"Passagem do Assessor do Senador João Vicente Claudino, o Sr. Francimar Alves de Macedo Junior, Matrícula 262540, trechos Teresina/Brasília e Brasília/Teresina, em 29/07/2013.", 
+                            "valorReembolsado":"618.88", "codDocumento":"791455"}, {"ano":"2013", "mes":"7", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862001050", "fornecedor":"TAM -Linhas Aereas", 
+                            "documento":"957-2471598741", "data":"2013-07-11", "detalhamento":"Passagem do Sen. João Vicente Claudino, trecho BSB/THE, em 11/07/2013.", 
+                            "valorReembolsado":"1324.53", "codDocumento":"780310"}, {"ano":"2013", "mes":"7", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AEREAS", 
+                            "documento":"957-2467046875", "data":"2013-07-13", "detalhamento":"Passagem aérea do Senador João Vicente Claudino, do trecho Teresina/Brasília - Brasília/São Paulo, do dia 13 de julho do 2013.", 
+                            "valorReembolsado":"1289.65", "codDocumento":"782414"}, {"ano":"2013", "mes":"7", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AEREAS", 
+                            "documento":"9572471598790", "data":"2013-07-15", "detalhamento":"Passagem aérea do Senador João Vicente Claudino, do trecho São Paulo/Brasília, no dia 15 de julho de 2012.", 
+                            "valorReembolsado":"926.87", "codDocumento":"782415"}, {"ano":"2013", "mes":"7", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AEREAS", 
+                            "documento":"9572472230641", "data":"2013-07-17", "detalhamento":"Passagem aérea do Senador João Vicente Claudino, do trecho Rio de Janeiro/São Paulo, no dia 17 de julho de 2013.", 
+                            "valorReembolsado":"845.47", "codDocumento":"782417"}, {"ano":"2013", "mes":"7", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AEREAS", 
+                            "documento":"9572472230640", "data":"2013-07-17", "detalhamento":"Passagem aérea do Senador João Vicente Claudino, do trecho Brasília/Rio de Janeiro, no dia 17 de julho de 2013.", 
+                            "valorReembolsado":"1764.63", "codDocumento":"782416"}, {"ano":"2013", "mes":"7", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862001050", "fornecedor":"TAM Linhas Aereas", 
+                            "documento":"957-2467501833", "data":"2013-07-01", "detalhamento":"Passagem do assessor do Senador João Vicente Claudino, Sr.
+João Elício Norgueira Terto, mat. 244482, Trecho BRASILIA/TERESINA, em 28/06/20113 e trecho TERESINA/BRASILIA, em 01/07/2013.", 
+                            "valorReembolsado":"487.08", "codDocumento":"780308"}, {"ano":"2013", "mes":"7", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM LINHAS AEREAS S/A", 
+                            "documento":"957-2471598739", "data":"2013-07-05", "detalhamento":"Passagem aérea do Senador João Vicente Claudino, em 05.07.2013, referente ao trecho Brasília/Teresina.", 
+                            "valorReembolsado":"1627.03", "codDocumento":"775398"}, {"ano":"2013", "mes":"8", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"06845747000127", "fornecedor":"AGESPISA - Águas e Esgotos do Piauí S.A.", 
+                            "documento":"00000", "data":"2013-08-25", "detalhamento":"Manutenção do escritório político do Senador João Vicente Claudino, no Estado do Piauí.", 
+                            "valorReembolsado":"322.04", "codDocumento":"804684"}, {"ano":"2013", "mes":"8", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"06840748000189", "fornecedor":"ELETROBRAS Distribuição Piauí", 
+                            "documento":"000995511", "data":"2013-08-30", "detalhamento":"Despesa com energia elétrica no Escritório de Apoio do Senador João Vicente Claudino, no Estado do Piauí.", 
+                            "valorReembolsado":"1095.6", "codDocumento":"804685"}, {"ano":"2013", "mes":"8", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"00108786018617", "fornecedor":"NET Serviços de Comunicação S.A.", 
+                            "documento":"009991", "data":"2013-08-10", "detalhamento":"Manutenção do escritório político do Senador João Vicente Claudino, no estado do Piauí - NET Vírtua e NET Fone.", 
+                            "valorReembolsado":"227.73", "codDocumento":"807699"}, {"ano":"2013", "mes":"8", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118001060", "fornecedor":"Telemar Norte Leste S.A.", 
+                            "documento":"029038", "data":"2013-08-11", "detalhamento":"Manutenção do escritório político do Senador João Vicente Claudino, no Estado do Piauí.", 
+                            "valorReembolsado":"78.94", "codDocumento":"797110"}, {"ano":"2013", "mes":"8", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"04206050008084", "fornecedor":"TIM - Celular S.A. ", 
+                            "documento":"002346-aa", "data":"2013-08-15", "detalhamento":"Manutenção do escritório político do Senador João Vicente Claudino, no Estado do Piauí.", 
+                            "valorReembolsado":"61.0", "codDocumento":"797111"}, {"ano":"2013", "mes":"8", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"05859092000183", "fornecedor":"JLJ AUDITORIA CONSULTORIA E PROJETOS S/C LTDA", 
+                            "documento":"00001364", "data":"2013-09-03", "detalhamento":"Referente a serviços de consultoria em projetos para o desenvolvimento da atividade do Senador João Vicente Claudino, no Estado do Piauí.", 
+                            "valorReembolsado":"6500.0", "codDocumento":"847119"}, {"ano":"2013", "mes":"8", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Divulgação da atividade parlamentar", "cnpjCpf":"01944243000140", "fornecedor":"DALLAS COMUNICAÇÃO LTDA.", 
+                            "documento":"207", "data":"2013-10-30", "detalhamento":"Referente à criação, texto, diagramação, impressão de jornal informativo para o Escritório de Apoio do Senador João Vicente Claudino, no Estado do Piauí, em agosto de 2013.", 
+                            "valorReembolsado":"13650.0", "codDocumento":"841177"}, {"ano":"2013", "mes":"8", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Divulgação da atividade parlamentar", "cnpjCpf":"06191665000106", "fornecedor":"Editora Timonense Diario do Maranhão Ltda.", 
+                            "documento":"052", "data":"2013-08-15", "detalhamento":"Prestação de serviço de assessoria e processamento de informação ao Escritório do Senador João Vicente Claudino.", 
+                            "valorReembolsado":"3000.0", "codDocumento":"802320"}, {"ano":"2013", "mes":"8", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Divulgação da atividade parlamentar", "cnpjCpf":"02583994000141", "fornecedor":"Icone Comunicação Ltda.", 
+                            "documento":"002130", "data":"2013-08-13", "detalhamento":"Prestação de serviço de assessoria de comunicação ao Escritório do Senador João Vicente Claudino.", 
+                            "valorReembolsado":"3200.0", "codDocumento":"802321"}, {"ano":"2013", "mes":"8", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"04020028001628", "fornecedor":"GOL - Linhas Aéreas", 
+                            "documento":"127-00220153909", "data":"2013-08-22", "detalhamento":"Passagem do Sr. João Elicio Nogueira Terto, Matricula nº 244482, Assessor do Senador João Vicente Claudino, trecho Brasília/Teresina, em 22/08/2013. ", 
+                            "valorReembolsado":"277.03", "codDocumento":"804682"}, {"ano":"2013", "mes":"8", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"04020028001628", "fornecedor":"GOL - Linhas Aéreas Inteligentes", 
+                            "documento":"127-00213069391", "data":"2013-08-01", "detalhamento":"Passagem da Assessora do Senador João Vicente Claudino, Sra. Ana Cecilia Rodrigues Oliveira Silva, matricula 243210, trecho Teresina/Brasília, em 01/08/2013.", 
+                            "valorReembolsado":"365.85", "codDocumento":"791466"}, {"ano":"2013", "mes":"8", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862001050", "fornecedor":"TAM - Linhas Aéreas", 
+                            "documento":"957-2471225957", "data":"2013-08-01", "detalhamento":"Passagem da Assessora do Senador João Vicente Claudino, Renata Galisa Vilarinho Soares, matricula 250986, trecho Brasília/Teresina.01//08/2013", 
+                            "valorReembolsado":"286.13", "codDocumento":"791464"}, {"ano":"2013", "mes":"8", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862001050", "fornecedor":"TAM - Linhas Aéreas", 
+                            "documento":"957-2473282671", "data":"2013-08-05", "detalhamento":"Passagem do Senador João Vicente Claudino, trecho Teresina/Brasília, em 05/08/2013.", 
+                            "valorReembolsado":"786.95", "codDocumento":"791462"}, {"ano":"2013", "mes":"8", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862001050", "fornecedor":"TAM - Linhas Aéreas", 
+                            "documento":"957-2471226230", "data":"2013-08-06", "detalhamento":"Passagem da Assessora do Senador João Vicente Claudino, Renata Galisa Vilarinho Soares, matrícula 250986, trecho Teresina/Brasília, em 06/08/2013.", 
+                            "valorReembolsado":"261.95", "codDocumento":"791465"}, {"ano":"2013", "mes":"8", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862001050", "fornecedor":"TAM - Linhas Aéreas", 
+                            "documento":"957-2473282670", "data":"2013-08-08", "detalhamento":"Passagem do Senador João Vicente Claudino, trecho Brasília/Teresina, em 08/082013.", 
+                            "valorReembolsado":"1345.53", "codDocumento":"791463"}, {"ano":"2013", "mes":"8", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862001050", "fornecedor":"TAM - Linhas Aéreas", 
+                            "documento":"957-2473656024", "data":"2013-08-14", "detalhamento":"Passagem aérea do Senhor LUIZ EVALDO DE MOURA PÁDUA FILHO, Assessor do Senador João Vicente Claudino, trecho Brasília/São Paulo, em 14.08.2013, pela Companhia TAM.", 
+                            "valorReembolsado":"514.13", "codDocumento":"835316"}, {"ano":"2013", "mes":"8", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862001050", "fornecedor":"TAM - Linhas Aéreas", 
+                            "documento":"957-2473666502", "data":"2013-08-14", "detalhamento":"Passagem do Assessor do Senador João Vicente Claudino, Sr. Jeferson e Silva Fontinele, matricula nº 247574, trecho Brasília/Teresina, em 14/08/2013. ", 
+                            "valorReembolsado":"992.88", "codDocumento":"802324"}, {"ano":"2013", "mes":"8", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862001050", "fornecedor":"TAM - Linhas Aéreas", 
+                            "documento":"957-2473419422", "data":"2013-08-20", "detalhamento":"Passagem do Senador João Vicente Claudino, trecho Teresina/Brasília, em 20/08/2013.", 
+                            "valorReembolsado":"620.85", "codDocumento":"802322"}, {"ano":"2013", "mes":"8", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862001050", "fornecedor":"TAM - Linhas Aéreas", 
+                            "documento":"957-2473419423", "data":"2013-08-22", "detalhamento":"Passagem do Senador João Vicente Claudino, trecho Brasília/Teresina, em 22/08/2013.", 
+                            "valorReembolsado":"1126.95", "codDocumento":"802323"}, {"ano":"2013", "mes":"8", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862001050", "fornecedor":"TAM - Linhas Aéreas", 
+                            "documento":"957 2470377904", "data":"2013-08-24", "detalhamento":"Passagem aérea do servidor Luiz Evaldo de Moura Pádua Filho, Assessor do Senador João Vicente Claudino, matrícula nº 154420, trecho São Paulo/Brasília, em 24 de agosto de 2013. ", 
+                            "valorReembolsado":"575.97", "codDocumento":"804686"}, {"ano":"2013", "mes":"8", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862001050", "fornecedor":"TAM - Linhas Aéreas", 
+                            "documento":"957-2473837325", "data":"2013-08-26", "detalhamento":"Passagem do Sr. João Elicio Nogueira Terto, matricula nº 244482, Assessor do Senador João Vicente Claudino, trecho Teresina/Brasília, em 26/08/2013.", 
+                            "valorReembolsado":"399.95", "codDocumento":"804683"}, {"ano":"2013", "mes":"8", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862001050", "fornecedor":"TAM - Linhas Aéreas", 
+                            "documento":"957-2473419424", "data":"2013-08-27", "detalhamento":"Passagem do Senador João Vicente Claudino, trecho Teresina/Brasília, em 27/08/2013.", 
+                            "valorReembolsado":"620.85", "codDocumento":"804681"}, {"ano":"2013", "mes":"8", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862001050", "fornecedor":"TAM - Linhas Aéreas", 
+                            "documento":"957-2473419425", "data":"2013-08-29", "detalhamento":"Passagem do Senador João Vicente Claudino, trecho Brasília/Teresina, em 29/08/2013.", 
+                            "valorReembolsado":"626.45", "codDocumento":"804680"}, {"ano":"2013", "mes":"8", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862001050", "fornecedor":"TAM - Linhas Aéreas ", 
+                            "documento":"957-2474192193", "data":"2013-08-18", "detalhamento":"Passagem do Assessor do Senador João Vicente Claudino, Sr. Jeferson e Silva Fontele, matricula nº 247574, trecho Teresina/Brasília, em 18/08/2013.", 
+                            "valorReembolsado":"961.8", "codDocumento":"802325"}, {"ano":"2013", "mes":"8", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862001050", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"957-2473419420", "data":"2013-08-13", "detalhamento":"Passagem do Senador João Vicente Claudino, trecho Teresina/Brasília, em 13/08/2013.", 
+                            "valorReembolsado":"620.85", "codDocumento":"797108"}, {"ano":"2013", "mes":"8", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862001050", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"957-2473419453", "data":"2013-08-15", "detalhamento":"Passagem do Senador João Vicente Claudino, trecho Brasília/Teresina, em 15/08/2013.", 
+                            "valorReembolsado":"765.03", "codDocumento":"797109"}, {"ano":"2013", "mes":"9", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"06845747000127", "fornecedor":"AGESPISA - Águas e Esgotos do Piauí S.A.", 
+                            "documento":"00000", "data":"2013-09-25", "detalhamento":"Manutenção do Escritório Político do Senador João Vicente Claudino no Estado do Piauí.", 
+                            "valorReembolsado":"332.12", "codDocumento":"816681"}, {"ano":"2013", "mes":"9", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"11118428000150", "fornecedor":"C M F Vilar de Carvalho", 
+                            "documento":"0308", "data":"2013-09-24", "detalhamento":"Serviço de desinsetização em toda área interna e externa, incluindo ralos e caixas de gordura e lavagem das caixas d'água do Escritório de Apoio Político do Senador João Vicente Claudino, em Teresina-PI", 
+                            "valorReembolsado":"2950.0", "codDocumento":"816678"}, {"ano":"2013", "mes":"9", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"06840748000189", "fornecedor":"Eletrobras - Distribuição Piauí", 
+                            "documento":"0894198", "data":"2013-09-30", "detalhamento":"Manutenção do escritório político do Senador João Vicente Claudino, no Estado do Piauí. ", 
+                            "valorReembolsado":"1046.92", "codDocumento":"823598"}, {"ano":"2013", "mes":"9", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"00108786018617", "fornecedor":"NET - Serviços de Comunicação S.A.", 
+                            "documento":"010677", "data":"2013-09-10", "detalhamento":"Manutenção do escritório político do Senador João Vicente Claudino, no Estado do Piauí. ", 
+                            "valorReembolsado":"215.53", "codDocumento":"812841"}, {"ano":"2013", "mes":"9", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118001060", "fornecedor":"Telemar Norte Leste S.A.", 
+                            "documento":"031633", "data":"2013-09-11", "detalhamento":"Manutenção do Escritório político do Senador João Vicente Claudino, no Estado do Piauí. TEL", 
+                            "valorReembolsado":"78.94", "codDocumento":"812840"}, {"ano":"2013", "mes":"9", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"04206050008084", "fornecedor":"TIM - Celular S.A.", 
+                            "documento":"005899", "data":"2013-09-15", "detalhamento":"Manutenção do escritório político do Senador João Vicente Claudino, no Estado do Piauí.", 
+                            "valorReembolsado":"61.0", "codDocumento":"812842"}, {"ano":"2013", "mes":"9", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"07965096000171", "fornecedor":"J R ARAUJO DE FRANCA", 
+                            "documento":"00000036", "data":"2013-09-09", "detalhamento":"Despesa com locação de impressora e abastecimento de insumos utilizados pelo Escritório de Apoio Político do Senador João Vicente Claudino, no Estado do Piauí.", 
+                            "valorReembolsado":"3500.0", "codDocumento":"814468"}, {"ano":"2013", "mes":"9", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"06191665000106", "fornecedor":"Editora Timonense Diário do Maranhão Ltda.", 
+                            "documento":"0055", "data":"2013-09-11", "detalhamento":"Prestação de serviço de assessoria de comunicação e processamento de informações ao Escritório de apoio político no Estado do Piauí.", 
+                            "valorReembolsado":"3000.0", "codDocumento":"812843"}, {"ano":"2013", "mes":"9", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"02583994000141", "fornecedor":"ICONE COMUNICAÇÃO LTDA.", 
+                            "documento":"00002173", "data":"2013-09-17", "detalhamento":"Despesa com assessoria de comunicação ao Senador João Vicente Claudino, no Escritório de Apoio no Estado do Piauí.", 
+                            "valorReembolsado":"3200.0", "codDocumento":"814473"}, {"ano":"2013", "mes":"9", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"05859092000183", "fornecedor":"JLJ AUDITORIA CONSULTORIA E PROJETOS S/C LTDA.", 
+                            "documento":"00001389", "data":"2013-09-30", "detalhamento":"Serviços de consultoria em projetos e estudos para o desenvolvimento da atividade parlamentar no Estado do Piauí.", 
+                            "valorReembolsado":"6500.0", "codDocumento":"830509"}, {"ano":"2013", "mes":"9", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"03385378000149", "fornecedor":"C A MELO", 
+                            "documento":"00000221", "data":"2013-12-18", "detalhamento":"Referente a 42 refeições do Senador João Vicente Claudino e servidores do Escritório de Apoio no Estado do Piauí.", 
+                            "valorReembolsado":"1535.94", "codDocumento":"861983"}, {"ano":"2013", "mes":"9", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"04020028001628", "fornecedor":"GOL - Linhas Aéreas Inteligentes", 
+                            "documento":"127-00222033205", "data":"2013-09-26", "detalhamento":"Passagem do Sr. Jeferson e Silva Fontinele, matrícula nº 247574, Assessor do Senador João Vicente Claudino, no trecho Brasília/Teresina, em 26/09/2013. ", 
+                            "valorReembolsado":"260.13", "codDocumento":"823597"}, {"ano":"2013", "mes":"9", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"04020028001628", "fornecedor":"GOL Linhas Aéreas Inteligentes", 
+                            "documento":"127-00221120144", "data":"2013-09-10", "detalhamento":"Passagem do servidor JEFERSON E SILVA FONTINELE, matrícula 247574, Assessor do Senador João Vicente Claudino, trecho Brasília/Teresina, no dia 10/09/2013.", 
+                            "valorReembolsado":"384.03", "codDocumento":"814471"}, {"ano":"2013", "mes":"9", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"04020028001628", "fornecedor":"GOL Linhas Aéreas Inteligentes", 
+                            "documento":"127-00221120956", "data":"2013-09-16", "detalhamento":"Passagem do servidor JEFERSON E SILVA FONTINELE, matrícula 247574, Assessor do Senador João Vicente Claudino, trecho Teresina/Fortaleza/Brasília, no dia 16/09/2013.", 
+                            "valorReembolsado":"346.85", "codDocumento":"814472"}, {"ano":"2013", "mes":"9", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"04020028001628", "fornecedor":"GOL Linhas Aéreas Inteligentes", 
+                            "documento":"127-00222568407", "data":"2013-09-17", "detalhamento":"Passagem do Senador João Vicente Claudino, trecho Teresina/Brasília, em 17.09.2013, pela companhia GOL.", 
+                            "valorReembolsado":"1173.64", "codDocumento":"814469"}, {"ano":"2013", "mes":"9", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862001050", "fornecedor":"TAM - Linhas Aéreas", 
+                            "documento":"957-2473419437", "data":"2013-09-03", "detalhamento":"Passagem do Senador João Vicente Claudino, trecho Teresina/Brasília, em 03/09/2013.", 
+                            "valorReembolsado":"620.85", "codDocumento":"807700"}, {"ano":"2013", "mes":"9", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862001050", "fornecedor":"TAM - Linhas Aéreas", 
+                            "documento":"957-2473419439", "data":"2013-09-05", "detalhamento":"Passagem do Senador João Vicente Claudino, trecho Brasília/Teresina, em 05/09/2013.", 
+                            "valorReembolsado":"421.55", "codDocumento":"807701"}, {"ano":"2013", "mes":"9", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862001050", "fornecedor":"TAM - Linhas Aéreas", 
+                            "documento":"957-2473419442", "data":"2013-09-10", "detalhamento":"Passagem do Senador João Vicente Claudino, trecho Teresina/Brasília, em 10/09/2013.", 
+                            "valorReembolsado":"620.85", "codDocumento":"812838"}, {"ano":"2013", "mes":"9", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862001050", "fornecedor":"TAM - Linhas Aéreas", 
+                            "documento":"957-2473419443", "data":"2013-09-12", "detalhamento":"Passagem do  Senador João Vicente Claudino, trecho Brasília/Teresina, em 12/09/2013.", 
+                            "valorReembolsado":"353.55", "codDocumento":"812839"}, {"ano":"2013", "mes":"9", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862001050", "fornecedor":"TAM - Linhas Aéreas", 
+                            "documento":"957-2473419498", "data":"2013-09-24", "detalhamento":"Passagem do Senador João Vicente Claudino, trecho Teresina/Brasília, em 24/09/2013.", 
+                            "valorReembolsado":"588.95", "codDocumento":"816679"}, {"ano":"2013", "mes":"9", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862001050", "fornecedor":"TAM - Linhas Aéreas", 
+                            "documento":"957-2473419499", "data":"2013-09-26", "detalhamento":"Passagem do Senador João Vicente Claudino, trecho Brasília/Teresina, em 26/09/2013.", 
+                            "valorReembolsado":"778.25", "codDocumento":"816680"}, {"ano":"2013", "mes":"9", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862001050", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"957 2474959546", "data":"2013-09-20", "detalhamento":"Passagem do Senador João Vicente Claudino, trecho Brasília/Teresina, em 20/09/2013.", 
+                            "valorReembolsado":"1164.25", "codDocumento":"814470"}, {"ano":"2013", "mes":"10", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"06845747000127", "fornecedor":"AGESPISA - Águas e Esgotos do Piauí S.A.", 
+                            "documento":"s/n", "data":"2013-10-25", "detalhamento":"Despesa de água e esgoto do Escritório de apoio do Senador João Vicente Claudino, no Estado do Piauí.", 
+                            "valorReembolsado":"73.25", "codDocumento":"837997"}, {"ano":"2013", "mes":"10", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"06840748000189", "fornecedor":"ELETROBRAS DISTRIBUIÇÃO PIAUÍ", 
+                            "documento":"846448", "data":"2013-10-31", "detalhamento":"Referente à despesa com energia elétrica do Escritório de apoio do Senador João Vicente Claudino, no Estado do Piauí.", 
+                            "valorReembolsado":"1053.7", "codDocumento":"837996"}, {"ano":"2013", "mes":"10", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"00108786018617", "fornecedor":"NET Serviços de Comunicação S.A.", 
+                            "documento":"11293", "data":"2013-10-10", "detalhamento":"Referente à despesa com TV à cabo, telefone e internet do Escritório de apoio do Senador João Vicente Claudino, no Estado do Piauí.", 
+                            "valorReembolsado":"226.56", "codDocumento":"837998"}, {"ano":"2013", "mes":"10", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118001060", "fornecedor":"Telemar Norte Leste S.A.", 
+                            "documento":"028685", "data":"2013-10-11", "detalhamento":"Manutenção do escritório político do Senador João Vicente Claudino, no Estado do Piauí.", 
+                            "valorReembolsado":"78.94", "codDocumento":"823600"}, {"ano":"2013", "mes":"10", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"04206050008084", "fornecedor":"TIM Celular S.A.", 
+                            "documento":"9539-AA", "data":"2013-10-15", "detalhamento":"Referente à despesa com telefone celular do Escritório de apoio do Senador João Vicente Claudino, no Estado do Piauí.", 
+                            "valorReembolsado":"60.81", "codDocumento":"837999"}, {"ano":"2013", "mes":"10", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"10553172000146", "fornecedor":"AG SA Ferreira Informática ", 
+                            "documento":"449", "data":"2013-10-29", "detalhamento":"Referente à despesa com manutenção em informática do Escritório de apoio do Senador João Vicente Claudino, no Estado do Piauí.", 
+                            "valorReembolsado":"5500.0", "codDocumento":"838000"}, {"ano":"2013", "mes":"10", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"07965096000171", "fornecedor":"J R Araujo de Franca", 
+                            "documento":"000037", "data":"2013-10-07", "detalhamento":"Locação de impressoras e manutenção e suporte técnico em informática, no escritório político do Senador João Vicente Claudino, no Estado do Piauí.", 
+                            "valorReembolsado":"3500.0", "codDocumento":"823599"}, {"ano":"2013", "mes":"10", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"02583994000141", "fornecedor":"ICONE COMUNICAÇÃO LTDA.", 
+                            "documento":"00002219", "data":"2013-10-17", "detalhamento":"Serviço de assessoria de comunicação ao Escritório de Apoio do Senador João Vicente Claudino, no Estado do Piauí.", 
+                            "valorReembolsado":"3200.0", "codDocumento":"830510"}, {"ano":"2013", "mes":"10", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"05859092000183", "fornecedor":"JLJ AUDITORIA CONSULTORIA E PROJETOS S/C LTDA.", 
+                            "documento":"00001406", "data":"2013-10-23", "detalhamento":"Serviços de consultoria em projetos e estudos para o Escritório de Apoio do Senador João Vicente Claudino, no Estado do Piauí.", 
+                            "valorReembolsado":"6500.0", "codDocumento":"830511"}, {"ano":"2013", "mes":"10", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Divulgação da atividade parlamentar", "cnpjCpf":"01944243000140", "fornecedor":"DALLAS COMUNICAÇÃO LTDA.", 
+                            "documento":"206", "data":"2013-10-29", "detalhamento":"Referente à despesa com impressão de jornal informativo do Escritório de apoio do Senador João Vicente Claudino, no Estado do Piauí, em outubro de 2013.", 
+                            "valorReembolsado":"13650.0", "codDocumento":"838001"}, {"ano":"2013", "mes":"10", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"09296295000160", "fornecedor":"AZUL Linhas Aéreas Brasileiras S.A.", 
+                            "documento":"D451FV", "data":"2013-10-10", "detalhamento":"Passagem aérea do Senador João Vicente Claudino, trecho Brasília/São Paulo, no dia 10.10.2013.", 
+                            "valorReembolsado":"498.96", "codDocumento":"823602"}, {"ano":"2013", "mes":"10", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"04020028001628", "fornecedor":"GOL - Linhas Aéreas Inteligentes", 
+                            "documento":"127-00222033205", "data":"2013-10-06", "detalhamento":"Passagem do Assessor do Senador João Vicente Claudino, Senhor Jeferson e Silva Fontinele, matrícula nº 247574, trecho Teresina/Brasília, em 06.10.2013.", 
+                            "valorReembolsado":"589.85", "codDocumento":"823603"}, {"ano":"2013", "mes":"10", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"04020028001628", "fornecedor":"GOL - Linhas Aéreas Inteligentes", 
+                            "documento":"127-00223402482", "data":"2013-10-10", "detalhamento":"Passagem aérea do Senhor JEFERSON E SILVA FONTINELE, Assessor do Senador João Vicente Claudino, matrícula 247574, trechos Brasília/Teresina e Teresina/Brasília, em 10.10.2013 e 22.10.2013.", 
+                            "valorReembolsado":"951.1", "codDocumento":"830512"}, {"ano":"2013", "mes":"10", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"04020028001628", "fornecedor":"GOL - Linhas Aéreas Inteligentes", 
+                            "documento":"127-00225704972", "data":"2013-10-20", "detalhamento":"Passagem aérea do Senador João Vicente Claudino, trecho São Paulo/Teresina, em 20.10.2013.", 
+                            "valorReembolsado":"886.39", "codDocumento":"830513"}, {"ano":"2013", "mes":"10", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862001050", "fornecedor":"TAM - Linhas Aereas", 
+                            "documento":"957-2473419448", "data":"2013-10-08", "detalhamento":"Passagem do Senador João Vicente Claudino, trecho Teresina/Brasília, em 08/10/2013.", 
+                            "valorReembolsado":"362.95", "codDocumento":"823601"}, {"ano":"2013", "mes":"10", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862001050", "fornecedor":"TAM - Linhas Aéreas", 
+                            "documento":"957-2473419459", "data":"2013-10-24", "detalhamento":"Passagem aérea do Senador João Vicente Claudino, trecho Brasília/Teresina, em 24.10.2013.", 
+                            "valorReembolsado":"445.55", "codDocumento":"830514"}, {"ano":"2013", "mes":"10", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862001050", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"957-2476792454", "data":"2013-10-22", "detalhamento":"Despesa com passagem aérea do Senador João Vicente Claudino, trecho Teresina/Brasília, em 22.10.2013, pela companhia TAM.", 
+                            "valorReembolsado":"566.95", "codDocumento":"838002"}, {"ano":"2013", "mes":"10", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862001050", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"957-2473419460", "data":"2013-10-29", "detalhamento":"Despesa com passagem aérea do Senador João Vicente Claudino, trecho Teresina/Brasília, em 29.10.2013, pela companhia TAM.", 
+                            "valorReembolsado":"495.45", "codDocumento":"838003"}, {"ano":"2013", "mes":"10", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862001050", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"957-2473419461", "data":"2013-10-31", "detalhamento":"Despesa com passagem aérea do Senador João Vicente Claudino, trecho Brasília/Teresina, em 31.10.2013, pela companhia TAM.", 
+                            "valorReembolsado":"395.55", "codDocumento":"838004"}, {"ano":"2013", "mes":"11", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"06845747000127", "fornecedor":"AGESPISA - Águas e Esgotos do Piauí S/A", 
+                            "documento":"-", "data":"2013-11-25", "detalhamento":"Manutenção do escritório político do Senador João Vicente Claudino, no Estado do Piauí.", 
+                            "valorReembolsado":"150.33", "codDocumento":"851194"}, {"ano":"2013", "mes":"11", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"06840748000189", "fornecedor":"ELETROBRAS Distribuição Piauí", 
+                            "documento":"000842317", "data":"2013-11-29", "detalhamento":"Despesa com energia elétrica no Escritório de Apoio do Senador João Vicente Claudino, no Estado do Piauí.", 
+                            "valorReembolsado":"907.56", "codDocumento":"851195"}, {"ano":"2013", "mes":"11", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"00108786018617", "fornecedor":"NET Serviços de Comunicação S.A.", 
+                            "documento":"0000011699", "data":"2013-11-10", "detalhamento":"Manutenção do escritório político do Senador João Vicente Claudino, no estado do Piauí - NET Vírtua e NET Fone.", 
+                            "valorReembolsado":"230.7", "codDocumento":"843999"}, {"ano":"2013", "mes":"11", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"04206050008084", "fornecedor":"TIM Celular S.A.", 
+                            "documento":"000002859-AA", "data":"2013-11-15", "detalhamento":"Manutenção do escritório político do Senador João Vicente Claudino, no Estado do Piauí, de telefonia celular.", 
+                            "valorReembolsado":"61.0", "codDocumento":"844000"}, {"ano":"2013", "mes":"11", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"07965096000171", "fornecedor":"J R Araujo de Franca ", 
+                            "documento":"00000039", "data":"2013-11-06", "detalhamento":"Despesa com locação de impressora e abastecimento de insumos utilizados pelo Escritório de Apoio Político do Senador João Vicente Claudino, no Estado do Piauí", 
+                            "valorReembolsado":"3500.0", "codDocumento":"844001"}, {"ano":"2013", "mes":"11", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"08082913000106", "fornecedor":"ACESSEPIAUÍ LTDA", 
+                            "documento":"00000346", "data":"2013-12-13", "detalhamento":"Referente a prestação de serviço de assessoria e processamento de informações, para divulgação de atividade parlamentar.", 
+                            "valorReembolsado":"2000.0", "codDocumento":"860876"}, {"ano":"2013", "mes":"11", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"01944243000140", "fornecedor":"DALLAS COMUNICAÇÃO LTDA.", 
+                            "documento":"00000213", "data":"2013-12-16", "detalhamento":"Referente a serviço de divulgação da atividade parlamentar no Estado do Piauí, no mês de novembro de 2013.", 
+                            "valorReembolsado":"13500.0", "codDocumento":"860877"}, {"ano":"2013", "mes":"11", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"02583994000141", "fornecedor":"ICONE COMUNICAÇÃO LTDA.", 
+                            "documento":"00002267", "data":"2013-11-18", "detalhamento":"Prestação de serviços de assessoria de comunicação para o Escritório de Apoio do Senador João Vicente Claudino, no Estado do Piauí.", 
+                            "valorReembolsado":"3200.0", "codDocumento":"851198"}, {"ano":"2013", "mes":"11", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Divulgação da atividade parlamentar", "cnpjCpf":"05859092000183", "fornecedor":"JLJ AUDITORIA CONSULTORIA E PROJETOS S/C LTDA", 
+                            "documento":"00001424", "data":"2013-11-19", "detalhamento":"Serviços de consultoria em projetos e estudos para o desenvolvimento da atividade parlamentar no Estado do Piauí.", 
+                            "valorReembolsado":"6500.0", "codDocumento":"851193"}, {"ano":"2013", "mes":"11", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"04020028001628", "fornecedor":"GOL Linhas Aéreas Inteligentes", 
+                            "documento":"127-00226919094", "data":"2013-11-28", "detalhamento":"Passagem aérea do Assessor do Senador João Vicente Claudino, Rossini de Souza Lima, matrícula 203728, trecho Teresina/Fortaleza, em 28.11.2013, pela Companhia GOL.", 
+                            "valorReembolsado":"165.95", "codDocumento":"859301"}, {"ano":"2013", "mes":"11", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"04020028001628", "fornecedor":"GOL Linhas Aéreas Inteligentes", 
+                            "documento":"EIYEFX", "data":"2013-11-28", "detalhamento":"Passagem do Senador João Vicente Claudino, trecho Brasília/Teresina, em 28/11/2013.", 
+                            "valorReembolsado":"1159.84", "codDocumento":"851197"}, {"ano":"2013", "mes":"11", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862001050", "fornecedor":"TAM LINHAS AEREAS", 
+                            "documento":"957-2474959548", "data":"2013-11-05", "detalhamento":"Passagem aérea do Senador João Vicente Claudino, trecho Teresina/Brasília, em 05 de novembro de 2013. ", 
+                            "valorReembolsado":"960.85", "codDocumento":"838005"}, {"ano":"2013", "mes":"11", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862001050", "fornecedor":"TAM LINHAS AEREAS", 
+                            "documento":"957-2477871185", "data":"2013-11-07", "detalhamento":"Passagem aérea do Senador João Vicente Claudino, trecho Brasília/Teresina, em 07 de novembro de 2013. ", 
+                            "valorReembolsado":"914.65", "codDocumento":"838006"}, {"ano":"2013", "mes":"11", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862001050", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"957-2476792433", "data":"2013-11-12", "detalhamento":"Passagem do Senador João Vicente Claudino, trecho Teresina/Brasília, em 12/11/2013.", 
+                            "valorReembolsado":"502.96", "codDocumento":"851190"}, {"ano":"2013", "mes":"11", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862001050", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"957-2476792434", "data":"2013-11-14", "detalhamento":"Passagem aérea do Senador João Vicente Claudino, trecho Brasília/Teresina, em 14.11.2013.", 
+                            "valorReembolsado":"1005.45", "codDocumento":"844002"}, {"ano":"2013", "mes":"11", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862001050", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"957-2477871186", "data":"2013-11-19", "detalhamento":"Passagem do Senador João Vicente Claudino, trecho Teresina/Brasília, em 19/11/2013.", 
+                            "valorReembolsado":"426.95", "codDocumento":"851191"}, {"ano":"2013", "mes":"11", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862001050", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"957-2477871187", "data":"2013-11-21", "detalhamento":"Passagem do Senador João Vicente Claudino, trecho Brasília/Teresina, em 21/11/2013.", 
+                            "valorReembolsado":"302.55", "codDocumento":"851192"}, {"ano":"2013", "mes":"11", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862001050", "fornecedor":"TAM Linhas Aéreas ", 
+                            "documento":"957-2479618020", "data":"2013-11-27", "detalhamento":"Passagem do Senador João Vicente Claudino, trecho Teresina/Brasília, em 27/11/2013.", 
+                            "valorReembolsado":"1401.55", "codDocumento":"851196"}, {"ano":"2013", "mes":"12", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"06845747000127", "fornecedor":"AGESPISA ÁGUAS E ESGOTOS DO PIAUÍ S/A ", 
+                            "documento":"S/N", "data":"2013-12-17", "detalhamento":"Manutenção do escritório político do Senador João Vicente Claudino, no Estado do Piauí.", 
+                            "valorReembolsado":"180.57", "codDocumento":"860778"}, {"ano":"2013", "mes":"12", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"06840748000189", "fornecedor":"ELETROBRAS Distribuição Piauí", 
+                            "documento":"000835267", "data":"2013-12-31", "detalhamento":"Referente a despesa com energia elétrica do Escritório de Apoio do Senador João Vicente Claudino, no Estado do Piauí.", 
+                            "valorReembolsado":"910.4", "codDocumento":"866430"}, {"ano":"2013", "mes":"12", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118001060", "fornecedor":"TELEMAR NORTE LESTE", 
+                            "documento":"000001348", "data":"2013-12-16", "detalhamento":"Manutenção do escritório político do Senador João Vicente Claudino, no estado do Piauí - NET Vírtua e NET Fone.", 
+                            "valorReembolsado":"117.44", "codDocumento":"860780"}, {"ano":"2013", "mes":"12", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118001060", "fornecedor":"TELEMAR NORTE LESTE S.A.", 
+                            "documento":"27826", "data":"2013-12-11", "detalhamento":"Manutenção do Escritório de Apoio do Senador João Vicente Claudino, no Piauí, conta telefônica.", 
+                            "valorReembolsado":"78.94", "codDocumento":"854801"}, {"ano":"2013", "mes":"12", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"04206050008084", "fornecedor":"TIM Celular S.A", 
+                            "documento":"000.004.132-AA", "data":"2013-12-16", "detalhamento":"Manutenção do escritório político do Senador João Vicente Claudino, no Estado do Piauí.", 
+                            "valorReembolsado":"62.35", "codDocumento":"860779"}, {"ano":"2013", "mes":"12", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"10553172000146", "fornecedor":"A G SA FERREIRA IINFORMATICA", 
+                            "documento":"00000461", "data":"2013-12-05", "detalhamento":"Referente à despesa com manutenção em informática do Escritório de apoio do Senador João Vicente Claudino, no Estado do Piauí.", 
+                            "valorReembolsado":"7500.0", "codDocumento":"859302"}, {"ano":"2013", "mes":"12", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"07965096000171", "fornecedor":"J R ARAUJO DE FRANCA ", 
+                            "documento":"00000040", "data":"2013-12-04", "detalhamento":"Referente à despesa com manutenção e suporte técnico em informática, locação e abastecimento de insumos do Escritório de apoio do Senador João Vicente Claudino, no Estado do Piauí.", 
+                            "valorReembolsado":"3500.0", "codDocumento":"859303"}, {"ano":"2013", "mes":"12", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"02583994000141", "fornecedor":"ÍCONE COMUNICAÇÃO LTDA ", 
+                            "documento":"00002313", "data":"2013-12-16", "detalhamento":"Prestação de serviço de assessoria de comunicação ao Escritório do Senador João Vicente Claudino.", 
+                            "valorReembolsado":"3200.0", "codDocumento":"860776"}, {"ano":"2013", "mes":"12", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"05859092000183", "fornecedor":"JLJ AUDITORIA CONSULTORIA E PROJETOS S/C LTDA.", 
+                            "documento":"00001428", "data":"2013-12-02", "detalhamento":"Referente a serviços de consultoria para o Escritório de Apoio do Senador João Vicente Claudino, no Estado do Piauí.", 
+                            "valorReembolsado":"6500.0", "codDocumento":"854802"}, {"ano":"2013", "mes":"12", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Divulgação da atividade parlamentar", "cnpjCpf":"12512856000125", "fornecedor":"R N OLIVEIRA ALBUQUERQUE PUBLICIDADE", 
+                            "documento":"416005975-8", "data":"2014-01-29", "detalhamento":"Referente a despesa com serviços prestados para divulgação da atividade parlamentar do Senador João Vicente Claudino, no Estado do Piauí, em dezembro de 2013.", 
+                            "valorReembolsado":"1000.0", "codDocumento":"871010"}, {"ano":"2013", "mes":"12", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"03385378000149", "fornecedor":"C A MELO", 
+                            "documento":"00000225", "data":"2013-12-18", "detalhamento":"Referente a 42 refeições do Senador João Vicente Claudino e servidores no Escritório de Apoio Político no Estado do Piauí, no mês de dezembro de 2013. ", 
+                            "valorReembolsado":"1641.78", "codDocumento":"861984"}, {"ano":"2013", "mes":"12", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02575829000148", "fornecedor":"AVIANCA", 
+                            "documento":"012-9451819", "data":"2013-12-19", "detalhamento":"Passagem do Senador João Vicente Claudino, trecho Brasília/Fortaleza, em 19/12/2013.", 
+                            "valorReembolsado":"1099.45", "codDocumento":"861985"}, {"ano":"2013", "mes":"12", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"04020028001628", "fornecedor":"GOL Linhas Aéreas Inteligentes", 
+                            "documento":"XJS2TX", "data":"2013-12-01", "detalhamento":"Passagem aérea do Assessor do Senador João Vicente Claudino, Rossini de Souza Lima, matrícula 203728, trecho Fortaleza/Teresina, em 01.12.2013 pela companhia GOL.", 
+                            "valorReembolsado":"170.57", "codDocumento":"854803"}, {"ano":"2013", "mes":"12", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"00512777000135", "fornecedor":"PASSAREDO Transportes Aéreos Ltda.", 
+                            "documento":"100.525.9321", "data":"2013-12-05", "detalhamento":"Passagem aérea do Senador João Vicente Claudino, trecho Brasília/Barreiras, em 05.12.2013, pela Companhia Passaredo.", 
+                            "valorReembolsado":"334.55", "codDocumento":"854805"}, {"ano":"2013", "mes":"12", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862001050", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"957-2481380201", "data":"2013-12-17", "detalhamento":"Passagem do Senador João Vicente Claudino, trecho Teresina/Brasília, em 17/12/2013.", 
+                            "valorReembolsado":"1001.55", "codDocumento":"860777"}, {"ano":"2013", "mes":"12", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862001050", "fornecedor":"TAM LINHAS AÉREAS", 
+                            "documento":"230-3930899257", "data":"2013-12-26", "detalhamento":"Passagem do Senador João Vicente Claudino, trecho Teresina/Brasília, em 26/12/2013.", 
+                            "valorReembolsado":"857.35", "codDocumento":"861986"}, {"ano":"2013", "mes":"12", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862001050", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"957-2477871190", "data":"2013-12-03", "detalhamento":"Passagem aérea do Senador João Vicente Claudino, trecho Teresina/Brasília, em 03.12.2013, pela TAM.", 
+                            "valorReembolsado":"332.95", "codDocumento":"854804"}, {"ano":"2013", "mes":"12", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862001050", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"957-2479618071", "data":"2013-12-07", "detalhamento":"Passagem do Senador João Vicente Claudino, trecho Teresina/Brasília, em 07/12/2013.", 
+                            "valorReembolsado":"1007.15", "codDocumento":"859304"}, {"ano":"2013", "mes":"12", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862001050", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"957-2479618070", "data":"2013-12-08", "detalhamento":"Passagem do Senador João Vicente Claudino, trecho Brasília/Teresina, em 08/12/2013.", 
+                            "valorReembolsado":"1006.35", "codDocumento":"859305"}, {"ano":"2013", "mes":"12", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862001050", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"957-2479618072", "data":"2013-12-10", "detalhamento":"Passagem do Senador João Vicente Claudino, trecho Teresina/Brasília, em 10/12/2013.", 
+                            "valorReembolsado":"1001.55", "codDocumento":"859306"}, {"ano":"2013", "mes":"12", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862001050", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"957-2477871193", "data":"2013-12-12", "detalhamento":"Passagem aérea do Senador João Vicente Claudino, trecho Brasília/Teresina, dia 12.12.2013, pela Companhia TAM.", 
+                            "valorReembolsado":"914.65", "codDocumento":"859307"}, {"ano":"2013", "mes":"4", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862001050", "fornecedor":"TAM Linhas Aereas", 
+                            "documento":"957 2464014206", "data":"2013-04-09", "detalhamento":"Passagem do Sen. João Vicente Claudino, trecho THE/BSB, em 09/04/2013.", 
+                            "valorReembolsado":"869.45", "codDocumento":"720604"}, {"ano":"2013", "mes":"4", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862001050", "fornecedor":"TAM Linhas Aéreas", 
+                            "documento":"957 - 246401209", "data":"2013-04-18", "detalhamento":"Passagem do Senador João Vicente Claudino, trecho BSB/THE, em 18/04/2013.", 
+                            "valorReembolsado":"873.63", "codDocumento":"732779"}, {"ano":"2013", "mes":"5", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"06840748000189", "fornecedor":"Eletrobras Distribuição do Piauí", 
+                            "documento":"882.996", "data":"2013-05-31", "detalhamento":"Conta de energia elétrica do Escritório Político do Senador João Vicente Claudino no Estado do Piauí.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+", 
+                            "valorReembolsado":"1008.31", "codDocumento":"752986"}, {"ano":"2013", "mes":"5", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"00108786018617", "fornecedor":"NETServiços de Comunicação S.A.", 
+                            "documento":"8306", "data":"2013-05-10", "detalhamento":"Manutenção do Escritório de Apoio no Estado do Piauí - Internet e Telefone.", 
+                            "valorReembolsado":"242.99", "codDocumento":"742126"}, {"ano":"2013", "mes":"5", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33000118001060", "fornecedor":"TELEMAR Norte Leste S.A.", 
+                            "documento":"0800019008404", "data":"2013-05-11", "detalhamento":"Despesa com manutenção do Escritório de Apoio no Estado do Piauí - Telefone.", 
+                            "valorReembolsado":"3.49", "codDocumento":"742128"}, {"ano":"2013", "mes":"5", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"04206050008084", "fornecedor":"TIM Celular S.A.", 
+                            "documento":"62560-AA", "data":"2013-05-10", "detalhamento":"Despesa com manutenção do Escritório de Apoio no Estado do Piauí, conta de telefone.", 
+                            "valorReembolsado":"31.66", "codDocumento":"742127"}, {"ano":"2013", "mes":"5", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"10553172000146", "fornecedor":"A G SA Ferreira Informática", 
+                            "documento":"0000405", "data":"2013-05-06", "detalhamento":"Manutenção em equipamento de informática do Escritório de Apoio do Senador João Vicente Claudino no Piauí. ", 
+                            "valorReembolsado":"5500.0", "codDocumento":"742122"}, {"ano":"2013", "mes":"5", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"17379460000175", "fornecedor":"Bruna Arcorverde Pereira", 
+                            "documento":"0000005", "data":"2013-06-03", "detalhamento":"Prestação de serviços de impressões monocromática e colorida, empréstimo de impressora e manutenção de computadores.", 
+                            "valorReembolsado":"3500.0", "codDocumento":"763343"}, {"ano":"2013", "mes":"5", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"06191665000106", "fornecedor":"EDITORA TIMONENSE DIÁRIO DO MARANHÃO LTDA.", 
+                            "documento":"00000045", "data":"2013-05-10", "detalhamento":"ASSESSORIA DE COMUNICAÇÃO E PROCESSAMENTO DE INFORMAÇÕES PARA O ESCRITÓRIO DO SENADOR JOÃO VICENTE CLAUDINO NO PIAUÍ.", 
+                            "valorReembolsado":"3000.0", "codDocumento":"750369"}, {"ano":"2013", "mes":"5", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"05859092000183", "fornecedor":"JLJ Auditoria Consultoria e Projetos S/C Ltda.", 
+                            "documento":"1308", "data":"2013-06-27", "detalhamento":"Serviços de consultoria em projetos e estudos para o desenvolvimento da atividade parlamentar no Estado do Piauí.", 
+                            "valorReembolsado":"6500.0", "codDocumento":"775352"}, {"ano":"2013", "mes":"5", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Divulgação da atividade parlamentar", "cnpjCpf":"08082913000106", "fornecedor":"ACESSEPIAUI LTDA.", 
+                            "documento":"000282", "data":"2013-05-17", "detalhamento":"Prestação de serviço de assessoria de comunicação e processamento de inofrmações, para divulgação da atividade parlamentar.", 
+                            "valorReembolsado":"2000.0", "codDocumento":"763344"}, {"ano":"2013", "mes":"5", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Divulgação da atividade parlamentar", "cnpjCpf":"02583994000141", "fornecedor":"ICONE COMUNICAÇÃO LTDA.", 
+                            "documento":"2004", "data":"2013-05-17", "detalhamento":"SERVIÇOS DE ASSESSORIA DE COMUNICAÇÃO.", 
+                            "valorReembolsado":"3200.0", "codDocumento":"750368"}, {"ano":"2013", "mes":"5", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"03003930000197", "fornecedor":"CEARA Táxi Aéreo Ltda.", 
+                            "documento":"0545", "data":"2013-05-06", "detalhamento":"Referente a serviços de fretamento de táxi aéreo realizado em 03/05/2013, no percusso Teresina/valença/Teresina, para o Senador João Vicente Claudino.", 
+                            "valorReembolsado":"2660.0", "codDocumento":"742123"}, {"ano":"2013", "mes":"5", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"03003930000197", "fornecedor":"Ceará Taxi Aéreo Ltda.", 
+                            "documento":"0588", "data":"2013-08-23", "detalhamento":"Referente a serviço de fretamento de táxi aéreo realizado em 30/05/2013, trecho Teresina/Picos/Teresina, pelo Senador João Vicente Claudino.", 
+                            "valorReembolsado":"3036.0", "codDocumento":"804679"}, {"ano":"2013", "mes":"5", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"08466219000192", "fornecedor":"CHURRASCARIA POTÊNCIA GRILL LTDA.", 
+                            "documento":"27924", "data":"2013-05-15", "detalhamento":"ALMOÇO COM ASSESSORES EM REUNIÃO PARA TRATAR DE ASSUNTOS LIGADOS AO ESTADO DO PIAUÍ.", 
+                            "valorReembolsado":"1898.16", "codDocumento":"750367"}, {"ano":"2013", "mes":"5", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862001050", "fornecedor":"TAM", 
+                            "documento":"957 - 2468417010", "data":"2013-05-10", "detalhamento":"Passagem do Senador João Vicente Claudino, trecho Brasília/Teresina, em 10/05/2013. ", 
+                            "valorReembolsado":"1325.73", "codDocumento":"742125"}, {"ano":"2013", "mes":"5", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862001050", "fornecedor":"TAM", 
+                            "documento":"957 2468417044", "data":"2013-05-21", "detalhamento":"PASSAGEM AÉREA DO SENADOR JOÃO VICENTE CLAUDINO, TRECHO TERESINA/BRASÍLIA, EM 21.05.2013, COMPANHIA TAM.", 
+                            "valorReembolsado":"850.13", "codDocumento":"750370"}, {"ano":"2013", "mes":"5", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862001050", "fornecedor":"TAM", 
+                            "documento":"957 2465954606", "data":"2013-05-23", "detalhamento":"PASSAGEM AÉREA DO SENADOR JOÃO VICENTE CLAUDINO, TRECHO BRASÍLIA/TERESINA, NO DIA 23.05.2013, COMPANHIA TAM.", 
+                            "valorReembolsado":"562.33", "codDocumento":"750371"}, {"ano":"2013", "mes":"5", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862001050", "fornecedor":"TAM ", 
+                            "documento":"957 2465954605", "data":"2013-05-07", "detalhamento":"Passagem do Senador João Vicente Claudino, trecho THE/BSB, em 07/05/2013.", 
+                            "valorReembolsado":"530.65", "codDocumento":"742124"}, {"ano":"2013", "mes":"5", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862001050", "fornecedor":"TAM ", 
+                            "documento":"957 2465954607", "data":"2013-05-28", "detalhamento":"Passagem do Senador João Vicente Claudino, trecho Teresina/Brasília, em 28/05/2013.", 
+                            "valorReembolsado":"530.65", "codDocumento":"752987"}, {"ano":"2013", "mes":"5", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862001050", "fornecedor":"TAM ", 
+                            "documento":"957 2465954608", "data":"2013-05-30", "detalhamento":"Passagem do Senador João Vicente Claudino, trecho Brasília/Teresina, em 29/05/2013.
+", 
+                            "valorReembolsado":"653.63", "codDocumento":"752988"}, {"ano":"2013", "mes":"6", "senador":"JOÃO VICENTE CLAUDINO", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"06845747000127", "fornecedor":"AGESPISA - Águas e Esgotos do Piauí S.A.", 
+                            "documento":"00000", "data":"2013-06-25", "detalhamento":"Manutenção do escritório do político do Senador João Vicente Claudino, no Estado do Piauí. agua e esgoto.", 
+                            "valorReembolsado":"141.02", "codDocumento":"768473"}]}

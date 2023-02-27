@@ -1,0 +1,647 @@
+{"gastosSenador": [{"ano":"2013", "mes":"5", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Serviços de Segurança Privada", "cnpjCpf":"16670250000179", "fornecedor":"DESTAK  Alarmes e Serviços Ltda ME", 
+                            "documento":"649", "data":"2013-05-03", "detalhamento":"Despesas com monitoramento do Escritório Político no Estado.", 
+                            "valorReembolsado":"185.0", "codDocumento":"764359"}, {"ano":"2013", "mes":"6", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"01543032000104", "fornecedor":"CELG", 
+                            "documento":"1183280", "data":"2013-06-17", "detalhamento":"Despesa com pagamento de energia elétrica do Escritório Político de Goiânia.", 
+                            "valorReembolsado":"286.87", "codDocumento":"776308"}, {"ano":"2013", "mes":"6", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"00242721168", "fornecedor":"Nelson Lopes de Figueiredo", 
+                            "documento":"302017017800000029", "data":"2013-06-20", "detalhamento":"Pagamento de IPTU do Escritório Político em Goiânia.", 
+                            "valorReembolsado":"463.38", "codDocumento":"776309"}, {"ano":"2013", "mes":"6", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"00242721168", "fornecedor":"Nelson Lopes de Figuiredo", 
+                            "documento":"0010850030000", "data":"2013-07-01", "detalhamento":"Despesa com aluguel do Escritório Parlamentar em Goiânia, ref. mês de junho/2013.", 
+                            "valorReembolsado":"7003.0", "codDocumento":"776306"}, {"ano":"2013", "mes":"6", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"76535764032851", "fornecedor":"OI Fixo", 
+                            "documento":"000077367", "data":"2013-06-14", "detalhamento":"Despesa com pagamento de telefone do Escritório Político de Goiânia.", 
+                            "valorReembolsado":"279.94", "codDocumento":"776312"}, {"ano":"2013", "mes":"6", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"76535764032851", "fornecedor":"OI Fixo", 
+                            "documento":"000077367", "data":"2013-06-26", "detalhamento":"Despesa com pagamento de telefone do Escritório Político de Goiânia.", 
+                            "valorReembolsado":"247.14", "codDocumento":"776311"}, {"ano":"2013", "mes":"6", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"01616929000102", "fornecedor":"Saneamento de Goiás S/A", 
+                            "documento":"765541921-4", "data":"2013-06-26", "detalhamento":"Despesa com pagamento de água do Escritório Político em Goiânia.", 
+                            "valorReembolsado":"221.17", "codDocumento":"776307"}, {"ano":"2013", "mes":"6", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"11960372000186", "fornecedor":"BAIOCCHI, FERREIRA & GOMES SPCIEDADE DE ADVOGADOS", 
+                            "documento":"478", "data":"2013-07-01", "detalhamento":"CONSULTORIA, ELABORAÇÃO DE PROJETOS E PARECERES - RESPONSABILIDADE FISCAL, INCENTIVOS FISCAIS NO ESTADO - REF. AO MES DE JUNHO DE 2013", 
+                            "valorReembolsado":"8000.0", "codDocumento":"780220"}, {"ano":"2013", "mes":"6", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"02985247000130", "fornecedor":"Petroenge Comércio de Combustíveis e Serviços Ltda", 
+                            "documento":"239", "data":"2013-06-28", "detalhamento":"Aquisição de combustível para veículos utilizados na atividade parlamentar no Estado de Goiás.", 
+                            "valorReembolsado":"3523.62", "codDocumento":"780219"}, {"ano":"2013", "mes":"6", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"06164253000187", "fornecedor":"GOL", 
+                            "documento":"3824032", "data":"2013-06-03", "detalhamento":"Passageiro: CYRO MIRANDA GIFFORD JÚNIOR
+Vôo: GOL G31515 - Goiânia/Brasília 
+Data 03/06/2013", 
+                            "valorReembolsado":"316.85", "codDocumento":"761214"}, {"ano":"2013", "mes":"6", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572469698715", "data":"2013-06-04", "detalhamento":"Passageiro CYRO MIRANDA GIFFORD JÚNIOR 
+Vôo JJ 3579 - Brasília/Goiânia 
+Data 04/06/2013", 
+                            "valorReembolsado":"181.13", "codDocumento":"761215"}, {"ano":"2013", "mes":"6", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Serviços de Segurança Privada", "cnpjCpf":"16670250000179", "fornecedor":"DESTAK Alarmes e Serviços Ltda ME", 
+                            "documento":"706", "data":"2013-06-03", "detalhamento":"Despesas com monitoramento do Escritório Político no Estado", 
+                            "valorReembolsado":"185.0", "codDocumento":"776310"}, {"ano":"2013", "mes":"7", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"08926037000157", "fornecedor":"BR Gás Ltda ME", 
+                            "documento":"974", "data":"2013-07-04", "detalhamento":"Despesa com pagamento de GLP do Escritório Político de Goiânia", 
+                            "valorReembolsado":"45.0", "codDocumento":"789933"}, {"ano":"2013", "mes":"7", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"01543032000104", "fornecedor":"CELG", 
+                            "documento":"1086611", "data":"2013-07-17", "detalhamento":"Despesa com pagamento de energia elétrica do Escritório Político de Goiânia.", 
+                            "valorReembolsado":"362.41", "codDocumento":"789936"}, {"ano":"2013", "mes":"7", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"00242721168", "fornecedor":"Nelson Lopes de Figueiredo", 
+                            "documento":"302017017800000029", "data":"2013-07-22", "detalhamento":"Pagamento de IPTU do Escritório Político em Goiânia.", 
+                            "valorReembolsado":"463.38", "codDocumento":"789937"}, {"ano":"2013", "mes":"7", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"00242721168", "fornecedor":"Nelson Lopes de Figueiredo", 
+                            "documento":"0010850031000", "data":"2013-08-01", "detalhamento":"Despesa com aluguel do Escritório Parlamentar em Goiânia, ref. mês de julho/2013.", 
+                            "valorReembolsado":"7003.0", "codDocumento":"789939"}, {"ano":"2013", "mes":"7", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"76535764032851", "fornecedor":"OI Fixo", 
+                            "documento":"78852", "data":"2013-07-14", "detalhamento":"Despesa com pagamento de telefone do Escritório Político de Goiânia.", 
+                            "valorReembolsado":"166.26", "codDocumento":"789934"}, {"ano":"2013", "mes":"7", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"01616929000102", "fornecedor":"Saneamento de Goiás S/A", 
+                            "documento":"557389976-3", "data":"2013-07-10", "detalhamento":"Despesa com pagamento de água do Escritório Político em Goiânia.", 
+                            "valorReembolsado":"114.78", "codDocumento":"789935"}, {"ano":"2013", "mes":"7", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"11960372000186", "fornecedor":"BAIOCCHI, FERREIRA & GOMES SOCIEDADE DE ADVOGADOS", 
+                            "documento":"493", "data":"2013-08-01", "detalhamento":"CONSULTORIA PARA ELABORAÇÃO DE PROJETOS REF. ATUAÇÃO NO ESTADO DE GOIÁS E MUNICÍPIOS.", 
+                            "valorReembolsado":"8000.0", "codDocumento":"791241"}, {"ano":"2013", "mes":"7", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"02985247000130", "fornecedor":"Petroenge Comércio de Combustíveis e Serviços Ltda", 
+                            "documento":"246", "data":"2013-07-30", "detalhamento":"Aquisição de combustível para veículos utilizados na atividade parlamentar no Estado de Goiás.", 
+                            "valorReembolsado":"3387.81", "codDocumento":"789940"}, {"ano":"2013", "mes":"7", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Serviços de Segurança Privada", "cnpjCpf":"16670250000179", "fornecedor":"DESTAK Alarmes e Serviços Ltda ME", 
+                            "documento":"769", "data":"2013-07-01", "detalhamento":"Despesas com monitoramento do Escritório Político no Estado", 
+                            "valorReembolsado":"185.0", "codDocumento":"789938"}, {"ano":"2013", "mes":"8", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"01543032000104", "fornecedor":"CELG", 
+                            "documento":"951253", "data":"2013-08-17", "detalhamento":"Despesa com pagamento de energia elétrica do Escritório Político de Goiânia.", 
+                            "valorReembolsado":"279.08", "codDocumento":"822052"}, {"ano":"2013", "mes":"8", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"00242721168", "fornecedor":"Nelson Lopes de Figueiredo", 
+                            "documento":"302017017800000029", "data":"2013-08-20", "detalhamento":"Pagamento de IPTU do Escritório Político em Goiânia, parcela 7/11.", 
+                            "valorReembolsado":"463.38", "codDocumento":"805708"}, {"ano":"2013", "mes":"8", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"00242721168", "fornecedor":"Nelson Lopes de Figueiredo", 
+                            "documento":"0010850032000", "data":"2013-09-01", "detalhamento":"Despesa com aluguel do Escritório Parlamentar em Goiânia, ref. mês de agosto/2013.", 
+                            "valorReembolsado":"7003.0", "codDocumento":"805710"}, {"ano":"2013", "mes":"8", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"76535764032851", "fornecedor":"OI Fixo", 
+                            "documento":"78489", "data":"2013-08-14", "detalhamento":"Despesa com pagamento de telefone do Escritório Político de Goiânia.", 
+                            "valorReembolsado":"204.06", "codDocumento":"805705"}, {"ano":"2013", "mes":"8", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"01616929000102", "fornecedor":"Saneamento de Goiás S/A", 
+                            "documento":"5590083822", "data":"2013-08-10", "detalhamento":"Despesa com pagamento de água do Escritório Político em Goiânia.", 
+                            "valorReembolsado":"112.22", "codDocumento":"805706"}, {"ano":"2013", "mes":"8", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"02985247000130", "fornecedor":"Petroenge Comércio de Combustíveis e Serviços Ltda", 
+                            "documento":"251", "data":"2013-08-30", "detalhamento":"Aquisição de combustível para veículos utilizados na atividade parlamentar no Estado de Goiás.", 
+                            "valorReembolsado":"3689.83", "codDocumento":"805704"}, {"ano":"2013", "mes":"8", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"25124074000160", "fornecedor":"Valposto Combustíveis Ltda", 
+                            "documento":"3433", "data":"2013-08-14", "detalhamento":"Aquisição de combustível para veículos utilizados na atividade parlamentar no Estado de Goiás - Assessor Carlos Gaudio Fleury de souza - mat. 234191", 
+                            "valorReembolsado":"105.0", "codDocumento":"805707"}, {"ano":"2013", "mes":"8", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"06164253000187", "fornecedor":"GOL", 
+                            "documento":"12700219651120", "data":"2013-08-05", "detalhamento":"Passageiro: CYRO MIRANDA GIFFORD JÚNIOR 
+Vôo: GOL G3-1515 - Goiânia/Brasília 
+Data 05/08/2013", 
+                            "valorReembolsado":"552.85", "codDocumento":"800533"}, {"ano":"2013", "mes":"8", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"06164253000187", "fornecedor":"GOL", 
+                            "documento":"12700220940207", "data":"2013-08-19", "detalhamento":"Passageiro: CYRO MIRANDA GIFFORD JÚNIOR 
+Vôo: GOL G3-1583 - Goiânia/Brasília 
+Data 20/08/2013", 
+                            "valorReembolsado":"551.85", "codDocumento":"800534"}, {"ano":"2013", "mes":"8", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"06164253000187", "fornecedor":"GOL", 
+                            "documento":"12700221315992", "data":"2013-08-23", "detalhamento":"Passageiro: CYRO MIRANDA GIFFORD JÚNIOR 
+Vôo: GOL G3-1515 - Goiânia/Brasília 
+Data 26/08/2013", 
+                            "valorReembolsado":"551.85", "codDocumento":"805702"}, {"ano":"2013", "mes":"8", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"8572474491321", "data":"2013-08-21", "detalhamento":"Passageiro CYRO MIRANDA GIFFORD JÚNIOR 
+Vôo JJ 3579 - Brasília/Goiânia 
+Data 22/08/2013", 
+                            "valorReembolsado":"585.55", "codDocumento":"805703"}, {"ano":"2013", "mes":"9", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"01543032000104", "fornecedor":"CELG", 
+                            "documento":"1025412", "data":"2013-09-17", "detalhamento":"Despesa com pagamento de energia elétrica do Escritório Político de Goiânia.", 
+                            "valorReembolsado":"194.54", "codDocumento":"822058"}, {"ano":"2013", "mes":"9", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"16670250000179", "fornecedor":"DESTAK Alarmes e Serviços Ltda ME", 
+                            "documento":"896", "data":"2013-09-04", "detalhamento":"Despesas com monitoramento do Escritório Político no Estado.", 
+                            "valorReembolsado":"185.0", "codDocumento":"822063"}, {"ano":"2013", "mes":"9", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"00242721168", "fornecedor":"Nelson Lopes de Figueiredo", 
+                            "documento":"302017017800000029", "data":"2013-09-24", "detalhamento":"Pagamento de IPTU do Escritório Político em Goiânia", 
+                            "valorReembolsado":"478.76", "codDocumento":"822062"}, {"ano":"2013", "mes":"9", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"00242721168", "fornecedor":"Nelson Lopes de Figueiredo", 
+                            "documento":"0014460001000", "data":"2013-10-01", "detalhamento":"Despesa com aluguel do Escritório Parlamentar em Goiânia, ref. mês de setembro/2013.", 
+                            "valorReembolsado":"3503.0", "codDocumento":"822064"}, {"ano":"2013", "mes":"9", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"76535764032851", "fornecedor":"OI Fixo", 
+                            "documento":"252631", "data":"2013-09-14", "detalhamento":"Despesa com pagamento de telefone do Escritório Político de Goiânia", 
+                            "valorReembolsado":"247.79", "codDocumento":"822061"}, {"ano":"2013", "mes":"9", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"01616929000102", "fornecedor":"Saneamento de Goiás S/A", 
+                            "documento":"560636757-9", "data":"2013-09-10", "detalhamento":"Despesa com pagamento de água do Escritório Político em Goiânia.", 
+                            "valorReembolsado":"148.1", "codDocumento":"822060"}, {"ano":"2013", "mes":"9", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"02985247000130", "fornecedor":"Petroenge Comércio de Combustíveis e Serviços Ltda", 
+                            "documento":"256", "data":"2013-09-29", "detalhamento":"Aquisição de combustível para veículos utilizados na atividade parlamentar no Estado de Goiás.", 
+                            "valorReembolsado":"3619.31", "codDocumento":"818866"}, {"ano":"2013", "mes":"9", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"06288238000140", "fornecedor":"Tradição Mineira Ind. Com. Prod. Alimentícios Ltda", 
+                            "documento":"1261", "data":"2013-09-27", "detalhamento":"Aquisição de produto para uso em reunião parlamentar no Escritório Político de Goiânia.", 
+                            "valorReembolsado":"96.0", "codDocumento":"822059"}, {"ano":"2013", "mes":"9", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"09296295001050", "fornecedor":"AZUL", 
+                            "documento":"01469290912005", "data":"2013-09-12", "detalhamento":"Passageiro CYRO MIRANDA GIFFORD JÚNIOR 
+Vôo 6929 - Goiânia/Santos Dumont
+Data 12/09/2013
+
+Vôo 5052 - Santos Dumont/Goiânia
+Data 15/09/2013", 
+                            "valorReembolsado":"1032.32", "codDocumento":"813011"}, {"ano":"2013", "mes":"9", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"06164253000187", "fornecedor":"GOL", 
+                            "documento":"12700223950755", "data":"2013-09-23", "detalhamento":"Passageiro: CYRO MIRANDA GIFFORD JÚNIOR 
+Vôo: GOL G3-1515 
+ Goiânia/Brasília
+Data 23/09/2013", 
+                            "valorReembolsado":"415.85", "codDocumento":"818862"}, {"ano":"2013", "mes":"9", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"06164253000187", "fornecedor":"GOL", 
+                            "documento":"12700224409809", "data":"2013-09-26", "detalhamento":"Passageiro: CYRO MIRANDA GIFFORD JÚNIOR 
+Vôo: GOL G3 1405 
+Brasília/Congonhas
+Data 26/09/2013", 
+                            "valorReembolsado":"646.03", "codDocumento":"818863"}, {"ano":"2013", "mes":"9", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"06164253000187", "fornecedor":"GOL", 
+                            "documento":"12700224529182", "data":"2013-09-30", "detalhamento":"Passageiro: CYRO MIRANDA GIFFORD JÚNIOR 
+Vôo: GOL G3 1589
+ Goiânia/Brasília
+Data 30/09/2013", 
+                            "valorReembolsado":"482.85", "codDocumento":"818865"}, {"ano":"2013", "mes":"9", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572475395699", "data":"2013-09-09", "detalhamento":"Passageiro CYRO MIRANDA GIFFORD JÚNIOR 
+Vôo JJ 3571 - Goiânia/Brasília
+Data 09/09/2013", 
+                            "valorReembolsado":"437.95", "codDocumento":"813013"}, {"ano":"2013", "mes":"9", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572475402707", "data":"2013-09-12", "detalhamento":"Passageiro CYRO MIRANDA GIFFORD JÚNIOR 
+Vôo JJ 3457 - Brasília/Goiânia 
+Data 12/09/2013", 
+                            "valorReembolsado":"194.55", "codDocumento":"813010"}, {"ano":"2013", "mes":"9", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572475395602", "data":"2013-09-16", "detalhamento":"Passageiro CYRO MIRANDA GIFFORD JÚNIOR 
+Vôo JJ 7423 - Goiânia/Brasília Data 16/09/2013", 
+                            "valorReembolsado":"188.95", "codDocumento":"813012"}, {"ano":"2013", "mes":"9", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572476252399", "data":"2013-09-19", "detalhamento":"Passageiro CYRO MIRANDA GIFFORD JÚNIOR 
+Vôo JJ 3579 - Brasília/Goiânia
+Data 19/09/2013", 
+                            "valorReembolsado":"584.55", "codDocumento":"818861"}, {"ano":"2013", "mes":"9", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572476384709", "data":"2013-09-29", "detalhamento":"Passageiro CYRO MIRANDA GIFFORD JÚNIOR 
+Vôo JJ 3462- 
+São Paulo/Goiânia 
+Data 29/09/2013", 
+                            "valorReembolsado":"1227.97", "codDocumento":"818864"}, {"ano":"2013", "mes":"10", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"01543032000104", "fornecedor":"CELG", 
+                            "documento":"977495", "data":"2013-10-17", "detalhamento":"Despesa com pagamento de energia elétrica do Escritório Político de Goiânia.", 
+                            "valorReembolsado":"252.11", "codDocumento":"833812"}, {"ano":"2013", "mes":"10", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"15745172000161", "fornecedor":"Improsis Informática Ltda-ME", 
+                            "documento":"1053", "data":"2013-10-15", "detalhamento":"Despesa com serviço de manutenção de rede interna.", 
+                            "valorReembolsado":"90.0", "codDocumento":"833813"}, {"ano":"2013", "mes":"10", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"00242721168", "fornecedor":"Nelson Lopes de Figueiredo", 
+                            "documento":"302017017800000029	", "data":"2013-10-21", "detalhamento":"Pagamento de IPTU do Escritório Político em Goiânia, parcela 9/11.", 
+                            "valorReembolsado":"463.38", "codDocumento":"833816"}, {"ano":"2013", "mes":"10", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"00242721168", "fornecedor":"Nelson Lopes de Figueiredo", 
+                            "documento":"0014460002000", "data":"2013-11-01", "detalhamento":"Despesa com aluguel do Escritório Parlamentar em Goiânia, ref. mês de outubro/2013.", 
+                            "valorReembolsado":"3503.0", "codDocumento":"833818"}, {"ano":"2013", "mes":"10", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"76535764032851", "fornecedor":"OI Fixo", 
+                            "documento":"51998", "data":"2013-10-14", "detalhamento":"Despesa com pagamento de telefone do Escritório Político de Goiânia.", 
+                            "valorReembolsado":"267.72", "codDocumento":"833815"}, {"ano":"2013", "mes":"10", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"01616929000102", "fornecedor":"Saneamento de Goiás S/A", 
+                            "documento":"562278063-9", "data":"2013-10-10", "detalhamento":"Despesa com pagamento de água do Escritório Político em Goiânia.", 
+                            "valorReembolsado":"124.18", "codDocumento":"833814"}, {"ano":"2013", "mes":"10", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"33285271000190", "fornecedor":"Livraria e Papelaria RC Ltda", 
+                            "documento":"7694", "data":"2013-10-09", "detalhamento":"Aquisição de material de consumo para uso no escritório de apoio em Goiânia.", 
+                            "valorReembolsado":"147.7", "codDocumento":"852978"}, {"ano":"2013", "mes":"10", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"08666015000103", "fornecedor":"Auto Posto GT Ltda", 
+                            "documento":"512669", "data":"2013-10-27", "detalhamento":"Aquisição de combustível para veículos utilizados na atividade parlamentar no Estado de Goiás.", 
+                            "valorReembolsado":"100.01", "codDocumento":"833824"}, {"ano":"2013", "mes":"10", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"12082807000108", "fornecedor":"M.B. Locação de Aeronaves e Veículos Ltda", 
+                            "documento":"142", "data":"2013-10-08", "detalhamento":"Locação de aeronave para deslocamento no Estado de Goiás.", 
+                            "valorReembolsado":"5250.0", "codDocumento":"857160"}, {"ano":"2013", "mes":"10", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"02985247000130", "fornecedor":"Petroenge Comércio de Combustíveis e Serviços Ltda", 
+                            "documento":"266", "data":"2013-10-28", "detalhamento":"Aquisição de combustível para veículos utilizados na atividade parlamentar no Estado de Goiás.", 
+                            "valorReembolsado":"3512.25", "codDocumento":"833823"}, {"ano":"2013", "mes":"10", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"06164253000187", "fornecedor":"GOL", 
+                            "documento":"12700224530339", "data":"2013-10-03", "detalhamento":"Passageiro: CYRO MIRANDA GIFFORD JÚNIOR 
+Vôo: GOL G3 1586 Brasília/Goiânia
+Data 03/10/2013", 
+                            "valorReembolsado":"243.47", "codDocumento":"833819"}, {"ano":"2013", "mes":"10", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"06164253000187", "fornecedor":"GOL", 
+                            "documento":"12700226624141", "data":"2013-10-21", "detalhamento":"Passageiro: CYRO MIRANDA GIFFORD JÚNIOR 
+Vôo: GOL G3 1515 Goiânia/Brasília 
+Data 21/10/2013", 
+                            "valorReembolsado":"415.85", "codDocumento":"833820"}, {"ano":"2013", "mes":"10", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"06164253000187", "fornecedor":"GOL", 
+                            "documento":"12700227194654", "data":"2013-10-23", "detalhamento":"Passageiro: CYRO MIRANDA GIFFORD JÚNIOR 
+Vôo: GOL G3 1586 Brasília/Goiânia Data 23/10/2013", 
+                            "valorReembolsado":"556.45", "codDocumento":"833821"}, {"ano":"2013", "mes":"10", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"06164253000187", "fornecedor":"GOL", 
+                            "documento":"12700227298309", "data":"2013-10-28", "detalhamento":"Passageiro: CYRO MIRANDA GIFFORD JÚNIOR 
+Vôo: GOL G3 1589 Goiânia/Brasília 
+Data 28/10/2013", 
+                            "valorReembolsado":"604.85", "codDocumento":"833822"}, {"ano":"2013", "mes":"10", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572478783206", "data":"2013-10-31", "detalhamento":"Passageiro CYRO MIRANDA GIFFORD JÚNIOR 
+Vôo JJ 3579 - Brasília/Goiânia Data 31/10/2013", 
+                            "valorReembolsado":"584.55", "codDocumento":"842633"}, {"ano":"2013", "mes":"10", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Serviços de Segurança Privada", "cnpjCpf":"16670250000179", "fornecedor":"DESTAK Alarmes e Serviços Ltda-ME", 
+                            "documento":"950", "data":"2013-10-08", "detalhamento":"Despesas com monitoramento do Escritório Político no Estado.", 
+                            "valorReembolsado":"185.0", "codDocumento":"833817"}, {"ano":"2013", "mes":"11", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"01543032000104", "fornecedor":"CELG", 
+                            "documento":"1195862", "data":"2013-11-17", "detalhamento":"Despesa com pagamento de energia elétrica do Escritório Político de Goiânia.", 
+                            "valorReembolsado":"356.07", "codDocumento":"850157"}, {"ano":"2013", "mes":"11", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"16670250000179", "fornecedor":"DESTAK Alarmes e Serviços Ltda ME", 
+                            "documento":"1008", "data":"2013-11-05", "detalhamento":"Despesas com monitoramento do Escritório Político no Estado.	", 
+                            "valorReembolsado":"185.0", "codDocumento":"850155"}, {"ano":"2013", "mes":"11", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"00242721168", "fornecedor":"Nelson Lopes de Figueiredo", 
+                            "documento":"302017017800000029", "data":"2013-11-20", "detalhamento":"Pagamento de IPTU do Escritório Político em Goiânia, parcela 10/11.", 
+                            "valorReembolsado":"463.38", "codDocumento":"850154"}, {"ano":"2013", "mes":"11", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"00242721168", "fornecedor":"Nelson Lopes de Figueiredo", 
+                            "documento":"0014460003000", "data":"2013-12-01", "detalhamento":"Despesa com aluguel do Escritório Parlamentar em Goiânia, ref. mês de novembro/2013.", 
+                            "valorReembolsado":"3503.0", "codDocumento":"850156"}, {"ano":"2013", "mes":"11", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"76535764032851", "fornecedor":"OI Fixo", 
+                            "documento":"1697", "data":"2013-11-14", "detalhamento":"Despesa com pagamento de telefone do Escritório Político de Goiânia.", 
+                            "valorReembolsado":"231.2", "codDocumento":"850151"}, {"ano":"2013", "mes":"11", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"01616929000102", "fornecedor":"Saneamento de Goiás S/A", 
+                            "documento":"563834144-3", "data":"2013-11-10", "detalhamento":"Despesa com pagamento de água do Escritório Político em Goiânia.", 
+                            "valorReembolsado":"80.78", "codDocumento":"850152"}, {"ano":"2013", "mes":"11", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"26698258000105", "fornecedor":"AGF Sudoeste Ltda - EPP", 
+                            "documento":"24315", "data":"2013-11-26", "detalhamento":"Despesa referente a postagem de correspondências.", 
+                            "valorReembolsado":"1596.0", "codDocumento":"850158"}, {"ano":"2013", "mes":"11", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"10773277000100", "fornecedor":"Balduino Leitão Advogados S/S", 
+                            "documento":"58", "data":"2013-11-26", "detalhamento":"Consultoria para apoio a atividade parlamentar.", 
+                            "valorReembolsado":"10000.0", "codDocumento":"847056"}, {"ano":"2013", "mes":"11", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Divulgação da atividade parlamentar", "cnpjCpf":"11111381000100", "fornecedor":"Sociedade Goiana Assessoria e Comunicação Ltda", 
+                            "documento":"121", "data":"2013-11-13", "detalhamento":"Divulgação das atividades parlamentares no Estado de Goiás.", 
+                            "valorReembolsado":"5000.0", "codDocumento":"842639"}, {"ano":"2013", "mes":"11", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"02985247000130", "fornecedor":"Petroenge Comércio de Combustíveis e Serviços Ltda", 
+                            "documento":"273", "data":"2013-11-30", "detalhamento":"Aquisição de combustível para veículos utilizados na atividade parlamentar no Estado de Goiás.", 
+                            "valorReembolsado":"3654.93", "codDocumento":"857161"}, {"ano":"2013", "mes":"11", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"06164253000187", "fornecedor":"GOL", 
+                            "documento":"12700228774803", "data":"2013-11-12", "detalhamento":"Passageiro: Sen. CYRO MIRANDA GIFFORD JÚNIOR 
+Vôo: GOL G3-1583 Goiânia/Brasília Data 12/11/2013.", 
+                            "valorReembolsado":"415.85", "codDocumento":"842637"}, {"ano":"2013", "mes":"11", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"06164253000187", "fornecedor":"GOL", 
+                            "documento":"12700229366141", "data":"2013-11-14", "detalhamento":"Passageiro: CYRO MIRANDA GIFFORD JÚNIOR 
+Vôo: GOL G3-1582 Brasília/Goiânia
+Data 14/11/2013", 
+                            "valorReembolsado":"556.45", "codDocumento":"842638"}, {"ano":"2013", "mes":"11", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"06164253000187", "fornecedor":"GOL", 
+                            "documento":"12700229997322", "data":"2013-11-21", "detalhamento":"Passageiro: Sen. CYRO MIRANDA GIFFORD JÚNIOR 
+Vôo: GOL G3-1584 Brasília/Goiânia 
+Data 21/11/2013", 
+                            "valorReembolsado":"670.45", "codDocumento":"847058"}, {"ano":"2013", "mes":"11", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"06164253000187", "fornecedor":"GOL", 
+                            "documento":"12700230717466", "data":"2013-11-25", "detalhamento":"Passageiro: Sen. CYRO MIRANDA GIFFORD JÚNIOR 
+Vôo: GOL G3-1515 Goiânia/Brasília 
+Data 25/11/2013", 
+                            "valorReembolsado":"604.85", "codDocumento":"847057"}, {"ano":"2013", "mes":"11", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572480284252", "data":"2013-11-28", "detalhamento":"Passageiro CYRO MIRANDA GIFFORD JÚNIOR 
+Vôo JJ 3570 - Brasília/Goiânia 
+Data 28/11/2013", 
+                            "valorReembolsado":"442.55", "codDocumento":"857162"}, {"ano":"2013", "mes":"12", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"01543032000104", "fornecedor":"CELG", 
+                            "documento":"1142039", "data":"2013-12-10", "detalhamento":"Despesa com pagamento de energia elétrica do Escritório Político de Goiânia.", 
+                            "valorReembolsado":"280.74", "codDocumento":"860388"}, {"ano":"2013", "mes":"12", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"16670250000179", "fornecedor":"DESTAK Alarmes e Serviços Ltda ME", 
+                            "documento":"1062", "data":"2013-12-03", "detalhamento":"Despesas com monitoramento do Escritório Político no Estado.	", 
+                            "valorReembolsado":"185.0", "codDocumento":"860390"}, {"ano":"2013", "mes":"12", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"00242721168", "fornecedor":"Nelson Lopes de Figueiredo", 
+                            "documento":"302017017800000029", "data":"2013-12-10", "detalhamento":"Pagamento de IPTU do Escritório Político em Goiânia, parcela 11/11", 
+                            "valorReembolsado":"463.38", "codDocumento":"860389"}, {"ano":"2013", "mes":"12", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"00242721168", "fornecedor":"Nelson Lopes de Figueiredo", 
+                            "documento":"0014460004000", "data":"2013-12-10", "detalhamento":"Despesa com aluguel do Escritório Parlamentar em Goiânia, ref. mês de dezembro/2013.", 
+                            "valorReembolsado":"3503.0", "codDocumento":"860391"}, {"ano":"2013", "mes":"12", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"76535764032851", "fornecedor":"OI Fixo", 
+                            "documento":"1312.00080621", "data":"2013-12-10", "detalhamento":"Despesa com pagamento de telefone do Escritório Político de Goiânia.", 
+                            "valorReembolsado":"253.38", "codDocumento":"860387"}, {"ano":"2013", "mes":"12", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"01616929000102", "fornecedor":"Saneamento de Goiás S.A.", 
+                            "documento":"565594053-8", "data":"2013-12-10", "detalhamento":"Despesa com pagamento de água do Escritório Político em Goiânia.", 
+                            "valorReembolsado":"80.78", "codDocumento":"860386"}, {"ano":"2013", "mes":"12", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"26698258000105", "fornecedor":"AGF Sudoeste Ltda", 
+                            "documento":"24370", "data":"2013-12-16", "detalhamento":"Despesa referente a postagem de correspondências.", 
+                            "valorReembolsado":"22.6", "codDocumento":"868748"}, {"ano":"2013", "mes":"12", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"00237003000143", "fornecedor":"Hertz - Car Rental Systems do Brasil", 
+                            "documento":"44017", "data":"2013-12-02", "detalhamento":"Aluguel de veículo automotor utilizados na atividade parlamentar no Estado de Goiás.", 
+                            "valorReembolsado":"4754.0", "codDocumento":"857186"}, {"ano":"2013", "mes":"12", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"12082807000108", "fornecedor":"M.B. Locação de Aeronaves e Veículos Ltda", 
+                            "documento":"146", "data":"2013-12-15", "detalhamento":"Locação de aeronave para deslocamentos no Estado de Goiás, no exercício da atividade parlamentar.", 
+                            "valorReembolsado":"4250.0", "codDocumento":"860392"}, {"ano":"2013", "mes":"12", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"02985247000130", "fornecedor":"Petroenge Comércio de Combustíveis e Serviços Ltda", 
+                            "documento":"282", "data":"2013-12-27", "detalhamento":"Aquisição de combustível para veículos utilizados na atividade parlamentar no Estado de Goiás.", 
+                            "valorReembolsado":"3494.62", "codDocumento":"868749"}, {"ano":"2013", "mes":"12", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"25124074000160", "fornecedor":"Rede de Postos VW", 
+                            "documento":"3984", "data":"2013-12-02", "detalhamento":"Aquisição de combustível para veículos utilizados na atividade parlamentar no Estado de Goiás.", 
+                            "valorReembolsado":"127.06", "codDocumento":"860385"}, {"ano":"2013", "mes":"12", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"06164253000187", "fornecedor":"GOL", 
+                            "documento":"12700231331286", "data":"2013-12-13", "detalhamento":"Passageiro: CYRO MIRANDA GIFFORD JÚNIOR 
+Vôo: GOL G3 1413 Brasília/São Paulo Data 13/12/2013", 
+                            "valorReembolsado":"583.45", "codDocumento":"860393"}, {"ano":"2013", "mes":"12", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"06164253000187", "fornecedor":"GOL", 
+                            "documento":"12700232240369", "data":"2013-12-16", "detalhamento":"Passageiro: CYRO MIRANDA GIFFORD JÚNIOR 
+Vôo: GOL G3 1515 Goiânia/Brasília Data 16/12/2013", 
+                            "valorReembolsado":"570.85", "codDocumento":"860394"}, {"ano":"2013", "mes":"12", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"06164253000187", "fornecedor":"GOL", 
+                            "documento":"12700232731690", "data":"2013-12-18", "detalhamento":"Passageiro: Sen. CYRO MIRANDA GIFFORD JÚNIOR 
+Vôo: GOL G3-1586 Brasília/Goiânia 
+Data 18/12/2013", 
+                            "valorReembolsado":"503.45", "codDocumento":"861864"}, {"ano":"2013", "mes":"12", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572481219857", "data":"2013-12-10", "detalhamento":"Passageiro CYRO MIRANDA GIFFORD JÚNIOR 
+Vôo JJ 3528 - Goiânia/Brasília 
+Data 10/12/2013", 
+                            "valorReembolsado":"520.95", "codDocumento":"857187"}, {"ano":"2013", "mes":"12", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572480688206", "data":"2013-12-14", "detalhamento":"Passageiro CYRO MIRANDA GIFFORD JÚNIOR 
+Vôo JJ 3468 - São Paulo/Goiânia Data 14/12/2013", 
+                            "valorReembolsado":"175.57", "codDocumento":"860395"}, {"ano":"2013", "mes":"1", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"01543032000104", "fornecedor":"CELG", 
+                            "documento":"658856", "data":"2013-01-17", "detalhamento":"null", 
+                            "valorReembolsado":"397.1", "codDocumento":"688781"}, {"ano":"2013", "mes":"1", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"00242721168", "fornecedor":"Nelson Lopes de Figueiredo", 
+                            "documento":"0010850025000", "data":"2013-02-01", "detalhamento":"null", 
+                            "valorReembolsado":"7253.0", "codDocumento":"688785"}, {"ano":"2013", "mes":"1", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"76535764032851", "fornecedor":"Oi", 
+                            "documento":"1301000058373", "data":"2013-01-14", "detalhamento":"null", 
+                            "valorReembolsado":"262.51", "codDocumento":"688780"}, {"ano":"2013", "mes":"1", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"01616929000102", "fornecedor":"SANEAGO", 
+                            "documento":"5476159971", "data":"2013-01-10", "detalhamento":"null", 
+                            "valorReembolsado":"131.39", "codDocumento":"688783"}, {"ano":"2013", "mes":"1", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"02985247000130", "fornecedor":"Petroenge Comercio de Combustiveis e serviços Ltda", 
+                            "documento":"191", "data":"2013-01-31", "detalhamento":"null", 
+                            "valorReembolsado":"841.78", "codDocumento":"688784"}, {"ano":"2013", "mes":"1", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL", 
+                            "documento":"KGVZ7X", "data":"2013-01-02", "detalhamento":"Passageiro: Cyro Miranda Gifford Júnior
+Vôo: G3 1773
+Trecho: Goiânia/São Paulo
+data: 02.01.2013", 
+                            "valorReembolsado":"960.85", "codDocumento":"688777"}, {"ano":"2013", "mes":"1", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL", 
+                            "documento":"QD9J8G", "data":"2013-01-31", "detalhamento":"Passageiro: Cyro Miranda Gifford Júnior
+Vôo: G3 1932
+Trecho: Goiânia/Brasília
+data: 31.01.2013", 
+                            "valorReembolsado":"97.85", "codDocumento":"688779"}, {"ano":"2013", "mes":"1", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572461151506", "data":"2013-01-03", "detalhamento":"Passageiro: Cyro Miranda Gifford Júnior
+Vôo: JJ 3468
+Trecho: São Paulo/ Goiânia
+data. 03.01.2013", 
+                            "valorReembolsado":"690.57", "codDocumento":"688778"}, {"ano":"2013", "mes":"1", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"ZL5P3R", "data":"2013-01-06", "detalhamento":"Passageiro: Cyro Miranda Gifford Júnior
+Vôo:JJ 3465  Goiânia/São Paulo data: 06.01.2013
+Vôo: JJ 3464 São Paulo/Goiânia data:30.01.2013", 
+                            "valorReembolsado":"929.02", "codDocumento":"702281"}, {"ano":"2013", "mes":"1", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Serviços de Segurança Privada", "cnpjCpf":"16670250000179", "fornecedor":"Destak Alarmes e Serviços Ltda", 
+                            "documento":"327", "data":"2013-01-14", "detalhamento":"null", 
+                            "valorReembolsado":"185.0", "codDocumento":"688782"}, {"ano":"2013", "mes":"2", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"01543032000104", "fornecedor":"CELG", 
+                            "documento":"668600", "data":"2013-02-17", "detalhamento":"null", 
+                            "valorReembolsado":"229.9", "codDocumento":"738480"}, {"ano":"2013", "mes":"2", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"16670250000179", "fornecedor":"Destak Alarmes e Serviços Ltda", 
+                            "documento":"426", "data":"2013-02-06", "detalhamento":"null", 
+                            "valorReembolsado":"185.0", "codDocumento":"738479"}, {"ano":"2013", "mes":"2", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"13759532000159", "fornecedor":"Elizane dos Santos Souza", 
+                            "documento":"120", "data":"2013-02-19", "detalhamento":"null", 
+                            "valorReembolsado":"910.0", "codDocumento":"738482"}, {"ano":"2013", "mes":"2", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"00242721168", "fornecedor":"Nelson Lopes de Figeiredo- IPTU", 
+                            "documento":"30201701780000", "data":"2013-02-20", "detalhamento":"null", 
+                            "valorReembolsado":"463.38", "codDocumento":"738477"}, {"ano":"2013", "mes":"2", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"00242721168", "fornecedor":"Nelson Lopes de Figueiredo", 
+                            "documento":"0010850026000", "data":"2013-02-20", "detalhamento":"null", 
+                            "valorReembolsado":"7253.0", "codDocumento":"738478"}, {"ano":"2013", "mes":"2", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"76535764032851", "fornecedor":"Oi S.A", 
+                            "documento":"1302000081816", "data":"2013-02-14", "detalhamento":"null", 
+                            "valorReembolsado":"149.73", "codDocumento":"738481"}, {"ano":"2013", "mes":"2", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"12231847000166", "fornecedor":"BENEDITO MENDES DA LUZ", 
+                            "documento":"2993", "data":"2013-02-19", "detalhamento":"null", 
+                            "valorReembolsado":"433.37", "codDocumento":"716144"}, {"ano":"2013", "mes":"2", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"10935903000118", "fornecedor":"D Paula Refrigeração Ltda", 
+                            "documento":"463", "data":"2013-02-16", "detalhamento":"null", 
+                            "valorReembolsado":"210.0", "codDocumento":"738486"}, {"ano":"2013", "mes":"2", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"33285271000190", "fornecedor":"Livraria e Papelaria R.C. Ltda", 
+                            "documento":"5204", "data":"2013-01-31", "detalhamento":"null", 
+                            "valorReembolsado":"153.4", "codDocumento":"738485"}, {"ano":"2013", "mes":"2", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"08532507000106", "fornecedor":"Portal Ferragens", 
+                            "documento":"930", "data":"2013-02-07", "detalhamento":"null", 
+                            "valorReembolsado":"300.0", "codDocumento":"738487"}, {"ano":"2013", "mes":"2", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"36867976000103", "fornecedor":"Ebenezer Biscoitos Caseiros Ltda", 
+                            "documento":"CCF 044411", "data":"2013-02-04", "detalhamento":"null", 
+                            "valorReembolsado":"79.21", "codDocumento":"738483"}, {"ano":"2013", "mes":"2", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"02985247000130", "fornecedor":"Petroenge Comercio de Combustiveis e Serviços Ltda", 
+                            "documento":"206", "data":"2013-03-04", "detalhamento":"null", 
+                            "valorReembolsado":"3467.42", "codDocumento":"738484"}, {"ano":"2013", "mes":"2", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL", 
+                            "documento":"X8W5WY", "data":"2013-02-01", "detalhamento":"Passageiro: Cyro Miranda Gifford Júnior
+Vôo: 1659
+Trecho: Brasília/Goiânia
+data: 01.02.2013", 
+                            "valorReembolsado":"296.03", "codDocumento":"738476"}, {"ano":"2013", "mes":"2", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL", 
+                            "documento":"RDI6YJ", "data":"2013-02-19", "detalhamento":"Passageiro: Cyro Miranda Gifford Júnior
+Vôo: G3 1879
+Trecho: Goiânia/Brasília
+data: 19.02.2013", 
+                            "valorReembolsado":"308.85", "codDocumento":"738475"}, {"ano":"2013", "mes":"2", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL", 
+                            "documento":"G7ID3V", "data":"2013-02-20", "detalhamento":"Passageiro: Cyro Miranda Gifford Júnior
+Vôo: 1584
+Trecho: Brasília/Goiânia
+Data: 28.02.2013", 
+                            "valorReembolsado":"209.03", "codDocumento":"738474"}, {"ano":"2013", "mes":"2", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL", 
+                            "documento":"QICCTX", "data":"2013-02-21", "detalhamento":"Passageiro: Cyro Miranda Gifford Júnior
+Vôo: 1796
+Trecho: Brasilia/Goiânia
+data:21.02.2013", 
+                            "valorReembolsado":"231.03", "codDocumento":"738488"}, {"ano":"2013", "mes":"2", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"YJKB16", "data":"2013-02-15", "detalhamento":"Passageiro: Cyro Miranda Gifford Júnior
+Vôo: JJ 3462 São Paulo/ Goiânia data:15.02.2013
+Vôo: JJ 3461 Goiânia/São Paulo data: 14.02.2013", 
+                            "valorReembolsado":"762.52", "codDocumento":"738472"}, {"ano":"2013", "mes":"2", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"7J7VME", "data":"2013-02-21", "detalhamento":"Passageiro: Cyro Miranda Gifford Júnior
+Vôo: JJ 3571
+Trecho: Goiânia/Brasília
+data: 25.02.2013", 
+                            "valorReembolsado":"217.95", "codDocumento":"738473"}, {"ano":"2013", "mes":"3", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"01543032000104", "fornecedor":"CELG", 
+                            "documento":"745674", "data":"2013-03-17", "detalhamento":"null", 
+                            "valorReembolsado":"117.95", "codDocumento":"716162"}, {"ano":"2013", "mes":"3", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"00242721168", "fornecedor":"NELSON LOPES DE FIGUEIREDO", 
+                            "documento":"0010850027000", "data":"2013-04-01", "detalhamento":"null", 
+                            "valorReembolsado":"7253.0", "codDocumento":"716160"}, {"ano":"2013", "mes":"3", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"00242721168", "fornecedor":"NELSON LOPES DE FIGUEIREDO - IPTU", 
+                            "documento":"302017017800000029", "data":"2013-03-20", "detalhamento":"null", 
+                            "valorReembolsado":"463.38", "codDocumento":"716161"}, {"ano":"2013", "mes":"3", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"76535764032851", "fornecedor":"OI FIXO", 
+                            "documento":"1303000081090", "data":"2013-03-15", "detalhamento":"null", 
+                            "valorReembolsado":"215.69", "codDocumento":"716163"}, {"ano":"2013", "mes":"3", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"01616929000102", "fornecedor":"SANEAGO", 
+                            "documento":"550880737-0", "data":"2013-03-10", "detalhamento":"null", 
+                            "valorReembolsado":"164.26", "codDocumento":"716158"}, {"ano":"2013", "mes":"3", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"11960372000186", "fornecedor":"BAIOCCHI, FERREIRA & GOMES SOCIEDADE DE ADVOGADOS", 
+                            "documento":"434", "data":"2013-04-02", "detalhamento":"null", 
+                            "valorReembolsado":"8000.0", "codDocumento":"724749"}, {"ano":"2013", "mes":"3", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"02985247000130", "fornecedor":"PETROENGE COMÉRCIO DE COMBUSTÍVEIS E SERVIÇOS LTDA", 
+                            "documento":" 211", "data":"2013-03-29", "detalhamento":"null", 
+                            "valorReembolsado":"3553.45", "codDocumento":"716164"}, {"ano":"2013", "mes":"3", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"09296295000160", "fornecedor":"Azul", 
+                            "documento":"U4B7GI", "data":"2013-02-21", "detalhamento":"Passageiro: Cyro Miranda Gifford Júnior
+Vôo: AD 5501 Goiânia/ Rio de Janeiro data: 01.03.2013
+Vôo: AD 5500 Rio de Janeiro/Goiânia data: 03.03.2013", 
+                            "valorReembolsado":"1126.32", "codDocumento":"702299"}, {"ano":"2013", "mes":"3", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL", 
+                            "documento":"12700205958590", "data":"2013-03-11", "detalhamento":"Passageiro CYRO MIRANDA GIFFORD JÚNIOR
+Vôo 1515 - Goiânia/Brasília
+Data 11/03/2013", 
+                            "valorReembolsado":"197.85", "codDocumento":"716157"}, {"ano":"2013", "mes":"3", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572464296257", "data":"2013-03-07", "detalhamento":"Horário de vôo alterado.
+Passageiro: Cyro Miranda Gifford Júnior
+Vôo: jj 3579
+Trecho: Brasília/Goiânia
+data: 07.03.2013", 
+                            "valorReembolsado":"248.0", "codDocumento":"716165"}, {"ano":"2013", "mes":"3", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572465495011", "data":"2013-03-27", "detalhamento":"Passageiro CYRO MIRANDA GIFFORD JÚNIOR
+Vôo JJ 3570 - Barsília/Goiânia
+27/03/2013", 
+                            "valorReembolsado":"206.13", "codDocumento":"716156"}, {"ano":"2013", "mes":"3", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Serviços de Segurança Privada", "cnpjCpf":"16670250000179", "fornecedor":"DESTAK ALARMES E SERVIÇOS LTDA-ME", 
+                            "documento":"499", "data":"2013-03-04", "detalhamento":"null", 
+                            "valorReembolsado":"185.0", "codDocumento":"716159"}, {"ano":"2013", "mes":"4", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"01543032000104", "fornecedor":"CELG", 
+                            "documento":"747092", "data":"2013-04-17", "detalhamento":"Despesa com pagamento de despesa com energia elétrica do Escritório Político de Goiânia.", 
+                            "valorReembolsado":"350.76", "codDocumento":"740919"}, {"ano":"2013", "mes":"4", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"16670250000179", "fornecedor":"Destak Alarmes e Serviços Ltda ME", 
+                            "documento":"571", "data":"2013-04-02", "detalhamento":"Despesa com monitoramento e sistema de alarme do Escritório Político em Goiânia.", 
+                            "valorReembolsado":"185.0", "codDocumento":"740918"}, {"ano":"2013", "mes":"4", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"00242721168", "fornecedor":"Nelson Lopes de Figueiredo", 
+                            "documento":"302017017800000029", "data":"2013-04-22", "detalhamento":"Pagamento de IPTU do Escritório Político em Goiânia.", 
+                            "valorReembolsado":"463.38", "codDocumento":"740924"}, {"ano":"2013", "mes":"4", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"00242721168", "fornecedor":"Nelson Lopes de Figueiredo", 
+                            "documento":"0010850028000", "data":"2013-05-01", "detalhamento":"Despesa com aluguel do Escritório Parlamentar em Goiânia, ref. mês de abril/2013.", 
+                            "valorReembolsado":"7253.0", "codDocumento":"740923"}, {"ano":"2013", "mes":"4", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"76535764032851", "fornecedor":"OI Fixo", 
+                            "documento":"115867688-0", "data":"2013-04-16", "detalhamento":"Despesa com pagamento de despesa de telefone do Escritório Político de Goiânia.", 
+                            "valorReembolsado":"372.24", "codDocumento":"740920"}, {"ano":"2013", "mes":"4", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"01616929000102", "fornecedor":"Saneamento de Goiás", 
+                            "documento":"552485210-4", "data":"2013-04-10", "detalhamento":"Despesa com pagamento da despesa de água do Escritório Político em Goiânia.", 
+                            "valorReembolsado":"169.35", "codDocumento":"740917"}, {"ano":"2013", "mes":"4", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Aquisição de material de consumo para uso no escritório político, inclusive aquisição ou locação de software, despesas postais, aquisição de publicações, locação de móveis e de equipamentos. ", "cnpjCpf":"26698258000105", "fornecedor":"Empresa Brasileira de Correios e Telégrafos", 
+                            "documento":"null", "data":"2013-05-13", "detalhamento":"Despesa com remessa de correspondências do Escritório Político de Goiânia.", 
+                            "valorReembolsado":"121.6", "codDocumento":"780190"}, {"ano":"2013", "mes":"4", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"11960372000186", "fornecedor":"Baiocchi, Ferreira & Gomes Sociedade de Advogados", 
+                            "documento":"449", "data":"2013-05-02", "detalhamento":"Despesa com consultoria, elaboração de projetos e pareceres para o exercício da atividade política do parlamentar no Estado de Goiás.", 
+                            "valorReembolsado":"8000.0", "codDocumento":"740922"}, {"ano":"2013", "mes":"4", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"02985247000130", "fornecedor":"Petroenge Comércio de Combustíveis e Serviços Ltda", 
+                            "documento":"219", "data":"2013-04-29", "detalhamento":"Aquisição de combustível para veículos utilizados na atividade parlamentar no Estado de Goiás.", 
+                            "valorReembolsado":"3206.8", "codDocumento":"740916"}, {"ano":"2013", "mes":"4", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"06164253000187", "fornecedor":"GOL", 
+                            "documento":"3824032", "data":"2013-04-22", "detalhamento":"Passageiro CYRO MIRANDA GIFFORD JÚNIOR
+Vôo G31589- Goiânia/Brasília
+Data 22/04/2013", 
+                            "valorReembolsado":"224.85", "codDocumento":"740914"}, {"ano":"2013", "mes":"4", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"06164253000187", "fornecedor":"GOL", 
+                            "documento":"3824032", "data":"2013-04-29", "detalhamento":"Passageiro CYRO MIRANDA GIFFORD JÚNIOR
+Vôo G31587- Goiânia/Brasília
+Data 29/04/2013", 
+                            "valorReembolsado":"122.85", "codDocumento":"740915"}, {"ano":"2013", "mes":"4", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"06164253000187", "fornecedor":"GOL", 
+                            "documento":"12700210564609", "data":"2013-04-30", "detalhamento":"Passageiro: CYRO MIRANDA GIFFORD JÚNIOR
+Vôo GOL G31584 - Brasília/Goiânia
+Data: 30/04/2013", 
+                            "valorReembolsado":"121.13", "codDocumento":"740921"}, {"ano":"2013", "mes":"4", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572465521911", "data":"2013-04-01", "detalhamento":"Passageiro CYRO MIRANDA GIFFORD JÚNIOR
+Vôo JJ 3571 - GOIÂNIA/BRASÍLIA
+Data 01/04/2013", 
+                            "valorReembolsado":"163.95", "codDocumento":"716155"}, {"ano":"2013", "mes":"4", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572465924358", "data":"2013-04-05", "detalhamento":"Passageiro: CYRO MIRANDA GIFFORD JÚNIOR
+Vôo: JJ3457
+Trecho: Brasília / Goiânia
+Data do Vôo: 05/04/2013", 
+                            "valorReembolsado":"217.13", "codDocumento":"730361"}, {"ano":"2013", "mes":"4", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572465959218", "data":"2013-04-05", "detalhamento":"Passageiro: CYRO MIRANDA GIFFORD JÚNIOR
+Vôo: JJ3709 Trecho: Brasília / São Paulo
+Data do Vôo: 11/04/2013", 
+                            "valorReembolsado":"661.23", "codDocumento":"730363"}, {"ano":"2013", "mes":"4", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572465929504", "data":"2013-04-08", "detalhamento":"Passageiro: CYRO MIRANDA GIFFORD JÚNIOR
+Vôo: JJ 3588
+Trecho: Goiânia / Brasília
+Data do Vôo: 08/04/2013", 
+                            "valorReembolsado":"154.95", "codDocumento":"730360"}, {"ano":"2013", "mes":"4", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572466705329", "data":"2013-04-15", "detalhamento":"Passageiro: CYRO MIRANDA GIFFORD JÚNIOR
+Vôo: JJ3724
+Trecho: São Paulo / Brasília
+Data do Vôo: 15/04/2013", 
+                            "valorReembolsado":"684.57", "codDocumento":"730362"}, {"ano":"2013", "mes":"4", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572466784312", "data":"2013-04-18", "detalhamento":"Passageiro CYRO MIRANDA GIFFORD JÚNIOR
+Vôo JJ 3579 - Brasília/Goiânia
+Data 18/04/2013", 
+                            "valorReembolsado":"310.13", "codDocumento":"740912"}, {"ano":"2013", "mes":"4", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572466878162", "data":"2013-04-25", "detalhamento":"Passageiro CYRO MIRANDA GIFFORD JÚNIOR
+Vôo JJ 3579 - Brasília/Goiânia
+25/04/2013", 
+                            "valorReembolsado":"159.13", "codDocumento":"740913"}, {"ano":"2013", "mes":"5", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"01543032000104", "fornecedor":"CELG", 
+                            "documento":"914577", "data":"2013-05-17", "detalhamento":"Despesa com pagamento de energia elétrica do Escritório Político de Goiânia.", 
+                            "valorReembolsado":"379.7", "codDocumento":"754006"}, {"ano":"2013", "mes":"5", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"00242721168", "fornecedor":"Nelson Lopes de Figueiredo", 
+                            "documento":"0010850029000", "data":"2013-06-01", "detalhamento":"Despesa com aluguel do Escritório Parlamentar em Goiânia, ref. mês de maio/2013.", 
+                            "valorReembolsado":"7003.0", "codDocumento":"754011"}, {"ano":"2013", "mes":"5", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"00242721168", "fornecedor":"Nelson Lopes de Figueiredo - IPTU", 
+                            "documento":"302017017800000029", "data":"2013-05-20", "detalhamento":"Pagamento de IPTU do Escritório Político em Goiânia.", 
+                            "valorReembolsado":"463.38", "codDocumento":"754007"}, {"ano":"2013", "mes":"5", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"76535764032851", "fornecedor":"OI Fixo", 
+                            "documento":"1305.000080991", "data":"2013-05-14", "detalhamento":"Despesa com pagamento de telefone do Escritório Político de Goiânia.", 
+                            "valorReembolsado":"274.99", "codDocumento":"754005"}, {"ano":"2013", "mes":"5", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"01616929000102", "fornecedor":"Saneamento de Goiás S/A", 
+                            "documento":"553983911-7", "data":"2013-05-10", "detalhamento":"Despesa com pagamento de água do Escritório Político em Goiânia.", 
+                            "valorReembolsado":"101.93", "codDocumento":"754004"}, {"ano":"2013", "mes":"5", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Contratação de consultorias, assessorias, pesquisas, trabalhos técnicos e outros serviços de apoio ao exercício do mandato parlamentar", "cnpjCpf":"11960372000186", "fornecedor":"BAIOCCHI, FERREIRA & GOMES SOCIEDADE DE ADVOGADOS", 
+                            "documento":"462", "data":"2013-06-03", "detalhamento":"CONSULTORIA, ELABORAÇÃO DE PROJETOS E PARECERES - RESPONSABILIDADE FISCAL, INCENTIVOS FISCAIS NO ESTADO - REF. AO MES DE MAIO DE 2013", 
+                            "valorReembolsado":"8000.0", "codDocumento":"762247"}, {"ano":"2013", "mes":"5", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"02985247000130", "fornecedor":"Petroenge Comércio de Combustíveis e Serviços Ltda", 
+                            "documento":"232", "data":"2013-05-31", "detalhamento":"Aquisição de combustível para veículos utilizados na atividade parlamentar no Estado de Goiás.", 
+                            "valorReembolsado":"3501.38", "codDocumento":"754010"}, {"ano":"2013", "mes":"5", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Locomoção, hospedagem, alimentação, combustíveis e lubrificantes", "cnpjCpf":"25124074000160", "fornecedor":"Valposto Combustíveis Ltda", 
+                            "documento":"3029", "data":"2013-05-20", "detalhamento":"Aquisição de combustível para veículos utilizados na atividade parlamentar no Estado de Goiás.", 
+                            "valorReembolsado":"70.0", "codDocumento":"754008"}, {"ano":"2013", "mes":"5", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"06164253000187", "fornecedor":"GOL", 
+                            "documento":"12700212641669", "data":"2013-05-20", "detalhamento":"Passageiro: CYRO MIRANDA GIFFORD JÚNIOR 
+Vôo: GOL G31515 - Goiânia/Brasília
+Data 20/05/2013", 
+                            "valorReembolsado":"173.85", "codDocumento":"751131"}, {"ano":"2013", "mes":"5", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"06164253000187", "fornecedor":"GOL", 
+                            "documento":"12700212860241", "data":"2013-05-23", "detalhamento":"Passageiro: CYRO MIRANDA GIFFORD JÚNIOR 
+Vôo: GOL G31411 - Brasília/Congonhas
+Data 23/05/2013", 
+                            "valorReembolsado":"607.03", "codDocumento":"751132"}, {"ano":"2013", "mes":"5", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572467470873", "data":"2013-05-05", "detalhamento":"Passageiro: CYRO MIRANDA GIFFORD JÚNIOR
+Vôo: TAM JJ 3465 - Goiânia/São Paulo
+Data 05/05/2013", 
+                            "valorReembolsado":"567.95", "codDocumento":"746163"}, {"ano":"2013", "mes":"5", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572467471225", "data":"2013-05-06", "detalhamento":"Passageiro CYRO MIRANDA GIFFORD JÚNIOR 
+Vôo JJ 3710 - São Paulo/Brasília 
+Data 06/05/2013", 
+                            "valorReembolsado":"478.57", "codDocumento":"746165"}, {"ano":"2013", "mes":"5", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572467471424", "data":"2013-05-06", "detalhamento":"Passageiro JOÃO EUSTÁQUIO DA SILVEIRA, Assessor Técnico, matrícula 146575
+Vôo TAM JJ 4749 - Brasília/São Paulo
+Vôo TAM JJ 3710 - São Paulo/Brasília
+Data 06/05/2013", 
+                            "valorReembolsado":"1057.7", "codDocumento":"746164"}, {"ano":"2013", "mes":"5", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572468366100", "data":"2013-05-09", "detalhamento":"Passageiro CYRO MIRANDA GIFFORD JÚNIOR 
+Vôo JJ 3579 - Brasília/Goiânia 
+Data 09/05/2013", 
+                            "valorReembolsado":"195.13", "codDocumento":"746166"}, {"ano":"2013", "mes":"5", "senador":"CYRO MIRANDA", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572469140975", "data":"2013-05-24", "detalhamento":"Passageiro: CYRO MIRANDA GIFFORD JÚNIOR 
+Vôo: TAM JJ 3464 - São Paulo/Goiânia
+Data 24/05/2013", 
+                            "valorReembolsado":"859.57", "codDocumento":"751133"}]}

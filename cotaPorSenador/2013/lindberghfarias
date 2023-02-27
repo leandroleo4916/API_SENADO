@@ -1,0 +1,2076 @@
+{"gastosSenador": [{"ano":"2013", "mes":"1", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33352394000104", "fornecedor":"CEDAE", 
+                            "documento":"0346273810113", "data":"2013-01-02", "detalhamento":"null", 
+                            "valorReembolsado":"168.71", "codDocumento":"692635"}, {"ano":"2013", "mes":"1", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"51048736768", "fornecedor":"LEONARDO CAVALCANTI GONÇALVES", 
+                            "documento":"01", "data":"2013-01-31", "detalhamento":"null", 
+                            "valorReembolsado":"6203.0", "codDocumento":"705462"}, {"ano":"2013", "mes":"1", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"60444437000146", "fornecedor":"LIGHT", 
+                            "documento":"580302675697", "data":"2013-01-25", "detalhamento":"null", 
+                            "valorReembolsado":"654.55", "codDocumento":"705464"}, {"ano":"2013", "mes":"1", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"00108786000165", "fornecedor":"NET", 
+                            "documento":"0380122834399", "data":"2013-01-25", "detalhamento":"null", 
+                            "valorReembolsado":"423.19", "codDocumento":"705463"}, {"ano":"2013", "mes":"1", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"04164616000159", "fornecedor":"OI", 
+                            "documento":"422592101", "data":"2013-01-02", "detalhamento":"null", 
+                            "valorReembolsado":"350.25", "codDocumento":"692636"}, {"ano":"2013", "mes":"1", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"09296295000160", "fornecedor":"AZUL", 
+                            "documento":"U3UPPY", "data":"2013-01-03", "detalhamento":"AZUL
+LUIZ LINDBERGH FARIAS FILHO
+GIG/REC
+03/01/2013", 
+                            "valorReembolsado":"1242.46", "codDocumento":"719797"}, {"ano":"2013", "mes":"1", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL", 
+                            "documento":"DHQPUH", "data":"2013-01-03", "detalhamento":"GOL
+LUIZ LINDBERGH FARIAS FILHO
+REC/GIG
+03/01/2013", 
+                            "valorReembolsado":"1906.86", "codDocumento":"719798"}, {"ano":"2013", "mes":"1", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL", 
+                            "documento":"FH3SJX", "data":"2013-01-07", "detalhamento":"GOL
+LUIZ LINDBERGH FARIAS FILHO
+SDU/CGH
+07/01/2013", 
+                            "valorReembolsado":"664.96", "codDocumento":"719799"}, {"ano":"2013", "mes":"1", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL", 
+                            "documento":"QGNJWN", "data":"2013-01-10", "detalhamento":"GOL
+LINDBERGH FARIAS
+SDU/BSB
+10/01/2013", 
+                            "valorReembolsado":"1096.16", "codDocumento":"719801"}, {"ano":"2013", "mes":"1", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL", 
+                            "documento":"QGNJWN", "data":"2013-01-10", "detalhamento":"GOL
+LINDBERGH FARIAS
+SDU/BSB
+10/01/2013", 
+                            "valorReembolsado":"1096.16", "codDocumento":"705465"}, {"ano":"2013", "mes":"1", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL", 
+                            "documento":"I83NWI", "data":"2013-01-23", "detalhamento":"GOL
+ANA MARIA MORAES
+MAT  249741
+CGH/BSB
+23/01/2013", 
+                            "valorReembolsado":"314.57", "codDocumento":"705467"}, {"ano":"2013", "mes":"1", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572461375556", "data":"2013-01-08", "detalhamento":"TAM
+LUIZ LINDBERGH FARIAS FILHO
+CGH/SDU
+08/01/2013", 
+                            "valorReembolsado":"663.97", "codDocumento":"719800"}, {"ano":"2013", "mes":"1", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572460832770", "data":"2013-01-18", "detalhamento":"TAM
+ANA MARIA MORAES
+MAT  249741
+BSB/GRU
+18/01/2013", 
+                            "valorReembolsado":"347.13", "codDocumento":"705466"}, {"ano":"2013", "mes":"1", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572460832771", "data":"2013-01-23", "detalhamento":"TAM
+ANA MARIA MORAES
+MAT 249741
+GRU/BSB
+23/01/2013", 
+                            "valorReembolsado":"342.13", "codDocumento":"719802"}, {"ano":"2013", "mes":"2", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33352394000104", "fornecedor":"CEDAE", 
+                            "documento":"0346273810213", "data":"2013-02-01", "detalhamento":"PAGAMENTO DE AGUA PARA ESCRITÓRIO POLITICO", 
+                            "valorReembolsado":"175.05", "codDocumento":"731394"}, {"ano":"2013", "mes":"2", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"12967332000129", "fornecedor":"CENTRO RIO ADMINISTRAÇÃO DE IMOVEIS LT", 
+                            "documento":"00000000619", "data":"2013-02-05", "detalhamento":"PAGAMENTO DE CONDOMINIO DO ESCRITÓRIO POLITICO.", 
+                            "valorReembolsado":"1831.11", "codDocumento":"731395"}, {"ano":"2013", "mes":"2", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"12967332000129", "fornecedor":"CENTRO RIO ADMINISTRAÇÃO DE IMOVEIS LT", 
+                            "documento":"00000000660", "data":"2013-02-18", "detalhamento":"null", 
+                            "valorReembolsado":"10485.32", "codDocumento":"714274"}, {"ano":"2013", "mes":"2", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"51048736768", "fornecedor":"LEONARDO CAVALCANTI GONÇALVES", 
+                            "documento":"01", "data":"2013-02-28", "detalhamento":"null", 
+                            "valorReembolsado":"6203.0", "codDocumento":"705471"}, {"ano":"2013", "mes":"2", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"60444437000146", "fornecedor":"LIGHT", 
+                            "documento":"557502402754", "data":"2013-02-25", "detalhamento":"null", 
+                            "valorReembolsado":"489.54", "codDocumento":"714275"}, {"ano":"2013", "mes":"2", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"00108786000165", "fornecedor":"NET", 
+                            "documento":"01", "data":"2013-02-25", "detalhamento":"pagamento de NET .", 
+                            "valorReembolsado":"418.43", "codDocumento":"731396"}, {"ano":"2013", "mes":"2", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"04164616000159", "fornecedor":"OI", 
+                            "documento":"427704626", "data":"2013-02-04", "detalhamento":"null", 
+                            "valorReembolsado":"231.4", "codDocumento":"705470"}, {"ano":"2013", "mes":"2", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02575829000148", "fornecedor":"AVIANCA", 
+                            "documento":"124268231", "data":"2013-02-19", "detalhamento":"AVIANCA
+RICARDO LUIZ COELHO
+MAT 240518
+SDU/BSB
+19/02/2013", 
+                            "valorReembolsado":"1545.07", "codDocumento":"719809"}, {"ano":"2013", "mes":"2", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL", 
+                            "documento":"OBWYJM", "data":"2013-02-06", "detalhamento":"GOL
+LINDBERGH FARIAS
+BSB/SDU
+06/02/2013", 
+                            "valorReembolsado":"903.22", "codDocumento":"719804"}, {"ano":"2013", "mes":"2", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL", 
+                            "documento":"B6QTYL", "data":"2013-02-18", "detalhamento":"GOL
+FAUSTO SEVERO TRINDADE
+MAT  239632
+SDU/BSB
+18/02/2013", 
+                            "valorReembolsado":"903.66", "codDocumento":"726643"}, {"ano":"2013", "mes":"2", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL", 
+                            "documento":"Y5PGRE", "data":"2013-02-19", "detalhamento":"GOL
+FAUSTO SEVERO TRINDADE
+MAT  239632
+SDU/BSB
+19/02/2013
+", 
+                            "valorReembolsado":"903.66", "codDocumento":"726644"}, {"ano":"2013", "mes":"2", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL", 
+                            "documento":"M71V3Y", "data":"2013-02-20", "detalhamento":"GOL
+OLAVO BRANDÃO CARNEIRO
+MAT 241778
+BSB/CGH
+20/02/2013", 
+                            "valorReembolsado":"832.82", "codDocumento":"719815"}, {"ano":"2013", "mes":"2", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL", 
+                            "documento":"KIU12R", "data":"2013-02-21", "detalhamento":"GOL
+LINDBERGH FARIAS
+BSB/SDU
+21/02/2013", 
+                            "valorReembolsado":"457.03", "codDocumento":"719818"}, {"ano":"2013", "mes":"2", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL", 
+                            "documento":"N9LIRF", "data":"2013-02-21", "detalhamento":"GOL
+LINDBERGH FARIAS
+CGH/BSB
+21/02/2013", 
+                            "valorReembolsado":"657.26", "codDocumento":"719817"}, {"ano":"2013", "mes":"2", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL", 
+                            "documento":"PBLR2Z", "data":"2013-02-25", "detalhamento":"GOL
+JOÃO SICSU SIQUEIRA
+MAT 207862
+SDU/CGH
+25/02/2013
+", 
+                            "valorReembolsado":"572.56", "codDocumento":"719821"}, {"ano":"2013", "mes":"2", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL", 
+                            "documento":"N15B4U", "data":"2013-02-26", "detalhamento":"GOL
+JOÃO SICSU SIQUEIRA
+MAT  207862
+BSB/SDU
+26/02/2013", 
+                            "valorReembolsado":"457.03", "codDocumento":"719825"}, {"ano":"2013", "mes":"2", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL", 
+                            "documento":"PBVBKM", "data":"2013-02-28", "detalhamento":"GOL
+LINDBERGH FARIAS
+BSB/SDU
+28/02/2013", 
+                            "valorReembolsado":"457.03", "codDocumento":"719828"}, {"ano":"2013", "mes":"2", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572462903165", "data":"2013-02-04", "detalhamento":"TAM
+LINDBERGH FARIAS
+SDU/BSB
+04/02/2013", 
+                            "valorReembolsado":"606.77", "codDocumento":"719803"}, {"ano":"2013", "mes":"2", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572463378871", "data":"2013-02-17", "detalhamento":"TAM
+LUIZ LINDBERGH FARIAS FILHO
+SDU/CGH
+17/02/2013", 
+                            "valorReembolsado":"980.77", "codDocumento":"726642"}, {"ano":"2013", "mes":"2", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572463378850", "data":"2013-02-17", "detalhamento":"TAM
+LUIZ LINDBERGH FARIAS FILHO
+SDU/CGH
+17/02/2013", 
+                            "valorReembolsado":"980.77", "codDocumento":"719805"}, {"ano":"2013", "mes":"2", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572463378856", "data":"2013-02-17", "detalhamento":"TAM
+LUIZ LINDBERGH FARIAS FILHO
+CGH/SDU
+17/02/2013", 
+                            "valorReembolsado":"980.77", "codDocumento":"719806"}, {"ano":"2013", "mes":"2", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572463378863", "data":"2013-02-18", "detalhamento":"TAM
+FAUSTO SEVERO TRINDADE
+MAT  239632
+CGH/SDU
+18/02/2013", 
+                            "valorReembolsado":"980.77", "codDocumento":"719808"}, {"ano":"2013", "mes":"2", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572463378862", "data":"2013-02-18", "detalhamento":"TAM
+FAUSTO SEVERO TRINDADE
+MAT  239632
+SDU/CGH
+18/02/2013", 
+                            "valorReembolsado":"980.77", "codDocumento":"719807"}, {"ano":"2013", "mes":"2", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572463415575", "data":"2013-02-19", "detalhamento":"TAM
+RICARDO LUIZ COELHO
+MAT 240518
+BSB/SDU
+19/02/2013", 
+                            "valorReembolsado":"504.03", "codDocumento":"719810"}, {"ano":"2013", "mes":"2", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572463509999", "data":"2013-02-19", "detalhamento":"TAM
+FAUSTO SEVERO TRINDADE
+MAT 239632
+SDU/BSB
+19/02/2013", 
+                            "valorReembolsado":"1681.47", "codDocumento":"719811"}, {"ano":"2013", "mes":"2", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572463560348", "data":"2013-02-20", "detalhamento":"TAM
+LINDBERGH FARIAS
+BSB/CGH
+20/02/2013", 
+                            "valorReembolsado":"639.16", "codDocumento":"726645"}, {"ano":"2013", "mes":"2", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572463623418", "data":"2013-02-20", "detalhamento":"TAM
+FAUSTO SEVERO TRINDADE
+MAT  239632
+BSB/SDU
+20/02/2013", 
+                            "valorReembolsado":"120.0", "codDocumento":"719814"}, {"ano":"2013", "mes":"2", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572463585275", "data":"2013-02-20", "detalhamento":"TAM
+FAUSTO SEVERO TRINDADE
+MAT 239632
+BSB/CGH
+20/02/2013", 
+                            "valorReembolsado":"230.0", "codDocumento":"726646"}, {"ano":"2013", "mes":"2", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572463585234", "data":"2013-02-20", "detalhamento":"TAM
+LINDBERGH FARIAS
+BSB/CGH
+20/02/2013", 
+                            "valorReembolsado":"824.13", "codDocumento":"719812"}, {"ano":"2013", "mes":"2", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572463585231", "data":"2013-02-20", "detalhamento":"TAM
+FAUSTO SEVERO TRINDADE
+MAT 239632
+BSB/SDU
+20/02/2013", 
+                            "valorReembolsado":"1000.13", "codDocumento":"719813"}, {"ano":"2013", "mes":"2", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572463651873", "data":"2013-02-21", "detalhamento":"TAM
+LUIZ LINDBERGH FARIAS FILHO
+BSB/SDU
+21/02/2013
+", 
+                            "valorReembolsado":"185.28", "codDocumento":"766057"}, {"ano":"2013", "mes":"2", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572463623413", "data":"2013-02-21", "detalhamento":"TAM
+LUIZ LINDBERGH FARIAS FILHO
+BSB/SDU
+21/02/2013", 
+                            "valorReembolsado":"518.55", "codDocumento":"726648"}, {"ano":"2013", "mes":"3", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572464212599", "data":"2013-03-04", "detalhamento":"TAM
+FAUSTO SEVERO TRINDADE
+MAT  239632
+Secretario Parlamentar
+SDU/CGH
+04/03/2013", 
+                            "valorReembolsado":"981.87", "codDocumento":"766059"}, {"ano":"2013", "mes":"4", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33352394000104", "fornecedor":"CEDAE", 
+                            "documento":"0346273810413", "data":"2013-04-01", "detalhamento":"Pagamento de AGUA PARA ESCRITÓRIO POLITICO.", 
+                            "valorReembolsado":"179.86", "codDocumento":"731410"}, {"ano":"2013", "mes":"4", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"12967332000129", "fornecedor":"CENTRO RIO ADMINISTRAÇÃO DE IMOVEIS LT", 
+                            "documento":"00000000708", "data":"2013-04-17", "detalhamento":"Despesa com Aluguel
+IPTU
+CONDOMINIO
+LUZ  /  ÁGUA ", 
+                            "valorReembolsado":"12454.81", "codDocumento":"751259"}, {"ano":"2013", "mes":"4", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"51048736768", "fornecedor":"LEONARDO CAVALCANTI GONÇALVES", 
+                            "documento":"01", "data":"2013-04-30", "detalhamento":"Despesa com Aluguel", 
+                            "valorReembolsado":"6717.0", "codDocumento":"751263"}, {"ano":"2013", "mes":"4", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"60444437000146", "fornecedor":"LIGHT", 
+                            "documento":"563202548005", "data":"2013-04-24", "detalhamento":"Pagamento de Energia Elétrica", 
+                            "valorReembolsado":"404.84", "codDocumento":"751261"}, {"ano":"2013", "mes":"4", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"00108786000165", "fornecedor":"NET", 
+                            "documento":"01", "data":"2013-04-25", "detalhamento":"Pagamento da NET", 
+                            "valorReembolsado":"253.99", "codDocumento":"751262"}, {"ano":"2013", "mes":"4", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"04164616000159", "fornecedor":"OI", 
+                            "documento":"437386806", "data":"2013-04-02", "detalhamento":"Pagamento de TELEFONE PARA ESCRITÓRIO POLITICO.", 
+                            "valorReembolsado":"252.54", "codDocumento":"731411"}, {"ano":"2013", "mes":"4", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL", 
+                            "documento":"PJJZNE", "data":"2013-04-17", "detalhamento":"GOL
+LUIZ LINDBERGH FARIAS FILHO
+SDU/BSB
+17/04/2013", 
+                            "valorReembolsado":"61.0", "codDocumento":"747145"}, {"ano":"2013", "mes":"4", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL", 
+                            "documento":"KFYGYD", "data":"2013-04-25", "detalhamento":"GOL
+OLAVO BRANDÃO CARNEIRO
+MAT   241778   
+Assistente Parlamentar AP 03
+BSB/SDU  ida  25/04/2013
+SDU/BSB volta 29/04/2013
+", 
+                            "valorReembolsado":"860.88", "codDocumento":"747153"}, {"ano":"2013", "mes":"4", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL", 
+                            "documento":"DB5CFM", "data":"2013-04-25", "detalhamento":"GOL
+LINDBERGH FARIAS
+BSB/SDU
+25/04/2013", 
+                            "valorReembolsado":"886.72", "codDocumento":"766062"}, {"ano":"2013", "mes":"4", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL", 
+                            "documento":"FJRUSR", "data":"2013-04-25", "detalhamento":"GOL
+ELVIO LIMA GASPAR
+MAT  260943
+Assessor Técnico
+BSB/SDU
+25/04/2013", 
+                            "valorReembolsado":"1239.82", "codDocumento":"766063"}, {"ano":"2013", "mes":"4", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL", 
+                            "documento":"R8KZVY", "data":"2013-04-30", "detalhamento":"GOL
+LUIZ LILNDBERGH FARIAS FILHO
+BSB/SDU
+30/04/2013", 
+                            "valorReembolsado":"433.03", "codDocumento":"766065"}, {"ano":"2013", "mes":"4", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572466627105", "data":"2013-04-14", "detalhamento":"TAM
+FAUSTO SEVERO TRINDADE
+MAT 239632
+Secretario Parlamentar SF-01
+SDU/CGH
+14/04/2013", 
+                            "valorReembolsado":"981.87", "codDocumento":"747138"}, {"ano":"2013", "mes":"4", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572707195540", "data":"2013-04-15", "detalhamento":"TAM
+JOÃO SICSU SIQUEIRA
+MAT 207862
+Assistente Parlamentar
+SDU/BSB
+15/04/2013", 
+                            "valorReembolsado":"100.0", "codDocumento":"766060"}, {"ano":"2013", "mes":"4", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572466627111", "data":"2013-04-15", "detalhamento":"TAM
+FAUSTO SEVERO TRINDADE
+MAT  239632
+Secretario Parlamentar SF-01
+CGH/SDU
+15/04/2013", 
+                            "valorReembolsado":"837.77", "codDocumento":"747139"}, {"ano":"2013", "mes":"4", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572466627110", "data":"2013-04-15", "detalhamento":"TAM
+JOÃO SICSU SIQUEIRA
+MAT 207862
+Assistente Parlamentar AP 02
+SDU/BSB
+15/04/2013", 
+                            "valorReembolsado":"1057.0", "codDocumento":"747140"}, {"ano":"2013", "mes":"4", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572466627112", "data":"2013-04-16", "detalhamento":"TAM
+LUIZ LINDBERGH FARIAS FILHO
+BSB/SDU , ida 16/04/2013
+SDU/BSB , volta 17/04/2013
+", 
+                            "valorReembolsado":"61.13", "codDocumento":"766061"}, {"ano":"2013", "mes":"4", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572466765230", "data":"2013-04-16", "detalhamento":"TAM
+JOÃO SICSU SIQUEIRA
+MAT  207862
+Assistente Parlamentar  AP 02
+BSB/SDU
+16/04/2013", 
+                            "valorReembolsado":"140.0", "codDocumento":"747142"}, {"ano":"2013", "mes":"4", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572466765245", "data":"2013-04-16", "detalhamento":"TAM
+FRANCISCO CARVALHEIRA NETO
+MAT  260293
+Secretario Parlamentar SF-01
+BSB/SDU
+16/04/2013", 
+                            "valorReembolsado":"499.63", "codDocumento":"747143"}, {"ano":"2013", "mes":"4", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572466627102", "data":"2013-04-16", "detalhamento":"TAM
+LINDBERGH FARIAS
+SDU/BSB
+16/04/2013", 
+                            "valorReembolsado":"912.57", "codDocumento":"747141"}, {"ano":"2013", "mes":"4", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572466765298", "data":"2013-04-17", "detalhamento":"TAM
+FRANCISCO CARVALHEIRA NETO
+MAT  260293
+Secretario Parlamentar  SF 01
+SDU/BSB
+17/04/2013", 
+                            "valorReembolsado":"500.07", "codDocumento":"747144"}, {"ano":"2013", "mes":"4", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572461988064", "data":"2013-04-18", "detalhamento":"TAM
+LUIZ LINDBERGH FARIAS FILHO
+BSB/SDU
+18/04/2013", 
+                            "valorReembolsado":"1220.13", "codDocumento":"747147"}, {"ano":"2013", "mes":"4", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572458498943", "data":"2013-04-18", "detalhamento":"TAM
+ELVIO LIMA GASPAR
+MAT  260943
+Assessor Técnico
+BSB/SDU
+18/04/2013", 
+                            "valorReembolsado":"1287.0", "codDocumento":"747146"}, {"ano":"2013", "mes":"4", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572466627115", "data":"2013-04-19", "detalhamento":"TAM
+CRISTINA SERRALVO
+MAT  33835    
+Tecnico Legislativo /Chefe de Gabinete
+BSB/CGH   ida  19/04/2013
+CGH/BSB volta 21/04/2013 ", 
+                            "valorReembolsado":"1456.2", "codDocumento":"747155"}, {"ano":"2013", "mes":"4", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572466873941", "data":"2013-04-22", "detalhamento":"TAM
+LUIZ LINDBERGH FARIAS FILHO
+SDU/BSB
+22/04/2013", 
+                            "valorReembolsado":"40.0", "codDocumento":"747149"}, {"ano":"2013", "mes":"4", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572466938285", "data":"2013-04-22", "detalhamento":"TAM
+JOÃO SICSU SIQUEIRA
+MAT  207862
+Assistente Parlamentar AP 02
+SDU/BSB
+22/04/2013", 
+                            "valorReembolsado":"1787.07", "codDocumento":"747148"}, {"ano":"2013", "mes":"4", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572461988063", "data":"2013-04-23", "detalhamento":"TAM
+ELVIO LIMA GASPAR
+MAT 260943   
+Assessor Técnico SF 01
+SDU/BSB   ida 23/04/2013
+BSB/SDU  volta  25/04/2013  
+
+", 
+                            "valorReembolsado":"1175.7", "codDocumento":"747151"}, {"ano":"2013", "mes":"4", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572466938286", "data":"2013-04-23", "detalhamento":"TAM
+JOÃO SICSU SIQUEIRA
+MAT  207862
+Assistente Parlamentar AP 02
+BSB/SDU
+23/04/2013", 
+                            "valorReembolsado":"1786.63", "codDocumento":"747150"}, {"ano":"2013", "mes":"4", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572461988065", "data":"2013-04-25", "detalhamento":"TAM
+LUIZ LINDBERGH FARIAS FILHO
+BSB/SDU
+25/04/2013", 
+                            "valorReembolsado":"466.63", "codDocumento":"747152"}, {"ano":"2013", "mes":"4", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572466911073", "data":"2013-04-30", "detalhamento":"TAM
+ELVIO LIMA GASPAR
+MAT  260943
+Assessor Técnico
+SDU/BSB , ida 30/04/2013
+BSB/SDU , volta 30/04/2013", 
+                            "valorReembolsado":"140.0", "codDocumento":"766064"}, {"ano":"2013", "mes":"4", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572466938224", "data":"2013-04-30", "detalhamento":"TAM
+LUIZ LINDBERGH FARIAS FILHO
+SDU/BSB
+30/04/2013", 
+                            "valorReembolsado":"472.57", "codDocumento":"747154"}, {"ano":"2013", "mes":"5", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33352394000104", "fornecedor":"CEDAE", 
+                            "documento":"01", "data":"2013-05-02", "detalhamento":"Pagamento de Agua .", 
+                            "valorReembolsado":"159.26", "codDocumento":"755944"}, {"ano":"2013", "mes":"2", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572463623471", "data":"2013-02-21", "detalhamento":"TAM
+OLAVO BRANDÃO CARNEIRO
+MAT  241778
+CGH/BSB
+21/02/2013", 
+                            "valorReembolsado":"639.6", "codDocumento":"719816"}, {"ano":"2013", "mes":"2", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572463623473", "data":"2013-02-21", "detalhamento":"TAM
+LINDBERGH FARIAS
+CGH/BSB
+21/02/2013", 
+                            "valorReembolsado":"639.6", "codDocumento":"726647"}, {"ano":"2013", "mes":"2", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572463757101", "data":"2013-02-25", "detalhamento":"TAM
+FAUSTO SEVERO TRINDADE
+MAT  239632
+CGH/BSB
+25/02/2013", 
+                            "valorReembolsado":"532.41", "codDocumento":"719820"}, {"ano":"2013", "mes":"2", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572463727489", "data":"2013-02-25", "detalhamento":"TAM
+JOÃO SICSU SIQUEIRA
+MAT 207862
+CGH/BSB
+25/02/2013", 
+                            "valorReembolsado":"532.41", "codDocumento":"719822"}, {"ano":"2013", "mes":"2", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572463727494", "data":"2013-02-25", "detalhamento":"TAM
+LINDBERGH FARIAS
+CGH/BSB
+25/02/2013", 
+                            "valorReembolsado":"532.41", "codDocumento":"719824"}, {"ano":"2013", "mes":"2", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572463678123", "data":"2013-02-25", "detalhamento":"TAM
+FAUSTO SEVERO TRINDADE
+MAT 239632
+SDU/CGH
+25/02/2013", 
+                            "valorReembolsado":"671.39", "codDocumento":"719819"}, {"ano":"2013", "mes":"2", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572463727493", "data":"2013-02-25", "detalhamento":"TAM
+LINDBERGH FARIAS
+SDU/CGH
+25/02/2013", 
+                            "valorReembolsado":"755.35", "codDocumento":"719823"}, {"ano":"2013", "mes":"2", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572463991547", "data":"2013-02-26", "detalhamento":"TAM
+FAUSTO SEVERO TRINDADE
+MAT  239632
+BSB/SDU
+26/02/2013", 
+                            "valorReembolsado":"434.28", "codDocumento":"719826"}, {"ano":"2013", "mes":"2", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572464045710", "data":"2013-02-27", "detalhamento":"TAM
+FAUSTO SEVERO TRINDADE
+MAT 239632
+BSB/SDU
+27/02/2013", 
+                            "valorReembolsado":"140.0", "codDocumento":"719827"}, {"ano":"2013", "mes":"2", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572464045710", "data":"2013-02-27", "detalhamento":"TAM
+FAUSTO SEVERO TRINDADE
+MAT  239632
+Secretario Parlamentar
+BSB/SDU
+27/02/2013", 
+                            "valorReembolsado":"140.0", "codDocumento":"766058"}, {"ano":"2013", "mes":"2", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572464045730", "data":"2013-02-28", "detalhamento":"TAM
+LINDBERGH FARIAS
+BSB/SDU
+28/02/2013", 
+                            "valorReembolsado":"414.73", "codDocumento":"726649"}, {"ano":"2013", "mes":"3", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"33352394000104", "fornecedor":"CEDAE", 
+                            "documento":"0346273810313", "data":"2013-03-01", "detalhamento":"Pagamento de AGUA do escritório político", 
+                            "valorReembolsado":"148.02", "codDocumento":"727259"}, {"ano":"2013", "mes":"3", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"12967332000129", "fornecedor":"CENTRO RIO ADMINISTRAÇÃO DE IMOVEIS LT", 
+                            "documento":"00000000683", "data":"2013-03-19", "detalhamento":"Pagamento de ALUGUEL , IPTU ,CONDOMINIO, LUZ E AGUA do escritório político", 
+                            "valorReembolsado":"12379.43", "codDocumento":"727261"}, {"ano":"2013", "mes":"3", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"51048736768", "fornecedor":"Leonardo Cavalcanti Gonçalves", 
+                            "documento":"01", "data":"2013-03-30", "detalhamento":"DESPESA COM ALUGUEL.", 
+                            "valorReembolsado":"6717.0", "codDocumento":"747127"}, {"ano":"2013", "mes":"3", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"60444437000146", "fornecedor":"LIGHT", 
+                            "documento":"563202519281", "data":"2013-03-25", "detalhamento":"Pagamento de ENERGIA ELETRICA do escritório político", 
+                            "valorReembolsado":"229.93", "codDocumento":"727263"}, {"ano":"2013", "mes":"3", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"00108786000165", "fornecedor":"NET", 
+                            "documento":"01", "data":"2013-03-25", "detalhamento":"Pagamento da NET.", 
+                            "valorReembolsado":"354.29", "codDocumento":"727262"}, {"ano":"2013", "mes":"3", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"04164616000159", "fornecedor":"OI", 
+                            "documento":"432271513", "data":"2013-03-02", "detalhamento":"Pagamento de TELEFONE.", 
+                            "valorReembolsado":"268.08", "codDocumento":"727260"}, {"ano":"2013", "mes":"6", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL", 
+                            "documento":"DFMRPA", "data":"2013-06-13", "detalhamento":"GOL
+LUIZ LINDBERGH FARIAS FILHO
+BSB/SDU
+13/06/2013", 
+                            "valorReembolsado":"579.02", "codDocumento":"774933"}, {"ano":"2013", "mes":"6", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL", 
+                            "documento":"VKMU4B", "data":"2013-06-17", "detalhamento":"GOL
+LUIZ LINDBERGH FARIAS FILHO
+SDU/CGH
+17/06/2013", 
+                            "valorReembolsado":"942.46", "codDocumento":"774940"}, {"ano":"2013", "mes":"6", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL", 
+                            "documento":"w8yvkl", "data":"2013-06-19", "detalhamento":"GOL
+FAUSTO SEVERO TRINDADE
+MAT  239632
+Secretario Parlamentar
+BSB/SDU
+19/06/2013", 
+                            "valorReembolsado":"632.62", "codDocumento":"779213"}, {"ano":"2013", "mes":"6", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL", 
+                            "documento":"SCP9QM", "data":"2013-06-20", "detalhamento":"GOL
+LUIZ LINDBERGH FARIAS FILHO
+BSB/SDU
+20/06/2013
+", 
+                            "valorReembolsado":"515.22", "codDocumento":"779214"}, {"ano":"2013", "mes":"6", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL", 
+                            "documento":"SCP9QM", "data":"2013-06-22", "detalhamento":"GOL
+LUIZ LINDBERGH FARIAS FILHO
+BSB/SDU
+22/06/2013", 
+                            "valorReembolsado":"515.22", "codDocumento":"774945"}, {"ano":"2013", "mes":"6", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL", 
+                            "documento":"TFIRVT", "data":"2013-06-26", "detalhamento":"GOL
+FAUSTO SEVERO TRINDADE
+MAT  239632
+Secretario Parlamentar
+BSB/SDU
+26/06/2013", 
+                            "valorReembolsado":"752.82", "codDocumento":"774952"}, {"ano":"2013", "mes":"6", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL", 
+                            "documento":"NC7T3Z", "data":"2013-06-26", "detalhamento":"GOL
+LINDBERGH FARIAS
+BSB/SDU
+26/06/2013", 
+                            "valorReembolsado":"752.82", "codDocumento":"774953"}, {"ano":"2013", "mes":"6", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL", 
+                            "documento":"SCP9QM", "data":"2013-06-27", "detalhamento":"GOL
+LUIZ LINDBERGH FARIAS FILHO
+SDU/BSB
+27/06/2013", 
+                            "valorReembolsado":"1085.45", "codDocumento":"779222"}, {"ano":"2013", "mes":"6", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL", 
+                            "documento":"GB3PTP", "data":"2013-06-27", "detalhamento":"GOL
+LINDBERGH FARIAS
+BSB/SDU
+27/06/2013", 
+                            "valorReembolsado":"1377.32", "codDocumento":"779217"}, {"ano":"2013", "mes":"6", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL", 
+                            "documento":"IHM8PK", "data":"2013-06-28", "detalhamento":"GOL
+MARCOS ROGERIO SOUZA
+MAT  213217
+Assessor Parlamentar
+BSB/GIG
+28/06/2013", 
+                            "valorReembolsado":"1042.92", "codDocumento":"779218"}, {"ano":"2013", "mes":"6", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL", 
+                            "documento":"V98QWY", "data":"2013-06-28", "detalhamento":"GOL
+MARCOS ROGERIO SOUZA
+MAT 213217
+Assessor Parlamentar
+SDU/BSB
+28/06/2013", 
+                            "valorReembolsado":"1097.26", "codDocumento":"779219"}, {"ano":"2013", "mes":"6", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572470282176", "data":"2013-06-11", "detalhamento":"TAM
+FAUSTO SEVERO TRINDADE
+MAT  239632
+Secretario Parlamentar
+SDU/CGH
+11/06/2013", 
+                            "valorReembolsado":"879.57", "codDocumento":"774931"}, {"ano":"2013", "mes":"6", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572470282178", "data":"2013-06-11", "detalhamento":"TAM
+FAUSTO SEVERO TRINDADE
+MAT  239632
+Secretario Parlamentar
+CGH/SDU
+11/06/2013", 
+                            "valorReembolsado":"879.57", "codDocumento":"774930"}, {"ano":"2013", "mes":"6", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572470493932", "data":"2013-06-12", "detalhamento":"TAM
+LUIZ LINDBERGH FARIAS FILHO
+SDU/BSB
+12/06/2013", 
+                            "valorReembolsado":"549.57", "codDocumento":"774932"}, {"ano":"2013", "mes":"6", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572470592416", "data":"2013-06-13", "detalhamento":"TAM
+LUIZ LINDBERGH FARIAS FILHO
+BSB/SDU
+13/06/2013", 
+                            "valorReembolsado":"80.0", "codDocumento":"774934"}, {"ano":"2013", "mes":"6", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572470592487", "data":"2013-06-14", "detalhamento":"TAM
+LUIZ LINDBERGH FARIAS FILHO
+SDU/CGH
+14/06/2013", 
+                            "valorReembolsado":"1028.07", "codDocumento":"774936"}, {"ano":"2013", "mes":"6", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572470592486", "data":"2013-06-14", "detalhamento":"TAM
+FAUSTO SEVERO TRINDADE
+MAT  239632
+Secretario Parlamentar
+SDU/CGH
+14/06/2013", 
+                            "valorReembolsado":"1028.07", "codDocumento":"774937"}, {"ano":"2013", "mes":"6", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572470592488", "data":"2013-06-14", "detalhamento":"TAM
+LINDBERGH FARIAS
+CGH/SDU
+14/06/2013", 
+                            "valorReembolsado":"1138.07", "codDocumento":"774935"}, {"ano":"2013", "mes":"6", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572470592489", "data":"2013-06-14", "detalhamento":"TAM
+FAUSTO SEVERO TRINDADE
+MAT  239632
+Secretario Parlamentar
+CGH/SDU
+14/06/2013", 
+                            "valorReembolsado":"1495.57", "codDocumento":"774938"}, {"ano":"2013", "mes":"6", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572470714686", "data":"2013-06-17", "detalhamento":"TAM
+LUIZ LINDBERGH FARIAS FILHO
+SDU/BSB
+17/06/2013", 
+                            "valorReembolsado":"262.44", "codDocumento":"779211"}, {"ano":"2013", "mes":"6", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572470592475", "data":"2013-06-17", "detalhamento":"TAM
+LUIZ LINDBERGH FARIAS FILHO
+CGH/SDU
+17/06/2013", 
+                            "valorReembolsado":"879.57", "codDocumento":"774939"}, {"ano":"2013", "mes":"6", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572470714650", "data":"2013-06-17", "detalhamento":"TAM
+LINDBERGH FARIAS
+SDU/CGH
+17/06/2013", 
+                            "valorReembolsado":"1564.87", "codDocumento":"779210"}, {"ano":"2013", "mes":"6", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572470714649", "data":"2013-06-17", "detalhamento":"TAM
+ERIVELTON COSTA
+MAT  240579
+Assistente Parlamentar
+SDU/CGH
+17/06/2013", 
+                            "valorReembolsado":"1564.87", "codDocumento":"774941"}, {"ano":"2013", "mes":"6", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572470897130", "data":"2013-06-18", "detalhamento":"TAM
+FAUSTO SEVERO TRINDADE
+MAT  239632
+Secretario Parlamentar
+SDU/BSB
+18/06/2013", 
+                            "valorReembolsado":"665.07", "codDocumento":"774942"}, {"ano":"2013", "mes":"6", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572470714652", "data":"2013-06-18", "detalhamento":"TAM
+LUIZ LINDBERGH FARIAS FILHO
+GIG/BSB
+18/06/2013", 
+                            "valorReembolsado":"1099.57", "codDocumento":"779212"}, {"ano":"2013", "mes":"6", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572470714653", "data":"2013-06-18", "detalhamento":"TAM
+LUIZ LINDBERGH FARIAS FILHO
+SDU/BSB
+18/06/2013", 
+                            "valorReembolsado":"1457.07", "codDocumento":"774943"}, {"ano":"2013", "mes":"6", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572470897184", "data":"2013-06-19", "detalhamento":"TAM
+FAUSTO SEVERO TRINDADE
+MAT  239632
+Secretario Parlamentar
+BSB/SDU
+19/06/2013", 
+                            "valorReembolsado":"664.63", "codDocumento":"774944"}, {"ano":"2013", "mes":"6", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572470897197", "data":"2013-06-20", "detalhamento":"TAM
+LINDBERGH FARIAS
+BSB/GIG
+20/06/2013", 
+                            "valorReembolsado":"102.56", "codDocumento":"797166"}, {"ano":"2013", "mes":"6", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572471066524", "data":"2013-06-25", "detalhamento":"TAM
+LUIZ LINDBERGH FARIAS FILHO
+SDU/BSB
+25/06/2013", 
+                            "valorReembolsado":"120.0", "codDocumento":"779215"}, {"ano":"2013", "mes":"6", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572471177166", "data":"2013-06-25", "detalhamento":"TAM
+FAUSTO SEVERO TRINDADE
+MAT  239632
+Secretario Parlamentar
+SDU/BSB
+25/06/2013", 
+                            "valorReembolsado":"277.0", "codDocumento":"779216"}, {"ano":"2013", "mes":"6", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572471066523", "data":"2013-06-25", "detalhamento":"TAM
+LINDBERGH FARIAS
+GIG/BSB
+25/06/2013", 
+                            "valorReembolsado":"404.57", "codDocumento":"774951"}, {"ano":"2013", "mes":"6", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572471066569", "data":"2013-06-25", "detalhamento":"TAM
+FAUSTO SEVERO TRINDADE
+MAT 239632
+SDU/BSB
+25/06/2013", 
+                            "valorReembolsado":"608.97", "codDocumento":"774950"}, {"ano":"2013", "mes":"6", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572470897114", "data":"2013-06-26", "detalhamento":"TAM
+OLAVO BRANDÃO CARNEIRO
+MAT  241778
+Assistente Parlamentar
+BSB/GIG
+26/06/2013", 
+                            "valorReembolsado":"317.13", "codDocumento":"774954"}, {"ano":"2013", "mes":"6", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572471037086", "data":"2013-06-27", "detalhamento":"TAM
+LUIZ LINDBERGH FARIAS FILHO
+BSB/SDU
+27/06/2013", 
+                            "valorReembolsado":"1681.03", "codDocumento":"774955"}, {"ano":"2013", "mes":"6", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572471351136", "data":"2013-06-28", "detalhamento":"TAM
+FAUSTO SEVERO TRINDADE
+MAT  239632
+Secretario Parlamentar
+CGH/SDU
+28/06/2013", 
+                            "valorReembolsado":"161.0", "codDocumento":"779221"}, {"ano":"2013", "mes":"6", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572471351123", "data":"2013-06-28", "detalhamento":"TAM
+FAUSTO SEVERO TRINDADE
+MAT  239632
+Secretario Parlamentar
+SDU/CGH
+28/06/2013", 
+                            "valorReembolsado":"231.0", "codDocumento":"779220"}, {"ano":"2013", "mes":"6", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572470897116", "data":"2013-06-29", "detalhamento":"TAM
+OLAVO BRANDÃO CARNEIRO
+MAT  241778
+Assistente Parlamentar
+CGH/BSB
+29/06/2013", 
+                            "valorReembolsado":"511.07", "codDocumento":"774956"}, {"ano":"2013", "mes":"7", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"12967332000129", "fornecedor":"CENTRO RIO ADMINISTRAÇÃO DE IMOVEIS LT", 
+                            "documento":"00000000790", "data":"2013-07-11", "detalhamento":"Despesa com aluguel - 9.000,00
+Pagamente IPTU - 431,90
+Pagamento condom. - 2.142,96
+Pagamento Agua - 345,27
+Pagamento Luz - 624,57
+Seguro - 11,84", 
+                            "valorReembolsado":"12556.54", "codDocumento":"800853"}, {"ano":"2013", "mes":"7", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL", 
+                            "documento":"VH7DFN", "data":"2013-07-01", "detalhamento":"GOL
+FRANCISCO CARVALHEIRA NETO
+MAT  260293
+Secretario Parlamentar
+SDU/BSB
+01/07/2013", 
+                            "valorReembolsado":"1514.16", "codDocumento":"781170"}, {"ano":"2013", "mes":"7", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL", 
+                            "documento":"WBK2QC", "data":"2013-07-05", "detalhamento":"GOL
+LINDBERGH FARIAS
+SDU/BSB
+05/07/2013", 
+                            "valorReembolsado":"936.96", "codDocumento":"781175"}, {"ano":"2013", "mes":"7", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572471351155", "data":"2013-07-01", "detalhamento":"TAM
+LUIZ LINDBERGH FARIAS FILHO
+SDU/BSB
+01/07/2013", 
+                            "valorReembolsado":"745.5", "codDocumento":"781169"}, {"ano":"2013", "mes":"7", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572471351137", "data":"2013-07-02", "detalhamento":"TAM
+LUIZ LINDBERGH FARIAS FILHO
+SDU/BSB
+02/07/2013
+
+", 
+                            "valorReembolsado":"653.4", "codDocumento":"781171"}, {"ano":"2013", "mes":"7", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572471446681", "data":"2013-07-02", "detalhamento":"TAM
+FAUSTO SEVERO TRINDADE
+MAT  239632
+Secretario Parlamentar
+SDU/BSB
+02/07/2013", 
+                            "valorReembolsado":"1765.07", "codDocumento":"781172"}, {"ano":"2013", "mes":"7", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572471624482", "data":"2013-07-03", "detalhamento":"TAM
+FAUSTO SEVERO TRINDADE
+MAT  239632
+Secretario Parlamentar
+BSB/SDU
+03/07/2013", 
+                            "valorReembolsado":"1054.63", "codDocumento":"781173"}, {"ano":"2013", "mes":"7", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572471446665", "data":"2013-07-04", "detalhamento":"TAM
+LINDBERGH FARIAS
+BSB/SDU
+04/07/2013", 
+                            "valorReembolsado":"511.86", "codDocumento":"781174"}, {"ano":"2013", "mes":"7", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572471747718", "data":"2013-07-05", "detalhamento":"TAM
+LUIZ LINDBERGH FARIAS FILHO
+BSB/GIG
+05/07/2013
+", 
+                            "valorReembolsado":"120.0", "codDocumento":"781176"}, {"ano":"2013", "mes":"7", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572471747723", "data":"2013-07-08", "detalhamento":"TAM
+LUIZ LINDBERGH FARIAS FILHO
+SDU/BSB
+08/07/2013", 
+                            "valorReembolsado":"162.75", "codDocumento":"797175"}, {"ano":"2013", "mes":"7", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572471747724", "data":"2013-07-08", "detalhamento":"TAM
+LINDBERGH FARIAS
+SDU/BSB
+08/07/2013", 
+                            "valorReembolsado":"657.97", "codDocumento":"781177"}, {"ano":"2013", "mes":"7", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572471886978", "data":"2013-07-09", "detalhamento":"TAM
+FAUSTO SEVERO TRINDADE
+MAT  239632
+Secretario Parlamentar
+SDU/BSB
+09/07/2013", 
+                            "valorReembolsado":"951.07", "codDocumento":"781178"}, {"ano":"2013", "mes":"7", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572472082722", "data":"2013-07-10", "detalhamento":"TAM
+FAUSTO SEVERO TRINDADE
+MAT  239632
+Secretario Parlamentar
+BSB/SDU
+10/07/2013", 
+                            "valorReembolsado":"1764.63", "codDocumento":"781179"}, {"ano":"2013", "mes":"7", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572472082793", "data":"2013-07-11", "detalhamento":"TAM
+FAUSTO SEVERO TRINDADE
+MAT 239632
+Secretario Parlamentar
+SDU/CGH
+11/07/2013", 
+                            "valorReembolsado":"1010.47", "codDocumento":"781180"}, {"ano":"2013", "mes":"7", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572472082784", "data":"2013-07-11", "detalhamento":"TAM
+LINDBERGH FARIAS
+BSB/CGH
+11/07/2013", 
+                            "valorReembolsado":"1141.76", "codDocumento":"781181"}, {"ano":"2013", "mes":"7", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572472082712", "data":"2013-07-12", "detalhamento":"TAM
+LINDBERGH FARIAS
+BSB/SDU
+12/07/2013", 
+                            "valorReembolsado":"950.63", "codDocumento":"781182"}, {"ano":"2013", "mes":"7", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572471886910", "data":"2013-07-15", "detalhamento":"TAM
+LINDBERGH FARIAS
+SDU/BSB
+15/07/2013", 
+                            "valorReembolsado":"80.0", "codDocumento":"797167"}, {"ano":"2013", "mes":"7", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572471886910", "data":"2013-07-15", "detalhamento":"TAM
+LINDBERGH FARIAS
+SDU/BSB
+15/07/2013", 
+                            "valorReembolsado":"1576.76", "codDocumento":"781183"}, {"ano":"2013", "mes":"7", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572472082712", "data":"2013-07-16", "detalhamento":"TAM
+LINDBERGH FARIAS
+BSB/SDU
+16/07/2013", 
+                            "valorReembolsado":"950.63", "codDocumento":"797168"}, {"ano":"2013", "mes":"7", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572472417875", "data":"2013-07-17", "detalhamento":"TAM
+FAUSTO SEVERO TRINDADE
+MAT  239632
+Secretario Parlamentar
+CGH/SDU
+24/07/2013", 
+                            "valorReembolsado":"1010.47", "codDocumento":"797169"}, {"ano":"2013", "mes":"7", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572472806038", "data":"2013-07-25", "detalhamento":"TAM
+LINDBERGH FARIAS
+BSB/SDU
+25/07/2013", 
+                            "valorReembolsado":"867.03", "codDocumento":"797171"}, {"ano":"2013", "mes":"7", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572472806037", "data":"2013-07-25", "detalhamento":"TAM
+LINDBERGH FARIAS
+SDU/BSB
+25/07/2013", 
+                            "valorReembolsado":"867.47", "codDocumento":"797170"}, {"ano":"2013", "mes":"7", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572472806039", "data":"2013-07-26", "detalhamento":"TAM
+LINDBERGH FARIAS
+BSB/SDU
+26/07/2013", 
+                            "valorReembolsado":"867.03", "codDocumento":"797172"}, {"ano":"2013", "mes":"7", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572473240904", "data":"2013-07-31", "detalhamento":"TAM
+FAUSTO TRINDADE
+MAT  239632
+Secretario Parlamentar
+CGH/SDU
+31/07/2013", 
+                            "valorReembolsado":"912.57", "codDocumento":"797174"}, {"ano":"2013", "mes":"7", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572473240902", "data":"2013-07-31", "detalhamento":"TAM
+FAUSTO TRINDADE
+MAT  239632
+Secretario Parlamentar
+SDU/CGH
+31/07/2013", 
+                            "valorReembolsado":"1011.57", "codDocumento":"797173"}, {"ano":"2013", "mes":"8", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"12967332000129", "fornecedor":"CENTRO RIO ADMINISTRAÇÃO DE IMOVEIS LT", 
+                            "documento":"00000000819", "data":"2013-08-19", "detalhamento":"Despesa com aluguel  - R$ 9.000,00
+Pagamento IPTU        - R$   431,90
+Pagamento Condominio-R$ 2.142,96
+Pagamento LUZ         - R$    561,44
+Pagamento AGUA       - R$    344,21
+Seguro                     - R$     11,84", 
+                            "valorReembolsado":"12492.35", "codDocumento":"811850"}, {"ano":"2013", "mes":"8", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL", 
+                            "documento":"AHZ17X", "data":"2013-08-07", "detalhamento":"GOL
+LINDBERGH FARIAS
+CGH/BSB
+07/08/2013", 
+                            "valorReembolsado":"762.86", "codDocumento":"803791"}, {"ano":"2013", "mes":"8", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL", 
+                            "documento":"SCP9QM", "data":"2013-08-08", "detalhamento":"GOL
+LUIZ LINDBERGH
+BSB/SDU
+08/08/2013", 
+                            "valorReembolsado":"398.55", "codDocumento":"803792"}, {"ano":"2013", "mes":"8", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572473240910", "data":"2013-08-01", "detalhamento":"TAM
+LINDBERGH FARIAS
+CGH/BSB
+01/08/2013", 
+                            "valorReembolsado":"801.47", "codDocumento":"822271"}, {"ano":"2013", "mes":"8", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572473240935", "data":"2013-08-01", "detalhamento":"TAM
+LINDBERGH FARIAS
+SDU/BSB
+01/08/2013", 
+                            "valorReembolsado":"654.2", "codDocumento":"803785"}, {"ano":"2013", "mes":"8", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572473240911", "data":"2013-08-01", "detalhamento":"TAM
+LINDBERGH FARIAS
+BSB/SDU
+01/08/2013", 
+                            "valorReembolsado":"2193.63", "codDocumento":"803784"}, {"ano":"2013", "mes":"8", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572473240995", "data":"2013-08-02", "detalhamento":"TAM
+LINDBERGH FARIAS
+CGH/SDU
+02/08/2013
+", 
+                            "valorReembolsado":"1600.07", "codDocumento":"803786"}, {"ano":"2013", "mes":"8", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572473399633", "data":"2013-08-03", "detalhamento":"TAM
+LINDBERGH FARIAS
+CGH/SDU
+03/08/2013", 
+                            "valorReembolsado":"1132.57", "codDocumento":"803788"}, {"ano":"2013", "mes":"8", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572473399604", "data":"2013-08-05", "detalhamento":"TAM
+LINDBERGH FARIAS
+SDU/BSB
+05/08/2013", 
+                            "valorReembolsado":"120.0", "codDocumento":"803789"}, {"ano":"2013", "mes":"8", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572473241000", "data":"2013-08-05", "detalhamento":"TAM
+LINDBERGH FARIAS
+SDU/BSB
+05/08/2013", 
+                            "valorReembolsado":"1227.0", "codDocumento":"803787"}, {"ano":"2013", "mes":"8", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572473571532", "data":"2013-08-06", "detalhamento":"TAM
+LINDBERGH FARIAS
+BSB/CGH
+06/08/2013", 
+                            "valorReembolsado":"912.7", "codDocumento":"803790"}, {"ano":"2013", "mes":"8", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572473571519", "data":"2013-08-08", "detalhamento":"TAM
+LINDBERGH FARIAS
+BSB/SDU
+08/08/2013", 
+                            "valorReembolsado":"165.56", "codDocumento":"803793"}, {"ano":"2013", "mes":"8", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572473659257", "data":"2013-08-09", "detalhamento":"TAM
+LINDBERGH FARIAS
+BSB/SDU
+09/08/2013", 
+                            "valorReembolsado":"120.0", "codDocumento":"803795"}, {"ano":"2013", "mes":"8", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572473659255", "data":"2013-08-09", "detalhamento":"TAM
+LINDBERGH FARIAS
+BSB/SDU
+09/08/2013", 
+                            "valorReembolsado":"214.0", "codDocumento":"803794"}, {"ano":"2013", "mes":"8", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572473807720", "data":"2013-08-12", "detalhamento":"TAM
+LINDBERGH FARIAS
+SDU/CGH
+12/08/2013", 
+                            "valorReembolsado":"874.07", "codDocumento":"803796"}, {"ano":"2013", "mes":"8", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572473807747", "data":"2013-08-13", "detalhamento":"TAM
+LINDBERGH FARIAS
+CGH/BSB
+13/08/2013", 
+                            "valorReembolsado":"912.7", "codDocumento":"803797"}, {"ano":"2013", "mes":"8", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572474027737", "data":"2013-08-15", "detalhamento":"TAM
+LINDBERGH FARIAS
+BSB/SDU
+15/08/2013", 
+                            "valorReembolsado":"993.53", "codDocumento":"803798"}, {"ano":"2013", "mes":"9", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"12967332000129", "fornecedor":"CENTRO RIO ADMINISTRAÇÃO DE IMOVEIS LT", 
+                            "documento":"00000000847", "data":"2013-09-13", "detalhamento":"Despesa com aluguel  - 9.000,00
+Pagamento IPTU        -    431,90
+Pagamento AGUA       -    347,33
+Pagamento LUZ         -    557,40
+Pagam CONDOMINIO   - 2.142,96
+SEGURO                   -      11,84   ", 
+                            "valorReembolsado":"12491.43", "codDocumento":"822273"}, {"ano":"2013", "mes":"9", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL", 
+                            "documento":"SCP9QM", "data":"2013-09-02", "detalhamento":"GOL
+LUIZ LINDBERGH FARIAS FILHO
+SDU/BSB
+02/09/2013", 
+                            "valorReembolsado":"496.0", "codDocumento":"814174"}, {"ano":"2013", "mes":"9", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL", 
+                            "documento":"IJZ4NH", "data":"2013-09-03", "detalhamento":"GOL
+EMERSON BRITO
+MAT  241328
+Assistente Parlamentar
+SDU/BSB
+03/09/2013", 
+                            "valorReembolsado":"642.96", "codDocumento":"814178"}, {"ano":"2013", "mes":"9", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL", 
+                            "documento":"G99HTV", "data":"2013-09-03", "detalhamento":"GOL
+EMERSON BRITO
+MAT 241328
+Assistente Parlamentar
+BSB/SDU
+03/09/2013", 
+                            "valorReembolsado":"642.52", "codDocumento":"814177"}, {"ano":"2013", "mes":"9", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL", 
+                            "documento":"GB3PTP", "data":"2013-09-12", "detalhamento":"GOL
+LINDBERGH FARIAS
+BSB/SDU
+12/09/2013", 
+                            "valorReembolsado":"447.15", "codDocumento":"833520"}, {"ano":"2013", "mes":"9", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL", 
+                            "documento":"YCYCVC", "data":"2013-09-24", "detalhamento":"GOL
+LINDBERGH FARIAS
+SDU/BSB
+24/09/2013", 
+                            "valorReembolsado":"1414.06", "codDocumento":"828248"}, {"ano":"2013", "mes":"9", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572475027697", "data":"2013-09-03", "detalhamento":"TAM
+LINDBERGH FARIAS
+BSB/SDU
+03/09/2013", 
+                            "valorReembolsado":"743.05", "codDocumento":"814176"}, {"ano":"2013", "mes":"9", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572475027660", "data":"2013-09-03", "detalhamento":"TAM
+LINDBERGH FARIAS
+SDU/BSB
+03/09/2013", 
+                            "valorReembolsado":"906.14", "codDocumento":"814175"}, {"ano":"2013", "mes":"9", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572475027683", "data":"2013-09-04", "detalhamento":"TAM
+LINDBERGH FARIAS
+SDU/BSB
+04/09/2013", 
+                            "valorReembolsado":"742.07", "codDocumento":"814179"}, {"ano":"2013", "mes":"9", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572475272864", "data":"2013-09-05", "detalhamento":"TAM
+LINDBERGH FARIAS
+BSB/SDU
+05/09/2013", 
+                            "valorReembolsado":"240.98", "codDocumento":"814182"}, {"ano":"2013", "mes":"9", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572475272859", "data":"2013-09-05", "detalhamento":"TAM
+FAUSTO SEVERO TRINDADE
+MAT  239632
+Secretario Parlamentar
+SDU/CGH
+05/09/2013", 
+                            "valorReembolsado":"788.82", "codDocumento":"814180"}, {"ano":"2013", "mes":"9", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572475272862", "data":"2013-09-05", "detalhamento":"TAM
+FAUSTO SEVERO TRINDADE
+MAT  239632
+Secretario Parlamentar
+CGH/SDU
+05/09/2013", 
+                            "valorReembolsado":"1273.92", "codDocumento":"814181"}, {"ano":"2013", "mes":"9", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572475272835", "data":"2013-09-06", "detalhamento":"TAM
+LINDBERGH FARIAS
+CGH/SDU
+06/09/2013", 
+                            "valorReembolsado":"921.48", "codDocumento":"814184"}, {"ano":"2013", "mes":"9", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572475272832", "data":"2013-09-06", "detalhamento":"TAM
+ERIVELTON COSTA
+MAT  240579
+Assistente Parlamentar
+SDU/CGH
+06/09/2013", 
+                            "valorReembolsado":"972.97", "codDocumento":"814185"}, {"ano":"2013", "mes":"9", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572475272834", "data":"2013-09-06", "detalhamento":"TAM
+ERIVELTON COSTA
+MAT  240579
+Assistente Parlamentar
+CGH/SDU
+06/09/2013", 
+                            "valorReembolsado":"921.48", "codDocumento":"814186"}, {"ano":"2013", "mes":"9", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572475272833", "data":"2013-09-06", "detalhamento":"TAM
+LINDBERGH FARIAS
+SDU/CGH
+06/09/2013", 
+                            "valorReembolsado":"972.97", "codDocumento":"814183"}, {"ano":"2013", "mes":"9", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572475538225", "data":"2013-09-09", "detalhamento":"TAM
+LINDBERGH FARIAS
+SDU/BSB
+09/09/2013", 
+                            "valorReembolsado":"742.07", "codDocumento":"814187"}, {"ano":"2013", "mes":"9", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572475538257", "data":"2013-09-10", "detalhamento":"TAM
+MARIA JOSE ANDRADE
+MAT  239942
+Assessora Tecnica
+SDU/BSB
+10/09/2013", 
+                            "valorReembolsado":"633.99", "codDocumento":"814190"}, {"ano":"2013", "mes":"9", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572475538258", "data":"2013-09-10", "detalhamento":"TAM
+FAUSTO SEVERO TRINDADE
+MAT 239632
+Secretario Parlamentar
+SDU/CGH
+10/09/2013", 
+                            "valorReembolsado":"817.25", "codDocumento":"814188"}, {"ano":"2013", "mes":"9", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572475538259", "data":"2013-09-10", "detalhamento":"TAM
+FAUSTO SEVERO TRINDADE
+MAT  239632
+Secretario Parlamentar
+CGH/SDU
+10/09/2013", 
+                            "valorReembolsado":"906.08", "codDocumento":"814189"}, {"ano":"2013", "mes":"9", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572475750135", "data":"2013-09-11", "detalhamento":"TAM
+MARIA JOSE ANDRADE
+MAT  239942
+Assessora Tecnica
+BSB/SDU
+11/09/2013", 
+                            "valorReembolsado":"743.05", "codDocumento":"814191"}, {"ano":"2013", "mes":"9", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572476065874", "data":"2013-09-18", "detalhamento":"TAM
+FAUSTO SEVERO TRINDADE
+MAT 239632
+Secretario Parlamentar
+SDU/BSB
+18/09/2013", 
+                            "valorReembolsado":"742.07", "codDocumento":"828247"}, {"ano":"2013", "mes":"9", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572475473002", "data":"2013-09-24", "detalhamento":"TAM
+LINDBERGH FARIAS
+GIG/BSB
+24/09/2013", 
+                            "valorReembolsado":"476.44", "codDocumento":"833521"}, {"ano":"2013", "mes":"9", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572476630801", "data":"2013-09-26", "detalhamento":"TAM
+FAUSTO SEVERO TRINDADE
+MAT  239632
+Secretario Parlamentar
+BSB/SDU
+26/09/2013", 
+                            "valorReembolsado":"1813.07", "codDocumento":"828249"}, {"ano":"2013", "mes":"10", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"12967332000129", "fornecedor":"CENTRO RIO ADMINISTRAÇÃO DE IMOVEIS LT", 
+                            "documento":"00000000874", "data":"2013-10-11", "detalhamento":"Despesa com Aluguel  -  R$ 9.000,00
+Pagamento de IPTU    -  R$   431,90
+Pagamento Condominio-  R$ 2.142,96
+Pagamento de Água    -  R$   330,02
+Pag de Energia Eletrica-  R$   541,43", 
+                            "valorReembolsado":"12446.31", "codDocumento":"833522"}, {"ano":"2013", "mes":"10", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL", 
+                            "documento":"A7LMKY", "data":"2013-10-01", "detalhamento":"GOL
+LINDBERGH FARIAS
+SDU/BSB
+01/10/2013", 
+                            "valorReembolsado":"142.69", "codDocumento":"837497"}, {"ano":"2013", "mes":"10", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL", 
+                            "documento":"TET8RW", "data":"2013-10-14", "detalhamento":"GOL
+LINDBERGH FARIAS
+SDU/BSB
+14/10/2013", 
+                            "valorReembolsado":"1548.26", "codDocumento":"837506"}, {"ano":"2013", "mes":"10", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL", 
+                            "documento":"LFGV6Q", "data":"2013-10-17", "detalhamento":"GOL
+LINDBERGH FARIAS
+BSB/SDU
+17/10/2013", 
+                            "valorReembolsado":"1320.23", "codDocumento":"840766"}, {"ano":"2013", "mes":"10", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL", 
+                            "documento":"TKVJNE", "data":"2013-10-21", "detalhamento":"GOL
+LINDBERGH FARIAS
+SDU/CGH
+21/10/2013", 
+                            "valorReembolsado":"772.28", "codDocumento":"840767"}, {"ano":"2013", "mes":"10", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL", 
+                            "documento":"UJYMPX", "data":"2013-10-22", "detalhamento":"GOL
+FAUSTO SEVERO TRINDADE
+MAT  239632
+Secretario Parlamentar
+SDU/BSB
+22/10/2013", 
+                            "valorReembolsado":"661.01", "codDocumento":"840771"}, {"ano":"2013", "mes":"10", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL", 
+                            "documento":"AHYWFK", "data":"2013-10-22", "detalhamento":"GOL
+LUIZ LINDBERGH FARIAS FILHO
+SDU/BSB
+22/10/2013", 
+                            "valorReembolsado":"1319.25", "codDocumento":"840770"}, {"ano":"2013", "mes":"10", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL", 
+                            "documento":"NYLNGS", "data":"2013-10-31", "detalhamento":"GOL
+LINDBERGH FARIAS
+BSB/POA
+31/10/2013", 
+                            "valorReembolsado":"712.14", "codDocumento":"837509"}, {"ano":"2013", "mes":"10", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572476630879", "data":"2013-10-01", "detalhamento":"TAM
+LINDBERGH FARIAS
+GIG/BSB
+01/10/2013", 
+                            "valorReembolsado":"471.47", "codDocumento":"828250"}, {"ano":"2013", "mes":"10", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572476760748", "data":"2013-10-02", "detalhamento":"TAM
+FAUSTO SEVERO TRINDADE
+MAT  239632
+Secretario Parlamentar
+SDU/BSB
+02/10/2013", 
+                            "valorReembolsado":"742.07", "codDocumento":"828251"}, {"ano":"2013", "mes":"10", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572476760754", "data":"2013-10-02", "detalhamento":"TAM
+FAUSTO SEVERO TRINDADE
+MAT  239632
+Secretario Parlamentar
+BSB/SDU
+02/10/2013", 
+                            "valorReembolsado":"935.55", "codDocumento":"828252"}, {"ano":"2013", "mes":"10", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572476938956", "data":"2013-10-02", "detalhamento":"TAM
+FAUSTO SEVERO TRINDADE
+MAT  239632
+Secretario Parlamentar
+BSB/SDU
+02/10/2013", 
+                            "valorReembolsado":"200.0", "codDocumento":"837498"}, {"ano":"2013", "mes":"10", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572476938962", "data":"2013-10-03", "detalhamento":"TAM
+LINDBERGH FARIAS
+BSB/SDU
+03/10/2013", 
+                            "valorReembolsado":"814.55", "codDocumento":"837499"}, {"ano":"2013", "mes":"10", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572477098702", "data":"2013-10-07", "detalhamento":"TAM
+LINDBERGH FARIAS
+CGH/BSB
+07/10/2013", 
+                            "valorReembolsado":"639.77", "codDocumento":"837501"}, {"ano":"2013", "mes":"10", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572476939000", "data":"2013-10-07", "detalhamento":"TAM
+LINDBERGH FARIAS
+SDU/CGH
+07/10/2013", 
+                            "valorReembolsado":"793.77", "codDocumento":"837500"}, {"ano":"2013", "mes":"10", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572477098763", "data":"2013-10-08", "detalhamento":"TAM
+FAUSTO SEVERO TRINDADE
+MAT  239632
+Secretario Parlamentar
+SDU/BSB
+08/10/2013", 
+                            "valorReembolsado":"813.57", "codDocumento":"837502"}, {"ano":"2013", "mes":"10", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572477098764", "data":"2013-10-08", "detalhamento":"TAM
+FAUSTO SEVERO TRINDADE
+MAT  239632
+Secretario Parlamentar
+BSB/SDU
+08/10/2013", 
+                            "valorReembolsado":"894.55", "codDocumento":"837503"}, {"ano":"2013", "mes":"10", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572477301337", "data":"2013-10-10", "detalhamento":"TAM - REMUNERAÇÃO DO AGENTE DE VIAGEM
+LINDBERGH FARIAS
+BSB/SDU
+10/10/2013", 
+                            "valorReembolsado":"70.98", "codDocumento":"837505"}, {"ano":"2013", "mes":"10", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572477301384", "data":"2013-10-10", "detalhamento":"TAM
+LINDBERGH FARIAS
+BSB/SDU
+10/10/2013", 
+                            "valorReembolsado":"814.55", "codDocumento":"837504"}, {"ano":"2013", "mes":"10", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572477595723", "data":"2013-10-15", "detalhamento":"TAM
+FAUSTO SEVERO TRINDADE
+MAT  239632
+Secretario Parlamentar
+SDU/BSB
+15/10/2013", 
+                            "valorReembolsado":"2337.07", "codDocumento":"837507"}, {"ano":"2013", "mes":"10", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572477770416", "data":"2013-10-16", "detalhamento":"TAM
+FAUSTO SEVERO TRINDADE
+MAT  239632
+Secretario Parlamentar
+BSB/SDU
+16/10/2013", 
+                            "valorReembolsado":"814.55", "codDocumento":"840765"}, {"ano":"2013", "mes":"10", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572477595756", "data":"2013-10-17", "detalhamento":"TAM
+LINDBERGH FARIAS
+BSB/SDU
+17/10/2013", 
+                            "valorReembolsado":"814.55", "codDocumento":"837508"}, {"ano":"2013", "mes":"10", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572477770481", "data":"2013-10-21", "detalhamento":"TAM
+MARCOS ROGERIO SOUZA
+MAT  213217
+Assessor Parlamentar
+BSB/SDU
+21/10/2013", 
+                            "valorReembolsado":"660.55", "codDocumento":"840769"}, {"ano":"2013", "mes":"10", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572477894085", "data":"2013-10-21", "detalhamento":"TAM
+LINDBERGH FARIAS
+CGH/SDU
+21/10/2013", 
+                            "valorReembolsado":"1055.57", "codDocumento":"840768"}, {"ano":"2013", "mes":"10", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572478113853", "data":"2013-10-23", "detalhamento":"TAM
+FAUSTO SEVERO TRINDADE
+MAT  239632
+Secretario Parlamentar
+BSB/SDU
+23/10/2013", 
+                            "valorReembolsado":"891.55", "codDocumento":"840772"}, {"ano":"2013", "mes":"10", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572478113803", "data":"2013-10-24", "detalhamento":"TAM
+LINDBERGH FARIAS
+BSB/GIG
+24/10/2013", 
+                            "valorReembolsado":"1177.55", "codDocumento":"840773"}, {"ano":"2013", "mes":"10", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572478294725", "data":"2013-10-28", "detalhamento":"TAM
+LINDBERGH FARIAS
+SDU/BSB
+28/10/2013", 
+                            "valorReembolsado":"269.02", "codDocumento":"840776"}, {"ano":"2013", "mes":"10", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572478294743", "data":"2013-10-28", "detalhamento":"TAM
+MARCOS ROGERIO SOUZA
+MAT  213217
+Assessor Parlamentar
+BSB/SDU
+28/10/2013
+", 
+                            "valorReembolsado":"726.55", "codDocumento":"840775"}, {"ano":"2013", "mes":"10", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572478294742", "data":"2013-10-28", "detalhamento":"TAM
+MARCOS ROGERIO SOUZA
+MAT  213217
+Assessor Parlamentar
+SDU/BSB
+28/10/2013", 
+                            "valorReembolsado":"1132.57", "codDocumento":"840774"}, {"ano":"2013", "mes":"10", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572478294725", "data":"2013-10-29", "detalhamento":"TAM
+LINDBERGH FARIAS
+SDU/BSB
+29/10/2013", 
+                            "valorReembolsado":"80.0", "codDocumento":"840777"}, {"ano":"2013", "mes":"10", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572478450018", "data":"2013-10-29", "detalhamento":"TAM
+LINDBERGH FARIAS
+GIG/BSB
+29/10/2013", 
+                            "valorReembolsado":"987.37", "codDocumento":"840778"}, {"ano":"2013", "mes":"10", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572477595790", "data":"2013-10-31", "detalhamento":"TAM
+LINDBERGH FARIAS
+POA/GIG
+31/10/2013", 
+                            "valorReembolsado":"400.57", "codDocumento":"837510"}, {"ano":"2013", "mes":"11", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"12967332000129", "fornecedor":"CENTRO RIO ADMINISTRAÇÃO DE IMOVEIS LT", 
+                            "documento":"00000000901", "data":"2013-11-12", "detalhamento":"Despesa aluguel   -   R$ 9.000,00
+Pagamento IPTU  -    R$   431,90
+Pagamento LUZ   -    R$   611,97
+Pagamento AGUA -    R$   343,58
+Pag CONDOMINIO -    R$ 2.142,96 ", 
+                            "valorReembolsado":"5664.97", "codDocumento":"859974"}, {"ano":"2013", "mes":"11", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02575829000148", "fornecedor":"AVIANCA", 
+                            "documento":"172P2O", "data":"2013-11-11", "detalhamento":"AVIANCA
+LUIZ LINDBERGH FARIAS FILHO
+GIG/BSB
+11/11/2013", 
+                            "valorReembolsado":"867.75", "codDocumento":"847107"}, {"ano":"2013", "mes":"11", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL", 
+                            "documento":"UY2F4F", "data":"2013-11-06", "detalhamento":"GOL
+FAUSTO SEVERO TRINDADE
+MAT  239632
+Secretario Parlamentar
+SDU/BSB
+06/11/2013
+", 
+                            "valorReembolsado":"723.66", "codDocumento":"847101"}, {"ano":"2013", "mes":"11", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL", 
+                            "documento":"EIBVKX", "data":"2013-11-08", "detalhamento":"GOL
+LUIZ LINDBERGH FARIAS FILHO
+GIG/CGH
+08/11/2013", 
+                            "valorReembolsado":"951.8", "codDocumento":"847104"}, {"ano":"2013", "mes":"11", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL", 
+                            "documento":"AF27KD", "data":"2013-11-12", "detalhamento":"GOL
+LINDBERGH FARAIS
+SDU/BSB
+12/11/2013", 
+                            "valorReembolsado":"523.57", "codDocumento":"859978"}, {"ano":"2013", "mes":"11", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL", 
+                            "documento":"W7JMPB", "data":"2013-11-14", "detalhamento":"GOL
+LUIZ LINDBERGH FARIAS FILHO
+BSB/SDU
+14/11/2013", 
+                            "valorReembolsado":"1441.78", "codDocumento":"859979"}, {"ano":"2013", "mes":"11", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL", 
+                            "documento":"KF4Y4D", "data":"2013-11-18", "detalhamento":"GOL
+LUIZ LINDBERGH FARIAS FILHO
+SDU/BSB
+18/11/2013", 
+                            "valorReembolsado":"1440.8", "codDocumento":"859980"}, {"ano":"2013", "mes":"11", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL", 
+                            "documento":"KEKBGG", "data":"2013-11-25", "detalhamento":"GOL
+LUIZ LINDBERGH FARIAS FILHO
+SDU/BSB
+25/11/2013", 
+                            "valorReembolsado":"1440.8", "codDocumento":"859982"}, {"ano":"2013", "mes":"11", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL", 
+                            "documento":"W72CKR", "data":"2013-11-26", "detalhamento":"GOL
+FAUSTO SEVERO TRINDADE
+MAT  239632
+Secretario Parlamentar
+BSB/SDU
+26/11/2013", 
+                            "valorReembolsado":"1057.5", "codDocumento":"859984"}, {"ano":"2013", "mes":"11", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL", 
+                            "documento":"BDSK6T", "data":"2013-11-26", "detalhamento":"GOL
+FAUSTO TRINDADE
+MAT  239632
+Secretario Parlamentar
+SDU/BSB
+26/11/2013", 
+                            "valorReembolsado":"1440.8", "codDocumento":"859983"}, {"ano":"2013", "mes":"11", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL", 
+                            "documento":"ICLJMM", "data":"2013-11-28", "detalhamento":"GOL
+LUIZ LINDBERGH FARIAS FILHO
+CGH/GIG
+28/11/2013", 
+                            "valorReembolsado":"564.71", "codDocumento":"859986"}, {"ano":"2013", "mes":"11", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572478707658", "data":"2013-11-04", "detalhamento":"TAM
+MARCOS SOUZA
+MAT  213217
+Assessor Parlamentar
+BSB/SDU
+04/11/2013", 
+                            "valorReembolsado":"726.55", "codDocumento":"850811"}, {"ano":"2013", "mes":"11", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572478707659", "data":"2013-11-04", "detalhamento":"TAM
+MARCOS SOUZA
+MAT  213217
+Assessor Parlamentar
+SDU/BSB
+04/11/2013", 
+                            "valorReembolsado":"1297.57", "codDocumento":"850812"}, {"ano":"2013", "mes":"11", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572478816413", "data":"2013-11-04", "detalhamento":"TAM
+LINDBERGH FARIAS
+SDU/BSB
+04/11/2013", 
+                            "valorReembolsado":"1470.52", "codDocumento":"859975"}, {"ano":"2013", "mes":"11", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572478816463", "data":"2013-11-04", "detalhamento":"TAM
+LINDBERGH FARIAS
+SDU/BSB
+04/11/2013", 
+                            "valorReembolsado":"2568.07", "codDocumento":"847100"}, {"ano":"2013", "mes":"11", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572479039137", "data":"2013-11-06", "detalhamento":"TAM
+FAUSTO SEVERO TRINDADE
+MAT  239632
+Secretario Parlamentar
+BSB/SDU
+06/11/2013", 
+                            "valorReembolsado":"891.55", "codDocumento":"847102"}, {"ano":"2013", "mes":"11", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572479039137", "data":"2013-11-07", "detalhamento":"TAM
+FAUSTO SEVERO TRINDADE
+MAT  239632
+Secretario Parlamentar
+BSB/SDU
+07/11/2013", 
+                            "valorReembolsado":"80.0", "codDocumento":"847103"}, {"ano":"2013", "mes":"11", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572479136377", "data":"2013-11-08", "detalhamento":"TAM
+LINDBERGH FARIAS
+SDU/CGH
+08/11/2013", 
+                            "valorReembolsado":"182.0", "codDocumento":"859977"}, {"ano":"2013", "mes":"11", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572478450045", "data":"2013-11-08", "detalhamento":"TAM
+OLAVO BRANDÃO CARNEIRO
+MAT  241778
+Assistente Parlamentar
+BSB/SDU
+08/11/2013", 
+                            "valorReembolsado":"518.1", "codDocumento":"850813"}, {"ano":"2013", "mes":"11", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572479136390", "data":"2013-11-08", "detalhamento":"TAM
+LUIZ LINDBERGH FARIAS FILHO
+CGH/SDU
+08/11/2013", 
+                            "valorReembolsado":"1116.07", "codDocumento":"859976"}, {"ano":"2013", "mes":"11", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572479249248", "data":"2013-11-08", "detalhamento":"TAM
+LUIZ LINDBERGH FARIAS FILHO
+CGH/SDU
+08/11/2013", 
+                            "valorReembolsado":"1440.57", "codDocumento":"847105"}, {"ano":"2013", "mes":"11", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572478450046", "data":"2013-11-11", "detalhamento":"TAM
+OLAVO BRANDÃO CARNEIRO
+MAT  241778
+Assistente Parlamentar
+SDU/BSB
+11/11/2013", 
+                            "valorReembolsado":"604.57", "codDocumento":"850814"}, {"ano":"2013", "mes":"11", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572479397614", "data":"2013-11-11", "detalhamento":"TAM
+FRANCISCO CARVALHEIRA
+MAT  260293
+Secretario Parlamentar
+SDU/BSB
+11/11/2013", 
+                            "valorReembolsado":"1132.57", "codDocumento":"847106"}, {"ano":"2013", "mes":"11", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572479136324", "data":"2013-11-12", "detalhamento":"TAM
+LINDBERGH FARIAS
+SDU/BSB
+12/11/2013", 
+                            "valorReembolsado":"643.07", "codDocumento":"847108"}, {"ano":"2013", "mes":"11", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572479397673", "data":"2013-11-13", "detalhamento":"TAM
+LINDBERGH FARIAS
+SDU/BSB
+13/11/2013", 
+                            "valorReembolsado":"189.02", "codDocumento":"847109"}, {"ano":"2013", "mes":"11", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572479249283", "data":"2013-11-14", "detalhamento":"TAM
+LUIZ LINDBERGH FARIAS FILHO
+BSB/SDU
+14/11/2013", 
+                            "valorReembolsado":"2569.05", "codDocumento":"847110"}, {"ano":"2013", "mes":"11", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572479522138", "data":"2013-11-18", "detalhamento":"TAM
+LINDBERGH FARIAS
+SDU/BSB
+18/11/2013", 
+                            "valorReembolsado":"1717.0", "codDocumento":"847111"}, {"ano":"2013", "mes":"11", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572479877684", "data":"2013-11-21", "detalhamento":"TAM
+LUIZ LINDBERGH FARIAS FILHO
+BSB/SDU
+21/11/2013", 
+                            "valorReembolsado":"891.55", "codDocumento":"859981"}, {"ano":"2013", "mes":"11", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572480369943", "data":"2013-11-28", "detalhamento":"TAM
+LUIZ LINDBERGH FARIAS FILHO
+BSB/CGH
+28/11/2013", 
+                            "valorReembolsado":"862.95", "codDocumento":"859985"}, {"ano":"2013", "mes":"12", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"12967332000129", "fornecedor":"CENTRO RIO ADMINISTRAÇÃO DE IMOVEIS LT", 
+                            "documento":"00000000925", "data":"2013-12-09", "detalhamento":"Despesa com ALUGUEL  -  R$ 9.000,00
+Pagamento CONDOMINIO- R$ 2.142,96
+Pagamento de LUZ        - R$    523,65
+Pagamento de AGUA      - R$    317,37 ", 
+                            "valorReembolsado":"11983.98", "codDocumento":"862958"}, {"ano":"2013", "mes":"12", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02575829000148", "fornecedor":"AVIANCA", 
+                            "documento":"17FYXU", "data":"2013-12-02", "detalhamento":"AVIANCA
+OLAVO BRANDÃO CARNEIRO
+MAT  241778
+Assistente Parlamentar
+BSB/GIG
+02/12/2013", 
+                            "valorReembolsado":"267.55", "codDocumento":"860003"}, {"ano":"2013", "mes":"12", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02575829000148", "fornecedor":"AVIANCA", 
+                            "documento":"17FZBB", "data":"2013-12-02", "detalhamento":"AVIANCA
+OLAVO BRANDÃO CARNEIRO
+MAT  241778
+Assistente Parlamentar
+GIG/BSB
+02/12/2013", 
+                            "valorReembolsado":"467.07", "codDocumento":"860004"}, {"ano":"2013", "mes":"12", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL", 
+                            "documento":"RL8UXE", "data":"2013-12-02", "detalhamento":"GOL
+SONIA CRISTINA SILVA
+MAT  156600
+Assistente Tecnico
+BSB/SDU
+02/12/2013", 
+                            "valorReembolsado":"524.55", "codDocumento":"860005"}, {"ano":"2013", "mes":"12", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL", 
+                            "documento":"RL8UXE", "data":"2013-12-03", "detalhamento":"GOL
+SONIA CRISTINA SILVA
+MAT  156600
+ASSISTENTE TECNICO
+BSB/SDU
+03/12/2013", 
+                            "valorReembolsado":"434.54", "codDocumento":"862960"}, {"ano":"2013", "mes":"12", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL", 
+                            "documento":"N9D1VY", "data":"2013-12-03", "detalhamento":"GOL
+SONIA CRISTINA SILVA
+MAT  156600
+Assistente Tecnico
+SDU/BSB
+03/12/2013", 
+                            "valorReembolsado":"686.95", "codDocumento":"862961"}, {"ano":"2013", "mes":"12", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL", 
+                            "documento":"N9D1VY", "data":"2013-12-04", "detalhamento":"GOL
+SONIA CRISTINA SILVA
+MAT  156600
+Assistente Tecnico
+SDU/BSB
+04/12/2013", 
+                            "valorReembolsado":"492.71", "codDocumento":"860006"}, {"ano":"2013", "mes":"12", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL", 
+                            "documento":"P724XR", "data":"2013-12-09", "detalhamento":"GOL
+LUIZ LINDBERGH FARIAS FILHO
+CGH/BSB
+09/12/2013", 
+                            "valorReembolsado":"1351.36", "codDocumento":"862964"}, {"ano":"2013", "mes":"12", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL", 
+                            "documento":"IF4MVG", "data":"2013-12-12", "detalhamento":"GOL
+LUIZ LINDBERGH FARIAS FILHO
+BSB/GIG
+12/12/2013", 
+                            "valorReembolsado":"804.11", "codDocumento":"862968"}, {"ano":"2013", "mes":"12", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL", 
+                            "documento":"EIBVKX", "data":"2013-12-16", "detalhamento":"GOL
+LUIZ LINDBERGH FARIAS FILHO
+SDU/BSB
+16/12/2013", 
+                            "valorReembolsado":"444.19", "codDocumento":"862971"}, {"ano":"2013", "mes":"12", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL", 
+                            "documento":"U9WMTY", "data":"2013-12-20", "detalhamento":"GOL
+CRISTINA SERRALVO
+MAT  33835
+CHEFE DE GABINETE
+BSB/SDU
+20/12/2013", 
+                            "valorReembolsado":"1057.5", "codDocumento":"862974"}, {"ano":"2013", "mes":"12", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572480731412", "data":"2013-12-02", "detalhamento":"TAM
+LUIZ LINDBERGH FARIAS FILHO
+SDU/CGH
+02/12/2013", 
+                            "valorReembolsado":"40.0", "codDocumento":"862959"}, {"ano":"2013", "mes":"12", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572480902707", "data":"2013-12-05", "detalhamento":"TAM
+LUIZ LINDBERGH FARIAS FILHO
+BSB/SDU
+05/12/2013", 
+                            "valorReembolsado":"340.0", "codDocumento":"872459"}, {"ano":"2013", "mes":"12", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572480731460", "data":"2013-12-05", "detalhamento":"TAM
+LUIZ LINDBERGH FARIAS FILHO
+BSB/SDU
+05/12/2013", 
+                            "valorReembolsado":"891.55", "codDocumento":"862962"}, {"ano":"2013", "mes":"12", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572481018360", "data":"2013-12-09", "detalhamento":"TAM
+LINDBERGH FARIAS
+SDU/CGH
+09/12/2013", 
+                            "valorReembolsado":"100.0", "codDocumento":"872460"}, {"ano":"2013", "mes":"12", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572480369952", "data":"2013-12-09", "detalhamento":"TAM
+LINDBERGH FARIAS
+SDU/BSB
+09/12/2013", 
+                            "valorReembolsado":"140.0", "codDocumento":"860007"}, {"ano":"2013", "mes":"12", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572481018360", "data":"2013-12-09", "detalhamento":"TAM
+LINDBERGH FARIAS
+SDU/CGH
+09/12/2013", 
+                            "valorReembolsado":"560.7", "codDocumento":"862963"}, {"ano":"2013", "mes":"12", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572480902764", "data":"2013-12-10", "detalhamento":"TAM
+FAUSTO SEVERO TRINDADE
+MAT  239632
+Secretario Parlamentar
+SDU/BSB
+10/12/2013", 
+                            "valorReembolsado":"643.07", "codDocumento":"862965"}, {"ano":"2013", "mes":"12", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572480902778", "data":"2013-12-11", "detalhamento":"TAM
+FAUSTO SEVERO TRINDADE
+MAT  239632
+Secretario Parlamentar
+BSB/SDU
+11/12/2013", 
+                            "valorReembolsado":"605.55", "codDocumento":"862966"}, {"ano":"2013", "mes":"12", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572481018366", "data":"2013-12-11", "detalhamento":"TAM
+LUIZ LINDBERGH FARIAS FILHO
+BSB/SDU
+11/12/2013", 
+                            "valorReembolsado":"803.55", "codDocumento":"862967"}, {"ano":"2013", "mes":"12", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572479877660", "data":"2013-12-12", "detalhamento":"TAM
+LINDBERGH FARIAS
+BSB/SDU
+12/12/2013", 
+                            "valorReembolsado":"80.0", "codDocumento":"862970"}, {"ano":"2013", "mes":"12", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572480731461", "data":"2013-12-12", "detalhamento":"TAM
+LUIZ LINDBERGH FARIAS FILHO
+BSB/SDU
+12/12/2013", 
+                            "valorReembolsado":"605.55", "codDocumento":"872458"}, {"ano":"2013", "mes":"12", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572481018364", "data":"2013-12-12", "detalhamento":"TAM
+LUIZ LINDBERGH FARIAS FILHO
+SDU/BSB
+12/12/2013", 
+                            "valorReembolsado":"643.07", "codDocumento":"862969"}, {"ano":"2013", "mes":"12", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572480369953", "data":"2013-12-16", "detalhamento":"TAM
+LUIZ LINDBERGH FARIAS FILHO
+SDU/BSB
+16/12/2013", 
+                            "valorReembolsado":"472.57", "codDocumento":"860008"}, {"ano":"2013", "mes":"12", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572481415690", "data":"2013-12-18", "detalhamento":"TAM
+LUIZ LINDBERGH FARIAS FILHO
+BSB/CGH
+18/12/2013", 
+                            "valorReembolsado":"1156.65", "codDocumento":"862972"}, {"ano":"2013", "mes":"12", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572480731462", "data":"2013-12-19", "detalhamento":"TAM
+LUIZ LINDBERGH FARIAS FILHO
+BSB/SDU
+19/12/2013", 
+                            "valorReembolsado":"803.55", "codDocumento":"862973"}, {"ano":"2013", "mes":"12", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572481415604", "data":"2013-12-22", "detalhamento":"TAM
+CRISTINA SERRALVO
+MAT  33835
+Chefe de Gabinete
+SDU/BSB
+22/12/2013 ", 
+                            "valorReembolsado":"731.07", "codDocumento":"862975"}, {"ano":"2013", "mes":"5", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"12967332000129", "fornecedor":"CENTRO RIO ADMINISTRAÇÃO DE IMOVEIS LT", 
+                            "documento":"00000000737", "data":"2013-05-16", "detalhamento":"Despesa com Aluguel 
+Pagamento de IPTU  
+Pagamento de Energia Elétrica  
+Pagamento de Água 
+Pagamento de Condomínio ", 
+                            "valorReembolsado":"12562.36", "codDocumento":"766066"}, {"ano":"2013", "mes":"5", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"51048736768", "fornecedor":"LEONARDO CAVALCANTI GONÇALVES", 
+                            "documento":"01", "data":"2013-05-31", "detalhamento":"Despesa com Aluguel", 
+                            "valorReembolsado":"6717.0", "codDocumento":"766070"}, {"ano":"2013", "mes":"5", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"60444437000146", "fornecedor":"Light", 
+                            "documento":"553702443115", "data":"2013-05-24", "detalhamento":"Pagamento de Energia Elétrica", 
+                            "valorReembolsado":"391.31", "codDocumento":"766067"}, {"ano":"2013", "mes":"5", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"00108786000165", "fornecedor":"NET", 
+                            "documento":"01", "data":"2013-05-25", "detalhamento":"Pagamento da NET", 
+                            "valorReembolsado":"305.57", "codDocumento":"766068"}, {"ano":"2013", "mes":"5", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"04164616000159", "fornecedor":"OI", 
+                            "documento":"441939780", "data":"2013-05-02", "detalhamento":"Pagamento de Telefone.", 
+                            "valorReembolsado":"384.72", "codDocumento":"755945"}, {"ano":"2013", "mes":"5", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Aluguel de imóveis para escritório político, compreendendo despesas concernentes a eles.", "cnpjCpf":"72820822002769", "fornecedor":"SKY", 
+                            "documento":"243480041", "data":"2013-05-30", "detalhamento":"Pagamento Serviço de Telecomunicações - SKY", 
+                            "valorReembolsado":"180.9", "codDocumento":"766069"}, {"ano":"2013", "mes":"5", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02575829000148", "fornecedor":"AVIANCA", 
+                            "documento":"125678872", "data":"2013-05-21", "detalhamento":"AVIANCA
+FRANCISCO CARVALHEIRA NETO
+MAT  260293
+Secretario Parlamentar
+SDU/BSB
+21/05/2013", 
+                            "valorReembolsado":"366.57", "codDocumento":"755967"}, {"ano":"2013", "mes":"5", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL", 
+                            "documento":"MDFUWJ", "data":"2013-05-16", "detalhamento":"GOL
+ANA MARIA MORAES
+MAT  249741
+Assistente Parlamentar
+SDU/GRU , ida 16/05/2013
+GRU/SDU , volta 20/05/2013", 
+                            "valorReembolsado":"292.5", "codDocumento":"755961"}, {"ano":"2013", "mes":"5", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL", 
+                            "documento":"SE94PW", "data":"2013-05-17", "detalhamento":"GOL
+FRANCISCO CARVALHEIRA NETO
+MAT  260293
+Secretário Parlamentar
+BSB/SDU 
+17/05/2013", 
+                            "valorReembolsado":"440.03", "codDocumento":"755963"}, {"ano":"2013", "mes":"5", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL", 
+                            "documento":"SEIQ8T", "data":"2013-05-17", "detalhamento":"GOL
+LINDBERGH FARIAS
+BSB/SDU
+17/05/2013", 
+                            "valorReembolsado":"815.22", "codDocumento":"755962"}, {"ano":"2013", "mes":"5", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL", 
+                            "documento":"FY54KC", "data":"2013-05-19", "detalhamento":"GOL
+OLAVO BRANDÃO CARNEIRO
+MAT  241778
+Assistente Parlamentar
+BSB/SDU , ida 19/05/2013
+SDU/BSB , volta 19/05/2013", 
+                            "valorReembolsado":"966.48", "codDocumento":"755964"}, {"ano":"2013", "mes":"5", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572707384821", "data":"2013-05-06", "detalhamento":"TAM
+LUIZ LINDBERGH FARIAS FILHO
+SDU/BSB - MULTA
+06/05/2013", 
+                            "valorReembolsado":"80.0", "codDocumento":"755947"}, {"ano":"2013", "mes":"5", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572468010263", "data":"2013-05-06", "detalhamento":"TAM
+LUIZ LINDBERGH FARIAS FILHO
+SDU/BSB
+06/05/2013", 
+                            "valorReembolsado":"798.44", "codDocumento":"755946"}, {"ano":"2013", "mes":"5", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572468106154", "data":"2013-05-06", "detalhamento":"TAM
+FAUSTO SEVERO TRINDADE
+MAT 239632   
+Secretário Parlamentar
+SDU/CGH , ida  06/05/2013
+CGH/SDU , volta 06/05/2013
+", 
+                            "valorReembolsado":"815.44", "codDocumento":"755948"}, {"ano":"2013", "mes":"5", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572467800464", "data":"2013-05-06", "detalhamento":"TAM
+ELVIO LIMA GASPAR
+MAT  260943 - Assessor Tecnico
+SDU/BSB , ida 06/05/2013
+BSB/SDU , volta 08/05/2013", 
+                            "valorReembolsado":"1945.7", "codDocumento":"755949"}, {"ano":"2013", "mes":"5", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572468282486", "data":"2013-05-08", "detalhamento":"TAM
+FAUSTO SEVERO TRINDADE
+MAT  239632  
+Secretário Parlamentar 
+SDU/BSB , ida 08/05/2013
+BSB/SDU , volta 09/05/2013 ", 
+                            "valorReembolsado":"968.9", "codDocumento":"755950"}, {"ano":"2013", "mes":"5", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572468282410", "data":"2013-05-09", "detalhamento":"TAM
+LUIZ LINDBERGH FARIAS FILHO
+BSB/SDU
+09/05/2013", 
+                            "valorReembolsado":"120.0", "codDocumento":"755951"}, {"ano":"2013", "mes":"5", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572468282479", "data":"2013-05-13", "detalhamento":"TAM
+LUIZ LINDBERGH FARIAS FILHO
+SDU/BSB
+13/05/2013", 
+                            "valorReembolsado":"270.0", "codDocumento":"755952"}, {"ano":"2013", "mes":"5", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572468548888", "data":"2013-05-13", "detalhamento":"TAM
+ELVIO LIMA GASPAR
+MAT 260943
+Assessor Técnico
+SDU/BSB , ida 13/05/2013
+BSB/SDU , volta 15/05/2013", 
+                            "valorReembolsado":"534.9", "codDocumento":"755954"}, {"ano":"2013", "mes":"5", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572468548836", "data":"2013-05-13", "detalhamento":"TAM
+JOÃO SICSU SIQUEIRA
+MAT  207862  
+Assistente Parlamentar
+SDU/CGH ,  ida 13/05/2013
+CGH/SDU , volta 14/05/2013 
+", 
+                            "valorReembolsado":"1464.34", "codDocumento":"755953"}, {"ano":"2013", "mes":"5", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572468792085", "data":"2013-05-14", "detalhamento":"TAM
+LUIZ LINDBERGH FARIAS FILHO
+BSB/FOR
+14/05/2013
+", 
+                            "valorReembolsado":"455.0", "codDocumento":"755957"}, {"ano":"2013", "mes":"5", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572468282478", "data":"2013-05-14", "detalhamento":"TAM
+ELVIO LIMA GASPAR
+MAT  260943
+Assessor Técnico
+SDU/BSB , ida 14/05/2013
+BSB/SDU , volta 15/05/2013", 
+                            "valorReembolsado":"968.9", "codDocumento":"755956"}, {"ano":"2013", "mes":"5", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572468728031", "data":"2013-05-14", "detalhamento":"TAM
+FAUSTO SEVERO TRINDADE
+MAT  239632
+Secretário Parlamentar
+SDU/CGH , IDA 14/05/2013
+CGH/SDU , volta 14/05/2013", 
+                            "valorReembolsado":"1501.74", "codDocumento":"755955"}, {"ano":"2013", "mes":"5", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572707384870", "data":"2013-05-15", "detalhamento":"TAM
+LUIZ LINDBERGH FARIAS FILHO
+FOR/BSB -MCO MULTA
+15/05/2013", 
+                            "valorReembolsado":"80.0", "codDocumento":"755959"}, {"ano":"2013", "mes":"5", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572468548893", "data":"2013-05-15", "detalhamento":"TAM
+LUIZ LINDBERGH FARIAS FILHO
+FOR/BSB
+15/05/2013", 
+                            "valorReembolsado":"315.44", "codDocumento":"755958"}, {"ano":"2013", "mes":"5", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572468728090", "data":"2013-05-16", "detalhamento":"TAM
+LINDBERGH FARIAS
+BSB/SDU
+16/05/2013", 
+                            "valorReembolsado":"120.0", "codDocumento":"755960"}, {"ano":"2013", "mes":"5", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572468831870", "data":"2013-05-20", "detalhamento":"TAM
+ELVIO LIMA GASPAR
+MAT  260943
+Assessor Técnico
+SDU/BSB , ida 20/05/2013
+BSB/SDU , volta 23/05/2013", 
+                            "valorReembolsado":"913.9", "codDocumento":"755965"}, {"ano":"2013", "mes":"5", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"02012862000160", "fornecedor":"TAM", 
+                            "documento":"9572468942881", "data":"2013-05-21", "detalhamento":"TAM
+LINDBERGH FARIAS
+SDU/BSB
+21/05/2013", 
+                            "valorReembolsado":"445.0", "codDocumento":"755966"}, {"ano":"2013", "mes":"6", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"09296295000160", "fornecedor":"AZUL", 
+                            "documento":"TD2Q4K", "data":"2013-06-24", "detalhamento":"AZUL
+MARIA JOSE ANDRADE
+MAT 239942
+Assessora Tecnica
+MEA/SDU
+24/06/2013", 
+                            "valorReembolsado":"302.54", "codDocumento":"774948"}, {"ano":"2013", "mes":"6", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"09296295000160", "fornecedor":"AZUL", 
+                            "documento":"Q8PSVZ", "data":"2013-06-24", "detalhamento":"AZUL
+LUIZ LINDBERGH FARIAS FILHO
+MEA/SDU
+24/06/2013", 
+                            "valorReembolsado":"302.54", "codDocumento":"774947"}, {"ano":"2013", "mes":"6", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"09296295000160", "fornecedor":"AZUL", 
+                            "documento":"HBKITA", "data":"2013-06-24", "detalhamento":"AZUL
+MARIA JOSE ANDRADE
+MAT  239942
+Assessora Tecnica
+SDU/MEA
+24/06/2013", 
+                            "valorReembolsado":"497.11", "codDocumento":"774949"}, {"ano":"2013", "mes":"6", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"09296295000160", "fornecedor":"AZUL", 
+                            "documento":"M7868M", "data":"2013-06-24", "detalhamento":"AZUL
+LUIZ LINDBERGH FARIAS FILHO
+SDU/MEA
+24/06/2013", 
+                            "valorReembolsado":"497.11", "codDocumento":"774946"}, {"ano":"2013", "mes":"6", "senador":"LINDBERGH FARIAS", 
+                            "tipoDespesa":"Passagens aéreas, aquáticas e terrestres nacionais", "cnpjCpf":"07575651000159", "fornecedor":"GOL", 
+                            "documento":"IYKIVC", "data":"2013-06-11", "detalhamento":"GOL
+LUIZ LINDBERGH FARIAS FILHO
+BSB/SDU
+11/06/2013", 
+                            "valorReembolsado":"479.72", "codDocumento":"774929"}]}
